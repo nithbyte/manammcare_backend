@@ -1,0 +1,24 @@
+# =====================================================================
+# Hostinger LiteSpeed / Apache Configuration for Node.js Applications
+# =====================================================================
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Pass Authorization header
+  RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+  # If running behind Hostinger Passenger, Passenger handles routing directly.
+  # If running on Hostinger Cloud/VPS with reverse proxy, proxy requests to internal port:
+  # RewriteRule ^(.*)$ http://127.0.0.1:5000/$1 [P,L]
+</IfModule>
+
+# Prevent directory browsing
+Options -Indexes
+
+# Security headers fallback
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-XSS-Protection "1; mode=block"
+</IfModule>

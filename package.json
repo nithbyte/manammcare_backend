@@ -1,0 +1,31 @@
+{
+  "name": "manammcare-backend",
+  "version": "1.0.0",
+  "description": "Backend API for ManammCare platform - compatible with Hostinger Node.js hosting",
+  "main": "server.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0 <=22.x"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "manammcare",
+    "express",
+    "nodejs",
+    "hostinger",
+    "api"
+  ],
+  "author": "Nithbyte",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0"
+  }
+}
