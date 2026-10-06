@@ -15,6 +15,7 @@ if (process.env.NODE_ENV !== 'test') {
   app.use(morgan(process.env.NODE_ENV === 'production' ? 'combined' : 'dev'));
 }
 
+
 // CORS setup: supports local dev & Hostinger production domain
 const allowedOrigins = process.env.CLIENT_URL
   ? process.env.CLIENT_URL.split(',').map(url => url.trim())
