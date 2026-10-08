@@ -76,9 +76,9 @@ export class ProductsService {
 
     if (query.search) {
       where.OR = [
-        { name: { contains: query.search, mode: 'insensitive' } },
-        { description: { contains: query.search, mode: 'insensitive' } },
-        { shortDescription: { contains: query.search, mode: 'insensitive' } },
+        { name: { contains: query.search } },
+        { description: { contains: query.search } },
+        { shortDescription: { contains: query.search } },
       ];
     }
 
@@ -162,8 +162,8 @@ export class ProductsService {
       where: {
         isActive: true,
         OR: [
-          { name: { contains: q.trim(), mode: 'insensitive' } },
-          { description: { contains: q.trim(), mode: 'insensitive' } },
+          { name: { contains: q.trim() } },
+          { description: { contains: q.trim() } },
         ],
       },
       include: { category: true },
