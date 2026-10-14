@@ -1,7 +1,12 @@
 import { Controller, Post, Get, Body, Param, UseGuards } from '@nestjs/common';
 import { ApiTags, ApiBearerAuth, ApiOperation } from '@nestjs/swagger';
 import { PaymentsService } from './payments.service';
-import { CreatePaymentOrderDto, VerifyPaymentDto } from './dto/payment.dto';
+import {
+  CreatePaymentOrderDto,
+  VerifyPaymentDto,
+  StandardCreateOrderDto,
+  StandardVerifyPaymentDto,
+} from './dto/payment.dto';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
 import { CurrentUser } from '../common/decorators/current-user.decorator';
 
@@ -27,6 +32,19 @@ export class PaymentsController {
     @Body() dto: VerifyPaymentDto,
   ) {
     return this.paymentsService.verifyPayment(user.id, dto);
+  }
+
+  // Standard Web Checkout public endpoints
+  @Post('standard/create-order')
+  @ApiOperation({ summary: 'Standard Web Checkout - Create Razorpay order (public)' })
+  async createStandardOrder(@Body() dto: StandardCreateOrderDto) {
+    return this.paymentsService.createStandardOrder(dto);
+  }
+
+  @Post('standard/verify')
+  @ApiOperation({ summary: 'Standard Web Checkout - Verify Razorpay payment signature (public)' })
+  async verifyStandardPayment(@Body() dto: StandardVerifyPaymentDto) {
+    return this.paymentsService.verifyStandardPayment(dto);
   }
 
   @Get(':id')

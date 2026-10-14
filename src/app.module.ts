@@ -14,6 +14,7 @@ import { CouponsModule } from './coupons/coupons.module';
 import { ContentModule } from './content/content.module';
 import { NotificationsModule } from './notifications/notifications.module';
 import { AdminModule } from './admin/admin.module';
+import { NetworkingModule } from './networking/networking.module';
 
 import { TransformInterceptor } from './common/interceptors/transform.interceptor';
 import { HttpExceptionFilter } from './common/filters/http-exception.filter';
@@ -41,6 +42,7 @@ import { HttpExceptionFilter } from './common/filters/http-exception.filter';
     ContentModule,
     NotificationsModule,
     AdminModule,
+    NetworkingModule,
   ],
   providers: [
     {

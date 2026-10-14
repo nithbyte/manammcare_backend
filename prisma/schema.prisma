@@ -12,6 +12,11 @@ enum Role {
   ADMIN
 }
 
+enum MembershipStatus {
+  CUSTOMER
+  MEMBER
+}
+
 enum UserStatus {
   ACTIVE
   INACTIVE
@@ -85,6 +90,10 @@ model User {
   createdAt    DateTime   @default(now())
   updatedAt    DateTime   @updatedAt
 
+  membershipStatus     MembershipStatus @default(CUSTOMER)
+  membershipActivatedAt DateTime?
+  referralCode         String?          @unique
+
   profile                 UserProfile?
   addresses               Address[]
   orders                  Order[]
@@ -92,9 +101,12 @@ model User {
   notifications           AppNotification[]
   notificationPreferences NotificationPreferences?
   adminActivityLogs       AdminActivityLog[]
+  referralsGiven          Referral[]       @relation("ReferrerRelations")
+  referralReceived        Referral?        @relation("ReferredRelation")
 
   @@index([email])
   @@index([role])
+  @@index([referralCode])
 }
 
 model UserProfile {
@@ -432,4 +444,22 @@ model AdminActivityLog {
   createdAt   DateTime @default(now())
 
   @@index([adminId])
+}
+
+model Referral {
+  id                String    @id @default(cuid())
+  referrerId        String
+  referrer          User      @relation("ReferrerRelations", fields: [referrerId], references: [id], onDelete: Cascade)
+  referredUserId    String    @unique
+  referredUser      User      @relation("ReferredRelation", fields: [referredUserId], references: [id], onDelete: Cascade)
+  referralCodeUsed  String
+  status            String    @default("REGISTERED")
+  activatedAt       DateTime?
+  qualifyingOrderId String?
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+
+  @@index([referrerId])
+  @@index([referredUserId])
+  @@index([referralCodeUsed])
 }

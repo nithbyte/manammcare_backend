@@ -2,6 +2,7 @@ import { Injectable, NotFoundException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { ProductsService } from '../products/products.service';
 import { OrdersService } from '../orders/orders.service';
+import { NetworkingService } from '../networking/networking.service';
 import { OrderStatus, Role } from '@prisma/client';
 
 @Injectable()
@@ -10,6 +11,7 @@ export class AdminService {
     private prisma: PrismaService,
     private productsService: ProductsService,
     private ordersService: OrdersService,
+    private networkingService: NetworkingService,
   ) {}
 
   private async logActivity(adminId: string, action: string, entity: string, entityId: string, description: string) {
@@ -144,6 +146,15 @@ export class AdminService {
       `Updated order status to ${enumStatus}`,
     );
 
+    // Authoritative backend delivery event: evaluate and activate membership
+    if (enumStatus === OrderStatus.DELIVERED) {
+      try {
+        await this.networkingService.activateMembershipForDeliveredOrder(orderId);
+      } catch (err) {
+        // Non-blocking for status update transaction, but logged
+      }
+    }
+
     return this.ordersService.formatOrder(order);
   }
 
@@ -217,9 +228,17 @@ export class AdminService {
           fullName: true,
           role: true,
           status: true,
+          membershipStatus: true,
+          membershipActivatedAt: true,
+          referralCode: true,
           profileImage: true,
           createdAt: true,
           lastLoginAt: true,
+          _count: {
+            select: {
+              referralsGiven: true,
+            },
+          },
         },
         orderBy: { createdAt: 'desc' },
         skip,

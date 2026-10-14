@@ -2,13 +2,15 @@ import { Test, TestingModule } from '@nestjs/testing';
 import { AuthService } from './auth.service';
 import { PrismaService } from '../prisma/prisma.service';
 import { JwtService } from '@nestjs/jwt';
-import { ConflictException, UnauthorizedException } from '@nestjs/common';
+import { NetworkingService } from '../networking/networking.service';
+import { ConflictException, UnauthorizedException, BadRequestException } from '@nestjs/common';
 import * as bcrypt from 'bcryptjs';
 
 describe('AuthService', () => {
   let service: AuthService;
   let prisma: any;
   let jwt: any;
+  let networking: any;
 
   beforeEach(async () => {
     prisma = {
@@ -18,10 +20,18 @@ describe('AuthService', () => {
         create: jest.fn(),
         update: jest.fn(),
       },
+      referral: {
+        create: jest.fn(),
+      },
+      $transaction: jest.fn((callback) => callback(prisma)),
     };
 
     jwt = {
       sign: jest.fn().mockReturnValue('mock_jwt_token'),
+    };
+
+    networking = {
+      validateReferralCode: jest.fn(),
     };
 
     const module: TestingModule = await Test.createTestingModule({
@@ -29,6 +39,7 @@ describe('AuthService', () => {
         AuthService,
         { provide: PrismaService, useValue: prisma },
         { provide: JwtService, useValue: jwt },
+        { provide: NetworkingService, useValue: networking },
       ],
     }).compile();
 
@@ -76,6 +87,61 @@ describe('AuthService', () => {
       expect(result.user.role).toBe('CUSTOMER');
       expect(result.user.email).toBe('new@example.com');
       expect(result.user).not.toHaveProperty('password');
+    });
+
+    it('should accept valid referral code and attribute referral', async () => {
+      prisma.user.findUnique.mockResolvedValue(null);
+      networking.validateReferralCode.mockResolvedValue({
+        valid: true,
+        code: 'MNM8A9B2C',
+        referrerId: 'usr_referrer_1',
+      });
+
+      prisma.user.create.mockResolvedValue({
+        id: 'usr_new_referred',
+        fullName: 'Referred Customer',
+        email: 'referred@example.com',
+        phone: '+91 8888888888',
+        role: 'CUSTOMER',
+        status: 'ACTIVE',
+        password: 'hashed_password',
+      });
+
+      const result = await service.register({
+        fullName: 'Referred Customer',
+        email: 'referred@example.com',
+        phone: '+91 8888888888',
+        password: 'Password@123',
+        referralCode: 'MNM8A9B2C',
+      });
+
+      expect(result.user.email).toBe('referred@example.com');
+      expect(prisma.referral.create).toHaveBeenCalledWith({
+        data: {
+          referrerId: 'usr_referrer_1',
+          referredUserId: 'usr_new_referred',
+          referralCodeUsed: 'MNM8A9B2C',
+          status: 'REGISTERED',
+        },
+      });
+    });
+
+    it('should reject registration if referral code is invalid', async () => {
+      prisma.user.findUnique.mockResolvedValue(null);
+      networking.validateReferralCode.mockResolvedValue({
+        valid: false,
+        message: 'Invalid referral code.',
+      });
+
+      await expect(
+        service.register({
+          fullName: 'Customer',
+          email: 'invalidcode@example.com',
+          phone: '+91 8888888888',
+          password: 'Password@123',
+          referralCode: 'INVALID_CODE',
+        }),
+      ).rejects.toThrow(BadRequestException);
     });
   });
 

@@ -32,6 +32,9 @@ export class UsersService {
       profileImage: user.profileImage || '',
       preferredLanguage: user.profile?.preferredLanguage || 'en',
       status: user.status,
+      membershipStatus: user.membershipStatus || 'CUSTOMER',
+      membershipActivatedAt: user.membershipActivatedAt?.toISOString() || null,
+      referralCode: user.referralCode || null,
       createdAt: user.createdAt.toISOString(),
       updatedAt: user.updatedAt.toISOString(),
     };
