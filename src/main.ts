@@ -4,6 +4,8 @@ import { ValidationPipe, Logger } from '@nestjs/common';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 import helmet from 'helmet';
 import * as compression from 'compression';
+import * as express from 'express';
+import * as path from 'path';
 
 async function bootstrap() {
   const logger = new Logger('Bootstrap');
@@ -19,6 +21,12 @@ async function bootstrap() {
 
   // HTTP Compression
   app.use(compression());
+
+  // Static uploads directory for secure payment proofs
+  app.use('/uploads', (req, res, next) => {
+    res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
+    next();
+  }, express.static(path.resolve(__dirname, '../uploads')));
 
   // Input Validation & Transformation
   app.useGlobalPipes(

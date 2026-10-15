@@ -1,6 +1,7 @@
 import {
   Controller,
   Get,
+  Post,
   Patch,
   Body,
   Param,
@@ -9,6 +10,7 @@ import {
 } from '@nestjs/common';
 import { ApiTags, ApiBearerAuth, ApiOperation } from '@nestjs/swagger';
 import { AdminService } from './admin.service';
+import { NetworkingService } from '../networking/networking.service';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
 import { RolesGuard } from '../common/guards/roles.guard';
 import { Roles } from '../common/decorators/roles.decorator';
@@ -20,7 +22,10 @@ import { CurrentUser } from '../common/decorators/current-user.decorator';
 @Roles('ADMIN')
 @Controller('api/admin')
 export class AdminController {
-  constructor(private adminService: AdminService) {}
+  constructor(
+    private adminService: AdminService,
+    private networkingService: NetworkingService,
+  ) {}
 
   @Get('dashboard')
   @ApiOperation({ summary: 'Aggregated metrics and key operational KPIs' })
@@ -90,5 +95,29 @@ export class AdminController {
   @ApiOperation({ summary: 'List recent administrative audit logs' })
   async getActivityLogs() {
     return this.adminService.getActivityLogs();
+  }
+
+  // --- NETWORKING BENEFIT FULFILLMENT ---
+
+  @Get('networking/benefits')
+  @ApiOperation({ summary: 'Admin: List member benefits and payment due dates' })
+  async getNetworkingBenefits(@Query() query: any) {
+    return this.networkingService.getAdminBenefits(query);
+  }
+
+  @Get('networking/alerts')
+  @ApiOperation({ summary: 'Admin: Get real-time benefit fulfillment alerts' })
+  async getNetworkingAlerts() {
+    return this.networkingService.getAdminAlerts();
+  }
+
+  @Post('networking/benefits/:id/pay')
+  @ApiOperation({ summary: 'Admin: Confirm manual GPay payment with proof and date' })
+  async markBenefitAsPaid(
+    @CurrentUser() admin: any,
+    @Param('id') benefitId: string,
+    @Body() dto: any,
+  ) {
+    return this.networkingService.recordAndConfirmPayment(admin.id, benefitId, dto);
   }
 }

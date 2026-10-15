@@ -103,6 +103,10 @@ model User {
   adminActivityLogs       AdminActivityLog[]
   referralsGiven          Referral[]       @relation("ReferrerRelations")
   referralReceived        Referral?        @relation("ReferredRelation")
+  networkingCycles        NetworkingCycle[]
+  stageAchievements       StageAchievement[]
+  stageBenefits           StageBenefit[]     @relation("MemberBenefits")
+  confirmedBenefits       StageBenefit[]     @relation("AdminConfirmedBenefits")
 
   @@index([email])
   @@index([role])
@@ -447,19 +451,110 @@ model AdminActivityLog {
 }
 
 model Referral {
-  id                String    @id @default(cuid())
+  id                String           @id @default(cuid())
   referrerId        String
-  referrer          User      @relation("ReferrerRelations", fields: [referrerId], references: [id], onDelete: Cascade)
-  referredUserId    String    @unique
-  referredUser      User      @relation("ReferredRelation", fields: [referredUserId], references: [id], onDelete: Cascade)
+  referrer          User             @relation("ReferrerRelations", fields: [referrerId], references: [id], onDelete: Cascade)
+  referredUserId    String           @unique
+  referredUser      User             @relation("ReferredRelation", fields: [referredUserId], references: [id], onDelete: Cascade)
   referralCodeUsed  String
-  status            String    @default("REGISTERED")
+  cycleId           String?
+  cycle             NetworkingCycle? @relation(fields: [cycleId], references: [id], onDelete: SetNull)
+  status            String           @default("REGISTERED")
   activatedAt       DateTime?
   qualifyingOrderId String?
-  createdAt         DateTime  @default(now())
-  updatedAt         DateTime  @updatedAt
+  createdAt         DateTime         @default(now())
+  updatedAt         DateTime         @updatedAt
 
   @@index([referrerId])
   @@index([referredUserId])
   @@index([referralCodeUsed])
+  @@index([cycleId])
 }
+
+model NetworkingCycle {
+  id                           String             @id @default(cuid())
+  userId                       String
+  user                         User               @relation(fields: [userId], references: [id], onDelete: Cascade)
+  cycleNumber                  Int                @default(1)
+  referralCode                 String
+  status                       String             @default("ACTIVE") // ACTIVE, COMPLETED
+  qualifyingDirectMembersCount Int                @default(0)
+  currentStage                 Int                @default(0)
+  startedAt                    DateTime           @default(now())
+  completedAt                  DateTime?
+  createdAt                    DateTime           @default(now())
+  updatedAt                    DateTime           @updatedAt
+
+  referrals                    Referral[]
+  stageAchievements            StageAchievement[]
+  stageBenefits                StageBenefit[]
+
+  @@unique([userId, cycleNumber])
+  @@index([userId])
+  @@index([referralCode])
+  @@index([status])
+}
+
+model StageAchievement {
+  id                    String           @id @default(cuid())
+  userId                String
+  user                  User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  cycleId               String
+  cycle                 NetworkingCycle  @relation(fields: [cycleId], references: [id], onDelete: Cascade)
+  stageNumber           Int
+  requiredDirectMembers Int
+  achievedAt            DateTime         @default(now())
+  createdAt             DateTime         @default(now())
+
+  benefit               StageBenefit?
+
+  @@unique([cycleId, stageNumber])
+  @@index([userId])
+  @@index([cycleId])
+  @@index([stageNumber])
+}
+
+model StageBenefit {
+  id                 String            @id @default(cuid())
+  userId             String
+  user               User              @relation("MemberBenefits", fields: [userId], references: [id], onDelete: Cascade)
+  cycleId            String
+  cycle              NetworkingCycle   @relation(fields: [cycleId], references: [id], onDelete: Cascade)
+  stageAchievementId String            @unique
+  stageAchievement   StageAchievement  @relation(fields: [stageAchievementId], references: [id], onDelete: Cascade)
+  stageNumber        Int
+  amount             Decimal           @db.Decimal(10, 2)
+  achievementDate    DateTime          @default(now())
+  paymentDueDate     DateTime
+  status             String            @default("PENDING") // PENDING, PAID
+  paymentDate        DateTime?
+  gpayReferenceId    String?
+  paymentProofUrl    String?           @db.Text
+  paidByAdminId      String?
+  paidByAdmin        User?             @relation("AdminConfirmedBenefits", fields: [paidByAdminId], references: [id], onDelete: SetNull)
+  confirmedAt        DateTime?
+  notes              String?
+  createdAt          DateTime          @default(now())
+  updatedAt          DateTime          @updatedAt
+
+  auditLogs          BenefitAuditLog[]
+
+  @@index([userId])
+  @@index([cycleId])
+  @@index([status])
+  @@index([paymentDueDate])
+}
+
+model BenefitAuditLog {
+  id        String       @id @default(cuid())
+  benefitId String
+  benefit   StageBenefit @relation(fields: [benefitId], references: [id], onDelete: Cascade)
+  adminId   String
+  action    String
+  details   Json?
+  createdAt DateTime     @default(now())
+
+  @@index([benefitId])
+  @@index([adminId])
+}
+
