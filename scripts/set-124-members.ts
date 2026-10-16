@@ -54,19 +54,29 @@ async function main() {
     console.log(`✅ Deleted Stage 3 Achievement (${stage3Achievement.id})`);
   }
 
-  // 3. Remove 125th member referral so count is exactly 124
-  const member125 = await prisma.user.findUnique({
-    where: { email: 'nithish_member_125@manamcare.com' },
+  // 3. Keep exactly 124 active referrals
+  const allActiveReferrals = await prisma.referral.findMany({
+    where: {
+      referrerId: user.id,
+      status: 'ACTIVATED',
+      OR: [{ cycleId: cycle.id }, { referralCodeUsed: targetRefCode }],
+    },
+    orderBy: { createdAt: 'desc' },
   });
 
-  if (member125) {
-    await prisma.referral.deleteMany({
-      where: { referredUserId: member125.id },
-    });
-    await prisma.user.delete({
-      where: { id: member125.id },
-    });
-    console.log(`✅ Removed 125th member (${member125.email})`);
+  console.log(`Found ${allActiveReferrals.length} active referrals for user.`);
+
+  if (allActiveReferrals.length > 124) {
+    const toRemove = allActiveReferrals.slice(0, allActiveReferrals.length - 124);
+    for (const ref of toRemove) {
+      await prisma.referral.delete({ where: { id: ref.id } });
+      if (ref.referredUserId) {
+        try {
+          await prisma.user.delete({ where: { id: ref.referredUserId } });
+        } catch {}
+      }
+      console.log(`✅ Removed excess referral ${ref.id}`);
+    }
   }
 
   // 4. Recount direct active referrals
