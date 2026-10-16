@@ -599,6 +599,10 @@ export class NetworkingService {
       achievedAt: a.achievedAt.toISOString(),
     }));
 
+    const nextStageConfig = progress.nextStage
+      ? NETWORKING_STAGES.find((s) => s.stage === progress.nextStage)
+      : null;
+
     return {
       success: true,
       data: {
@@ -606,11 +610,33 @@ export class NetworkingService {
         isMember: true,
         membershipActivatedAt: user.membershipActivatedAt?.toISOString() || null,
         cycle: {
+          id: activeCycle.id,
           cycleId: activeCycle.id,
           cycleNumber: activeCycle.cycleNumber,
+          qualifyingDirectMembersCount: activeCycle.qualifyingDirectMembersCount,
+          status: activeCycle.status,
           startedAt: activeCycle.startedAt.toISOString(),
         },
         referralCode: activeCycle.referralCode || user.referralCode,
+        stageProgress: {
+          currentStage: progress.currentStage,
+          currentStageDetails: NETWORKING_STAGES.find((s) => s.stage === progress.currentStage) || null,
+          nextStage: nextStageConfig
+            ? {
+                stage: nextStageConfig.stage,
+                requiredDirectMembers: nextStageConfig.requiredDirectMembers,
+                benefitAmountINR: nextStageConfig.benefitAmountINR,
+                isPayable: nextStageConfig.isPayable,
+              }
+            : null,
+          qualifyingDirectMembersCount: qualifyingDirectMembers,
+          membersNeededForNextStage: progress.membersNeededForNextStage,
+          progressPercent: progress.nextStageRequiredCount > 0
+            ? Math.min(100, Math.round((qualifyingDirectMembers / progress.nextStageRequiredCount) * 100))
+            : 100,
+        },
+        stages: NETWORKING_STAGES,
+        stagesRoadmap: NETWORKING_STAGES,
         sharing: {
           code: activeCycle.referralCode || user.referralCode,
           shareMessage: `Join MANAM for pure daily essentials and farm-fresh staples! Use my referral code ${
@@ -618,8 +644,11 @@ export class NetworkingService {
           } when creating your account.`,
         },
         stats: {
+          totalInvited: totalDirectReferrals,
           totalDirectReferrals,
+          membersActivated: qualifyingDirectMembers,
           qualifyingDirectMembers,
+          customersPending: Math.max(0, totalDirectReferrals - qualifyingDirectMembers),
           currentStage: progress.currentStage,
           nextStage: progress.nextStage,
           nextStageRequiredCount: progress.nextStageRequiredCount,
@@ -628,7 +657,6 @@ export class NetworkingService {
         },
         achievements: formattedAchievements,
         benefits: formattedBenefits,
-        stagesRoadmap: NETWORKING_STAGES,
       },
     };
   }
@@ -796,10 +824,17 @@ export class NetworkingService {
       const displayStatus = deriveBenefitDisplayStatus(b.status, b.paymentDueDate, now);
       return {
         id: b.id,
+        userId: b.userId,
         memberId: b.userId,
         memberName: b.user.fullName || 'Member',
         memberPhone: b.user.phone || 'No phone',
         memberEmail: b.user.email,
+        user: {
+          id: b.userId,
+          fullName: b.user.fullName || 'Member',
+          phone: b.user.phone || 'No phone',
+          email: b.user.email || null,
+        },
         cycleNumber: b.cycle?.cycleNumber || 1,
         stageNumber: b.stageNumber,
         amount: Number(b.amount),
