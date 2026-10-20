@@ -12,15 +12,24 @@ const dataDir = fs.existsSync(path.resolve(__dirname, '../data'))
   : path.resolve(__dirname, '../../manammcare_mobile_app/src/data');
 
 function formatBackendImageUrl(url?: string | null): string {
-  if (!url) return 'https://api.manammcare.com/uploads/products/daily-care.webp';
-  if (url.startsWith('/images/products/')) {
-    const filename = url.replace('/images/products/', '');
-    return `https://api.manammcare.com/uploads/products/${filename}`;
+  if (!url) return 'https://manammcare.com/images/products/daily-care.webp';
+  let clean = url.replace(/https:\/\/manammcare\.comhttps:\/\/manammcare\.com/g, 'https://manammcare.com');
+  if (clean.includes('/uploads/products/')) {
+    const filename = clean.split('/uploads/products/').pop();
+    return `https://manammcare.com/images/products/${filename}`;
   }
-  if (url.startsWith('/uploads/products/')) {
-    return `https://api.manammcare.com${url}`;
+  if (clean.startsWith('/images/products/')) {
+    const filename = clean.replace('/images/products/', '');
+    return `https://manammcare.com/images/products/${filename}`;
   }
-  return url;
+  if (clean.startsWith('http://') || clean.startsWith('https://')) {
+    if (clean.includes('api.manammcare.com/uploads/products/')) {
+      const filename = clean.split('api.manammcare.com/uploads/products/').pop();
+      return `https://manammcare.com/images/products/${filename}`;
+    }
+    return clean;
+  }
+  return clean;
 }
 
 function loadJson<T>(relativePath: string): T {

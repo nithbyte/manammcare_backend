@@ -237,11 +237,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://images.unsplash.com/photo-1596040033282-3532f8350eb3?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1596040033282-3532f8350eb3?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1596040033282-3532f8350eb3?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -292,11 +292,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://images.unsplash.com/photo-1596040033282-3532f8350eb3?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1596040033282-3532f8350eb3?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1596040033282-3532f8350eb3?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -459,11 +459,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://images.unsplash.com/photo-1608797178974-15b35a61dd75?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1608797178974-15b35a61dd75?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1608797178974-15b35a61dd75?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -514,11 +514,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://images.unsplash.com/photo-1615485290161-55db5215c26b?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1615485290161-55db5215c26b?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1615485290161-55db5215c26b?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -569,11 +569,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/black-channa.jpg",
+    "imageUrl": "https://manammcare.com/images/products/black-channa.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/black-channa.jpg"
+      "https://manammcare.com/images/products/black-channa.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/black-channa.jpg",
+    "thumbnail": "https://manammcare.com/images/products/black-channa.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -624,11 +624,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/white-channa.jpg",
+    "imageUrl": "https://manammcare.com/images/products/white-channa.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/white-channa.jpg"
+      "https://manammcare.com/images/products/white-channa.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/white-channa.jpg",
+    "thumbnail": "https://manammcare.com/images/products/white-channa.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -680,11 +680,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/red-gram.jpg",
+    "imageUrl": "https://manammcare.com/images/products/red-gram.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/red-gram.jpg"
+      "https://manammcare.com/images/products/red-gram.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/red-gram.jpg",
+    "thumbnail": "https://manammcare.com/images/products/red-gram.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -735,11 +735,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/peas.jpg",
+    "imageUrl": "https://manammcare.com/images/products/peas.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/peas.jpg"
+      "https://manammcare.com/images/products/peas.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/peas.jpg",
+    "thumbnail": "https://manammcare.com/images/products/peas.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -790,11 +790,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/white-beans.jpg",
+    "imageUrl": "https://manammcare.com/images/products/white-beans.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/white-beans.jpg"
+      "https://manammcare.com/images/products/white-beans.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/white-beans.jpg",
+    "thumbnail": "https://manammcare.com/images/products/white-beans.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -845,11 +845,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/thur-dhal.jpg",
+    "imageUrl": "https://manammcare.com/images/products/thur-dhal.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/thur-dhal.jpg"
+      "https://manammcare.com/images/products/thur-dhal.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/thur-dhal.jpg",
+    "thumbnail": "https://manammcare.com/images/products/thur-dhal.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -901,11 +901,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/gram-dhal.jpg",
+    "imageUrl": "https://manammcare.com/images/products/gram-dhal.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/gram-dhal.jpg"
+      "https://manammcare.com/images/products/gram-dhal.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/gram-dhal.jpg",
+    "thumbnail": "https://manammcare.com/images/products/gram-dhal.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -956,11 +956,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/moong-dhal.jpg",
+    "imageUrl": "https://manammcare.com/images/products/moong-dhal.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/moong-dhal.jpg"
+      "https://manammcare.com/images/products/moong-dhal.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/moong-dhal.jpg",
+    "thumbnail": "https://manammcare.com/images/products/moong-dhal.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1011,11 +1011,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/orid-dhal.jpg",
+    "imageUrl": "https://manammcare.com/images/products/orid-dhal.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/orid-dhal.jpg"
+      "https://manammcare.com/images/products/orid-dhal.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/orid-dhal.jpg",
+    "thumbnail": "https://manammcare.com/images/products/orid-dhal.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1067,11 +1067,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/whole-green-gram.jpg",
+    "imageUrl": "https://manammcare.com/images/products/whole-green-gram.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/whole-green-gram.jpg"
+      "https://manammcare.com/images/products/whole-green-gram.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/whole-green-gram.jpg",
+    "thumbnail": "https://manammcare.com/images/products/whole-green-gram.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1123,11 +1123,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/black-gram-dhal.jpg",
+    "imageUrl": "https://manammcare.com/images/products/black-gram-dhal.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/black-gram-dhal.jpg"
+      "https://manammcare.com/images/products/black-gram-dhal.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/black-gram-dhal.jpg",
+    "thumbnail": "https://manammcare.com/images/products/black-gram-dhal.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1178,11 +1178,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/soyabeans.jpg",
+    "imageUrl": "https://manammcare.com/images/products/soyabeans.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/soyabeans.jpg"
+      "https://manammcare.com/images/products/soyabeans.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/soyabeans.jpg",
+    "thumbnail": "https://manammcare.com/images/products/soyabeans.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1233,11 +1233,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/double-beans.jpg",
+    "imageUrl": "https://manammcare.com/images/products/double-beans.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/double-beans.jpg"
+      "https://manammcare.com/images/products/double-beans.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/double-beans.jpg",
+    "thumbnail": "https://manammcare.com/images/products/double-beans.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1343,11 +1343,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://images.unsplash.com/photo-1608797178974-15b35a61dd75?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1608797178974-15b35a61dd75?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1608797178974-15b35a61dd75?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -1565,11 +1565,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://api.manammcare.com/uploads/products/fried-grams.jpg",
+    "imageUrl": "https://manammcare.com/images/products/fried-grams.jpg",
     "images": [
-      "https://api.manammcare.com/uploads/products/fried-grams.jpg"
+      "https://manammcare.com/images/products/fried-grams.jpg"
     ],
-    "thumbnail": "https://api.manammcare.com/uploads/products/fried-grams.jpg",
+    "thumbnail": "https://manammcare.com/images/products/fried-grams.jpg",
     "priceConfirmed": false,
     "status": "DRAFT_PRICING",
     "stock": 100,
@@ -12110,11 +12110,11 @@
     "mainCategory": "Food n Food Houseware",
     "brandId": "brd_adidas",
     "brand": "ADIDAS",
-    "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": true,
     "status": "PUBLISHED",
     "stock": 50,
@@ -12165,11 +12165,11 @@
     "mainCategory": "Food n Food Houseware",
     "brandId": "brd_hitachi",
     "brand": "Hitachi",
-    "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": true,
     "status": "PUBLISHED",
     "stock": 50,
@@ -12220,11 +12220,11 @@
     "mainCategory": "Food n Food Houseware",
     "brandId": "brd_amazon",
     "brand": "Amazon",
-    "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": true,
     "status": "PUBLISHED",
     "stock": 50,
@@ -12275,11 +12275,11 @@
     "mainCategory": "Food n Food Houseware",
     "brandId": "brd_mini",
     "brand": "Mini",
-    "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": true,
     "status": "PUBLISHED",
     "stock": 50,
@@ -12330,11 +12330,11 @@
     "mainCategory": "Food n Food Houseware",
     "brandId": "brd_zepto",
     "brand": "Zepto",
-    "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": true,
     "status": "PUBLISHED",
     "stock": 50,
@@ -12385,11 +12385,11 @@
     "mainCategory": "Food n Food Houseware",
     "brandId": "brd_wallmax",
     "brand": "Wallmax",
-    "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "images": [
-      "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80"
+      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "priceConfirmed": true,
     "status": "PUBLISHED",
     "stock": 50,
