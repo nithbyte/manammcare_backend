@@ -47,6 +47,7 @@ async function main() {
         fullName: memberName,
         email: memberEmail,
         phone: memberPhone,
+        password: 'Password@123',
         membershipStatus: MembershipStatus.MEMBER,
         membershipActivatedAt: new Date(),
         referralCode: `MNMMEM125`,
@@ -94,13 +95,14 @@ async function main() {
     data: {
       orderNumber,
       userId: member125.id,
-      totalAmount: 699,
-      subtotalAmount: 699,
-      orderStatus: 'DELIVERED',
-      paymentStatus: 'PAID',
+      customerName: memberName,
+      customerPhone: memberPhone,
+      subtotal: 699,
+      grandTotal: 699,
+      status: 'DELIVERED',
+      paymentStatus: 'SUCCESS',
       paymentMethod: 'RAZORPAY',
-      deliveredAt: now,
-      placedAt: now,
+      createdAt: now,
       shippingAddress: {
         fullName: memberName,
         phone: memberPhone,
@@ -111,7 +113,7 @@ async function main() {
       },
     },
   });
-  console.log(`✅ Created Qualifying Delivered Order: ${order.orderNumber} (₹${order.totalAmount})`);
+  console.log(`✅ Created Qualifying Delivered Order: ${order.orderNumber} (₹${order.grandTotal})`);
 
   // 5. Update direct count in active cycle to exactly 125
   const activeCount = await prisma.referral.count({
