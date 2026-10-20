@@ -5,7 +5,9 @@ import * as path from 'path';
 
 const prisma = new PrismaClient();
 
-const mobileDataDir = path.resolve(__dirname, '../../manammcare_mobile_app/src/data');
+const mobileDataDir = fs.existsSync(path.resolve(__dirname, '../../manamm_app/src/data'))
+  ? path.resolve(__dirname, '../../manamm_app/src/data')
+  : path.resolve(__dirname, '../../manammcare_mobile_app/src/data');
 
 function loadJson<T>(relativePath: string): T {
   const filePath = path.join(mobileDataDir, relativePath);
