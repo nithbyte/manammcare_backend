@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ban_01",
+    "title": "Pure Cold-Pressed Oils",
+    "subtitle": "Traditional Wooden Marachekku Extractions for Health",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=800&q=80",
+    "actionType": "CATEGORY",
+    "actionValue": "cat_oils",
+    "sortOrder": 1,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_02",
+    "title": "Vedic A2 Desi Gir Cow Ghee",
+    "subtitle": "Churned with Bilona method from grass-fed cows",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+    "actionType": "PRODUCT",
+    "actionValue": "prod_10",
+    "sortOrder": 2,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_03",
+    "title": "Ancient Siridhanya Millets",
+    "subtitle": "Unpolished foxtail, barnyard, and kodo millets",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80",
+    "actionType": "CATEGORY",
+    "actionValue": "cat_millets",
+    "sortOrder": 3,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_04",
+    "title": "Grand Harvest Oil Festival",
+    "subtitle": "Flat 15% off across all traditional cold-pressed oils",
+    "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=800&q=80",
+    "actionType": "OFFER",
+    "actionValue": "off_01",
+    "sortOrder": 4,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_05",
+    "title": "Single-Origin Organic Spices",
+    "subtitle": "Wayanad black pepper, Salem turmeric, and Guntur chillies",
+    "image": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?auto=format&fit=crop&w=800&q=80",
+    "actionType": "CATEGORY",
+    "actionValue": "cat_spices",
+    "sortOrder": 5,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_06",
+    "title": "Raw Forest Honey",
+    "subtitle": "Unheated, unfiltered wild floral nectar directly from honey hunters",
+    "image": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=800&q=80",
+    "actionType": "PRODUCT",
+    "actionValue": "prod_9",
+    "sortOrder": 6,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_07",
+    "title": "California Almonds & Premium Nuts",
+    "subtitle": "Crisp, hand-sorted whole dry fruits for daily energy",
+    "image": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=800&q=80",
+    "actionType": "CATEGORY",
+    "actionValue": "cat_dryfruits",
+    "sortOrder": 7,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_08",
+    "title": "Stone-Ground Chakki Atta",
+    "subtitle": "Slow milled to preserve bran, germ, and natural fiber",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "actionType": "PRODUCT",
+    "actionValue": "prod_41",
+    "sortOrder": 8,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_09",
+    "title": "Chemical-Free Jaggery & Sweeteners",
+    "subtitle": "100% natural, unbleached, sulfur-free traditional sweeteners",
+    "image": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=800&q=80",
+    "actionType": "CATEGORY",
+    "actionValue": "cat_sweeteners",
+    "sortOrder": 9,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  },
+  {
+    "id": "ban_10",
+    "title": "Himalayan Pink Rock Salt",
+    "subtitle": "Ancient mineral-rich salt mined from Himalayan foothills",
+    "image": "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?auto=format&fit=crop&w=800&q=80",
+    "actionType": "PRODUCT",
+    "actionValue": "prod_49",
+    "sortOrder": 10,
+    "isActive": true,
+    "startDate": "2026-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z"
+  }
+]

@@ -5,12 +5,26 @@ import * as path from 'path';
 
 const prisma = new PrismaClient();
 
-const mobileDataDir = fs.existsSync(path.resolve(__dirname, '../../manamm_app/src/data'))
+const dataDir = fs.existsSync(path.resolve(__dirname, '../data'))
+  ? path.resolve(__dirname, '../data')
+  : fs.existsSync(path.resolve(__dirname, '../../manamm_app/src/data'))
   ? path.resolve(__dirname, '../../manamm_app/src/data')
   : path.resolve(__dirname, '../../manammcare_mobile_app/src/data');
 
+function formatBackendImageUrl(url?: string | null): string {
+  if (!url) return 'https://api.manammcare.com/uploads/products/daily-care.webp';
+  if (url.startsWith('/images/products/')) {
+    const filename = url.replace('/images/products/', '');
+    return `https://api.manammcare.com/uploads/products/${filename}`;
+  }
+  if (url.startsWith('/uploads/products/')) {
+    return `https://api.manammcare.com${url}`;
+  }
+  return url;
+}
+
 function loadJson<T>(relativePath: string): T {
-  const filePath = path.join(mobileDataDir, relativePath);
+  const filePath = path.join(dataDir, relativePath);
   if (!fs.existsSync(filePath)) {
     console.warn(`File not found: ${filePath}`);
     return [] as unknown as T;
@@ -151,6 +165,12 @@ async function main() {
   const productsData = loadJson<any[]>('products/products.json');
   console.log(`Seeding ${productsData.length} products...`);
   for (const p of productsData) {
+    const img = formatBackendImageUrl(p.imageUrl);
+    const images = Array.isArray(p.images) && p.images.length > 0
+      ? p.images.map((im: string) => formatBackendImageUrl(im))
+      : [img];
+    const thumbnail = formatBackendImageUrl(p.thumbnail || p.imageUrl);
+
     await prisma.product.upsert({
       where: { id: p.id },
       update: {
@@ -169,9 +189,9 @@ async function main() {
         isAvailable: p.isAvailable ?? true,
         isFeatured: p.isFeatured ?? false,
         isActive: p.isActive ?? true,
-        imageUrl: p.imageUrl,
-        images: p.images || [],
-        thumbnail: p.thumbnail || null,
+        imageUrl: img,
+        images,
+        thumbnail,
         attributes: p.attributes || [],
         tags: p.tags || [],
         rating: p.rating ?? 5.0,
@@ -195,9 +215,9 @@ async function main() {
         isAvailable: p.isAvailable ?? true,
         isFeatured: p.isFeatured ?? false,
         isActive: p.isActive ?? true,
-        imageUrl: p.imageUrl,
-        images: p.images || [],
-        thumbnail: p.thumbnail || null,
+        imageUrl: img,
+        images,
+        thumbnail,
         attributes: p.attributes || [],
         tags: p.tags || [],
         rating: p.rating ?? 5.0,

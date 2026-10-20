@@ -1,0 +1,73 @@
+[
+  {
+    "id": "cart_01",
+    "userId": "usr_01",
+    "items": [
+      {
+        "id": "ci_1",
+        "cartId": "cart_01",
+        "productId": "prod_1",
+        "quantity": 2,
+        "unitPrice": 340,
+        "lineTotal": 680
+      },
+      {
+        "id": "ci_2",
+        "cartId": "cart_01",
+        "productId": "prod_2",
+        "quantity": 1,
+        "unitPrice": 480,
+        "lineTotal": 480
+      }
+    ],
+    "subtotal": 1160,
+    "discount": 0,
+    "deliveryCharge": 0,
+    "tax": 0,
+    "grandTotal": 1160,
+    "currency": "INR",
+    "updatedAt": "2026-04-05T12:00:00Z"
+  },
+  {
+    "id": "cart_02",
+    "userId": "usr_02",
+    "items": [
+      {
+        "id": "ci_3",
+        "cartId": "cart_02",
+        "productId": "prod_3",
+        "quantity": 1,
+        "unitPrice": 950,
+        "lineTotal": 950
+      }
+    ],
+    "subtotal": 950,
+    "discount": 0,
+    "deliveryCharge": 0,
+    "tax": 0,
+    "grandTotal": 950,
+    "currency": "INR",
+    "updatedAt": "2026-04-06T10:30:00Z"
+  },
+  {
+    "id": "cart_03",
+    "userId": "usr_03",
+    "items": [
+      {
+        "id": "ci_4",
+        "cartId": "cart_03",
+        "productId": "prod_4",
+        "quantity": 2,
+        "unitPrice": 220,
+        "lineTotal": 440
+      }
+    ],
+    "subtotal": 440,
+    "discount": 0,
+    "deliveryCharge": 50,
+    "tax": 0,
+    "grandTotal": 490,
+    "currency": "INR",
+    "updatedAt": "2026-04-06T14:15:00Z"
+  }
+]

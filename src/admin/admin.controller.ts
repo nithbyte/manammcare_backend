@@ -7,8 +7,15 @@ import {
   Param,
   Query,
   UseGuards,
+  UseInterceptors,
+  UploadedFile,
+  BadRequestException,
 } from '@nestjs/common';
-import { ApiTags, ApiBearerAuth, ApiOperation } from '@nestjs/swagger';
+import { ApiTags, ApiBearerAuth, ApiOperation, ApiConsumes } from '@nestjs/swagger';
+import { FileInterceptor } from '@nestjs/platform-express';
+import { diskStorage } from 'multer';
+import * as path from 'path';
+import * as fs from 'fs';
 import { AdminService } from './admin.service';
 import { NetworkingService } from '../networking/networking.service';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
@@ -70,13 +77,78 @@ export class AdminController {
   }
 
   @Patch('products/:id')
-  @ApiOperation({ summary: 'Update product stock, price, or availability' })
+  @ApiOperation({ summary: 'Update product details, pricing, images, or availability' })
   async updateProduct(
     @CurrentUser() admin: any,
     @Param('id') productId: string,
-    @Body() updates: { stock?: number; price?: number; isAvailable?: boolean },
+    @Body() updates: any,
   ) {
     return this.adminService.updateProduct(admin.id, productId, updates);
+  }
+
+  @Post('products/upload-image')
+  @ApiConsumes('multipart/form-data')
+  @ApiOperation({ summary: 'Admin: Upload product image file or base64 to backend' })
+  @UseInterceptors(
+    FileInterceptor('file', {
+      storage: diskStorage({
+        destination: (req, file, cb) => {
+          const prodDir = path.resolve(process.cwd(), 'uploads/products');
+          if (!fs.existsSync(prodDir)) {
+            fs.mkdirSync(prodDir, { recursive: true });
+          }
+          cb(null, prodDir);
+        },
+        filename: (req, file, cb) => {
+          const ext = path.extname(file.originalname).toLowerCase() || '.jpg';
+          const sanitized = path.basename(file.originalname, ext).replace(/[^a-zA-Z0-9_-]/g, '_');
+          cb(null, `${sanitized}_${Date.now()}${ext}`);
+        },
+      }),
+      limits: { fileSize: 10 * 1024 * 1024 }, // 10MB
+    }),
+  )
+  async uploadProductImage(
+    @UploadedFile() file: Express.Multer.File,
+    @Body() body: any,
+  ) {
+    if (!file && !body?.base64Image) {
+      throw new BadRequestException('Image file or base64Image is required.');
+    }
+
+    const prodDir = path.resolve(process.cwd(), 'uploads/products');
+    if (!fs.existsSync(prodDir)) {
+      fs.mkdirSync(prodDir, { recursive: true });
+    }
+
+    let filename = '';
+    if (file) {
+      filename = file.filename;
+    } else {
+      const ext = body.ext || '.jpg';
+      filename = `product_${Date.now()}_${Math.random().toString(36).substring(2, 7)}${ext}`;
+      const targetPath = path.join(prodDir, filename);
+      const base64Data = body.base64Image.replace(/^data:image\/\w+;base64,/, '');
+      fs.writeFileSync(targetPath, Buffer.from(base64Data, 'base64'));
+    }
+
+    const url = `/uploads/products/${filename}`;
+    return {
+      success: true,
+      data: {
+        url,
+        filename,
+      },
+    };
+  }
+
+  @Post('products/sync-catalog')
+  @ApiOperation({ summary: 'Admin: Synchronize full product catalog and backend image URLs' })
+  async syncCatalog(
+    @CurrentUser() admin: any,
+    @Body() body: { products?: any[] },
+  ) {
+    return this.adminService.syncCatalog(admin.id, body?.products);
   }
 
   @Get('users')

@@ -1,0 +1,1330 @@
+[
+  {
+    "id": "brd_manam_organics",
+    "name": "MANAM Organics",
+    "slug": "manam-organics",
+    "description": "Certified organic staples harvested directly from bio-dynamic family farms.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_manam_farm",
+    "name": "MANAM Farm Select",
+    "slug": "manam-farm-select",
+    "description": "Traditional cold-pressed oils, unpolished native millets, and pulses.",
+    "logo": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_manam_pure",
+    "name": "MANAM Pure",
+    "slug": "manam-pure",
+    "description": "Cultured Vedic Bilona A2 Desi cow ghee and wild forest honey.",
+    "logo": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_manam_herbal",
+    "name": "MANAM Herbal",
+    "slug": "manam-herbal",
+    "description": "Natural herbal supplements, immunity boosters, and traditional wellness remedies.",
+    "logo": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_manam_naturals",
+    "name": "MANAM Naturals",
+    "slug": "manam-naturals",
+    "description": "Artisanal natural sweeteners, pure mineral rock salts, and whole spices.",
+    "logo": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_manammcare",
+    "name": "Manammcare",
+    "slug": "manammcare",
+    "description": "Essential authentic daily grocery and kitchen provisions from Manammcare.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_lacoste",
+    "name": "LACOSTE",
+    "slug": "lacoste",
+    "description": "LACOSTE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_bridgestone",
+    "name": "BRIDGESTONE",
+    "slug": "bridgestone",
+    "description": "BRIDGESTONE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_adidas",
+    "name": "ADIDAS",
+    "slug": "adidas",
+    "description": "ADIDAS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_siemens",
+    "name": "SIEMENS",
+    "slug": "siemens",
+    "description": "SIEMENS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_johnson",
+    "name": "JOHNSON",
+    "slug": "johnson",
+    "description": "JOHNSON premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_monora",
+    "name": "MONORA",
+    "slug": "monora",
+    "description": "MONORA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_orra",
+    "name": "ORRA",
+    "slug": "orra",
+    "description": "ORRA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_nerolac",
+    "name": "NEROLAC",
+    "slug": "nerolac",
+    "description": "NEROLAC premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_wda",
+    "name": "WDA",
+    "slug": "wda",
+    "description": "WDA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_hermeg",
+    "name": "HERMEG",
+    "slug": "hermeg",
+    "description": "HERMEG premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_gold_star",
+    "name": "GOLD STAR",
+    "slug": "gold-star",
+    "description": "GOLD STAR premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_century_ply",
+    "name": "CENTURY PLY",
+    "slug": "century-ply",
+    "description": "CENTURY PLY premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tropicana",
+    "name": "TROPICANA",
+    "slug": "tropicana",
+    "description": "TROPICANA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_kalyan",
+    "name": "KALYAN",
+    "slug": "kalyan",
+    "description": "KALYAN premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_lufthansa",
+    "name": "LUFTHANSA",
+    "slug": "lufthansa",
+    "description": "LUFTHANSA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_cat",
+    "name": "CAT",
+    "slug": "cat",
+    "description": "CAT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_payzapp",
+    "name": "PAYZAPP",
+    "slug": "payzapp",
+    "description": "PAYZAPP premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_wonder_cement",
+    "name": "WONDER CEMENT",
+    "slug": "wonder-cement",
+    "description": "WONDER CEMENT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tvs",
+    "name": "TVS",
+    "slug": "tvs",
+    "description": "TVS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_john_deere",
+    "name": "JOHN DEERE",
+    "slug": "john-deere",
+    "description": "JOHN DEERE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_beet",
+    "name": "BEET",
+    "slug": "beet",
+    "description": "BEET premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_continental",
+    "name": "CONTINENTAL",
+    "slug": "continental",
+    "description": "CONTINENTAL premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_volkswagen",
+    "name": "VOLKSWAGEN",
+    "slug": "volkswagen",
+    "description": "VOLKSWAGEN premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_vinfass",
+    "name": "VINFASS",
+    "slug": "vinfass",
+    "description": "VINFASS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_cetaphil",
+    "name": "CETAPHIL",
+    "slug": "cetaphil",
+    "description": "CETAPHIL premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_hyundai",
+    "name": "HYUNDAI",
+    "slug": "hyundai",
+    "description": "HYUNDAI premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_barista",
+    "name": "BARISTA",
+    "slug": "barista",
+    "description": "BARISTA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_artania",
+    "name": "ARTANIA",
+    "slug": "artania",
+    "description": "ARTANIA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_davidoff",
+    "name": "DAVIDOFF",
+    "slug": "davidoff",
+    "description": "DAVIDOFF premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_burberry",
+    "name": "BURBERRY",
+    "slug": "burberry",
+    "description": "BURBERRY premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_idbi_bank",
+    "name": "IDBI BANK",
+    "slug": "idbi-bank",
+    "description": "IDBI BANK premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_arrow",
+    "name": "ARROW",
+    "slug": "arrow",
+    "description": "ARROW premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_air_india",
+    "name": "AIR INDIA",
+    "slug": "air-india",
+    "description": "AIR INDIA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_camellia",
+    "name": "CAMELLIA",
+    "slug": "camellia",
+    "description": "CAMELLIA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_india_first",
+    "name": "INDIA FIRST",
+    "slug": "india-first",
+    "description": "INDIA FIRST premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_orient",
+    "name": "ORIENT",
+    "slug": "orient",
+    "description": "ORIENT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_b_natural",
+    "name": "B NATURAL",
+    "slug": "b-natural",
+    "description": "B NATURAL premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_syska",
+    "name": "SYSKA",
+    "slug": "syska",
+    "description": "SYSKA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tea_valley",
+    "name": "TEA VALLEY",
+    "slug": "tea-valley",
+    "description": "TEA VALLEY premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_medibuddy",
+    "name": "MEDIBUDDY",
+    "slug": "medibuddy",
+    "description": "MEDIBUDDY premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_kohler",
+    "name": "KOHLER",
+    "slug": "kohler",
+    "description": "KOHLER premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_swastik",
+    "name": "SWASTIK",
+    "slug": "swastik",
+    "description": "SWASTIK premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_zomato",
+    "name": "ZOMATO",
+    "slug": "zomato",
+    "description": "ZOMATO premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_ucb",
+    "name": "UCB",
+    "slug": "ucb",
+    "description": "UCB premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_au_small_finance",
+    "name": "AU SMALL FINANCE",
+    "slug": "au-small-finance",
+    "description": "AU SMALL FINANCE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_nykaa",
+    "name": "NYKAA",
+    "slug": "nykaa",
+    "description": "NYKAA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_grasim",
+    "name": "GRASIM",
+    "slug": "grasim",
+    "description": "GRASIM premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_mia",
+    "name": "MIA",
+    "slug": "mia",
+    "description": "MIA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_magic_bricks",
+    "name": "MAGIC BRICKS",
+    "slug": "magic-bricks",
+    "description": "MAGIC BRICKS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tata_tiscon",
+    "name": "TATA TISCON",
+    "slug": "tata-tiscon",
+    "description": "TATA TISCON premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_asian_paints",
+    "name": "ASIAN PAINTS",
+    "slug": "asian-paints",
+    "description": "ASIAN PAINTS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_dabur",
+    "name": "DABUR",
+    "slug": "dabur",
+    "description": "DABUR premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_eicher",
+    "name": "EICHER",
+    "slug": "eicher",
+    "description": "EICHER premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_green_ply",
+    "name": "GREEN PLY",
+    "slug": "green-ply",
+    "description": "GREEN PLY premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_diamos",
+    "name": "DIAMOS",
+    "slug": "diamos",
+    "description": "DIAMOS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_vino_riot",
+    "name": "VINO RIOT",
+    "slug": "vino-riot",
+    "description": "VINO RIOT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_sangin",
+    "name": "SANGIN",
+    "slug": "sangin",
+    "description": "SANGIN premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_blinkit",
+    "name": "BLINKIT",
+    "slug": "blinkit",
+    "description": "BLINKIT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_mcaffeine",
+    "name": "MCAFFEINE",
+    "slug": "mcaffeine",
+    "description": "MCAFFEINE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_porsche",
+    "name": "PORSCHE",
+    "slug": "porsche",
+    "description": "PORSCHE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_youtube",
+    "name": "YOUTUBE",
+    "slug": "youtube",
+    "description": "YOUTUBE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_phillips",
+    "name": "PHILLIPS",
+    "slug": "phillips",
+    "description": "PHILLIPS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_toyota",
+    "name": "TOYOTA",
+    "slug": "toyota",
+    "description": "TOYOTA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_khazana",
+    "name": "KHAZANA",
+    "slug": "khazana",
+    "description": "KHAZANA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_caprese",
+    "name": "CAPRESE",
+    "slug": "caprese",
+    "description": "CAPRESE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_aplapollo",
+    "name": "APLAPOLLO",
+    "slug": "aplapollo",
+    "description": "APLAPOLLO premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_det_to",
+    "name": "DET TO",
+    "slug": "det-to",
+    "description": "DET TO premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_daawat",
+    "name": "DAAWAT",
+    "slug": "daawat",
+    "description": "DAAWAT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_gromptoon",
+    "name": "GROMPTOON",
+    "slug": "gromptoon",
+    "description": "GROMPTOON premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_loreen",
+    "name": "LOREEN",
+    "slug": "loreen",
+    "description": "LOREEN premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_vectus",
+    "name": "VECTUS",
+    "slug": "vectus",
+    "description": "VECTUS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_iie",
+    "name": "IIE",
+    "slug": "iie",
+    "description": "IIE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_aashirwad",
+    "name": "AASHIRWAD",
+    "slug": "aashirwad",
+    "description": "AASHIRWAD premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_livguard",
+    "name": "LIVGUARD",
+    "slug": "livguard",
+    "description": "LIVGUARD premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_elecare",
+    "name": "ELECARE",
+    "slug": "elecare",
+    "description": "ELECARE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_federal",
+    "name": "FEDERAL",
+    "slug": "federal",
+    "description": "FEDERAL premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_yamaha",
+    "name": "YAMAHA",
+    "slug": "yamaha",
+    "description": "YAMAHA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_evara",
+    "name": "EVARA",
+    "slug": "evara",
+    "description": "EVARA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_cron",
+    "name": "CRON",
+    "slug": "cron",
+    "description": "CRON premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_voylla",
+    "name": "VOYLLA",
+    "slug": "voylla",
+    "description": "VOYLLA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_hittacht",
+    "name": "HITTACHT",
+    "slug": "hittacht",
+    "description": "HITTACHT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_indiabulls",
+    "name": "INDIABULLS",
+    "slug": "indiabulls",
+    "description": "INDIABULLS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_paperboat",
+    "name": "PAPERBOAT",
+    "slug": "paperboat",
+    "description": "PAPERBOAT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_star_cement",
+    "name": "STAR CEMENT",
+    "slug": "star-cement",
+    "description": "STAR CEMENT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_sugar_free",
+    "name": "SUGAR FREE",
+    "slug": "sugar-free",
+    "description": "SUGAR FREE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_centrum",
+    "name": "CENTRUM",
+    "slug": "centrum",
+    "description": "CENTRUM premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_dr_fixit",
+    "name": "DR FIXIT",
+    "slug": "dr-fixit",
+    "description": "DR FIXIT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_horlicks",
+    "name": "HORLICKS",
+    "slug": "horlicks",
+    "description": "HORLICKS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_lakme",
+    "name": "LAKME",
+    "slug": "lakme",
+    "description": "LAKME premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_motorola",
+    "name": "MOTOROLA",
+    "slug": "motorola",
+    "description": "MOTOROLA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_servo",
+    "name": "SERVO",
+    "slug": "servo",
+    "description": "SERVO premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_jk_super",
+    "name": "JK SUPER",
+    "slug": "jk-super",
+    "description": "JK SUPER premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_kotak",
+    "name": "KOTAK",
+    "slug": "kotak",
+    "description": "KOTAK premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_dalmia",
+    "name": "DALMIA",
+    "slug": "dalmia",
+    "description": "DALMIA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_nathabits",
+    "name": "NATHABITS",
+    "slug": "nathabits",
+    "description": "NATHABITS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_ferrari",
+    "name": "FERRARI",
+    "slug": "ferrari",
+    "description": "FERRARI premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_shree_cement",
+    "name": "SHREE CEMENT",
+    "slug": "shree-cement",
+    "description": "SHREE CEMENT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_curve_leg",
+    "name": "CURVE LEG",
+    "slug": "curve-leg",
+    "description": "CURVE LEG premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_supreme",
+    "name": "SUPREME",
+    "slug": "supreme",
+    "description": "SUPREME premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_pidilite",
+    "name": "PIDILITE",
+    "slug": "pidilite",
+    "description": "PIDILITE premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_sbi",
+    "name": "SBI",
+    "slug": "sbi",
+    "description": "SBI premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_campus",
+    "name": "CAMPUS",
+    "slug": "campus",
+    "description": "CAMPUS premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_nivea",
+    "name": "NIVEA",
+    "slug": "nivea",
+    "description": "NIVEA premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_anchor",
+    "name": "ANCHOR",
+    "slug": "anchor",
+    "description": "ANCHOR premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_mercedes_benz",
+    "name": "Mercedes-Benz",
+    "slug": "mercedes-benz",
+    "description": "Mercedes-Benz premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_voltas",
+    "name": "Voltas",
+    "slug": "voltas",
+    "description": "Voltas premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_dbs_bank",
+    "name": "DBS Bank",
+    "slug": "dbs-bank",
+    "description": "DBS Bank premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_catch",
+    "name": "Catch",
+    "slug": "catch",
+    "description": "Catch premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_dlf",
+    "name": "DLF",
+    "slug": "dlf",
+    "description": "DLF premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_exide",
+    "name": "Exide",
+    "slug": "exide",
+    "description": "Exide premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_fortune",
+    "name": "Fortune",
+    "slug": "fortune",
+    "description": "Fortune premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_deloitte",
+    "name": "Deloitte",
+    "slug": "deloitte",
+    "description": "Deloitte premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_paypal",
+    "name": "PayPal",
+    "slug": "paypal",
+    "description": "PayPal premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_airtel",
+    "name": "Airtel",
+    "slug": "airtel",
+    "description": "Airtel premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_kohinoor",
+    "name": "Kohinoor",
+    "slug": "kohinoor",
+    "description": "Kohinoor premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_honeywell",
+    "name": "Honeywell",
+    "slug": "honeywell",
+    "description": "Honeywell premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tech_mahindra",
+    "name": "Tech Mahindra",
+    "slug": "tech-mahindra",
+    "description": "Tech Mahindra premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tata_cliq",
+    "name": "Tata Cliq",
+    "slug": "tata-cliq",
+    "description": "Tata Cliq premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_escorts",
+    "name": "Escorts",
+    "slug": "escorts",
+    "description": "Escorts premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_ambuja_cements",
+    "name": "Ambuja Cements",
+    "slug": "ambuja-cements",
+    "description": "Ambuja Cements premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_bajaj",
+    "name": "Bajaj",
+    "slug": "bajaj",
+    "description": "Bajaj premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_bosch",
+    "name": "Bosch",
+    "slug": "bosch",
+    "description": "Bosch premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_hero",
+    "name": "Hero",
+    "slug": "hero",
+    "description": "Hero premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_birla_cement",
+    "name": "Birla Cement",
+    "slug": "birla-cement",
+    "description": "Birla Cement premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_polycab",
+    "name": "Polycab",
+    "slug": "polycab",
+    "description": "Polycab premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_infosys",
+    "name": "Infosys",
+    "slug": "infosys",
+    "description": "Infosys premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_bata",
+    "name": "Bata",
+    "slug": "bata",
+    "description": "Bata premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_mobil",
+    "name": "Mobil",
+    "slug": "mobil",
+    "description": "Mobil premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_havells",
+    "name": "Havells",
+    "slug": "havells",
+    "description": "Havells premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_jk_tyre",
+    "name": "JK Tyre",
+    "slug": "jk-tyre",
+    "description": "JK Tyre premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_ultratech",
+    "name": "Ultratech",
+    "slug": "ultratech",
+    "description": "Ultratech premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_castrol",
+    "name": "Castrol",
+    "slug": "castrol",
+    "description": "Castrol premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_kajaria",
+    "name": "Kajaria",
+    "slug": "kajaria",
+    "description": "Kajaria premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_ceat",
+    "name": "CEAT",
+    "slug": "ceat",
+    "description": "CEAT premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_pureit",
+    "name": "Pureit",
+    "slug": "pureit",
+    "description": "Pureit premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_best",
+    "name": "Best",
+    "slug": "best",
+    "description": "Best premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_tata_tea",
+    "name": "Tata Tea",
+    "slug": "tata-tea",
+    "description": "Tata Tea premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_huawei",
+    "name": "Huawei",
+    "slug": "huawei",
+    "description": "Huawei premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_jcb",
+    "name": "JCB",
+    "slug": "jcb",
+    "description": "JCB premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_accenture",
+    "name": "Accenture",
+    "slug": "accenture",
+    "description": "Accenture premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_coca_cola",
+    "name": "Coca-Cola",
+    "slug": "coca-cola",
+    "description": "Coca-Cola premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_bajaj_finserv",
+    "name": "Bajaj Finserv",
+    "slug": "bajaj-finserv",
+    "description": "Bajaj Finserv premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_mg",
+    "name": "MG",
+    "slug": "mg",
+    "description": "MG premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_herbalife",
+    "name": "Herbalife",
+    "slug": "herbalife",
+    "description": "Herbalife premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_fanta",
+    "name": "Fanta",
+    "slug": "fanta",
+    "description": "Fanta premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_rbl_bank",
+    "name": "RBL Bank",
+    "slug": "rbl-bank",
+    "description": "RBL Bank premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_pfizer",
+    "name": "Pfizer",
+    "slug": "pfizer",
+    "description": "Pfizer premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_hitachi",
+    "name": "Hitachi",
+    "slug": "hitachi",
+    "description": "Hitachi premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_amazon",
+    "name": "Amazon",
+    "slug": "amazon",
+    "description": "Amazon premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_mini",
+    "name": "Mini",
+    "slug": "mini",
+    "description": "Mini premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_zepto",
+    "name": "Zepto",
+    "slug": "zepto",
+    "description": "Zepto premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_wallmax",
+    "name": "Wallmax",
+    "slug": "wallmax",
+    "description": "Wallmax premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_abiba",
+    "name": "Abiba",
+    "slug": "abiba",
+    "description": "Abiba premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_jeep",
+    "name": "Jeep",
+    "slug": "jeep",
+    "description": "Jeep premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_samsung",
+    "name": "Samsung",
+    "slug": "samsung",
+    "description": "Samsung premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_abbott",
+    "name": "Abbott",
+    "slug": "abbott",
+    "description": "Abbott premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_cred",
+    "name": "CRED",
+    "slug": "cred",
+    "description": "CRED premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_max_life",
+    "name": "Max Life",
+    "slug": "max-life",
+    "description": "Max Life premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_hsbc",
+    "name": "HSBC",
+    "slug": "hsbc",
+    "description": "HSBC premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  },
+  {
+    "id": "brd_starbucks",
+    "name": "Starbucks",
+    "slug": "starbucks",
+    "description": "Starbucks premium corporate and consumer offerings.",
+    "logo": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=300&q=80",
+    "isActive": true
+  }
+]

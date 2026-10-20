@@ -6,8 +6,23 @@ import { ProductQueryDto } from './dto/product-query.dto';
 export class ProductsService {
   constructor(private prisma: PrismaService) {}
 
+  private resolveImageUrl(url?: string | null): string {
+    if (!url) return '';
+    if (url.startsWith('http://') || url.startsWith('https://')) return url;
+    const base = process.env.API_BASE_URL || 'https://api.manammcare.com';
+    const cleanPath = url.startsWith('/') ? url : `/${url}`;
+    return `${base}${cleanPath}`;
+  }
+
   public formatProduct(p: any) {
     if (!p) return null;
+    const rawImage = p.imageUrl || (Array.isArray(p.images) && p.images[0]) || '';
+    const imageUrl = this.resolveImageUrl(rawImage);
+    const images = Array.isArray(p.images) && p.images.length > 0
+      ? p.images.map((img: string) => this.resolveImageUrl(img))
+      : [imageUrl];
+    const thumbnail = this.resolveImageUrl(p.thumbnail || rawImage);
+
     return {
       id: p.id,
       sku: p.sku || undefined,
@@ -26,9 +41,9 @@ export class ProductsService {
       isAvailable: Boolean(p.isAvailable && p.stock > 0),
       isFeatured: Boolean(p.isFeatured),
       isActive: Boolean(p.isActive),
-      imageUrl: p.imageUrl,
-      images: Array.isArray(p.images) ? p.images : [p.imageUrl],
-      thumbnail: p.thumbnail || p.imageUrl,
+      imageUrl,
+      images,
+      thumbnail,
       attributes: Array.isArray(p.attributes) ? p.attributes : [],
       tags: Array.isArray(p.tags) ? p.tags : [],
       rating: Number(p.rating ?? 5.0),
@@ -41,13 +56,15 @@ export class ProductsService {
 
   public formatCategory(c: any) {
     if (!c) return null;
+    const rawCatImg = c.imageUrl || c.image || undefined;
+    const catImageUrl = rawCatImg ? this.resolveImageUrl(rawCatImg) : undefined;
     return {
       id: c.id,
       name: c.name,
       slug: c.slug,
       description: c.description || undefined,
-      imageUrl: c.imageUrl || c.image || undefined,
-      image: c.image || c.imageUrl || undefined,
+      imageUrl: catImageUrl,
+      image: catImageUrl,
       icon: c.icon || 'grid',
       parentId: c.parentId || null,
       sortOrder: c.sortOrder ?? 0,

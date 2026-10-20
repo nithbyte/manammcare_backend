@@ -1,0 +1,2099 @@
+[
+  {
+    "productId": "prod_mnm_001",
+    "sku": "MNM-TUR-001",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_002",
+    "sku": "MNM-PEP-002",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_003",
+    "sku": "MNM-CUM-003",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_004",
+    "sku": "MNM-MUS-004",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_005",
+    "sku": "MNM-FEN-005",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_006",
+    "sku": "MNM-FEN-006",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_007",
+    "sku": "MNM-ROU-007",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_008",
+    "sku": "MNM-LON-008",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_009",
+    "sku": "MNM-COR-009",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_010",
+    "sku": "MNM-TUR-010",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_011",
+    "sku": "MNM-BLA-011",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_012",
+    "sku": "MNM-WHI-012",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_013",
+    "sku": "MNM-RED-013",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_014",
+    "sku": "MNM-PEA-014",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_015",
+    "sku": "MNM-WHI-015",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_016",
+    "sku": "MNM-THU-016",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_017",
+    "sku": "MNM-GRA-017",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_018",
+    "sku": "MNM-MOO-018",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_019",
+    "sku": "MNM-ORI-019",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_020",
+    "sku": "MNM-WHO-020",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_021",
+    "sku": "MNM-BLA-021",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_022",
+    "sku": "MNM-SOY-022",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_023",
+    "sku": "MNM-DOU-023",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_024",
+    "sku": "MNM-WHI-024",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_025",
+    "sku": "MNM-BLA-025",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_026",
+    "sku": "MNM-PUM-026",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_027",
+    "sku": "MNM-CHI-027",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_028",
+    "sku": "MNM-FLA-028",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_029",
+    "sku": "MNM-FRI-029",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_030",
+    "sku": "MNM-FRI-030",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_031",
+    "sku": "MNM-SUG-031",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_032",
+    "sku": "MNM-JAG-032",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_033",
+    "sku": "MNM-SEM-033",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_034",
+    "sku": "MNM-SOO-034",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_035",
+    "sku": "MNM-RIC-035",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_036",
+    "sku": "MNM-MAI-036",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_037",
+    "sku": "MNM-TAM-037",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_mnm_038",
+    "sku": "MNM-THA-038",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-16T12:54:49.306Z"
+  },
+  {
+    "productId": "prod_clk_001",
+    "sku": "CLK-WC-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_002",
+    "sku": "CLK-WC-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_003",
+    "sku": "CLK-WC-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_004",
+    "sku": "CLK-WC-004",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_005",
+    "sku": "CLK-WC-005",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_006",
+    "sku": "CLK-WC-006",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_007",
+    "sku": "CLK-WC-007",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_008",
+    "sku": "CLK-WC-008",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_009",
+    "sku": "CLK-WC-009",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_010",
+    "sku": "CLK-WC-010",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_011",
+    "sku": "CLK-WC-011",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_012",
+    "sku": "CLK-WC-012",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_013",
+    "sku": "CLK-WC-013",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_014",
+    "sku": "CLK-WC-014",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_015",
+    "sku": "CLK-WC-015",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_016",
+    "sku": "CLK-WC-016",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_017",
+    "sku": "CLK-WC-017",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_018",
+    "sku": "CLK-WC-018",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_019",
+    "sku": "CLK-WC-019",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_020",
+    "sku": "CLK-WC-020",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_021",
+    "sku": "CLK-WC-021",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_022",
+    "sku": "CLK-WC-022",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_023",
+    "sku": "CLK-WC-023",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_024",
+    "sku": "CLK-WC-024",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_025",
+    "sku": "CLK-WC-025",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_026",
+    "sku": "CLK-WC-026",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_027",
+    "sku": "CLK-WC-027",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_028",
+    "sku": "CLK-WC-028",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_029",
+    "sku": "CLK-WC-029",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_030",
+    "sku": "CLK-WC-030",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_031",
+    "sku": "CLK-WC-031",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_032",
+    "sku": "CLK-WC-032",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_033",
+    "sku": "CLK-WC-033",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_034",
+    "sku": "CLK-WC-034",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_035",
+    "sku": "CLK-WC-035",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_036",
+    "sku": "CLK-WC-036",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_037",
+    "sku": "CLK-WC-037",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_038",
+    "sku": "CLK-WC-038",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_039",
+    "sku": "CLK-WC-039",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_040",
+    "sku": "CLK-WC-040",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_041",
+    "sku": "CLK-WC-041",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_042",
+    "sku": "CLK-WC-042",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_043",
+    "sku": "CLK-WC-043",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_044",
+    "sku": "CLK-WC-044",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_045",
+    "sku": "CLK-WC-045",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_046",
+    "sku": "CLK-WC-046",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_047",
+    "sku": "CLK-WC-047",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_048",
+    "sku": "CLK-WC-048",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_049",
+    "sku": "CLK-WC-049",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_050",
+    "sku": "CLK-WC-050",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_051",
+    "sku": "CLK-WC-051",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_052",
+    "sku": "CLK-WC-052",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_053",
+    "sku": "CLK-WC-053",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_054",
+    "sku": "CLK-WC-054",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_055",
+    "sku": "CLK-WC-055",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_056",
+    "sku": "CLK-WC-056",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_057",
+    "sku": "CLK-WC-057",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_058",
+    "sku": "CLK-WC-058",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_059",
+    "sku": "CLK-WC-059",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_060",
+    "sku": "CLK-WC-060",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_061",
+    "sku": "CLK-WC-061",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_062",
+    "sku": "CLK-WC-062",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_063",
+    "sku": "CLK-WC-063",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_064",
+    "sku": "CLK-WC-064",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_065",
+    "sku": "CLK-WC-065",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_066",
+    "sku": "CLK-WCT-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_067",
+    "sku": "CLK-DOC-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_068",
+    "sku": "CLK-DOC-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_069",
+    "sku": "CLK-DOC-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_070",
+    "sku": "CLK-DOC-004",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_071",
+    "sku": "CLK-DOC-005",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_072",
+    "sku": "CLK-DOC-006",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_073",
+    "sku": "CLK-DOC-007",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_074",
+    "sku": "CLK-DOC-008",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_075",
+    "sku": "CLK-DOC-009",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_076",
+    "sku": "CLK-DOC-010",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_077",
+    "sku": "CLK-TC-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_078",
+    "sku": "CLK-TC-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_079",
+    "sku": "CLK-TC-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_080",
+    "sku": "CLK-TC-004",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_081",
+    "sku": "CLK-TC-005",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_082",
+    "sku": "CLK-WRF-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_083",
+    "sku": "CLK-WRF-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_084",
+    "sku": "CLK-MDO-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_085",
+    "sku": "CLK-MDO-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_086",
+    "sku": "CLK-MDO-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_087",
+    "sku": "CLK-RPS-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_088",
+    "sku": "CLK-RPS-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_089",
+    "sku": "CLK-RPS-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_090",
+    "sku": "CLK-RPS-004",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_091",
+    "sku": "CLK-RPS-005",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_092",
+    "sku": "CLK-RPS-006",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_093",
+    "sku": "CLK-RPS-007",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_094",
+    "sku": "CLK-RPS-008",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_095",
+    "sku": "CLK-PS-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_096",
+    "sku": "CLK-MS-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_097",
+    "sku": "CLK-MS-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_098",
+    "sku": "CLK-PF-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_099",
+    "sku": "CLK-PF-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_100",
+    "sku": "CLK-MDF-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_101",
+    "sku": "CLK-MDF-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_102",
+    "sku": "CLK-MPW-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_103",
+    "sku": "CLK-MPW-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_104",
+    "sku": "CLK-MPW-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_105",
+    "sku": "CLK-WW-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_106",
+    "sku": "CLK-WW-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_107",
+    "sku": "CLK-WW-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_108",
+    "sku": "CLK-WW-004",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_109",
+    "sku": "CLK-WW-005",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_110",
+    "sku": "CLK-WW-006",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_111",
+    "sku": "CLK-WW-007",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_112",
+    "sku": "CLK-WCS-001",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_113",
+    "sku": "CLK-WCS-002",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_clk_114",
+    "sku": "CLK-WCS-003",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_115",
+    "sku": "FNF-LB-1",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_116",
+    "sku": "FNF-LB-1A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_117",
+    "sku": "FNF-LB-2",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_118",
+    "sku": "FNF-LB-3",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_119",
+    "sku": "FNF-LB-40A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_120",
+    "sku": "FNF-LB-40B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_121",
+    "sku": "FNF-LB-4",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_122",
+    "sku": "FNF-LB-5",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_123",
+    "sku": "FNF-LB-5A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_124",
+    "sku": "FNF-LB-5B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_125",
+    "sku": "FNF-LB-5C",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_126",
+    "sku": "FNF-LB-6",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_127",
+    "sku": "FNF-LB-41A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_128",
+    "sku": "FNF-LB-41B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_129",
+    "sku": "FNF-LB-42A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_130",
+    "sku": "FNF-LB-42B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_131",
+    "sku": "FNF-LB-11",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_132",
+    "sku": "FNF-LB-11A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_133",
+    "sku": "FNF-LB-12",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_134",
+    "sku": "FNF-LB-12A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_135",
+    "sku": "FNF-LB-13",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_136",
+    "sku": "FNF-LB-43A-SB",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_137",
+    "sku": "FNF-LB-16A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_138",
+    "sku": "FNF-LB-16B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_139",
+    "sku": "FNF-LB-16C",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_140",
+    "sku": "FNF-LB-43A-FUS",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_141",
+    "sku": "FNF-LB-43B-FUS",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_142",
+    "sku": "FNF-LB-44A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_143",
+    "sku": "FNF-LB-44B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_144",
+    "sku": "FNF-LB-18",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_145",
+    "sku": "FNF-LB-19",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_146",
+    "sku": "FNF-LB-20A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_147",
+    "sku": "FNF-LB-21",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_148",
+    "sku": "FNF-LB-45A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_149",
+    "sku": "FNF-LB-46A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_150",
+    "sku": "FNF-LB-46B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_151",
+    "sku": "FNF-LB-47A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_152",
+    "sku": "FNF-LB-47B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_153",
+    "sku": "FNF-LB-48A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_154",
+    "sku": "FNF-LB-48B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_155",
+    "sku": "FNF-LB-23-4P-A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_156",
+    "sku": "FNF-LB-23-4P-B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_157",
+    "sku": "FNF-LB-25A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_158",
+    "sku": "FNF-LB-26A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_159",
+    "sku": "FNF-LB-27",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_160",
+    "sku": "FNF-LB-28A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_161",
+    "sku": "FNF-LB-29A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_162",
+    "sku": "FNF-LB-30",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_163",
+    "sku": "FNF-LB-34A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_164",
+    "sku": "FNF-LB-35A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_165",
+    "sku": "FNF-LB-38A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_166",
+    "sku": "FNF-LB-39A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_167",
+    "sku": "FNF-CAS-1A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_168",
+    "sku": "FNF-CAS-2A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_169",
+    "sku": "FNF-CAS-3A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_170",
+    "sku": "FNF-CAS-G2-A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_171",
+    "sku": "FNF-CAS-G3-A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_172",
+    "sku": "FNF-WB-1A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_173",
+    "sku": "FNF-WB-1B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_174",
+    "sku": "FNF-WB-1C",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_175",
+    "sku": "FNF-WB-1D",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_176",
+    "sku": "FNF-WB-1E",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_177",
+    "sku": "FNF-WB-2A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_178",
+    "sku": "FNF-WB-2B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_179",
+    "sku": "FNF-WB-2C",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_180",
+    "sku": "FNF-WB-2D",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_181",
+    "sku": "FNF-WB-3A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_182",
+    "sku": "FNF-WB-3B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_183",
+    "sku": "FNF-WB-3C",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_184",
+    "sku": "FNF-WB-4A",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_185",
+    "sku": "FNF-WB-4B",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_186",
+    "sku": "FNF-WB-4C",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_187",
+    "sku": "FNF-DC-1",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_188",
+    "sku": "FNF-SS-1",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_189",
+    "sku": "FNF-SS-2",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_190",
+    "sku": "FNF-SS-3",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_191",
+    "sku": "FNF-SS-4",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_192",
+    "sku": "FNF-SS-5",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_193",
+    "sku": "FNF-SS-6",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_194",
+    "sku": "FNF-SS-7",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  },
+  {
+    "productId": "prod_fnf_195",
+    "sku": "FNF-SS-8",
+    "availableQuantity": 50,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 5,
+    "isInStock": true,
+    "updatedAt": "2026-10-20T15:48:38.885Z"
+  }
+]
