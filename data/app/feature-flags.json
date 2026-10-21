@@ -1,0 +1,12 @@
+{
+  "enablePromotions": true,
+  "enableCoupons": true,
+  "enableReviews": true,
+  "enableLiveChat": false,
+  "enableMultiAddress": true,
+  "enablePushNotifications": true,
+  "enableRazorpayGateway": true,
+  "enableCashOnDelivery": true,
+  "enableInventoryStockBadge": true,
+  "enableRecentlyViewed": true
+}

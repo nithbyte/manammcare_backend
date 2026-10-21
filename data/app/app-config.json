@@ -1,0 +1,17 @@
+{
+  "appName": "MANAM",
+  "appTagline": "Daily Essentials & Pure Living",
+  "version": "1.0.0",
+  "supportEmail": "care@manammcare.com",
+  "supportPhone": "+91 98765 00000",
+  "currency": "INR",
+  "currencySymbol": "₹",
+  "freeShippingThreshold": 499,
+  "defaultDeliveryFee": 50,
+  "taxPercentage": 0,
+  "serviceAvailability": {
+    "defaultPincodes": ["500001", "500032", "500081", "500084", "500090", "560001", "560038", "600001", "600028"],
+    "deliveryDaysMin": 1,
+    "deliveryDaysMax": 3
+  }
+}

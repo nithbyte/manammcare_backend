@@ -197,9 +197,21 @@ export class AdminService {
     const updated = await this.prisma.product.update({
       where: { id: productId },
       data: {
-        ...(updates.stock !== undefined ? { stock: updates.stock, isAvailable: updates.stock > 0 } : {}),
+        ...(updates.stock !== undefined ? { stock: Number(updates.stock), isAvailable: Number(updates.stock) > 0 } : {}),
         ...(updates.price !== undefined ? { price: updates.price } : {}),
-        ...(updates.isAvailable !== undefined ? { isAvailable: updates.isAvailable } : {}),
+        ...(updates.compareAtPrice !== undefined ? { compareAtPrice: updates.compareAtPrice } : {}),
+        ...(updates.isAvailable !== undefined ? { isAvailable: Boolean(updates.isAvailable) } : {}),
+        ...(updates.isActive !== undefined ? { isActive: Boolean(updates.isActive) } : {}),
+        ...(updates.isFeatured !== undefined ? { isFeatured: Boolean(updates.isFeatured) } : {}),
+        ...(updates.imageUrl !== undefined ? { imageUrl: updates.imageUrl } : {}),
+        ...(updates.images !== undefined ? { images: updates.images } : {}),
+        ...(updates.thumbnail !== undefined ? { thumbnail: updates.thumbnail } : {}),
+        ...(updates.name !== undefined ? { name: updates.name } : {}),
+        ...(updates.unit !== undefined ? { unit: updates.unit } : {}),
+        ...(updates.description !== undefined ? { description: updates.description } : {}),
+        ...(updates.shortDescription !== undefined ? { shortDescription: updates.shortDescription } : {}),
+        ...(updates.attributes !== undefined ? { attributes: updates.attributes } : {}),
+        ...(updates.tags !== undefined ? { tags: updates.tags } : {}),
       },
       include: { category: true },
     });
@@ -213,6 +225,72 @@ export class AdminService {
     );
 
     return this.productsService.formatProduct(updated);
+  }
+
+  async syncCatalog(adminId: string, productsList?: any[]) {
+    const list = Array.isArray(productsList) && productsList.length > 0 ? productsList : [];
+    let upsertCount = 0;
+
+    for (const p of list) {
+      if (!p.id || !p.name) continue;
+      await this.prisma.product.upsert({
+        where: { id: p.id },
+        update: {
+          name: p.name,
+          sku: p.sku || null,
+          slug: p.slug || null,
+          description: p.description || p.name,
+          shortDescription: p.shortDescription || null,
+          price: p.price ?? 0,
+          compareAtPrice: p.compareAtPrice || null,
+          stock: p.stock ?? 50,
+          isAvailable: p.isAvailable ?? true,
+          isActive: p.isActive ?? true,
+          imageUrl: p.imageUrl || '',
+          images: p.images || (p.imageUrl ? [p.imageUrl] : []),
+          thumbnail: p.thumbnail || p.imageUrl || null,
+          unit: p.unit || '1 Unit',
+          attributes: p.attributes || [],
+          tags: p.tags || [],
+        },
+        create: {
+          id: p.id,
+          name: p.name,
+          sku: p.sku || null,
+          slug: p.slug || null,
+          description: p.description || p.name,
+          shortDescription: p.shortDescription || null,
+          categoryId: p.categoryId,
+          brandId: p.brandId || null,
+          price: p.price ?? 0,
+          compareAtPrice: p.compareAtPrice || null,
+          stock: p.stock ?? 50,
+          isAvailable: p.isAvailable ?? true,
+          isActive: p.isActive ?? true,
+          imageUrl: p.imageUrl || '',
+          images: p.images || (p.imageUrl ? [p.imageUrl] : []),
+          thumbnail: p.thumbnail || p.imageUrl || null,
+          unit: p.unit || '1 Unit',
+          attributes: p.attributes || [],
+          tags: p.tags || [],
+        },
+      });
+      upsertCount++;
+    }
+
+    await this.logActivity(
+      adminId,
+      'CATALOG_SYNCED',
+      'ProductCatalog',
+      'all',
+      `Synchronized ${upsertCount} products into database`,
+    );
+
+    return {
+      success: true,
+      message: `Successfully synchronized ${upsertCount} products.`,
+      count: upsertCount,
+    };
   }
 
   async getAdminUsers(page = 1, limit = 50) {

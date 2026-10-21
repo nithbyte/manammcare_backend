@@ -1,0 +1,130 @@
+[
+  {
+    "id": "faq_01",
+    "question": "What makes MANAM cold-pressed oils different?",
+    "answer": "Our oils are extracted using traditional wooden pestles (Marachekku) at ambient temperatures without chemical refining, bleaching, or deodorizing. This retains 100% of their vital micronutrients, natural aroma, and rich flavor.",
+    "category": "Products",
+    "sortOrder": 1,
+    "isActive": true
+  },
+  {
+    "id": "faq_02",
+    "question": "Is MANAM honey 100% raw and unprocessed?",
+    "answer": "Yes! Our honey is harvested sustainably from wild forest apiaries and filtered without excessive heating, preserving natural enzymes, pollen, and therapeutic properties.",
+    "category": "Products",
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "id": "faq_03",
+    "question": "What is Vedic Bilona Ghee?",
+    "answer": "Vedic Bilona ghee is prepared from the curd of grass-fed A2 Gir cows, churned in bi-directional wooden churners to yield pure makkhan, and slowly clarified over a low flame. It is free from additives and preservatives.",
+    "category": "Products",
+    "sortOrder": 3,
+    "isActive": true
+  },
+  {
+    "id": "faq_04",
+    "question": "Are your ancient millets polished?",
+    "answer": "No. All MANAM millets are unpolished and retain the nutrient-dense outer bran layer, making them an excellent high-fiber, low-glycemic staple.",
+    "category": "Products",
+    "sortOrder": 4,
+    "isActive": true
+  },
+  {
+    "id": "faq_05",
+    "question": "How do I track my order status?",
+    "answer": "You can track your order directly inside the MANAM app by navigating to Orders in the customer dashboard. You will see real-time status updates from Confirmed to Shipped and Delivered.",
+    "category": "Orders & Shipping",
+    "sortOrder": 5,
+    "isActive": true
+  },
+  {
+    "id": "faq_06",
+    "question": "What are your delivery timeframes?",
+    "answer": "Standard delivery takes 2 to 4 business days for major metropolitan areas and 4 to 6 business days for tier-2/tier-3 cities and regional addresses across India.",
+    "category": "Orders & Shipping",
+    "sortOrder": 6,
+    "isActive": true
+  },
+  {
+    "id": "faq_07",
+    "question": "Is delivery free on MANAM orders?",
+    "answer": "Delivery is completely free on all orders valued at ₹999 or higher. For orders below ₹999, a nominal flat delivery fee of ₹60 is applied at checkout.",
+    "category": "Orders & Shipping",
+    "sortOrder": 7,
+    "isActive": true
+  },
+  {
+    "id": "faq_08",
+    "question": "What payment methods are supported?",
+    "answer": "We accept UPI (Google Pay, PhonePe, Paytm, BHIM), Net Banking across all major banks, Credit and Debit Cards (Visa, Mastercard, RuPay), and Cash on Delivery (COD).",
+    "category": "Payments",
+    "sortOrder": 8,
+    "isActive": true
+  },
+  {
+    "id": "faq_09",
+    "question": "Is online payment on MANAM secure?",
+    "answer": "Yes. All digital payments are processed through Razorpay's PCI-DSS Level 1 certified gateway with 256-bit bank-grade encryption. We never store your card numbers or CVV on our servers.",
+    "category": "Payments",
+    "sortOrder": 9,
+    "isActive": true
+  },
+  {
+    "id": "faq_10",
+    "question": "How can I apply a discount coupon?",
+    "answer": "During checkout on the Cart or Payment screen, enter your coupon code in the 'Apply Coupon' box and tap Apply. Your discount will be calculated and deducted instantly from the subtotal.",
+    "category": "Offers & Coupons",
+    "sortOrder": 10,
+    "isActive": true
+  },
+  {
+    "id": "faq_11",
+    "question": "Can I cancel my order after placing it?",
+    "answer": "You can cancel your order from the Order Details screen before it transitions to 'SHIPPED'. Once an order is handed over to our courier partner, it cannot be cancelled directly through the app.",
+    "category": "Cancellations & Returns",
+    "sortOrder": 11,
+    "isActive": true
+  },
+  {
+    "id": "faq_12",
+    "question": "What is the return and refund policy for damaged goods?",
+    "answer": "If any bottle or package arrives damaged or leaking, please report it via the app within 48 hours of delivery. We will initiate a free replacement or instant refund to your source payment method.",
+    "category": "Cancellations & Returns",
+    "sortOrder": 12,
+    "isActive": true
+  },
+  {
+    "id": "faq_13",
+    "question": "How long does a refund take to reflect in my bank account?",
+    "answer": "Online payment refunds are processed within 24 hours of approval and typically credit back to your bank account or UPI handle within 3 to 5 business days.",
+    "category": "Payments",
+    "sortOrder": 13,
+    "isActive": true
+  },
+  {
+    "id": "faq_14",
+    "question": "How can I update my saved shipping addresses?",
+    "answer": "Go to Profile > Saved Addresses. You can add new addresses, edit existing details, mark your preferred default delivery address, or delete unused entries.",
+    "category": "Account & Profile",
+    "sortOrder": 14,
+    "isActive": true
+  },
+  {
+    "id": "faq_15",
+    "question": "Does MANAM charge any membership or recurring subscription fees?",
+    "answer": "No. MANAM has absolutely zero membership fees, zero subscription costs, and no recurring charges. You only pay for the products you choose to order.",
+    "category": "Account & Profile",
+    "sortOrder": 15,
+    "isActive": true
+  },
+  {
+    "id": "faq_16",
+    "question": "How do I reach MANAM Customer Support?",
+    "answer": "You can reach our dedicated support team via email at support@manammcare.com or WhatsApp us at +91 98765 43210 Monday through Saturday from 9:00 AM to 7:00 PM IST.",
+    "category": "Customer Support",
+    "sortOrder": 16,
+    "isActive": true
+  }
+]

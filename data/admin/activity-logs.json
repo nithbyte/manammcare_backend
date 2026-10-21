@@ -1,0 +1,191 @@
+[
+  {
+    "id": "log_001",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_101",
+    "description": "Updated order MNM-2026-9812 status from PENDING to PROCESSING",
+    "createdAt": "2026-03-30T15:00:00.000Z"
+  },
+  {
+    "id": "log_002",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_102",
+    "description": "Updated order MNM-2026-8741 status to DELIVERED",
+    "createdAt": "2026-03-24T17:30:00.000Z"
+  },
+  {
+    "id": "log_003",
+    "adminId": "usr_admin_2",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_1",
+    "description": "Updated stock quantity for Wood-Pressed Groundnut Oil from 30 to 45",
+    "createdAt": "2026-03-25T11:20:00.000Z"
+  },
+  {
+    "id": "log_004",
+    "adminId": "usr_admin_1",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_3",
+    "description": "Updated discount percentage on Bilona Method A2 Desi Cow Ghee",
+    "createdAt": "2026-03-25T14:10:00.000Z"
+  },
+  {
+    "id": "log_005",
+    "adminId": "usr_admin_2",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_103",
+    "description": "Dispatched order MNM-2026-7654 via BlueDart logistics",
+    "createdAt": "2026-03-26T09:45:00.000Z"
+  },
+  {
+    "id": "log_006",
+    "adminId": "usr_admin_1",
+    "action": "USER_UPDATED",
+    "entity": "User",
+    "entityId": "usr_05",
+    "description": "Verified customer phone number and activated account status",
+    "createdAt": "2026-03-26T12:00:00.000Z"
+  },
+  {
+    "id": "log_007",
+    "adminId": "usr_admin_2",
+    "action": "CATEGORY_UPDATED",
+    "entity": "Category",
+    "entityId": "cat_oils",
+    "description": "Updated banner display image for Cold-Pressed Oils category",
+    "createdAt": "2026-03-27T10:15:00.000Z"
+  },
+  {
+    "id": "log_008",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_107",
+    "description": "Approved order cancellation and triggered payment refund for MNM-2026-1007",
+    "createdAt": "2026-03-27T14:30:00.000Z"
+  },
+  {
+    "id": "log_009",
+    "adminId": "usr_admin_2",
+    "action": "PRODUCT_CREATED",
+    "entity": "Product",
+    "entityId": "prod_55",
+    "description": "Created new product listing: Artisanal Calming Chamomile Infusion",
+    "createdAt": "2026-03-28T16:20:00.000Z"
+  },
+  {
+    "id": "log_010",
+    "adminId": "usr_admin_1",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_10",
+    "description": "Replenished inventory stock for A2 Desi Cow Cultured Ghee 1L Jar",
+    "createdAt": "2026-03-28T18:00:00.000Z"
+  },
+  {
+    "id": "log_011",
+    "adminId": "usr_admin_2",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_108",
+    "description": "Updated order MNM-2026-1008 status to SHIPPED",
+    "createdAt": "2026-03-29T10:00:00.000Z"
+  },
+  {
+    "id": "log_012",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_109",
+    "description": "Assigned warehouse picker for order MNM-2026-1009",
+    "createdAt": "2026-03-29T11:30:00.000Z"
+  },
+  {
+    "id": "log_013",
+    "adminId": "usr_admin_2",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_22",
+    "description": "Updated tags and search keywords for Barnyard Millet",
+    "createdAt": "2026-03-29T14:00:00.000Z"
+  },
+  {
+    "id": "log_014",
+    "adminId": "usr_admin_1",
+    "action": "CATEGORY_UPDATED",
+    "entity": "Category",
+    "entityId": "cat_millets",
+    "description": "Updated sort order priority for Millets & Ancient Grains",
+    "createdAt": "2026-03-29T15:45:00.000Z"
+  },
+  {
+    "id": "log_015",
+    "adminId": "usr_admin_2",
+    "action": "USER_UPDATED",
+    "entity": "User",
+    "entityId": "usr_11",
+    "description": "Updated user profile details upon support request",
+    "createdAt": "2026-03-30T09:10:00.000Z"
+  },
+  {
+    "id": "log_016",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_110",
+    "description": "Confirmed delivery receipt for order MNM-2026-1010",
+    "createdAt": "2026-03-30T11:20:00.000Z"
+  },
+  {
+    "id": "log_017",
+    "adminId": "usr_admin_2",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_17",
+    "description": "Updated promotional price for California Whole Almonds",
+    "createdAt": "2026-03-30T13:00:00.000Z"
+  },
+  {
+    "id": "log_018",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_112",
+    "description": "Transferred package MNM-2026-1012 to courier partner Delhivery",
+    "createdAt": "2026-03-30T14:40:00.000Z"
+  },
+  {
+    "id": "log_019",
+    "adminId": "usr_admin_2",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_33",
+    "description": "Adjusted inventory low-stock threshold for Organic Sugarcane Jaggery",
+    "createdAt": "2026-03-30T16:15:00.000Z"
+  },
+  {
+    "id": "log_020",
+    "adminId": "usr_admin_1",
+    "action": "ORDER_STATUS_UPDATED",
+    "entity": "Order",
+    "entityId": "ord_116",
+    "description": "Dispatched order MNM-2026-1016 via express surface",
+    "createdAt": "2026-03-31T09:30:00.000Z"
+  },
+  {
+    "id": "log_021",
+    "adminId": "usr_admin_2",
+    "action": "PRODUCT_UPDATED",
+    "entity": "Product",
+    "entityId": "prod_49",
+    "description": "Verified packaging compliance for Himalayan Pink Rock Salt 1kg",
+    "createdAt": "2026-03-31T11:00:00.000Z"
+  }
+]

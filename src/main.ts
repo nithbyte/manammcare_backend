@@ -6,6 +6,7 @@ import helmet from 'helmet';
 import * as compression from 'compression';
 import * as express from 'express';
 import * as path from 'path';
+import * as fs from 'fs';
 
 async function bootstrap() {
   const logger = new Logger('Bootstrap');
@@ -22,11 +23,23 @@ async function bootstrap() {
   // HTTP Compression
   app.use(compression());
 
-  // Static uploads directory for secure payment proofs
-  app.use('/uploads', (req, res, next) => {
+  // Static uploads & images directory for product images and media
+  const uploadsPath = fs.existsSync(path.resolve(process.cwd(), 'uploads'))
+    ? path.resolve(process.cwd(), 'uploads')
+    : path.resolve(__dirname, '../uploads');
+
+  if (!fs.existsSync(uploadsPath)) {
+    fs.mkdirSync(uploadsPath, { recursive: true });
+  }
+
+  const staticHeadersMiddleware = (req: any, res: any, next: any) => {
     res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
+    res.setHeader('Access-Control-Allow-Origin', '*');
     next();
-  }, express.static(path.resolve(__dirname, '../uploads')));
+  };
+
+  app.use('/uploads', staticHeadersMiddleware, express.static(uploadsPath));
+  app.use('/images', staticHeadersMiddleware, express.static(path.join(uploadsPath, 'products')));
 
   // Input Validation & Transformation
   app.useGlobalPipes(

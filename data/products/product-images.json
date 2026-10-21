@@ -1,0 +1,114 @@
+[
+  {
+    "id": "pimg_1_1",
+    "productId": "prod_1",
+    "url": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80",
+    "alt": "Wood-Pressed Groundnut Oil 1 Litre Bottle",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_1_2",
+    "productId": "prod_1",
+    "url": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "alt": "Traditional Groundnut Crushing Wooden Ghani",
+    "sortOrder": 2,
+    "isPrimary": false
+  },
+  {
+    "id": "pimg_2_1",
+    "productId": "prod_2",
+    "url": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80",
+    "alt": "Wild Forest Honey Jar 500g",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_2_2",
+    "productId": "prod_2",
+    "url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?auto=format&fit=crop&w=600&q=80",
+    "alt": "Forest Honey Drizzle and Comb",
+    "sortOrder": 2,
+    "isPrimary": false
+  },
+  {
+    "id": "pimg_3_1",
+    "productId": "prod_3",
+    "url": "https://images.unsplash.com/photo-1631451095765-2c91616fc9e6?auto=format&fit=crop&w=600&q=80",
+    "alt": "A2 Bilona Desi Cow Ghee Jar",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_4_1",
+    "productId": "prod_4",
+    "url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?auto=format&fit=crop&w=600&q=80",
+    "alt": "Lakadong Turmeric Powder 250g",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_5_1",
+    "productId": "prod_5",
+    "url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80",
+    "alt": "Unpolished Foxtail Millet 1kg Bag",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_6_1",
+    "productId": "prod_6",
+    "url": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80",
+    "alt": "Cold-Pressed Black Sesame Oil 1L",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_7_1",
+    "productId": "prod_7",
+    "url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80",
+    "alt": "Virgin Coconut Oil 1L",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_28_1",
+    "productId": "prod_28",
+    "url": "https://images.unsplash.com/photo-1596797038530-2c107229654b?auto=format&fit=crop&w=600&q=80",
+    "alt": "California Jumbo Almonds 500g",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_38_1",
+    "productId": "prod_38",
+    "url": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&w=600&q=80",
+    "alt": "Natural Cane Jaggery Powder 1kg",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_46_1",
+    "productId": "prod_46",
+    "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+    "alt": "Stone-Ground Sharbati Atta 5kg",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_50_1",
+    "productId": "prod_50",
+    "url": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=600&q=80",
+    "alt": "Unpolished Desi Toor Dal 1kg",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
+    "id": "pimg_53_1",
+    "productId": "prod_53",
+    "url": "https://images.unsplash.com/photo-1518110925495-5fe2fda0442c?auto=format&fit=crop&w=600&q=80",
+    "alt": "Himalayan Pink Rock Salt 1kg",
+    "sortOrder": 1,
+    "isPrimary": true
+  }
+]

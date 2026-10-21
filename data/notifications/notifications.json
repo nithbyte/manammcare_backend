@@ -1,0 +1,416 @@
+[
+  {
+    "id": "notif_001",
+    "userId": "usr_01",
+    "type": "ORDER",
+    "title": "Order Confirmed",
+    "message": "Your order #MNM-2026-1001 has been confirmed and is being packed.",
+    "isRead": true,
+    "createdAt": "2026-03-01T10:35:00.000Z",
+    "data": { "orderId": "ord_001", "orderNumber": "MNM-2026-1001" }
+  },
+  {
+    "id": "notif_002",
+    "userId": "usr_01",
+    "type": "ORDER",
+    "title": "Order Shipped",
+    "message": "Order #MNM-2026-1001 is on its way via BlueDart. Track code: BD-9283741.",
+    "isRead": true,
+    "createdAt": "2026-03-02T14:20:00.000Z",
+    "data": { "orderId": "ord_001", "orderNumber": "MNM-2026-1001" }
+  },
+  {
+    "id": "notif_003",
+    "userId": "usr_01",
+    "type": "ORDER",
+    "title": "Order Delivered",
+    "message": "Package #MNM-2026-1001 was delivered successfully. Enjoy your fresh cold-pressed oils!",
+    "isRead": false,
+    "createdAt": "2026-03-04T16:45:00.000Z",
+    "data": { "orderId": "ord_001", "orderNumber": "MNM-2026-1001" }
+  },
+  {
+    "id": "notif_004",
+    "userId": "usr_01",
+    "type": "PROMOTION",
+    "title": "Oil Harvest Festival is Live",
+    "message": "Get 15% off across all pure wood-pressed edible oils this week.",
+    "isRead": false,
+    "createdAt": "2026-03-05T09:00:00.000Z",
+    "data": { "offerId": "off_01" }
+  },
+  {
+    "id": "notif_005",
+    "userId": "usr_02",
+    "type": "ORDER",
+    "title": "Order Confirmed",
+    "message": "Your order #MNM-2026-1002 has been received. Thank you for choosing MANAM.",
+    "isRead": true,
+    "createdAt": "2026-03-02T11:45:00.000Z",
+    "data": { "orderId": "ord_002", "orderNumber": "MNM-2026-1002" }
+  },
+  {
+    "id": "notif_006",
+    "userId": "usr_02",
+    "type": "ORDER",
+    "title": "Order Shipped",
+    "message": "Order #MNM-2026-1002 is out for delivery with Delhivery.",
+    "isRead": false,
+    "createdAt": "2026-03-03T10:15:00.000Z",
+    "data": { "orderId": "ord_002", "orderNumber": "MNM-2026-1002" }
+  },
+  {
+    "id": "notif_007",
+    "userId": "usr_02",
+    "type": "PAYMENT",
+    "title": "Payment Successful",
+    "message": "Payment of ₹1,490 received successfully for order #MNM-2026-1002.",
+    "isRead": true,
+    "createdAt": "2026-03-02T11:45:30.000Z",
+    "data": { "orderId": "ord_002", "amount": 1490 }
+  },
+  {
+    "id": "notif_008",
+    "userId": "usr_03",
+    "type": "ORDER",
+    "title": "Order Processing",
+    "message": "Order #MNM-2026-1003 is currently being sorted at our Bangalore hub.",
+    "isRead": true,
+    "createdAt": "2026-03-03T15:20:00.000Z",
+    "data": { "orderId": "ord_003", "orderNumber": "MNM-2026-1003" }
+  },
+  {
+    "id": "notif_009",
+    "userId": "usr_03",
+    "type": "PROMOTION",
+    "title": "New Season A2 Ghee Available",
+    "message": "Freshly cultured Vedic Bilona A2 Desi Gir Cow Ghee is now back in stock.",
+    "isRead": false,
+    "createdAt": "2026-03-04T12:00:00.000Z",
+    "data": { "productId": "prod_10" }
+  },
+  {
+    "id": "notif_010",
+    "userId": "usr_04",
+    "type": "ORDER",
+    "title": "Order Confirmed",
+    "message": "Order #MNM-2026-1004 is confirmed and will be dispatched tomorrow.",
+    "isRead": true,
+    "createdAt": "2026-03-04T17:00:00.000Z",
+    "data": { "orderId": "ord_004", "orderNumber": "MNM-2026-1004" }
+  },
+  {
+    "id": "notif_011",
+    "userId": "usr_04",
+    "type": "SYSTEM",
+    "title": "Address Verified",
+    "message": "Your delivery address in Jubilee Hills, Hyderabad has been verified.",
+    "isRead": true,
+    "createdAt": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "id": "notif_012",
+    "userId": "usr_05",
+    "type": "ORDER",
+    "title": "Order Awaiting Payment",
+    "message": "Order #MNM-2026-1005 is pending payment. Complete payment to secure items.",
+    "isRead": false,
+    "createdAt": "2026-03-05T09:10:00.000Z",
+    "data": { "orderId": "ord_005", "orderNumber": "MNM-2026-1005" }
+  },
+  {
+    "id": "notif_013",
+    "userId": "usr_05",
+    "type": "ACCOUNT",
+    "title": "Welcome to MANAM",
+    "message": "Thank you for creating an account. Enjoy fresh organic staples!",
+    "isRead": true,
+    "createdAt": "2026-01-15T10:00:00.000Z"
+  },
+  {
+    "id": "notif_014",
+    "userId": "usr_06",
+    "type": "ORDER",
+    "title": "Order Delivered",
+    "message": "Order #MNM-2026-1006 has arrived. Please rate your delivery experience.",
+    "isRead": true,
+    "createdAt": "2026-03-04T18:00:00.000Z",
+    "data": { "orderId": "ord_006", "orderNumber": "MNM-2026-1006" }
+  },
+  {
+    "id": "notif_015",
+    "userId": "usr_06",
+    "type": "PROMOTION",
+    "title": "Millets Healthy Starter Offer",
+    "message": "Get 10% off unpolished ancient millets this weekend.",
+    "isRead": false,
+    "createdAt": "2026-03-06T11:00:00.000Z",
+    "data": { "offerId": "off_03" }
+  },
+  {
+    "id": "notif_016",
+    "userId": "usr_07",
+    "type": "ORDER",
+    "title": "Order Cancelled",
+    "message": "Order #MNM-2026-1007 was cancelled as requested. Refund initiated.",
+    "isRead": true,
+    "createdAt": "2026-03-02T14:00:00.000Z",
+    "data": { "orderId": "ord_007", "orderNumber": "MNM-2026-1007" }
+  },
+  {
+    "id": "notif_017",
+    "userId": "usr_07",
+    "type": "PAYMENT",
+    "title": "Refund Processed",
+    "message": "Refund of ₹880 has been initiated to your UPI handle via Razorpay.",
+    "isRead": false,
+    "createdAt": "2026-03-02T14:30:00.000Z",
+    "data": { "orderId": "ord_007", "amount": 880 }
+  },
+  {
+    "id": "notif_018",
+    "userId": "usr_08",
+    "type": "ORDER",
+    "title": "Order Shipped",
+    "message": "Order #MNM-2026-1008 has been dispatched via BlueDart Express.",
+    "isRead": false,
+    "createdAt": "2026-03-05T13:45:00.000Z",
+    "data": { "orderId": "ord_008", "orderNumber": "MNM-2026-1008" }
+  },
+  {
+    "id": "notif_019",
+    "userId": "usr_08",
+    "type": "PAYMENT",
+    "title": "Payment Confirmed",
+    "message": "Payment of ₹2,150 confirmed for order #MNM-2026-1008.",
+    "isRead": true,
+    "createdAt": "2026-03-04T12:30:00.000Z",
+    "data": { "orderId": "ord_008", "amount": 2150 }
+  },
+  {
+    "id": "notif_020",
+    "userId": "usr_09",
+    "type": "ORDER",
+    "title": "Order Processing",
+    "message": "Items for order #MNM-2026-1009 are being packed in eco-friendly boxes.",
+    "isRead": false,
+    "createdAt": "2026-03-05T16:00:00.000Z",
+    "data": { "orderId": "ord_009", "orderNumber": "MNM-2026-1009" }
+  },
+  {
+    "id": "notif_021",
+    "userId": "usr_10",
+    "type": "ORDER",
+    "title": "Order Delivered",
+    "message": "Package #MNM-2026-1010 has been delivered to your front door.",
+    "isRead": true,
+    "createdAt": "2026-03-03T17:15:00.000Z",
+    "data": { "orderId": "ord_010", "orderNumber": "MNM-2026-1010" }
+  },
+  {
+    "id": "notif_022",
+    "userId": "usr_10",
+    "type": "PROMOTION",
+    "title": "Dry Fruits Fiesta",
+    "message": "Enjoy 18% off premium California almonds and walnuts.",
+    "isRead": false,
+    "createdAt": "2026-03-06T10:00:00.000Z",
+    "data": { "offerId": "off_08" }
+  },
+  {
+    "id": "notif_023",
+    "userId": "usr_11",
+    "type": "ORDER",
+    "title": "Order Confirmed",
+    "message": "Order #MNM-2026-1011 has been placed successfully.",
+    "isRead": true,
+    "createdAt": "2026-03-04T18:20:00.000Z",
+    "data": { "orderId": "ord_011", "orderNumber": "MNM-2026-1011" }
+  },
+  {
+    "id": "notif_024",
+    "userId": "usr_11",
+    "type": "SYSTEM",
+    "title": "Security Notice",
+    "message": "New sign-in detected on your MANAM account from mobile device.",
+    "isRead": true,
+    "createdAt": "2026-03-04T18:15:00.000Z"
+  },
+  {
+    "id": "notif_025",
+    "userId": "usr_12",
+    "type": "ORDER",
+    "title": "Order Shipped",
+    "message": "Order #MNM-2026-1012 has left our regional packaging center.",
+    "isRead": false,
+    "createdAt": "2026-03-05T11:00:00.000Z",
+    "data": { "orderId": "ord_012", "orderNumber": "MNM-2026-1012" }
+  },
+  {
+    "id": "notif_026",
+    "userId": "usr_12",
+    "type": "PAYMENT",
+    "title": "Payment Successful",
+    "message": "Payment of ₹1,620 received for order #MNM-2026-1012.",
+    "isRead": true,
+    "createdAt": "2026-03-04T19:00:00.000Z",
+    "data": { "orderId": "ord_012", "amount": 1620 }
+  },
+  {
+    "id": "notif_027",
+    "userId": "usr_13",
+    "type": "ORDER",
+    "title": "Order Processing",
+    "message": "Order #MNM-2026-1013 is being prepared for dispatch.",
+    "isRead": true,
+    "createdAt": "2026-03-05T14:30:00.000Z",
+    "data": { "orderId": "ord_013", "orderNumber": "MNM-2026-1013" }
+  },
+  {
+    "id": "notif_028",
+    "userId": "usr_13",
+    "type": "PROMOTION",
+    "title": "Save on Vedic Ghee",
+    "message": "Flat ₹150 off on pure A2 Gir cow bilona ghee jars.",
+    "isRead": false,
+    "createdAt": "2026-03-06T09:30:00.000Z",
+    "data": { "offerId": "off_02" }
+  },
+  {
+    "id": "notif_029",
+    "userId": "usr_14",
+    "type": "ORDER",
+    "title": "Order Delivered",
+    "message": "Your package #MNM-2026-1014 has arrived safely at your residence.",
+    "isRead": true,
+    "createdAt": "2026-03-03T16:00:00.000Z",
+    "data": { "orderId": "ord_014", "orderNumber": "MNM-2026-1014" }
+  },
+  {
+    "id": "notif_030",
+    "userId": "usr_15",
+    "type": "ORDER",
+    "title": "Order Confirmed",
+    "message": "Order #MNM-2026-1015 confirmed. Expected delivery within 3 days.",
+    "isRead": false,
+    "createdAt": "2026-03-05T12:00:00.000Z",
+    "data": { "orderId": "ord_015", "orderNumber": "MNM-2026-1015" }
+  },
+  {
+    "id": "notif_031",
+    "userId": "usr_15",
+    "type": "PAYMENT",
+    "title": "Payment Confirmed",
+    "message": "Payment of ₹1,120 received successfully via Net Banking.",
+    "isRead": true,
+    "createdAt": "2026-03-05T12:01:00.000Z",
+    "data": { "orderId": "ord_015", "amount": 1120 }
+  },
+  {
+    "id": "notif_032",
+    "userId": "usr_16",
+    "type": "ORDER",
+    "title": "Order Shipped",
+    "message": "Order #MNM-2026-1016 is out with courier tracking #SF-819203.",
+    "isRead": false,
+    "createdAt": "2026-03-06T10:00:00.000Z",
+    "data": { "orderId": "ord_016", "orderNumber": "MNM-2026-1016" }
+  },
+  {
+    "id": "notif_033",
+    "userId": "usr_16",
+    "type": "SYSTEM",
+    "title": "App Version Updated",
+    "message": "You are running the latest version of MANAM with enhanced cart performance.",
+    "isRead": true,
+    "createdAt": "2026-03-01T07:00:00.000Z"
+  },
+  {
+    "id": "notif_034",
+    "userId": "usr_17",
+    "type": "ORDER",
+    "title": "Order Processing",
+    "message": "Order #MNM-2026-1017 is being packed carefully.",
+    "isRead": true,
+    "createdAt": "2026-03-06T12:00:00.000Z",
+    "data": { "orderId": "ord_017", "orderNumber": "MNM-2026-1017" }
+  },
+  {
+    "id": "notif_035",
+    "userId": "usr_17",
+    "type": "PROMOTION",
+    "title": "Herbal Wellness Bundle",
+    "message": "Boost immunity naturally with Ashwagandha & raw forest honey combo.",
+    "isRead": false,
+    "createdAt": "2026-03-06T15:00:00.000Z",
+    "data": { "offerId": "off_07" }
+  },
+  {
+    "id": "notif_036",
+    "userId": "usr_18",
+    "type": "ORDER",
+    "title": "Order Delivered",
+    "message": "Order #MNM-2026-1018 has been handed to recipient.",
+    "isRead": true,
+    "createdAt": "2026-03-04T15:30:00.000Z",
+    "data": { "orderId": "ord_018", "orderNumber": "MNM-2026-1018" }
+  },
+  {
+    "id": "notif_037",
+    "userId": "usr_18",
+    "type": "PAYMENT",
+    "title": "Cash on Delivery Collected",
+    "message": "COD amount ₹1,750 was collected successfully upon delivery.",
+    "isRead": true,
+    "createdAt": "2026-03-04T15:31:00.000Z",
+    "data": { "orderId": "ord_018", "amount": 1750 }
+  },
+  {
+    "id": "notif_038",
+    "userId": "usr_19",
+    "type": "ORDER",
+    "title": "Order Confirmed",
+    "message": "Order #MNM-2026-1019 has been confirmed. Preparing dispatch.",
+    "isRead": false,
+    "createdAt": "2026-03-06T14:10:00.000Z",
+    "data": { "orderId": "ord_019", "orderNumber": "MNM-2026-1019" }
+  },
+  {
+    "id": "notif_039",
+    "userId": "usr_19",
+    "type": "ACCOUNT",
+    "title": "Profile Updated",
+    "message": "Your contact phone number has been updated successfully.",
+    "isRead": true,
+    "createdAt": "2026-02-28T16:00:00.000Z"
+  },
+  {
+    "id": "notif_040",
+    "userId": "usr_20",
+    "type": "ORDER",
+    "title": "Order Delivered",
+    "message": "Order #MNM-2026-1020 was delivered successfully. Enjoy the organic pulses!",
+    "isRead": true,
+    "createdAt": "2026-03-05T17:00:00.000Z",
+    "data": { "orderId": "ord_020", "orderNumber": "MNM-2026-1020" }
+  },
+  {
+    "id": "notif_041",
+    "userId": "usr_20",
+    "type": "PROMOTION",
+    "title": "Free Nationwide Farm Delivery",
+    "message": "Free doorstep shipping on all organic wellness & grocery orders over ₹999.",
+    "isRead": false,
+    "createdAt": "2026-03-06T08:00:00.000Z",
+    "data": { "offerId": "off_05" }
+  },
+  {
+    "id": "notif_042",
+    "userId": "usr_01",
+    "type": "SYSTEM",
+    "title": "Sunday Delivery Available",
+    "message": "Express weekend doorstep delivery is now active in your pin code area.",
+    "isRead": false,
+    "createdAt": "2026-03-07T08:30:00.000Z"
+  }
+]

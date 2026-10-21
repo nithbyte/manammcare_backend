@@ -1,0 +1,75 @@
+{
+  "customerTabs": [
+    {
+      "id": "tab_home",
+      "title": "Home",
+      "route": "/(customer)",
+      "icon": "home",
+      "requiresAuth": false
+    },
+    {
+      "id": "tab_categories",
+      "title": "Categories",
+      "route": "/(customer)/categories",
+      "icon": "grid-outline",
+      "requiresAuth": false
+    },
+    {
+      "id": "tab_cart",
+      "title": "Cart",
+      "route": "/(customer)/cart",
+      "icon": "bag-handle-outline",
+      "requiresAuth": false
+    },
+    {
+      "id": "tab_orders",
+      "title": "Orders",
+      "route": "/(customer)/orders",
+      "icon": "receipt-outline",
+      "requiresAuth": true,
+      "requiredRole": "CUSTOMER"
+    },
+    {
+      "id": "tab_profile",
+      "title": "Profile",
+      "route": "/(customer)/profile",
+      "icon": "person-outline",
+      "requiresAuth": true,
+      "requiredRole": "CUSTOMER"
+    }
+  ],
+  "adminTabs": [
+    {
+      "id": "adm_dashboard",
+      "title": "Dashboard",
+      "route": "/(admin)",
+      "icon": "stats-chart",
+      "requiresAuth": true,
+      "requiredRole": "ADMIN"
+    },
+    {
+      "id": "adm_products",
+      "title": "Products",
+      "route": "/(admin)/products",
+      "icon": "cube-outline",
+      "requiresAuth": true,
+      "requiredRole": "ADMIN"
+    },
+    {
+      "id": "adm_orders",
+      "title": "Orders",
+      "route": "/(admin)/orders",
+      "icon": "cart-outline",
+      "requiresAuth": true,
+      "requiredRole": "ADMIN"
+    },
+    {
+      "id": "adm_customers",
+      "title": "Customers",
+      "route": "/(admin)/customers",
+      "icon": "people-outline",
+      "requiresAuth": true,
+      "requiredRole": "ADMIN"
+    }
+  ]
+}

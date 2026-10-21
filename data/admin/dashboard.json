@@ -1,0 +1,94 @@
+{
+  "totalCustomers": 20,
+  "totalProducts": 55,
+  "totalOrders": 32,
+  "pendingOrders": 4,
+  "processingOrders": 7,
+  "completedOrders": 17,
+  "cancelledOrders": 4,
+  "totalRevenue": 68420,
+  "recentOrders": [
+    {
+      "id": "ord_101",
+      "orderNumber": "MNM-2026-9812",
+      "userId": "usr_01",
+      "customerId": "usr_01",
+      "customerName": "Ananya Sharma",
+      "customerPhone": "+91 98765 43210",
+      "items": [
+        { "id": "oi_1", "orderId": "ord_101", "productId": "prod_1", "productName": "Wood-Pressed Groundnut Oil", "productImage": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80", "unit": "1 Litre", "unitPrice": 340, "quantity": 2, "totalPrice": 680, "lineTotal": 680 },
+        { "id": "oi_2", "orderId": "ord_101", "productId": "prod_2", "productName": "Organic Wild Forest Honey", "productImage": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80", "unit": "500g", "unitPrice": 480, "quantity": 1, "totalPrice": 480, "lineTotal": 480 }
+      ],
+      "pricing": { "subtotal": 1160, "discount": 0, "shippingFee": 0, "grandTotal": 1160, "totalItems": 3 },
+      "subtotal": 1160,
+      "discount": 0,
+      "deliveryCharge": 0,
+      "tax": 0,
+      "grandTotal": 1160,
+      "currency": "INR",
+      "shippingAddress": { "fullName": "Ananya Sharma", "phone": "+91 98765 43210", "addressLine1": "Flat 402, Green Meadows Residency", "addressLine2": "Road No. 12, Banjara Hills", "city": "Hyderabad", "state": "Telangana", "postalCode": "500034" },
+      "status": "processing",
+      "orderStatus": "PROCESSING",
+      "paymentStatus": "completed",
+      "paymentMethod": "razorpay",
+      "createdAt": "2026-03-30T14:20:00Z",
+      "updatedAt": "2026-03-30T15:00:00Z"
+    },
+    {
+      "id": "ord_102",
+      "orderNumber": "MNM-2026-8741",
+      "userId": "usr_01",
+      "customerId": "usr_01",
+      "customerName": "Ananya Sharma",
+      "customerPhone": "+91 98765 43210",
+      "items": [
+        { "id": "oi_3", "orderId": "ord_102", "productId": "prod_3", "productName": "Bilona Method A2 Desi Cow Ghee", "productImage": "https://images.unsplash.com/photo-1631451095765-2c91616fc9e6?auto=format&fit=crop&w=600&q=80", "unit": "500ml", "unitPrice": 950, "quantity": 1, "totalPrice": 950, "lineTotal": 950 },
+        { "id": "oi_4", "orderId": "ord_102", "productId": "prod_5", "productName": "Unpolished Foxtail Millet (Kangni)", "productImage": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80", "unit": "1 kg", "unitPrice": 160, "quantity": 1, "totalPrice": 160, "lineTotal": 160 }
+      ],
+      "pricing": { "subtotal": 1110, "discount": 0, "shippingFee": 0, "grandTotal": 1110, "totalItems": 2 },
+      "subtotal": 1110,
+      "discount": 0,
+      "deliveryCharge": 0,
+      "tax": 0,
+      "grandTotal": 1110,
+      "currency": "INR",
+      "shippingAddress": { "fullName": "Ananya Sharma", "phone": "+91 98765 43210", "addressLine1": "Flat 402, Green Meadows Residency", "addressLine2": "Road No. 12, Banjara Hills", "city": "Hyderabad", "state": "Telangana", "postalCode": "500034" },
+      "status": "delivered",
+      "orderStatus": "DELIVERED",
+      "paymentStatus": "completed",
+      "paymentMethod": "upi",
+      "createdAt": "2026-03-22T09:15:00Z",
+      "updatedAt": "2026-03-24T17:30:00Z"
+    }
+  ],
+  "topProducts": [
+    {
+      "productId": "prod_1",
+      "productName": "Wood-Pressed Groundnut Oil",
+      "totalQuantitySold": 142,
+      "totalRevenue": 48280,
+      "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "productId": "prod_3",
+      "productName": "Bilona Method A2 Desi Cow Ghee",
+      "totalQuantitySold": 78,
+      "totalRevenue": 74100,
+      "imageUrl": "https://images.unsplash.com/photo-1631451095765-2c91616fc9e6?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "productId": "prod_2",
+      "productName": "Organic Wild Forest Honey",
+      "totalQuantitySold": 96,
+      "totalRevenue": 46080,
+      "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "productId": "prod_4",
+      "productName": "Wood-Pressed Virgin Coconut Oil",
+      "totalQuantitySold": 64,
+      "totalRevenue": 26880,
+      "imageUrl": "https://images.unsplash.com/photo-1526947425960-945c6e72858f?auto=format&fit=crop&w=600&q=80"
+    }
+  ]
+}
