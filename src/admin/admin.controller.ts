@@ -18,6 +18,7 @@ import * as path from 'path';
 import * as fs from 'fs';
 import { AdminService } from './admin.service';
 import { NetworkingService } from '../networking/networking.service';
+import { CloudinaryService } from '../cloudinary/cloudinary.service';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
 import { RolesGuard } from '../common/guards/roles.guard';
 import { Roles } from '../common/decorators/roles.decorator';
@@ -32,6 +33,7 @@ export class AdminController {
   constructor(
     private adminService: AdminService,
     private networkingService: NetworkingService,
+    private cloudinaryService: CloudinaryService,
   ) {}
 
   @Get('dashboard')
@@ -88,23 +90,9 @@ export class AdminController {
 
   @Post('products/upload-image')
   @ApiConsumes('multipart/form-data')
-  @ApiOperation({ summary: 'Admin: Upload product image file or base64 to backend' })
+  @ApiOperation({ summary: 'Admin: Upload product image to Cloudinary with auto compression' })
   @UseInterceptors(
     FileInterceptor('file', {
-      storage: diskStorage({
-        destination: (req, file, cb) => {
-          const prodDir = path.resolve(process.cwd(), 'uploads/products');
-          if (!fs.existsSync(prodDir)) {
-            fs.mkdirSync(prodDir, { recursive: true });
-          }
-          cb(null, prodDir);
-        },
-        filename: (req, file, cb) => {
-          const ext = path.extname(file.originalname).toLowerCase() || '.jpg';
-          const sanitized = path.basename(file.originalname, ext).replace(/[^a-zA-Z0-9_-]/g, '_');
-          cb(null, `${sanitized}_${Date.now()}${ext}`);
-        },
-      }),
       limits: { fileSize: 10 * 1024 * 1024 }, // 10MB
     }),
   )
@@ -116,30 +104,31 @@ export class AdminController {
       throw new BadRequestException('Image file or base64Image is required.');
     }
 
-    const prodDir = path.resolve(process.cwd(), 'uploads/products');
-    if (!fs.existsSync(prodDir)) {
-      fs.mkdirSync(prodDir, { recursive: true });
-    }
+    try {
+      let buffer: Buffer;
+      if (file) {
+        buffer = file.buffer;
+      } else {
+        const base64Data = body.base64Image.replace(/^data:image\/\w+;base64,/, '');
+        buffer = Buffer.from(base64Data, 'base64');
+      }
 
-    let filename = '';
-    if (file) {
-      filename = file.filename;
-    } else {
-      const ext = body.ext || '.jpg';
-      filename = `product_${Date.now()}_${Math.random().toString(36).substring(2, 7)}${ext}`;
-      const targetPath = path.join(prodDir, filename);
-      const base64Data = body.base64Image.replace(/^data:image\/\w+;base64,/, '');
-      fs.writeFileSync(targetPath, Buffer.from(base64Data, 'base64'));
-    }
+      const result = await this.cloudinaryService.uploadBuffer(buffer, {
+        folder: 'manamm/products',
+      });
 
-    const url = `/uploads/products/${filename}`;
-    return {
-      success: true,
-      data: {
-        url,
-        filename,
-      },
-    };
+      return {
+        success: true,
+        data: {
+          url: result.secure_url,
+          public_id: result.public_id,
+          format: result.format,
+          bytes: result.bytes,
+        },
+      };
+    } catch (err: any) {
+      throw new BadRequestException(`Cloudinary upload failed: ${err.message}`);
+    }
   }
 
   @Post('products/sync-catalog')

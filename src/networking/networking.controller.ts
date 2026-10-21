@@ -18,6 +18,7 @@ import { diskStorage } from 'multer';
 import * as path from 'path';
 import * as fs from 'fs';
 import { NetworkingService } from './networking.service';
+import { CloudinaryService } from '../cloudinary/cloudinary.service';
 import {
   ValidateReferralDto,
   QueryReferralsDto,
@@ -37,7 +38,10 @@ if (!fs.existsSync(uploadDir)) {
 @ApiTags('Networking')
 @Controller('api/networking')
 export class NetworkingController {
-  constructor(private networkingService: NetworkingService) {}
+  constructor(
+    private networkingService: NetworkingService,
+    private cloudinaryService: CloudinaryService,
+  ) {}
 
   @Get('dashboard')
   @UseGuards(JwtAuthGuard)
@@ -123,17 +127,9 @@ export class NetworkingController {
   @Roles('ADMIN')
   @ApiBearerAuth()
   @ApiConsumes('multipart/form-data')
-  @ApiOperation({ summary: 'Admin: Upload GPay payment proof screenshot' })
+  @ApiOperation({ summary: 'Admin: Upload GPay payment proof screenshot to Cloudinary' })
   @UseInterceptors(
     FileInterceptor('file', {
-      storage: diskStorage({
-        destination: uploadDir,
-        filename: (req, file, cb) => {
-          const ext = path.extname(file.originalname).toLowerCase();
-          const uniqueSuffix = `${Date.now()}_${Math.random().toString(36).substring(2, 9)}`;
-          cb(null, `gpay_proof_${uniqueSuffix}${ext}`);
-        },
-      }),
       limits: { fileSize: 5 * 1024 * 1024 }, // 5MB limit
       fileFilter: (req, file, cb) => {
         const allowedExtensions = ['.jpg', '.jpeg', '.png', '.webp', '.pdf'];
@@ -153,31 +149,30 @@ export class NetworkingController {
       throw new BadRequestException('Screenshot file or base64 data is required.');
     }
 
-    if (file) {
-      // Return file reference URL
-      const proofUrl = `/uploads/proofs/${file.filename}`;
+    try {
+      let buffer: Buffer;
+      if (file) {
+        buffer = file.buffer;
+      } else {
+        const base64Data = body.base64Image.replace(/^data:image\/\w+;base64,/, '');
+        buffer = Buffer.from(base64Data, 'base64');
+      }
+
+      const result = await this.cloudinaryService.uploadBuffer(buffer, {
+        folder: 'manamm/proofs',
+      });
+
       return {
         success: true,
         data: {
-          url: proofUrl,
-          filename: file.filename,
-          size: file.size,
+          url: result.secure_url,
+          public_id: result.public_id,
+          filename: result.public_id,
+          size: result.bytes,
         },
       };
+    } catch (err: any) {
+      throw new BadRequestException(`Cloudinary proof upload failed: ${err.message}`);
     }
-
-    // Handle base64 fallback
-    const base64Data = body.base64Image.replace(/^data:image\/\w+;base64,/, '');
-    const filename = `gpay_proof_${Date.now()}_${Math.random().toString(36).substring(2, 7)}.jpg`;
-    const targetPath = path.join(uploadDir, filename);
-    fs.writeFileSync(targetPath, Buffer.from(base64Data, 'base64'));
-
-    return {
-      success: true,
-      data: {
-        url: `/uploads/proofs/${filename}`,
-        filename,
-      },
-    };
   }
 }

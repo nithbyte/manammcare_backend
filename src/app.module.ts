@@ -15,6 +15,7 @@ import { ContentModule } from './content/content.module';
 import { NotificationsModule } from './notifications/notifications.module';
 import { AdminModule } from './admin/admin.module';
 import { NetworkingModule } from './networking/networking.module';
+import { CloudinaryModule } from './cloudinary/cloudinary.module';
 
 import { TransformInterceptor } from './common/interceptors/transform.interceptor';
 import { HttpExceptionFilter } from './common/filters/http-exception.filter';
@@ -32,6 +33,7 @@ import { HttpExceptionFilter } from './common/filters/http-exception.filter';
       },
     ]),
     PrismaModule,
+    CloudinaryModule,
     AuthModule,
     UsersModule,
     ProductsModule,
