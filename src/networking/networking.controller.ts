@@ -158,21 +158,44 @@ export class NetworkingController {
         buffer = Buffer.from(base64Data, 'base64');
       }
 
-      const result = await this.cloudinaryService.uploadBuffer(buffer, {
-        folder: 'manamm/proofs',
-      });
+      // 1. Try Cloudinary if configured
+      try {
+        const result = await this.cloudinaryService.uploadBuffer(buffer, {
+          folder: 'manamm/proofs',
+        });
+        if (result && result.secure_url) {
+          return {
+            success: true,
+            data: {
+              url: result.secure_url,
+              public_id: result.public_id,
+              filename: result.public_id,
+              size: result.bytes,
+            },
+          };
+        }
+      } catch (cloudErr) {
+        // Fallback to local server storage
+      }
+
+      // 2. Local file fallback
+      const proofsDir = path.resolve(process.cwd(), 'uploads/proofs');
+      if (!fs.existsSync(proofsDir)) {
+        fs.mkdirSync(proofsDir, { recursive: true });
+      }
+      const filename = `proof_${Date.now()}_${Math.random().toString(36).substring(2, 7)}.jpg`;
+      fs.writeFileSync(path.join(proofsDir, filename), buffer);
 
       return {
         success: true,
         data: {
-          url: result.secure_url,
-          public_id: result.public_id,
-          filename: result.public_id,
-          size: result.bytes,
+          url: `https://api.manammcare.com/uploads/proofs/${filename}`,
+          filename,
+          size: buffer.length,
         },
       };
     } catch (err: any) {
-      throw new BadRequestException(`Cloudinary proof upload failed: ${err.message}`);
+      throw new BadRequestException(`Proof upload failed: ${err.message}`);
     }
   }
 }
