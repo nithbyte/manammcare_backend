@@ -97,7 +97,7 @@ export class AdminController {
     }),
   )
   async uploadProductImage(
-    @UploadedFile() file: Express.Multer.File,
+    @UploadedFile() file: any,
     @Body() body: any,
   ) {
     if (!file && !body?.base64Image) {
