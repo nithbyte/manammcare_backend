@@ -1,5 +1,13 @@
 [
   {
+    "id": "brd_manamm",
+    "name": "MANAMM",
+    "slug": "manamm",
+    "description": "Everyday hygiene, wellness, and curated sustainable living essentials from MANAMM.",
+    "logo": "https://manammcare.com/images/ecosystem/home.webp",
+    "isActive": true
+  },
+  {
     "id": "brd_manam_organics",
     "name": "MANAM Organics",
     "slug": "manam-organics",

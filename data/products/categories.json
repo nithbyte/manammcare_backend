@@ -121,7 +121,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "parentId": null,
     "sortOrder": 8,
-    "isActive": true
+    "isActive": true,
+    "productCount": 114,
+    "itemCount": 114
   },
   {
     "id": "cat_wall_clock",
@@ -133,7 +135,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 1,
-    "isActive": true
+    "isActive": true,
+    "productCount": 65,
+    "itemCount": 65
   },
   {
     "id": "cat_wall_cum_table_clock",
@@ -145,7 +149,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 2,
-    "isActive": true
+    "isActive": true,
+    "productCount": 1,
+    "itemCount": 1
   },
   {
     "id": "cat_desk_organizer_clock",
@@ -157,7 +163,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 3,
-    "isActive": true
+    "isActive": true,
+    "productCount": 10,
+    "itemCount": 10
   },
   {
     "id": "cat_table_clock",
@@ -169,7 +177,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 4,
-    "isActive": true
+    "isActive": true,
+    "productCount": 5,
+    "itemCount": 5
   },
   {
     "id": "cat_wall_hanging_frame",
@@ -181,7 +191,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 5,
-    "isActive": true
+    "isActive": true,
+    "productCount": 2,
+    "itemCount": 2
   },
   {
     "id": "cat_multipurpose_desk_organizer",
@@ -193,7 +205,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 6,
-    "isActive": true
+    "isActive": true,
+    "productCount": 3,
+    "itemCount": 3
   },
   {
     "id": "cat_revolving_pen_stand",
@@ -205,7 +219,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 7,
-    "isActive": true
+    "isActive": true,
+    "productCount": 8,
+    "itemCount": 8
   },
   {
     "id": "cat_pen_stand",
@@ -217,7 +233,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 8,
-    "isActive": true
+    "isActive": true,
+    "productCount": 1,
+    "itemCount": 1
   },
   {
     "id": "cat_mobile_stand",
@@ -229,7 +247,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 9,
-    "isActive": true
+    "isActive": true,
+    "productCount": 2,
+    "itemCount": 2
   },
   {
     "id": "cat_photo_frame",
@@ -241,7 +261,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 10,
-    "isActive": true
+    "isActive": true,
+    "productCount": 2,
+    "itemCount": 2
   },
   {
     "id": "cat_mdf_items",
@@ -253,7 +275,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 11,
-    "isActive": true
+    "isActive": true,
+    "productCount": 2,
+    "itemCount": 2
   },
   {
     "id": "cat_paper_weight",
@@ -265,7 +289,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 12,
-    "isActive": true
+    "isActive": true,
+    "productCount": 3,
+    "itemCount": 3
   },
   {
     "id": "cat_wrist_watch",
@@ -277,7 +303,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 13,
-    "isActive": true
+    "isActive": true,
+    "productCount": 7,
+    "itemCount": 7
   },
   {
     "id": "cat_wrist_watch_couple",
@@ -289,7 +317,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_clocks_novelties",
     "sortOrder": 14,
-    "isActive": true
+    "isActive": true,
+    "productCount": 3,
+    "itemCount": 3
   },
   {
     "id": "cat_food_houseware",
@@ -301,7 +331,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
     "parentId": null,
     "sortOrder": 9,
-    "isActive": true
+    "isActive": true,
+    "productCount": 81,
+    "itemCount": 81
   },
   {
     "id": "cat_microwave_lunchbox",
@@ -313,7 +345,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 1,
-    "isActive": true
+    "isActive": true,
+    "productCount": 16,
+    "itemCount": 16
   },
   {
     "id": "cat_clip_lock_lunchbox",
@@ -325,7 +359,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 2,
-    "isActive": true
+    "isActive": true,
+    "productCount": 6,
+    "itemCount": 6
   },
   {
     "id": "cat_ss_lunchbox",
@@ -337,7 +373,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 3,
-    "isActive": true
+    "isActive": true,
+    "productCount": 14,
+    "itemCount": 14
   },
   {
     "id": "cat_inner_steel_lunchbox",
@@ -349,7 +387,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 4,
-    "isActive": true
+    "isActive": true,
+    "productCount": 4,
+    "itemCount": 4
   },
   {
     "id": "cat_insulated_lunchbox_3",
@@ -361,7 +401,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 5,
-    "isActive": true
+    "isActive": true,
+    "productCount": 8,
+    "itemCount": 8
   },
   {
     "id": "cat_insulated_lunchbox_4",
@@ -373,7 +415,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 6,
-    "isActive": true
+    "isActive": true,
+    "productCount": 4,
+    "itemCount": 4
   },
   {
     "id": "cat_premium_casserole",
@@ -385,7 +429,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 7,
-    "isActive": true
+    "isActive": true,
+    "productCount": 5,
+    "itemCount": 5
   },
   {
     "id": "cat_inner_steel_bottle",
@@ -397,7 +443,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 8,
-    "isActive": true
+    "isActive": true,
+    "productCount": 9,
+    "itemCount": 9
   },
   {
     "id": "cat_inner_steel_sipper",
@@ -409,7 +457,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1570831739421-9051dda3a91f?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 9,
-    "isActive": true
+    "isActive": true,
+    "productCount": 6,
+    "itemCount": 6
   },
   {
     "id": "cat_snack_set",
@@ -421,7 +471,9 @@
     "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 10,
-    "isActive": true
+    "isActive": true,
+    "productCount": 1,
+    "itemCount": 1
   },
   {
     "id": "cat_single_wall_bottle",
@@ -433,6 +485,316 @@
     "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
     "parentId": "cat_food_houseware",
     "sortOrder": 11,
-    "isActive": true
+    "isActive": true,
+    "productCount": 8,
+    "itemCount": 8
+  },
+  {
+    "id": "cat_home_living",
+    "name": "Home & Household",
+    "slug": "home-household",
+    "description": "Household hygiene, surface care, and everyday living essentials.",
+    "icon": "home",
+    "image": "https://manammcare.com/images/ecosystem/home.webp",
+    "imageUrl": "https://manammcare.com/images/ecosystem/home.webp",
+    "parentId": null,
+    "sortOrder": 1,
+    "isActive": true,
+    "productCount": 30,
+    "itemCount": 30
+  },
+  {
+    "id": "cat_personal_care",
+    "name": "Personal Care & Wellness",
+    "slug": "personal-care-wellness",
+    "description": "Holistic self-care routines, herbal wellness, and natural bath care.",
+    "icon": "heart",
+    "image": "https://manammcare.com/images/ecosystem/personal-care.webp",
+    "imageUrl": "https://manammcare.com/images/ecosystem/personal-care.webp",
+    "parentId": null,
+    "sortOrder": 2,
+    "isActive": true,
+    "productCount": 36,
+    "itemCount": 36
+  },
+  {
+    "id": "cat_daily_essentials",
+    "name": "Daily Essentials & Kitchen",
+    "slug": "daily-essentials-kitchen",
+    "description": "Staples, cookware helpers, and daily culinary provisions.",
+    "icon": "basket",
+    "image": "https://manammcare.com/images/ecosystem/daily-essentials.webp",
+    "imageUrl": "https://manammcare.com/images/ecosystem/daily-essentials.webp",
+    "parentId": null,
+    "sortOrder": 3,
+    "isActive": true,
+    "productCount": 22,
+    "itemCount": 22
+  },
+  {
+    "id": "cat_fashion_lifestyle",
+    "name": "Partner Collections & Lifestyle",
+    "slug": "partner-collections-lifestyle",
+    "description": "Sarees, fusion dresses, woven stoles, and curated lifestyle accessories.",
+    "icon": "shirt",
+    "image": "https://manammcare.com/images/ecosystem/fashion.webp",
+    "imageUrl": "https://manammcare.com/images/ecosystem/fashion.webp",
+    "parentId": null,
+    "sortOrder": 4,
+    "isActive": true,
+    "productCount": 32,
+    "itemCount": 32
+  },
+  {
+    "id": "cat_home_household",
+    "name": "Home & Household",
+    "slug": "home-household-sub",
+    "parentId": "cat_home_living",
+    "icon": "sparkles",
+    "image": "https://manammcare.com/images/products/cleaning-liquid.webp",
+    "imageUrl": "https://manammcare.com/images/products/cleaning-liquid.webp",
+    "description": "Surface cleaners, glass mist, floor wash, and odor absorbers.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 12,
+    "itemCount": 12
+  },
+  {
+    "id": "cat_cleaning_home_care",
+    "name": "Cleaning & Home Care",
+    "slug": "cleaning-home-care",
+    "parentId": "cat_home_living",
+    "icon": "water",
+    "image": "https://manammcare.com/images/products/cleaning-liquid.webp",
+    "imageUrl": "https://manammcare.com/images/products/cleaning-liquid.webp",
+    "description": "Sanitary care, dish washing, drain unblockers, and appliance care.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 10,
+    "itemCount": 10
+  },
+  {
+    "id": "cat_laundry_care",
+    "name": "Laundry Care",
+    "slug": "laundry-care",
+    "parentId": "cat_home_living",
+    "icon": "shirt-outline",
+    "image": "https://manammcare.com/images/products/cleaning-liquid.webp",
+    "imageUrl": "https://manammcare.com/images/products/cleaning-liquid.webp",
+    "description": "Concentrated laundry liquids, wool washes, and stain spotters.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 8,
+    "itemCount": 8
+  },
+  {
+    "id": "cat_kitchen_essentials",
+    "name": "Kitchen Essentials",
+    "slug": "kitchen-essentials",
+    "parentId": "cat_daily_essentials",
+    "icon": "restaurant",
+    "image": "https://manammcare.com/images/products/kitchen-cloth-set.webp",
+    "imageUrl": "https://manammcare.com/images/products/kitchen-cloth-set.webp",
+    "description": "Natural cleaning cloths, dish scrubbing pads, and cookware helpers.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 8,
+    "itemCount": 8
+  },
+  {
+    "id": "cat_daily_essentials_sub",
+    "name": "Daily Essentials",
+    "slug": "daily-essentials-sub",
+    "parentId": "cat_daily_essentials",
+    "icon": "basket",
+    "image": "https://manammcare.com/images/products/storage-jars.webp",
+    "imageUrl": "https://manammcare.com/images/products/storage-jars.webp",
+    "description": "Pantry storage jars, kitchen linen, and everyday utility.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 8,
+    "itemCount": 8
+  },
+  {
+    "id": "cat_food_consumables",
+    "name": "Food & Consumables",
+    "slug": "food-consumables",
+    "parentId": "cat_daily_essentials",
+    "icon": "nutrition",
+    "image": "https://manammcare.com/images/products/storage-jars.webp",
+    "imageUrl": "https://manammcare.com/images/products/storage-jars.webp",
+    "description": "Pure ghee, natural sweeteners, and pantry provisions.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 6,
+    "itemCount": 6
+  },
+  {
+    "id": "cat_personal_care_sub",
+    "name": "Personal Care",
+    "slug": "personal-care-sub",
+    "parentId": "cat_personal_care",
+    "icon": "body",
+    "image": "https://manammcare.com/images/products/daily-care.webp",
+    "imageUrl": "https://manammcare.com/images/products/daily-care.webp",
+    "description": "Natural body care, shampoos, face wash, and botanical care.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 10,
+    "itemCount": 10
+  },
+  {
+    "id": "cat_bath_body",
+    "name": "Bath & Body",
+    "slug": "bath-body",
+    "parentId": "cat_personal_care",
+    "icon": "water-outline",
+    "image": "https://manammcare.com/images/products/daily-care.webp",
+    "imageUrl": "https://manammcare.com/images/products/daily-care.webp",
+    "description": "Cold-process bath bars, body scrubs, and soaking salts.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 6,
+    "itemCount": 6
+  },
+  {
+    "id": "cat_hair_skin_care",
+    "name": "Hair & Skin Care",
+    "slug": "hair-skin-care",
+    "parentId": "cat_personal_care",
+    "icon": "sparkles-outline",
+    "image": "https://manammcare.com/images/products/daily-care.webp",
+    "imageUrl": "https://manammcare.com/images/products/daily-care.webp",
+    "description": "Herbal hair cleansers, nourishing hair oils, and facial mists.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 6,
+    "itemCount": 6
+  },
+  {
+    "id": "cat_wellness",
+    "name": "Wellness",
+    "slug": "wellness",
+    "parentId": "cat_personal_care",
+    "icon": "leaf",
+    "image": "https://manammcare.com/images/products/herbal-tea.webp",
+    "imageUrl": "https://manammcare.com/images/products/herbal-tea.webp",
+    "description": "Herbal teas, botanical infusions, superfoods, and restorative brews.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 8,
+    "itemCount": 8
+  },
+  {
+    "id": "cat_herbal_natural",
+    "name": "Herbal & Natural",
+    "slug": "herbal-natural",
+    "parentId": "cat_personal_care",
+    "icon": "flower-outline",
+    "image": "https://manammcare.com/images/products/herbal-tea.webp",
+    "imageUrl": "https://manammcare.com/images/products/herbal-tea.webp",
+    "description": "Ayurvedic wellness remedies, pure hydrosols, and therapeutic oils.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 6,
+    "itemCount": 6
+  },
+  {
+    "id": "cat_womens_fashion",
+    "name": "Women's Fashion",
+    "slug": "womens-fashion",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "shirt",
+    "image": "https://manammcare.com/images/partner/dresses.webp",
+    "imageUrl": "https://manammcare.com/images/partner/dresses.webp",
+    "description": "Handloom kurtas, fusion sets, and contemporary apparel.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 6,
+    "itemCount": 6
+  },
+  {
+    "id": "cat_dresses",
+    "name": "Dresses",
+    "slug": "dresses",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "woman",
+    "image": "https://manammcare.com/images/products/printed-dress.webp",
+    "imageUrl": "https://manammcare.com/images/products/printed-dress.webp",
+    "description": "Breathable cotton and linen fusion dresses.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 5,
+    "itemCount": 5
+  },
+  {
+    "id": "cat_sarees",
+    "name": "Sarees",
+    "slug": "sarees",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "rose",
+    "image": "https://manammcare.com/images/products/handloom-saree.webp",
+    "imageUrl": "https://manammcare.com/images/products/handloom-saree.webp",
+    "description": "Artisan handloom cotton and silk-cotton sarees.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 5,
+    "itemCount": 5
+  },
+  {
+    "id": "cat_shawls_stoles",
+    "name": "Shawls & Stoles",
+    "slug": "shawls-stoles",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "ribbon-outline",
+    "image": "https://manammcare.com/images/products/woven-stole.webp",
+    "imageUrl": "https://manammcare.com/images/products/woven-stole.webp",
+    "description": "Handwoven stoles, shawls, and light wraps.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 4,
+    "itemCount": 4
+  },
+  {
+    "id": "cat_accessories",
+    "name": "Accessories",
+    "slug": "accessories",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "bag",
+    "image": "https://manammcare.com/images/partner/lifestyle.webp",
+    "imageUrl": "https://manammcare.com/images/partner/lifestyle.webp",
+    "description": "Handcrafted jacquard clutches, pouches, and travel cases.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 4,
+    "itemCount": 4
+  },
+  {
+    "id": "cat_lifestyle",
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "color-palette-outline",
+    "image": "https://manammcare.com/images/partner/lifestyle.webp",
+    "imageUrl": "https://manammcare.com/images/partner/lifestyle.webp",
+    "description": "Stoneware ceramics, brass diyas, and home accents.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 5,
+    "itemCount": 5
+  },
+  {
+    "id": "cat_partner_home_products",
+    "name": "Partner Home Products",
+    "slug": "partner-home-products",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "grid",
+    "image": "https://manammcare.com/images/partner/lifestyle.webp",
+    "imageUrl": "https://manammcare.com/images/partner/lifestyle.webp",
+    "description": "Hand-braided storage baskets, linen cushion covers, and bath towels.",
+    "isActive": true,
+    "sortOrder": 0,
+    "productCount": 3,
+    "itemCount": 3
   }
 ]
