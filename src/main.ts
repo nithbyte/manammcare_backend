@@ -23,6 +23,10 @@ async function bootstrap() {
   // HTTP Compression
   app.use(compression());
 
+  // Payload limits for base64 / proof image uploads
+  app.use(express.json({ limit: '20mb' }));
+  app.use(express.urlencoded({ limit: '20mb', extended: true }));
+
   // Static uploads & images directory for product images and media
   const uploadsPath = fs.existsSync(path.resolve(process.cwd(), 'uploads'))
     ? path.resolve(process.cwd(), 'uploads')
