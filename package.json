@@ -23,7 +23,9 @@
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev",
     "prisma:seed": "ts-node prisma/seed.ts",
-    "seed:clocks-houseware": "ts-node scripts/seed-clocks-and-houseware.ts"
+    "seed:clocks-houseware": "ts-node scripts/seed-clocks-and-houseware.ts",
+    "migrate:cloudinary": "ts-node scripts/migrate-to-cloudinary.ts",
+    "sync:cloudinary-db": "ts-node scripts/sync-db-cloudinary-urls.ts"
   },
   "dependencies": {
     "@nestjs/cli": "^10.4.9",
