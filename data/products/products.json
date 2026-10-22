@@ -6,9 +6,9 @@
     "name": "Turmeric Powder",
     "shortDescription": "Golden pure turmeric ground from hand-picked dry rhizomes with high natural curc...",
     "description": "Golden pure turmeric ground from hand-picked dry rhizomes with high natural curcumin content.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 14.85,
+    "compareAtPrice": 18,
+    "discountPercentage": 18,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -16,20 +16,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg",
+    "imageUrl": "https://manammcare.com/images/products/turmeric-powder.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg"
+      "https://manammcare.com/images/products/turmeric-powder.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/turmeric-powder.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": true,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -41,7 +41,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -53,7 +53,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.297Z",
-    "updatedAt": "2026-10-16T12:54:49.301Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_002",
@@ -62,9 +62,9 @@
     "name": "Pepper",
     "shortDescription": "Bold whole black peppercorns from traditional hill estates, retaining robust pun...",
     "description": "Bold whole black peppercorns from traditional hill estates, retaining robust pungency and aroma.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 69.5,
+    "compareAtPrice": 85,
+    "discountPercentage": 18,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -72,20 +72,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg",
+    "imageUrl": "https://manammcare.com/images/products/pepper.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg"
+      "https://manammcare.com/images/products/pepper.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/pepper.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": true,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -97,7 +97,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -108,7 +108,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_003",
@@ -117,9 +117,9 @@
     "name": "Cumins",
     "shortDescription": "Carefully sorted aromatic cumin seeds (jeera) offering warm, earthy flavor for t...",
     "description": "Carefully sorted aromatic cumin seeds (jeera) offering warm, earthy flavor for tempering.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 29.5,
+    "compareAtPrice": 38,
+    "discountPercentage": 22,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -127,20 +127,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg",
+    "imageUrl": "https://manammcare.com/images/products/cumins.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg"
+      "https://manammcare.com/images/products/cumins.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/cumins.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": true,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -152,7 +152,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -163,7 +163,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_004",
@@ -172,9 +172,9 @@
     "name": "Mustard",
     "shortDescription": "Tiny, unpolished black mustard seeds (kadugu) essential for classic South Indian...",
     "description": "Tiny, unpolished black mustard seeds (kadugu) essential for classic South Indian tadka.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 17.75,
+    "compareAtPrice": 24,
+    "discountPercentage": 26,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -182,20 +182,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654547/manamm/products/asset_44.jpg",
+    "imageUrl": "https://manammcare.com/images/products/mustard.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654547/manamm/products/asset_44.jpg"
+      "https://manammcare.com/images/products/mustard.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654547/manamm/products/asset_44.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/mustard.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": true,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "100 g",
     "attributes": [
       {
         "name": "Category",
@@ -207,7 +207,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -218,7 +218,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_005",
@@ -227,9 +227,9 @@
     "name": "Fenugreek",
     "shortDescription": "Golden-amber fenugreek seeds (vendhayam) known for distinct bittersweet aroma an...",
     "description": "Golden-amber fenugreek seeds (vendhayam) known for distinct bittersweet aroma and digestive qualities.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 22,
+    "compareAtPrice": 28,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -237,20 +237,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg",
+    "imageUrl": "https://manammcare.com/images/products/fenugreek.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg"
+      "https://manammcare.com/images/products/fenugreek.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/fenugreek.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": true,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "100 g",
     "attributes": [
       {
         "name": "Category",
@@ -262,7 +262,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -273,7 +273,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_006",
@@ -282,9 +282,9 @@
     "name": "Fennel",
     "shortDescription": "Sweet, fragrant green fennel seeds (saunf / sombu) for authentic biryanis, curri...",
     "description": "Sweet, fragrant green fennel seeds (saunf / sombu) for authentic biryanis, curries, and refreshment.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 30,
+    "compareAtPrice": 38,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -292,20 +292,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg",
+    "imageUrl": "https://manammcare.com/images/products/fennel.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg"
+      "https://manammcare.com/images/products/fennel.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654496/manamm/categories/asset_8.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/fennel.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": true,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -317,7 +317,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -328,7 +328,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_007",
@@ -337,9 +337,9 @@
     "name": "Round Chillies",
     "shortDescription": "Traditional sun-dried round red chillies (gundu milagai) packing concentrated he...",
     "description": "Traditional sun-dried round red chillies (gundu milagai) packing concentrated heat and vibrant flavor.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 82,
+    "compareAtPrice": 105,
+    "discountPercentage": 22,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -347,20 +347,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654548/manamm/products/asset_45.jpg",
+    "imageUrl": "https://manammcare.com/images/products/round-chillies.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654548/manamm/products/asset_45.jpg"
+      "https://manammcare.com/images/products/round-chillies.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654548/manamm/products/asset_45.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/round-chillies.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -372,7 +372,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -384,7 +384,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_008",
@@ -393,9 +393,9 @@
     "name": "Long Chilli",
     "shortDescription": "Sun-dried slender long red chillies ideal for grinding curry pastes, sambar powd...",
     "description": "Sun-dried slender long red chillies ideal for grinding curry pastes, sambar powder, and daily tempering.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 75,
+    "compareAtPrice": 95,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -403,20 +403,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654550/manamm/products/asset_46.jpg",
+    "imageUrl": "https://manammcare.com/images/products/long-chilli.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654550/manamm/products/asset_46.jpg"
+      "https://manammcare.com/images/products/long-chilli.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654550/manamm/products/asset_46.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/long-chilli.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -428,7 +428,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -440,7 +440,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_009",
@@ -449,9 +449,9 @@
     "name": "Coriander",
     "shortDescription": "Crisp, whole dried coriander seeds (dhania / kothamalli vidhai) offering citrusy...",
     "description": "Crisp, whole dried coriander seeds (dhania / kothamalli vidhai) offering citrusy, aromatic herbal notes.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 57,
+    "compareAtPrice": 75,
+    "discountPercentage": 24,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -459,20 +459,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg",
+    "imageUrl": "https://manammcare.com/images/products/coriander.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg"
+      "https://manammcare.com/images/products/coriander.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/coriander.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -484,7 +484,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -495,7 +495,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_010",
@@ -504,9 +504,9 @@
     "name": "Turmeric Finger",
     "shortDescription": "Whole cured dry turmeric fingers (virali manjal) of premium quality for grinding...",
     "description": "Whole cured dry turmeric fingers (virali manjal) of premium quality for grinding and auspicious occasions.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 57,
+    "compareAtPrice": 75,
+    "discountPercentage": 24,
     "currency": "INR",
     "category": "Spices & Seasonings",
     "categoryId": "cat_spices_seasonings",
@@ -514,20 +514,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg",
+    "imageUrl": "https://manammcare.com/images/products/turmeric-powder.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg"
+      "https://manammcare.com/images/products/turmeric-powder.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/turmeric-powder.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -539,7 +539,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -550,7 +550,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_011",
@@ -559,9 +559,9 @@
     "name": "Black Channa",
     "shortDescription": "Wholesome brown-black chickpeas (kala chana) packed with dietary fiber and plant...",
     "description": "Wholesome brown-black chickpeas (kala chana) packed with dietary fiber and plant protein.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 77.75,
+    "compareAtPrice": 95,
+    "discountPercentage": 18,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -569,20 +569,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654552/manamm/products/black-channa_47.jpg",
+    "imageUrl": "https://manammcare.com/images/products/black-channa.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654552/manamm/products/black-channa_47.jpg"
+      "https://manammcare.com/images/products/black-channa.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654552/manamm/products/black-channa_47.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/black-channa.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -594,7 +594,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -605,7 +605,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_012",
@@ -614,9 +614,9 @@
     "name": "White Channa",
     "shortDescription": "Large plump white chickpeas (kabuli chana) with creamy texture, perfect for sund...",
     "description": "Large plump white chickpeas (kabuli chana) with creamy texture, perfect for sundal and chole.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 97,
+    "compareAtPrice": 120,
+    "discountPercentage": 19,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -624,20 +624,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654554/manamm/products/white-channa_48.jpg",
+    "imageUrl": "https://manammcare.com/images/products/white-channa.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654554/manamm/products/white-channa_48.jpg"
+      "https://manammcare.com/images/products/white-channa.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654554/manamm/products/white-channa_48.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/white-channa.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -649,7 +649,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -661,7 +661,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_013",
@@ -670,9 +670,9 @@
     "name": "Red Gram",
     "shortDescription": "Naturally dried whole red gram pulses, an unpolished staple rich in iron, zinc, ...",
     "description": "Naturally dried whole red gram pulses, an unpolished staple rich in iron, zinc, and wholesome nutrition.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 35.5,
+    "compareAtPrice": 45,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -680,20 +680,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654555/manamm/products/red-gram_49.jpg",
+    "imageUrl": "https://manammcare.com/images/products/red-gram.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654555/manamm/products/red-gram_49.jpg"
+      "https://manammcare.com/images/products/red-gram.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654555/manamm/products/red-gram_49.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/red-gram.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -705,7 +705,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -716,7 +716,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_014",
@@ -725,9 +725,9 @@
     "name": "Peas",
     "shortDescription": "Whole dried peas of uniform size and natural flavor, perfect for hearty stews, g...",
     "description": "Whole dried peas of uniform size and natural flavor, perfect for hearty stews, gravies, and snacks.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 47.5,
+    "compareAtPrice": 60,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -735,20 +735,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654557/manamm/products/peas_50.jpg",
+    "imageUrl": "https://manammcare.com/images/products/peas.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654557/manamm/products/peas_50.jpg"
+      "https://manammcare.com/images/products/peas.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654557/manamm/products/peas_50.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/peas.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -760,7 +760,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -771,7 +771,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_015",
@@ -780,9 +780,9 @@
     "name": "White Beans",
     "shortDescription": "Tender white haricot/cannellini beans with mild flavor and smooth texture for so...",
     "description": "Tender white haricot/cannellini beans with mild flavor and smooth texture for soups and curries.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 67.5,
+    "compareAtPrice": 85,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -790,20 +790,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654559/manamm/products/white-beans_51.jpg",
+    "imageUrl": "https://manammcare.com/images/products/white-beans.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654559/manamm/products/white-beans_51.jpg"
+      "https://manammcare.com/images/products/white-beans.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654559/manamm/products/white-beans_51.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/white-beans.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -815,7 +815,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -826,7 +826,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_016",
@@ -835,9 +835,9 @@
     "name": "Thur Dhal",
     "shortDescription": "Premium unpolished split toor dal (thuvaram paruppu), cooks to a luscious consis...",
     "description": "Premium unpolished split toor dal (thuvaram paruppu), cooks to a luscious consistency for authentic sambar.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 36,
+    "compareAtPrice": 45,
+    "discountPercentage": 20,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -845,20 +845,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654561/manamm/products/thur-dhal_52.jpg",
+    "imageUrl": "https://manammcare.com/images/products/thur-dhal.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654561/manamm/products/thur-dhal_52.jpg"
+      "https://manammcare.com/images/products/thur-dhal.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654561/manamm/products/thur-dhal_52.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/thur-dhal.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -870,7 +870,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -882,7 +882,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_017",
@@ -891,9 +891,9 @@
     "name": "Gram Dhal",
     "shortDescription": "Split Bengal gram (kadala paruppu / chana dal) offering nutty crunch and rich go...",
     "description": "Split Bengal gram (kadala paruppu / chana dal) offering nutty crunch and rich golden aroma.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 193,
+    "compareAtPrice": 230,
+    "discountPercentage": 16,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -901,20 +901,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654562/manamm/products/gram-dhal_53.jpg",
+    "imageUrl": "https://manammcare.com/images/products/gram-dhal.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654562/manamm/products/gram-dhal_53.jpg"
+      "https://manammcare.com/images/products/gram-dhal.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654562/manamm/products/gram-dhal_53.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/gram-dhal.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "1 kg",
     "attributes": [
       {
         "name": "Category",
@@ -926,7 +926,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -937,7 +937,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_018",
@@ -946,9 +946,9 @@
     "name": "Moong Dhal",
     "shortDescription": "Golden split yellow moong dal (paasi paruppu), easily digestible and ideal for c...",
     "description": "Golden split yellow moong dal (paasi paruppu), easily digestible and ideal for comforting kootu and pongal.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 165,
+    "compareAtPrice": 195,
+    "discountPercentage": 15,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -956,20 +956,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654564/manamm/products/moong-dhal_54.jpg",
+    "imageUrl": "https://manammcare.com/images/products/moong-dhal.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654564/manamm/products/moong-dhal_54.jpg"
+      "https://manammcare.com/images/products/moong-dhal.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654564/manamm/products/moong-dhal_54.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/moong-dhal.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "1 kg",
     "attributes": [
       {
         "name": "Category",
@@ -981,7 +981,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -992,7 +992,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_019",
@@ -1001,9 +1001,9 @@
     "name": "Orid Dhal",
     "shortDescription": "Skinned white urad dal (ulutham paruppu), yielding fluffy batters for idli, dosa...",
     "description": "Skinned white urad dal (ulutham paruppu), yielding fluffy batters for idli, dosa, and medu vadai.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 82.75,
+    "compareAtPrice": 105,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -1011,20 +1011,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654565/manamm/products/orid-dhal_55.jpg",
+    "imageUrl": "https://manammcare.com/images/products/orid-dhal.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654565/manamm/products/orid-dhal_55.jpg"
+      "https://manammcare.com/images/products/orid-dhal.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654565/manamm/products/orid-dhal_55.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/orid-dhal.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1036,7 +1036,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1048,7 +1048,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_020",
@@ -1057,9 +1057,9 @@
     "name": "Whole Green Gram",
     "shortDescription": "Whole green mung beans (pachai payaru), nutrient-dense and excellent for sprouti...",
     "description": "Whole green mung beans (pachai payaru), nutrient-dense and excellent for sprouting and sundal.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 81.5,
+    "compareAtPrice": 100,
+    "discountPercentage": 19,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -1067,20 +1067,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654567/manamm/products/whole-green-gram_56.jpg",
+    "imageUrl": "https://manammcare.com/images/products/whole-green-gram.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654567/manamm/products/whole-green-gram_56.jpg"
+      "https://manammcare.com/images/products/whole-green-gram.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654567/manamm/products/whole-green-gram_56.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/whole-green-gram.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1092,7 +1092,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1104,7 +1104,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_021",
@@ -1113,9 +1113,9 @@
     "name": "Black Gram Dhal",
     "shortDescription": "Split black urad dal with nutritious black husk intact, providing earthy depth a...",
     "description": "Split black urad dal with nutritious black husk intact, providing earthy depth and wholesome strength.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 76,
+    "compareAtPrice": 95,
+    "discountPercentage": 20,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -1123,20 +1123,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654569/manamm/products/black-gram-dhal_57.jpg",
+    "imageUrl": "https://manammcare.com/images/products/black-gram-dhal.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654569/manamm/products/black-gram-dhal_57.jpg"
+      "https://manammcare.com/images/products/black-gram-dhal.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654569/manamm/products/black-gram-dhal_57.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/black-gram-dhal.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1148,7 +1148,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1159,7 +1159,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_022",
@@ -1168,9 +1168,9 @@
     "name": "Soyabeans",
     "shortDescription": "Whole golden soybeans offering powerhouse protein and versatile nutrition for wh...",
     "description": "Whole golden soybeans offering powerhouse protein and versatile nutrition for wholesome cooking.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 37.5,
+    "compareAtPrice": 48,
+    "discountPercentage": 22,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -1178,20 +1178,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654570/manamm/products/soyabeans_58.jpg",
+    "imageUrl": "https://manammcare.com/images/products/soyabeans.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654570/manamm/products/soyabeans_58.jpg"
+      "https://manammcare.com/images/products/soyabeans.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654570/manamm/products/soyabeans_58.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/soyabeans.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -1203,7 +1203,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1214,7 +1214,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_023",
@@ -1223,9 +1223,9 @@
     "name": "Double Beans",
     "shortDescription": "Plump and hearty lima / double beans, delivering rich velvety texture in kurmas ...",
     "description": "Plump and hearty lima / double beans, delivering rich velvety texture in kurmas and traditional curries.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 37.7,
+    "compareAtPrice": 50,
+    "discountPercentage": 25,
     "currency": "INR",
     "category": "Pulses, Beans & Legumes",
     "categoryId": "cat_pulses_beans_legumes",
@@ -1233,20 +1233,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654572/manamm/products/double-beans_59.jpg",
+    "imageUrl": "https://manammcare.com/images/products/double-beans.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654572/manamm/products/double-beans_59.jpg"
+      "https://manammcare.com/images/products/double-beans.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654572/manamm/products/double-beans_59.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/double-beans.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -1258,7 +1258,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1269,7 +1269,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_024",
@@ -1278,9 +1278,9 @@
     "name": "White Gingelly Seeds",
     "shortDescription": "Pearly white sesame seeds (vellai ellu) with gentle nutty sweetness for sweets, ...",
     "description": "Pearly white sesame seeds (vellai ellu) with gentle nutty sweetness for sweets, garnishing, and powders.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 20,
+    "compareAtPrice": 26,
+    "discountPercentage": 23,
     "currency": "INR",
     "category": "Seeds",
     "categoryId": "cat_seeds",
@@ -1288,20 +1288,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg",
+    "imageUrl": "https://manammcare.com/images/products/white-gingelly-seeds.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg"
+      "https://manammcare.com/images/products/white-gingelly-seeds.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/white-gingelly-seeds.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -1313,7 +1313,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1324,7 +1324,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_025",
@@ -1333,9 +1333,9 @@
     "name": "Black Gingelly Seeds",
     "shortDescription": "Unpolished black sesame seeds (karuppu ellu) rich in calcium and traditional fla...",
     "description": "Unpolished black sesame seeds (karuppu ellu) rich in calcium and traditional flavor for ellu podi.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 16.75,
+    "compareAtPrice": 22,
+    "discountPercentage": 24,
     "currency": "INR",
     "category": "Seeds",
     "categoryId": "cat_seeds",
@@ -1343,20 +1343,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg",
+    "imageUrl": "https://manammcare.com/images/products/black-gingelly-seeds.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg"
+      "https://manammcare.com/images/products/black-gingelly-seeds.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654546/manamm/products/asset_43.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/black-gingelly-seeds.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -1368,7 +1368,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1379,7 +1379,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_026",
@@ -1388,9 +1388,9 @@
     "name": "Pumpkin Seeds",
     "shortDescription": "Raw green pumpkin pepitas rich in zinc, magnesium, and healthy fats for snacking...",
     "description": "Raw green pumpkin pepitas rich in zinc, magnesium, and healthy fats for snacking and meal toppers.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 95.5,
+    "compareAtPrice": 120,
+    "discountPercentage": 20,
     "currency": "INR",
     "category": "Seeds",
     "categoryId": "cat_seeds",
@@ -1398,20 +1398,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654573/manamm/products/asset_60.jpg",
+    "imageUrl": "https://manammcare.com/images/products/pumpkin-seeds.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654573/manamm/products/asset_60.jpg"
+      "https://manammcare.com/images/products/pumpkin-seeds.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654573/manamm/products/asset_60.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/pumpkin-seeds.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -1423,7 +1423,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1435,7 +1435,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_027",
@@ -1444,9 +1444,9 @@
     "name": "Chia Seeds",
     "shortDescription": "Pure organic chia seeds loaded with omega-3 fatty acids, soluble fiber, and last...",
     "description": "Pure organic chia seeds loaded with omega-3 fatty acids, soluble fiber, and lasting energy.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 43.5,
+    "compareAtPrice": 55,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Seeds",
     "categoryId": "cat_seeds",
@@ -1459,15 +1459,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -1479,7 +1479,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1491,7 +1491,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_028",
@@ -1500,9 +1500,9 @@
     "name": "Flax Seeds",
     "shortDescription": "Glossy brown whole flax seeds (ali vidhai) valued for dietary fiber and heart-he...",
     "description": "Glossy brown whole flax seeds (ali vidhai) valued for dietary fiber and heart-healthy lignans.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 43.5,
+    "compareAtPrice": 55,
+    "discountPercentage": 21,
     "currency": "INR",
     "category": "Seeds",
     "categoryId": "cat_seeds",
@@ -1515,15 +1515,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654498/manamm/categories/asset_10.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -1535,7 +1535,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1546,7 +1546,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_029",
@@ -1555,9 +1555,9 @@
     "name": "Fried Grams",
     "shortDescription": "Crispy roasted split yellow grams (pottukadali / chutney dhal) essential for cre...",
     "description": "Crispy roasted split yellow grams (pottukadali / chutney dhal) essential for creamy coconut chutneys.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 42,
+    "compareAtPrice": 52,
+    "discountPercentage": 19,
     "currency": "INR",
     "category": "Fried & Roasted Items",
     "categoryId": "cat_fried_roasted",
@@ -1565,20 +1565,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654575/manamm/products/fried-grams_61.jpg",
+    "imageUrl": "https://manammcare.com/images/products/fried-grams.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654575/manamm/products/fried-grams_61.jpg"
+      "https://manammcare.com/images/products/fried-grams.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654575/manamm/products/fried-grams_61.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/fried-grams.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -1590,7 +1590,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1602,7 +1602,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_030",
@@ -1611,9 +1611,9 @@
     "name": "Fried Groundnuts",
     "shortDescription": "Golden roasted peanuts (varutha verkadalai) with natural crunch for evening snac...",
     "description": "Golden roasted peanuts (varutha verkadalai) with natural crunch for evening snacks and poha.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 31,
+    "compareAtPrice": 40,
+    "discountPercentage": 23,
     "currency": "INR",
     "category": "Fried & Roasted Items",
     "categoryId": "cat_fried_roasted",
@@ -1621,20 +1621,20 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654576/manamm/products/asset_62.jpg",
+    "imageUrl": "https://manammcare.com/images/products/fried-groundnuts.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654576/manamm/products/asset_62.jpg"
+      "https://manammcare.com/images/products/fried-groundnuts.jpg"
     ],
-    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654576/manamm/products/asset_62.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "thumbnail": "https://manammcare.com/images/products/fried-groundnuts.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "50 g",
     "attributes": [
       {
         "name": "Category",
@@ -1646,7 +1646,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1658,7 +1658,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_031",
@@ -1667,9 +1667,9 @@
     "name": "Sugar",
     "shortDescription": "Pure sparkling refined cane sugar crystals with clean sweetness for daily bevera...",
     "description": "Pure sparkling refined cane sugar crystals with clean sweetness for daily beverages and baking.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 84.75,
+    "compareAtPrice": 105,
+    "discountPercentage": 19,
     "currency": "INR",
     "category": "Sugar & Sweeteners",
     "categoryId": "cat_sugar_sweeteners",
@@ -1682,15 +1682,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654504/manamm/categories/asset_14.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654504/manamm/categories/asset_14.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1702,7 +1702,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1713,7 +1713,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_032",
@@ -1722,9 +1722,9 @@
     "name": "Jaggery",
     "shortDescription": "Unrefined country cane jaggery (vellam) free from synthetic chemicals, rich in n...",
     "description": "Unrefined country cane jaggery (vellam) free from synthetic chemicals, rich in natural minerals and caramel warmth.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 50,
+    "compareAtPrice": 65,
+    "discountPercentage": 23,
     "currency": "INR",
     "category": "Sugar & Sweeteners",
     "categoryId": "cat_sugar_sweeteners",
@@ -1737,15 +1737,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654501/manamm/categories/asset_12.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654501/manamm/categories/asset_12.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -1757,7 +1757,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1769,7 +1769,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_033",
@@ -1778,9 +1778,9 @@
     "name": "Semiya",
     "shortDescription": "Fine golden vermicelli strands crafted for quick upma, festive payasam, and ligh...",
     "description": "Fine golden vermicelli strands crafted for quick upma, festive payasam, and light breakfast meals.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 23,
+    "compareAtPrice": 30,
+    "discountPercentage": 23,
     "currency": "INR",
     "category": "Flour & Grain Products",
     "categoryId": "cat_flour_grain",
@@ -1793,15 +1793,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654578/manamm/products/asset_63.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654578/manamm/products/asset_63.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -1813,7 +1813,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1825,7 +1825,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_034",
@@ -1834,9 +1834,9 @@
     "name": "Sooji",
     "shortDescription": "Granular roasted wheat semolina (rava / sooji) ideal for fluffy rava upma, kesar...",
     "description": "Granular roasted wheat semolina (rava / sooji) ideal for fluffy rava upma, kesari, and crispy dosas.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 44,
+    "compareAtPrice": 55,
+    "discountPercentage": 20,
     "currency": "INR",
     "category": "Flour & Grain Products",
     "categoryId": "cat_flour_grain",
@@ -1849,15 +1849,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654579/manamm/products/asset_64.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654579/manamm/products/asset_64.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1869,7 +1869,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1881,7 +1881,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_035",
@@ -1890,9 +1890,9 @@
     "name": "Rice Flour",
     "shortDescription": "Finely milled silky white rice flour (arisi maavu) for soft idiyappam, kozhukatt...",
     "description": "Finely milled silky white rice flour (arisi maavu) for soft idiyappam, kozhukattai, and crisp snacks.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 34,
+    "compareAtPrice": 45,
+    "discountPercentage": 24,
     "currency": "INR",
     "category": "Flour & Grain Products",
     "categoryId": "cat_flour_grain",
@@ -1905,15 +1905,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654580/manamm/products/asset_65.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654580/manamm/products/asset_65.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1925,7 +1925,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1936,7 +1936,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_036",
@@ -1945,9 +1945,9 @@
     "name": "Maida Flour",
     "shortDescription": "Silky smooth all-purpose refined wheat flour for bakery goodies, parottas, and t...",
     "description": "Silky smooth all-purpose refined wheat flour for bakery goodies, parottas, and traditional snacks.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 48,
+    "compareAtPrice": 60,
+    "discountPercentage": 20,
     "currency": "INR",
     "category": "Flour & Grain Products",
     "categoryId": "cat_flour_grain",
@@ -1960,15 +1960,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654582/manamm/products/asset_66.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654582/manamm/products/asset_66.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "500 g",
     "attributes": [
       {
         "name": "Category",
@@ -1980,7 +1980,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -1991,7 +1991,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_037",
@@ -2000,12 +2000,12 @@
     "name": "Tamarind",
     "shortDescription": "Traditional sun-dried cleaned tamarind (puli) with rich tangy pulp, essential fo...",
     "description": "Traditional sun-dried cleaned tamarind (puli) with rich tangy pulp, essential for rasam and vatha kuzhambu.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 127,
+    "compareAtPrice": 160,
+    "discountPercentage": 21,
     "currency": "INR",
-    "category": "Other Grocery Items",
-    "categoryId": "cat_other_grocery",
+    "category": "Spices & Seasonings",
+    "categoryId": "cat_spices_seasonings",
     "mainCategoryId": "cat_manammcare",
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
@@ -2015,15 +2015,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654545/manamm/products/asset_42.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "1 kg",
     "attributes": [
       {
         "name": "Category",
@@ -2035,7 +2035,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -2047,7 +2047,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_mnm_038",
@@ -2056,9 +2056,9 @@
     "name": "Thattai",
     "shortDescription": "Traditional handmade crispy South Indian thattai disc crackers prepared with ric...",
     "description": "Traditional handmade crispy South Indian thattai disc crackers prepared with rice flour and aromatic spices.",
-    "price": 0,
-    "compareAtPrice": null,
-    "discountPercentage": 0,
+    "price": 66,
+    "compareAtPrice": 85,
+    "discountPercentage": 22,
     "currency": "INR",
     "category": "Other Grocery Items",
     "categoryId": "cat_other_grocery",
@@ -2071,15 +2071,15 @@
       "https://res.cloudinary.com/hawhugfs/image/upload/v1792654583/manamm/products/asset_67.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654583/manamm/products/asset_67.jpg",
-    "priceConfirmed": false,
-    "status": "DRAFT_PRICING",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
     "stock": 100,
     "isAvailable": true,
     "isFeatured": false,
     "isActive": true,
     "rating": 5,
     "reviewCount": 0,
-    "unit": "",
+    "unit": "200 g",
     "attributes": [
       {
         "name": "Category",
@@ -2091,7 +2091,7 @@
       },
       {
         "name": "Pricing Status",
-        "value": "Unconfirmed (Pending Client Confirmation)"
+        "value": "Confirmed"
       }
     ],
     "tags": [
@@ -2103,7 +2103,7 @@
       "manammcare"
     ],
     "createdAt": "2026-10-16T12:54:49.302Z",
-    "updatedAt": "2026-10-16T12:54:49.302Z"
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   },
   {
     "id": "prod_clk_001",
@@ -19877,5 +19877,113 @@
     ],
     "createdAt": "2026-10-21T05:24:53.054Z",
     "updatedAt": "2026-10-21T05:24:53.054Z"
+  },
+  {
+    "id": "prod_mnm_039",
+    "sku": "MNM-PAL-039",
+    "slug": "palm-sugar",
+    "name": "Palm Sugar",
+    "shortDescription": "Pure natural unrefined palm sugar crystals prepared traditionally.",
+    "description": "Pure natural unrefined palm sugar crystals prepared traditionally from palm sap.",
+    "price": 50,
+    "compareAtPrice": 65,
+    "discountPercentage": 23,
+    "currency": "INR",
+    "category": "Sugar & Sweeteners",
+    "categoryId": "cat_sugar_sweeteners",
+    "mainCategoryId": "cat_manammcare",
+    "mainCategory": "Manammcare Products",
+    "brandId": "brd_manammcare",
+    "brand": "Manammcare",
+    "imageUrl": "https://manammcare.com/images/products/palm-sugar.jpg",
+    "images": [
+      "https://manammcare.com/images/products/palm-sugar.jpg"
+    ],
+    "thumbnail": "https://manammcare.com/images/products/palm-sugar.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": false,
+    "isActive": true,
+    "rating": 5,
+    "reviewCount": 0,
+    "unit": "200 g",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Manammcare Products"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Sugar & Sweeteners"
+      },
+      {
+        "name": "Pricing Status",
+        "value": "Confirmed"
+      }
+    ],
+    "tags": [
+      "palm sugar",
+      "groceries",
+      "manammcare",
+      "essential"
+    ],
+    "createdAt": "2026-10-22T16:26:45.390Z",
+    "updatedAt": "2026-10-22T16:26:45.390Z"
+  },
+  {
+    "id": "prod_mnm_040",
+    "sku": "MNM-WHE-040",
+    "slug": "wheat-flour",
+    "name": "Wheat Flour",
+    "shortDescription": "Finely milled pure wheat flour, rich in natural grain goodness.",
+    "description": "Finely milled pure wheat flour, rich in natural grain goodness for daily cooking.",
+    "price": 55,
+    "compareAtPrice": 68,
+    "discountPercentage": 19,
+    "currency": "INR",
+    "category": "Flour & Grain Products",
+    "categoryId": "cat_flour_grain",
+    "mainCategoryId": "cat_manammcare",
+    "mainCategory": "Manammcare Products",
+    "brandId": "brd_manammcare",
+    "brand": "Manammcare",
+    "imageUrl": "https://manammcare.com/images/products/wheat-flour.jpg",
+    "images": [
+      "https://manammcare.com/images/products/wheat-flour.jpg"
+    ],
+    "thumbnail": "https://manammcare.com/images/products/wheat-flour.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": false,
+    "isActive": true,
+    "rating": 5,
+    "reviewCount": 0,
+    "unit": "1 kg",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Manammcare Products"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Flour & Grain Products"
+      },
+      {
+        "name": "Pricing Status",
+        "value": "Confirmed"
+      }
+    ],
+    "tags": [
+      "wheat flour",
+      "groceries",
+      "manammcare",
+      "essential"
+    ],
+    "createdAt": "2026-10-22T16:26:45.390Z",
+    "updatedAt": "2026-10-22T16:26:45.390Z"
   }
 ]

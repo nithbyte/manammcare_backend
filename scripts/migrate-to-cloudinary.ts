@@ -13,9 +13,20 @@ cloudinary.config({
 });
 
 const backendDataDir = path.resolve('data/products');
-const mobileDataDir = path.resolve('../manammcare_mobile_app/src/data/products');
+const mobileDataDirs = [
+  path.resolve('../manamm_app/src/data/products'),
+  path.resolve('../manammcare_mobile_app/src/data/products'),
+];
+const websiteDataDirs = [
+  path.resolve('../manammcare/src/data'),
+  path.resolve('../manammcare_website/src/data'),
+];
+const websitePublicDirs = [
+  path.resolve('../manammcare/public'),
+  path.resolve('../manammcare_website/public'),
+  path.resolve('uploads'),
+];
 const cacheFile = path.resolve('data/products/cloudinary-url-map.json');
-const websitePublicDir = path.resolve('../manammcare_website/public');
 
 function loadJson<T>(file: string): T {
   const p = path.join(backendDataDir, file);
@@ -27,10 +38,22 @@ function saveJson(file: string, data: any) {
   fs.writeFileSync(pBackend, JSON.stringify(data, null, 2), 'utf-8');
   console.log(`Saved updated backend JSON: ${pBackend}`);
 
-  if (fs.existsSync(mobileDataDir)) {
-    const pMobile = path.join(mobileDataDir, file);
-    fs.writeFileSync(pMobile, JSON.stringify(data, null, 2), 'utf-8');
-    console.log(`Synced to mobile app JSON: ${pMobile}`);
+  for (const dir of mobileDataDirs) {
+    if (fs.existsSync(dir)) {
+      const pMobile = path.join(dir, file);
+      fs.writeFileSync(pMobile, JSON.stringify(data, null, 2), 'utf-8');
+      console.log(`Synced to mobile app JSON: ${pMobile}`);
+    }
+  }
+
+  for (const dir of websiteDataDirs) {
+    if (fs.existsSync(dir)) {
+      const pWeb = path.join(dir, file);
+      if (fs.existsSync(pWeb)) {
+        fs.writeFileSync(pWeb, JSON.stringify(data, null, 2), 'utf-8');
+        console.log(`Synced to website JSON: ${pWeb}`);
+      }
+    }
   }
 }
 
@@ -45,9 +68,23 @@ if (fs.existsSync(cacheFile)) {
 
 function getLocalFileForUrl(url: string): string | null {
   if (url.includes('manammcare.com/images/')) {
-    const subPath = url.split('manammcare.com/images/')[1];
-    const local = path.join(websitePublicDir, 'images', subPath);
-    if (fs.existsSync(local)) return local;
+    const subPath = url.split('manammcare.com/images/')[1]?.split('?')[0];
+    for (const base of websitePublicDirs) {
+      const local = path.join(base, 'images', subPath);
+      if (fs.existsSync(local)) return local;
+    }
+  }
+  const filename = url.split('/').pop()?.split('?')[0];
+  if (filename) {
+    const localUpload = path.resolve('uploads/products', filename);
+    if (fs.existsSync(localUpload)) return localUpload;
+
+    for (const base of websitePublicDirs) {
+      const localDirect = path.join(base, 'images/products', filename);
+      if (fs.existsSync(localDirect)) return localDirect;
+      const localBase = path.join(base, filename);
+      if (fs.existsSync(localBase)) return localBase;
+    }
   }
   return null;
 }

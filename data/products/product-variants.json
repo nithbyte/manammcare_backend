@@ -9,7 +9,10 @@
     "compareAtPrice": 210,
     "stock": 30,
     "isAvailable": true,
-    "attributes": { "Volume": "500ml", "Packaging": "Glass Bottle" }
+    "attributes": {
+      "Volume": "500ml",
+      "Packaging": "Glass Bottle"
+    }
   },
   {
     "id": "var_1_2",
@@ -21,7 +24,10 @@
     "compareAtPrice": 399,
     "stock": 45,
     "isAvailable": true,
-    "attributes": { "Volume": "1 Litre", "Packaging": "Tin Can / Canister" }
+    "attributes": {
+      "Volume": "1 Litre",
+      "Packaging": "Tin Can / Canister"
+    }
   },
   {
     "id": "var_1_3",
@@ -33,7 +39,10 @@
     "compareAtPrice": 1900,
     "stock": 15,
     "isAvailable": true,
-    "attributes": { "Volume": "5 Litre", "Packaging": "Food-grade Steel Tin" }
+    "attributes": {
+      "Volume": "5 Litre",
+      "Packaging": "Food-grade Steel Tin"
+    }
   },
   {
     "id": "var_2_1",
@@ -45,7 +54,9 @@
     "compareAtPrice": 300,
     "stock": 25,
     "isAvailable": true,
-    "attributes": { "Weight": "250g" }
+    "attributes": {
+      "Weight": "250g"
+    }
   },
   {
     "id": "var_2_2",
@@ -57,7 +68,9 @@
     "compareAtPrice": 550,
     "stock": 30,
     "isAvailable": true,
-    "attributes": { "Weight": "500g" }
+    "attributes": {
+      "Weight": "500g"
+    }
   },
   {
     "id": "var_3_1",
@@ -69,7 +82,9 @@
     "compareAtPrice": 580,
     "stock": 18,
     "isAvailable": true,
-    "attributes": { "Volume": "250ml" }
+    "attributes": {
+      "Volume": "250ml"
+    }
   },
   {
     "id": "var_3_2",
@@ -81,7 +96,9 @@
     "compareAtPrice": 1100,
     "stock": 22,
     "isAvailable": true,
-    "attributes": { "Volume": "500ml" }
+    "attributes": {
+      "Volume": "500ml"
+    }
   },
   {
     "id": "var_3_3",
@@ -93,7 +110,9 @@
     "compareAtPrice": 2100,
     "stock": 12,
     "isAvailable": true,
-    "attributes": { "Volume": "1 Litre" }
+    "attributes": {
+      "Volume": "1 Litre"
+    }
   },
   {
     "id": "var_28_1",
@@ -105,7 +124,9 @@
     "compareAtPrice": 310,
     "stock": 30,
     "isAvailable": true,
-    "attributes": { "Weight": "250g" }
+    "attributes": {
+      "Weight": "250g"
+    }
   },
   {
     "id": "var_28_2",
@@ -117,7 +138,9 @@
     "compareAtPrice": 600,
     "stock": 40,
     "isAvailable": true,
-    "attributes": { "Weight": "500g" }
+    "attributes": {
+      "Weight": "500g"
+    }
   },
   {
     "id": "var_46_1",
@@ -129,7 +152,9 @@
     "compareAtPrice": 90,
     "stock": 40,
     "isAvailable": true,
-    "attributes": { "Weight": "1 kg" }
+    "attributes": {
+      "Weight": "1 kg"
+    }
   },
   {
     "id": "var_46_2",
@@ -141,6 +166,938 @@
     "compareAtPrice": 420,
     "stock": 50,
     "isAvailable": true,
-    "attributes": { "Weight": "5 kg" }
+    "attributes": {
+      "Weight": "5 kg"
+    }
+  },
+  {
+    "id": "var_mnm_001_1",
+    "productId": "prod_mnm_001",
+    "sku": "MNM-TUR-001-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 14.85,
+    "compareAtPrice": 18,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_001_2",
+    "productId": "prod_mnm_001",
+    "sku": "MNM-TUR-001-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 22.2,
+    "compareAtPrice": 28,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_002_1",
+    "productId": "prod_mnm_002",
+    "sku": "MNM-PEP-002-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 69.5,
+    "compareAtPrice": 85,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_002_2",
+    "productId": "prod_mnm_002",
+    "sku": "MNM-PEP-002-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 136,
+    "compareAtPrice": 160,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_003_1",
+    "productId": "prod_mnm_003",
+    "sku": "MNM-CUM-003-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 29.5,
+    "compareAtPrice": 38,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_003_2",
+    "productId": "prod_mnm_003",
+    "sku": "MNM-CUM-003-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 55.5,
+    "compareAtPrice": 70,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_004_1",
+    "productId": "prod_mnm_004",
+    "sku": "MNM-MUS-004-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 17.75,
+    "compareAtPrice": 24,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_004_2",
+    "productId": "prod_mnm_004",
+    "sku": "MNM-MUS-004-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 33.75,
+    "compareAtPrice": 45,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_005_1",
+    "productId": "prod_mnm_005",
+    "sku": "MNM-FEN-005-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 22,
+    "compareAtPrice": 28,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_005_2",
+    "productId": "prod_mnm_005",
+    "sku": "MNM-FEN-005-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 44,
+    "compareAtPrice": 55,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_006_1",
+    "productId": "prod_mnm_006",
+    "sku": "MNM-FEN-006-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 30,
+    "compareAtPrice": 38,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_006_2",
+    "productId": "prod_mnm_006",
+    "sku": "MNM-FEN-006-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 55.7,
+    "compareAtPrice": 70,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_024_1",
+    "productId": "prod_mnm_024",
+    "sku": "MNM-WHI-024-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 20,
+    "compareAtPrice": 26,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_024_2",
+    "productId": "prod_mnm_024",
+    "sku": "MNM-WHI-024-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 37.7,
+    "compareAtPrice": 48,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_025_1",
+    "productId": "prod_mnm_025",
+    "sku": "MNM-BLA-025-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 16.75,
+    "compareAtPrice": 22,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_025_2",
+    "productId": "prod_mnm_025",
+    "sku": "MNM-BLA-025-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 31.75,
+    "compareAtPrice": 40,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_029_1",
+    "productId": "prod_mnm_029",
+    "sku": "MNM-FRI-029-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 42,
+    "compareAtPrice": 52,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_029_2",
+    "productId": "prod_mnm_029",
+    "sku": "MNM-FRI-029-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 95,
+    "compareAtPrice": 115,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_030_1",
+    "productId": "prod_mnm_030",
+    "sku": "MNM-FRI-030-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 31,
+    "compareAtPrice": 40,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_030_2",
+    "productId": "prod_mnm_030",
+    "sku": "MNM-FRI-030-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 99,
+    "compareAtPrice": 120,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_030_3",
+    "productId": "prod_mnm_030",
+    "sku": "MNM-FRI-030-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 140.5,
+    "compareAtPrice": 175,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_011_1",
+    "productId": "prod_mnm_011",
+    "sku": "MNM-BLA-011-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 77.75,
+    "compareAtPrice": 95,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_012_1",
+    "productId": "prod_mnm_012",
+    "sku": "MNM-WHI-012-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 97,
+    "compareAtPrice": 120,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_013_1",
+    "productId": "prod_mnm_013",
+    "sku": "MNM-RED-013-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 35.5,
+    "compareAtPrice": 45,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_014_1",
+    "productId": "prod_mnm_014",
+    "sku": "MNM-PEA-014-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 47.5,
+    "compareAtPrice": 60,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_015_1",
+    "productId": "prod_mnm_015",
+    "sku": "MNM-WHI-015-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 67.5,
+    "compareAtPrice": 85,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_026_1",
+    "productId": "prod_mnm_026",
+    "sku": "MNM-PUM-026-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 95.5,
+    "compareAtPrice": 120,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_007_1",
+    "productId": "prod_mnm_007",
+    "sku": "MNM-ROU-007-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 82,
+    "compareAtPrice": 105,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_008_1",
+    "productId": "prod_mnm_008",
+    "sku": "MNM-LON-008-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 75,
+    "compareAtPrice": 95,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_008_2",
+    "productId": "prod_mnm_008",
+    "sku": "MNM-LON-008-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 200,
+    "compareAtPrice": 240,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_009_1",
+    "productId": "prod_mnm_009",
+    "sku": "MNM-COR-009-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 57,
+    "compareAtPrice": 75,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_009_2",
+    "productId": "prod_mnm_009",
+    "sku": "MNM-COR-009-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 185,
+    "compareAtPrice": 220,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_010_1",
+    "productId": "prod_mnm_010",
+    "sku": "MNM-TUR-010-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 57,
+    "compareAtPrice": 75,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_010_2",
+    "productId": "prod_mnm_010",
+    "sku": "MNM-TUR-010-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 135.5,
+    "compareAtPrice": 165,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_010_3",
+    "productId": "prod_mnm_010",
+    "sku": "MNM-TUR-010-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 270,
+    "compareAtPrice": 876,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_016_1",
+    "productId": "prod_mnm_016",
+    "sku": "MNM-THU-016-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 36,
+    "compareAtPrice": 45,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_016_2",
+    "productId": "prod_mnm_016",
+    "sku": "MNM-THU-016-100G",
+    "title": "100 g Pouch",
+    "packSize": "100 g",
+    "price": 72,
+    "compareAtPrice": 88,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "100 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_016_3",
+    "productId": "prod_mnm_016",
+    "sku": "MNM-THU-016-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 149,
+    "compareAtPrice": 180,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_017_1",
+    "productId": "prod_mnm_017",
+    "sku": "MNM-GRA-017-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 193,
+    "compareAtPrice": 230,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_018_1",
+    "productId": "prod_mnm_018",
+    "sku": "MNM-MOO-018-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 165,
+    "compareAtPrice": 195,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_019_1",
+    "productId": "prod_mnm_019",
+    "sku": "MNM-ORI-019-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 82.75,
+    "compareAtPrice": 105,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_031_1",
+    "productId": "prod_mnm_031",
+    "sku": "MNM-SUG-031-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 84.75,
+    "compareAtPrice": 105,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_031_2",
+    "productId": "prod_mnm_031",
+    "sku": "MNM-SUG-031-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 172.5,
+    "compareAtPrice": 210,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_027_1",
+    "productId": "prod_mnm_027",
+    "sku": "MNM-CHI-027-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 43.5,
+    "compareAtPrice": 55,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_027_2",
+    "productId": "prod_mnm_027",
+    "sku": "MNM-CHI-027-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 690,
+    "compareAtPrice": 850,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_028_1",
+    "productId": "prod_mnm_028",
+    "sku": "MNM-FLA-028-50G",
+    "title": "50 g Pouch",
+    "packSize": "50 g",
+    "price": 43.5,
+    "compareAtPrice": 55,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "50 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_020_1",
+    "productId": "prod_mnm_020",
+    "sku": "MNM-WHO-020-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 81.5,
+    "compareAtPrice": 100,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_021_1",
+    "productId": "prod_mnm_021",
+    "sku": "MNM-BLA-021-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 76,
+    "compareAtPrice": 95,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_032_1",
+    "productId": "prod_mnm_032",
+    "sku": "MNM-JAG-032-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 50,
+    "compareAtPrice": 65,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_032_2",
+    "productId": "prod_mnm_032",
+    "sku": "MNM-JAG-032-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 98,
+    "compareAtPrice": 125,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_039_1",
+    "productId": "prod_mnm_039",
+    "sku": "MNM-PAL-039-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 50,
+    "compareAtPrice": 65,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_039_2",
+    "productId": "prod_mnm_039",
+    "sku": "MNM-PAL-039-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 98,
+    "compareAtPrice": 125,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_038_1",
+    "productId": "prod_mnm_038",
+    "sku": "MNM-THA-038-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 66,
+    "compareAtPrice": 85,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_037_1",
+    "productId": "prod_mnm_037",
+    "sku": "MNM-TAM-037-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 127,
+    "compareAtPrice": 160,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_022_1",
+    "productId": "prod_mnm_022",
+    "sku": "MNM-SOY-022-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 37.5,
+    "compareAtPrice": 48,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_023_1",
+    "productId": "prod_mnm_023",
+    "sku": "MNM-DOU-023-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 37.7,
+    "compareAtPrice": 50,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_033_1",
+    "productId": "prod_mnm_033",
+    "sku": "MNM-SEM-033-200G",
+    "title": "200 g Pouch",
+    "packSize": "200 g",
+    "price": 23,
+    "compareAtPrice": 30,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "200 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_033_2",
+    "productId": "prod_mnm_033",
+    "sku": "MNM-SEM-033-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 52,
+    "compareAtPrice": 65,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_034_1",
+    "productId": "prod_mnm_034",
+    "sku": "MNM-SOO-034-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 44,
+    "compareAtPrice": 55,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_035_1",
+    "productId": "prod_mnm_035",
+    "sku": "MNM-RIC-035-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 34,
+    "compareAtPrice": 45,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_040_1",
+    "productId": "prod_mnm_040",
+    "sku": "MNM-WHE-040-1KG",
+    "title": "1 kg Pouch",
+    "packSize": "1 kg",
+    "price": 55,
+    "compareAtPrice": 68,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "1 kg",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
+  },
+  {
+    "id": "var_mnm_036_1",
+    "productId": "prod_mnm_036",
+    "sku": "MNM-MAI-036-500G",
+    "title": "500 g Pouch",
+    "packSize": "500 g",
+    "price": 48,
+    "compareAtPrice": 60,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Weight": "500 g",
+      "Packaging": "Food-grade Sealed Stand-up Pouch"
+    }
   }
 ]

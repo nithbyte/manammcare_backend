@@ -3535,5 +3535,23 @@
     "reorderQuantity": 50,
     "warehouseLocation": "WH-CHN-01",
     "lastRestockedAt": "2026-10-21T05:26:54.032Z"
+  },
+  {
+    "productId": "prod_mnm_039",
+    "sku": "MNM-PAL-039",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-22T16:26:45.402Z"
+  },
+  {
+    "productId": "prod_mnm_040",
+    "sku": "MNM-WHE-040",
+    "availableQuantity": 100,
+    "reservedQuantity": 0,
+    "lowStockThreshold": 10,
+    "isInStock": true,
+    "updatedAt": "2026-10-22T16:26:45.402Z"
   }
 ]
