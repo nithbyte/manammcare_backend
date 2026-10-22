@@ -511,6 +511,8 @@ export class NetworkingService {
         membershipStatus: true,
         membershipActivatedAt: true,
         referralCode: true,
+        isValidCustomer: true,
+        customerVerification: true,
       },
     });
 
@@ -519,6 +521,7 @@ export class NetworkingService {
     }
 
     const isMember = user.membershipStatus === MembershipStatus.MEMBER;
+    const isValidCustomer = Boolean(user.isValidCustomer || user.customerVerification);
     const threshold = NetworkingService.MEMBERSHIP_THRESHOLD_INR;
 
     if (!isMember) {
@@ -535,6 +538,8 @@ export class NetworkingService {
         data: {
           membershipStatus: user.membershipStatus,
           isMember: false,
+          isValidCustomer,
+          customerVerification: user.customerVerification || null,
           membershipActivatedAt: null,
           referralCode: null,
           eligibilityCriteria: {
@@ -608,6 +613,8 @@ export class NetworkingService {
       data: {
         membershipStatus: user.membershipStatus,
         isMember: true,
+        isValidCustomer,
+        customerVerification: user.customerVerification || null,
         membershipActivatedAt: user.membershipActivatedAt?.toISOString() || null,
         cycle: {
           id: activeCycle.id,

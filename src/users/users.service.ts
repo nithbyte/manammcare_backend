@@ -2,9 +2,11 @@ import {
   Injectable,
   NotFoundException,
   ForbiddenException,
+  BadRequestException,
 } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateAddressDto, UpdateAddressDto } from './dto/address.dto';
+import { SubmitCustomerVerificationDto } from './dto/customer-verification.dto';
 
 @Injectable()
 export class UsersService {
@@ -15,6 +17,7 @@ export class UsersService {
       where: { id: userId },
       include: {
         profile: true,
+        customerVerification: true,
       },
     });
 
@@ -35,6 +38,8 @@ export class UsersService {
       membershipStatus: user.membershipStatus || 'CUSTOMER',
       membershipActivatedAt: user.membershipActivatedAt?.toISOString() || null,
       referralCode: user.referralCode || null,
+      isValidCustomer: Boolean(user.isValidCustomer || user.customerVerification),
+      customerVerification: user.customerVerification || null,
       createdAt: user.createdAt.toISOString(),
       updatedAt: user.updatedAt.toISOString(),
     };
@@ -134,4 +139,77 @@ export class UsersService {
 
     return { success: true };
   }
+
+  async getCustomerVerification(userId: string) {
+    const verification = await this.prisma.customerVerification.findUnique({
+      where: { userId },
+    });
+
+    return {
+      success: true,
+      isVerified: Boolean(verification),
+      verification: verification || null,
+    };
+  }
+
+  async submitCustomerVerification(userId: string, dto: SubmitCustomerVerificationDto) {
+    const user = await this.prisma.user.findUnique({ where: { id: userId } });
+    if (!user) {
+      throw new NotFoundException('User account not found.');
+    }
+
+    if (dto.mobileNumber.trim() === dto.alternatePhone.trim()) {
+      throw new BadRequestException('Alternate contact number must be different from primary mobile number.');
+    }
+
+    const verification = await this.prisma.customerVerification.upsert({
+      where: { userId },
+      create: {
+        userId,
+        fullName: dto.fullName.trim(),
+        age: Number(dto.age),
+        gender: dto.gender,
+        fatherOrSpouseName: dto.fatherOrSpouseName.trim(),
+        mobileNumber: dto.mobileNumber.trim(),
+        address: dto.address.trim(),
+        panNumber: dto.panNumber.trim().toUpperCase(),
+        aadhaarNumber: dto.aadhaarNumber.trim(),
+        alternatePhone: dto.alternatePhone.trim(),
+        nomineeName: dto.nomineeName.trim(),
+        nomineeRelationship: dto.nomineeRelationship.trim(),
+        nomineeAge: Number(dto.nomineeAge),
+        status: 'VERIFIED',
+      },
+      update: {
+        fullName: dto.fullName.trim(),
+        age: Number(dto.age),
+        gender: dto.gender,
+        fatherOrSpouseName: dto.fatherOrSpouseName.trim(),
+        mobileNumber: dto.mobileNumber.trim(),
+        address: dto.address.trim(),
+        panNumber: dto.panNumber.trim().toUpperCase(),
+        aadhaarNumber: dto.aadhaarNumber.trim(),
+        alternatePhone: dto.alternatePhone.trim(),
+        nomineeName: dto.nomineeName.trim(),
+        nomineeRelationship: dto.nomineeRelationship.trim(),
+        nomineeAge: Number(dto.nomineeAge),
+        status: 'VERIFIED',
+      },
+    });
+
+    await this.prisma.user.update({
+      where: { id: userId },
+      data: {
+        isValidCustomer: true,
+      },
+    });
+
+    return {
+      success: true,
+      message: 'Valid Customer verification details saved successfully.',
+      isVerified: true,
+      verification,
+    };
+  }
 }
+

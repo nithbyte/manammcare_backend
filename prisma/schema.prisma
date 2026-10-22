@@ -108,9 +108,37 @@ model User {
   stageBenefits           StageBenefit[]     @relation("MemberBenefits")
   confirmedBenefits       StageBenefit[]     @relation("AdminConfirmedBenefits")
 
+  customerVerification    CustomerVerification?
+  isValidCustomer         Boolean          @default(false)
+
   @@index([email])
   @@index([role])
   @@index([referralCode])
+}
+
+model CustomerVerification {
+  id                  String   @id @default(cuid())
+  userId              String   @unique
+  user                User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  fullName            String
+  age                 Int
+  gender              String
+  fatherOrSpouseName  String
+  mobileNumber        String
+  address             String
+  panNumber           String
+  aadhaarNumber       String
+  alternatePhone      String
+  nomineeName         String
+  nomineeRelationship String
+  nomineeAge          Int
+  status              String   @default("VERIFIED")
+  createdAt           DateTime @default(now())
+  updatedAt           DateTime @updatedAt
+
+  @@index([userId])
+  @@index([panNumber])
+  @@index([aadhaarNumber])
 }
 
 model UserProfile {

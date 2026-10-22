@@ -36,6 +36,8 @@ export class AuthService {
       membershipStatus: safeUser.membershipStatus || 'CUSTOMER',
       membershipActivatedAt: safeUser.membershipActivatedAt || null,
       referralCode: safeUser.referralCode || null,
+      isValidCustomer: Boolean(safeUser.isValidCustomer || safeUser.customerVerification),
+      customerVerification: safeUser.customerVerification || null,
     };
   }
 
@@ -189,6 +191,7 @@ export class AuthService {
       where: { id: userId },
       include: {
         profile: true,
+        customerVerification: true,
       },
     });
 

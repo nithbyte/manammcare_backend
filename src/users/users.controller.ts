@@ -11,6 +11,7 @@ import {
 import { ApiTags, ApiBearerAuth, ApiOperation } from '@nestjs/swagger';
 import { UsersService } from './users.service';
 import { CreateAddressDto, UpdateAddressDto } from './dto/address.dto';
+import { SubmitCustomerVerificationDto } from './dto/customer-verification.dto';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
 import { CurrentUser } from '../common/decorators/current-user.decorator';
 
@@ -69,4 +70,20 @@ export class UsersController {
   ) {
     return this.usersService.deleteAddress(user.id, addressId);
   }
+
+  @Get('me/verification')
+  @ApiOperation({ summary: 'Get Valid Customer KYC verification status and details' })
+  async getVerification(@CurrentUser() user: any) {
+    return this.usersService.getCustomerVerification(user.id);
+  }
+
+  @Post('me/verification')
+  @ApiOperation({ summary: 'Submit mandatory Valid Customer KYC details' })
+  async submitVerification(
+    @CurrentUser() user: any,
+    @Body() dto: SubmitCustomerVerificationDto,
+  ) {
+    return this.usersService.submitCustomerVerification(user.id, dto);
+  }
 }
+
