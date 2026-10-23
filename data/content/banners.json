@@ -72,30 +72,6 @@
     "endDate": "2026-12-31T23:59:59.000Z"
   },
   {
-    "id": "ban_07",
-    "title": "Stainless Steel Food Houseware",
-    "subtitle": "Premium insulated lunch boxes, casseroles, and bottles",
-    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
-    "actionType": "CATEGORY",
-    "actionValue": "cat_food_houseware",
-    "sortOrder": 7,
-    "isActive": true,
-    "startDate": "2026-01-01T00:00:00.000Z",
-    "endDate": "2026-12-31T23:59:59.000Z"
-  },
-  {
-    "id": "ban_08",
-    "title": "Precision Clocks & Executive Gifts",
-    "subtitle": "Artistic wall clocks, table clocks, and desk organizers",
-    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80",
-    "actionType": "CATEGORY",
-    "actionValue": "cat_clocks_novelties",
-    "sortOrder": 8,
-    "isActive": true,
-    "startDate": "2026-01-01T00:00:00.000Z",
-    "endDate": "2026-12-31T23:59:59.000Z"
-  },
-  {
     "id": "ban_09",
     "title": "Natural Storage Glass Jars",
     "subtitle": "Airtight sustainable containers for spices and dry pantry staples",
