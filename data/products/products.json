@@ -20062,9 +20062,9 @@
     "name": "Handcrafted Yellow Silk Thread Kundan Bangles (Pack of 4)",
     "shortDescription": "Vibrant yellow silk thread bangles embellished with intricate floral kundan stone motifs.",
     "description": "Handcrafted Yellow Silk Thread Kundan Bangles (Pack of 4) is part of the Partner Collection ecosystem. Thoughtfully handcrafted with premium bright yellow silk thread winding, embellished with floral kundan crystal clusters, leaf-cut stones, and antique gold rim motifs. Perfect for Haldi ceremonies, weddings, festive gatherings, and ethnic wear.",
-    "price": 500,
-    "compareAtPrice": 699,
-    "discountPercentage": 28,
+    "price": 700,
+    "compareAtPrice": 899,
+    "discountPercentage": 22,
     "currency": "INR",
     "category": "Accessories",
     "categoryId": "cat_accessories",
@@ -20074,7 +20074,8 @@
     "brand": "MANAMM",
     "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg",
     "images": [
-      "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg",
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792757789/manamm/products/yellow_silk_kundan_bangles_p122_v2.jpg"
     ],
     "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg",
     "priceConfirmed": true,
@@ -20128,7 +20129,7 @@
       "partner collection"
     ],
     "createdAt": "2026-10-23T17:34:00.000Z",
-    "updatedAt": "2026-10-23T17:34:00.000Z"
+    "updatedAt": "2026-10-23T12:16:43.773Z"
   },
   {
     "id": "manamm-p123",
@@ -20208,5 +20209,1566 @@
     ],
     "createdAt": "2026-10-23T17:38:00.000Z",
     "updatedAt": "2026-10-23T17:38:00.000Z"
+  },
+  {
+    "id": "manamm-p124",
+    "sku": "PARTNER-AC-008",
+    "slug": "handcrafted-triangle-kundan-silk-thread-bangles-set-of-4",
+    "name": "Handcrafted Triangle Kundan Silk Thread Bangles (Set of 4)",
+    "shortDescription": "Vibrant silk thread bangles studded with geometric golden triangle mirror kundan stones.",
+    "description": "Handcrafted Triangle Kundan Silk Thread Bangles (Set of 4) is part of the Partner Collection ecosystem. Handcrafted with precision silk thread wrapping and closely set with radiant geometric triangle mirror kundan stones in gold-tone bezels. Available in a spectrum of celebratory ethnic shades including Crimson Red, Royal Blue, Mustard Gold, Emerald Green, Rani Pink, and Tangerine Orange. ₹400 per 4-piece set.",
+    "price": 400,
+    "compareAtPrice": 550,
+    "discountPercentage": 27,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757518/manamm/products/triangle_kundan_silk_bangles_p124.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792757518/manamm/products/triangle_kundan_silk_bangles_p124.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757518/manamm/products/triangle_kundan_silk_bangles_p124.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 60,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 26,
+    "unit": "Set of 4",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-008"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Set of 4"
+      },
+      {
+        "name": "Stone Type",
+        "value": "Geometric Triangle Kundan Mirror Stones"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread, Glass Kundan, Gold-Plated Bezels"
+      },
+      {
+        "name": "Available Colors",
+        "value": "Crimson Red, Royal Blue, Mustard Gold, Emerald Green, Rani Pink, Tangerine Orange"
+      },
+      {
+        "name": "Occasion",
+        "value": "Festive, Wedding, Sangeet, Traditional Wear"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "triangle kundan",
+      "silk thread",
+      "multicolor",
+      "wedding",
+      "festive",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:41:00.000Z",
+    "updatedAt": "2026-10-23T17:41:00.000Z"
+  },
+  {
+    "id": "manamm-p125",
+    "sku": "PARTNER-AC-009",
+    "slug": "royal-blue-bridal-kundan-silk-thread-bangle-set",
+    "name": "Royal Blue Bridal Kundan Silk Thread Bangle Set (Bridal Chuda Kada Set)",
+    "shortDescription": "Regal royal blue bridal silk thread chuda kada set with floral and diamond mirror kundan work.",
+    "description": "Royal Blue Bridal Kundan Silk Thread Bangle Set is part of the Partner Collection ecosystem. Masterfully crafted with vibrant royal blue silk thread wrapping, featuring broad floral kundan kadas, criss-cross diamond mirror kadas, and delicate accent bangles. Accented with sparkling clear crystals, diamond mirrors, and gold bezel settings. An opulent statement set curated for brides, weddings, and grand celebrations.",
+    "price": 800,
+    "compareAtPrice": 1199,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758048/manamm/products/royal_blue_bridal_kundan_bangles_p125.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792758048/manamm/products/royal_blue_bridal_kundan_bangles_p125.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758048/manamm/products/royal_blue_bridal_kundan_bangles_p125.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 40,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 5,
+    "reviewCount": 32,
+    "unit": "Complete Bridal Set",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-009"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Complete Bridal Set"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Floral Kadas, Diamond Mirror Kadas & Accent Bangles"
+      },
+      {
+        "name": "Color",
+        "value": "Royal Cobalt Blue & Antique Gold"
+      },
+      {
+        "name": "Stone Work",
+        "value": "Hand-Set Kundan Stones & Mirror Work"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal, Wedding Reception, Sangeet, Festive"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "bridal",
+      "royal blue",
+      "kundan",
+      "silk thread",
+      "chuda",
+      "wedding",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:50:00.000Z",
+    "updatedAt": "2026-10-23T17:50:00.000Z"
+  },
+  {
+    "id": "manamm-p126",
+    "sku": "PARTNER-AC-010",
+    "slug": "handcrafted-statement-floral-kundan-silk-thread-kada",
+    "name": "Handcrafted Statement Floral Kundan Silk Thread Kada",
+    "shortDescription": "Eye-catching statement silk thread kada featuring a blooming 3D floral kundan centerpiece.",
+    "description": "Handcrafted Statement Floral Kundan Silk Thread Kada is part of the Partner Collection ecosystem. Masterfully designed with a multi-layered 3D blooming floral kundan brooch centerpiece, pavé diamond-crystal core, and stone-studded silk thread shank. Available in vibrant celebratory shades including Antique Gold, Yellow, Magenta Pink, Emerald Green, Royal Purple, and Rose Pink. ₹150 per piece.",
+    "price": 150,
+    "compareAtPrice": 220,
+    "discountPercentage": 32,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758245/manamm/products/statement_floral_kundan_kada_p126.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792758245/manamm/products/statement_floral_kundan_kada_p126.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758245/manamm/products/statement_floral_kundan_kada_p126.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 80,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 35,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-010"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Motif",
+        "value": "3D Multi-Layered Blooming Flower Kundan Brooch"
+      },
+      {
+        "name": "Available Colors",
+        "value": "Antique Gold, Yellow, Magenta Pink, Emerald Green, Royal Purple, Rose Pink"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread, Multi-Facet Glass Kundan Stones, Gold-Tone Bezels"
+      },
+      {
+        "name": "Occasion",
+        "value": "Party Wear, Festive, Mehendi, Sangeet, Traditional"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "kada",
+      "flower kada",
+      "statement jewelry",
+      "kundan",
+      "silk thread",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:53:00.000Z",
+    "updatedAt": "2026-10-23T17:53:00.000Z"
+  },
+  {
+    "id": "manamm-p127",
+    "sku": "PARTNER-AC-011",
+    "slug": "handcrafted-floral-enamel-pearl-hair-clip-brooch",
+    "name": "Handcrafted Floral Enamel & Pearl Latkan Hair Clip Brooch",
+    "shortDescription": "Elegant handcrafted floral enamel hair barrette clip with cascading triple-tier pearl bead chains.",
+    "description": "Handcrafted Floral Enamel & Pearl Latkan Hair Clip Brooch is part of the Partner Collection ecosystem. Adorned with blooming dual-tone enamel flower blossoms in sky blue and sunshine yellow with diamond-crystal centers, embellished with antique temple coin motifs and triple cascading pearl bead latkan chains. Perfect for traditional bridal hairstyles, festive braids, and half-updos.",
+    "price": 250,
+    "compareAtPrice": 350,
+    "discountPercentage": 28,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758443/manamm/products/floral_enamel_pearl_hair_clip_p127.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792758443/manamm/products/floral_enamel_pearl_hair_clip_p127.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758443/manamm/products/floral_enamel_pearl_hair_clip_p127.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 75,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 19,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-011"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Design",
+        "value": "Floral Enamel Barrette with Cascading Pearl Chains"
+      },
+      {
+        "name": "Motif",
+        "value": "Enamel Flowers & Temple Coin Accents"
+      },
+      {
+        "name": "Material",
+        "value": "Dual-Tone Enamel, Pearl Beads, Antique Gold Alloy"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal, Mehendi, Haldi, Festive, Party Wear"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hair accessory",
+      "hair clip",
+      "pearl latkan",
+      "enamel flower",
+      "brooch",
+      "bridal jewelry",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:56:00.000Z",
+    "updatedAt": "2026-10-23T17:56:00.000Z"
+  },
+  {
+    "id": "manamm-p128",
+    "sku": "PARTNER-AC-012",
+    "slug": "handcrafted-silver-grey-silk-thread-ruby-kundan-bangles-pair",
+    "name": "Handcrafted Silver Grey Silk Thread Ruby Floral Kundan Bangles (Pair)",
+    "shortDescription": "Exquisite silver grey silk thread bangles studded with radiant ruby-centered floral kundan stones.",
+    "description": "Handcrafted Silver Grey Silk Thread Ruby Floral Kundan Bangles (Pair) is part of the Partner Collection ecosystem. Meticulously wrapped in fine lustrous silver-grey silk thread and adorned with continuous floral kundan motifs featuring vivid ruby pink center crystals and clear diamond-cut glass petals set in antique gold bezels. Perfect for evening receptions, cocktail parties, festive celebrations, and wedding wear.",
+    "price": 700,
+    "compareAtPrice": 999,
+    "discountPercentage": 30,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758676/manamm/products/silver_ruby_floral_kundan_bangles_p128.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792758676/manamm/products/silver_ruby_floral_kundan_bangles_p128.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758676/manamm/products/silver_ruby_floral_kundan_bangles_p128.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 22,
+    "unit": "Set of 2",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-012"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Set of 2"
+      },
+      {
+        "name": "Color",
+        "value": "Silver Grey & Ruby Pink"
+      },
+      {
+        "name": "Motif",
+        "value": "Floral Kundan with Ruby Crystal Center"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread, Glass Kundan Crystals, Antique Gold-Plated Bezels"
+      },
+      {
+        "name": "Occasion",
+        "value": "Reception, Wedding, Cocktail, Evening Festive Wear"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "silver bangles",
+      "ruby kundan",
+      "silk thread",
+      "party wear",
+      "wedding",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:01:00.000Z",
+    "updatedAt": "2026-10-23T18:01:00.000Z"
+  },
+  {
+    "id": "manamm-p129",
+    "sku": "PARTNER-AC-013",
+    "slug": "handcrafted-rani-pink-bridal-mirror-kundan-bangle-set",
+    "name": "Handcrafted Rani Pink Bridal Mirror Kundan Bangle Set (Complete Chuda Set)",
+    "shortDescription": "Grand rani pink bridal silk thread chuda set with 4-diamond mirror kundan clusters and gold bead rims.",
+    "description": "Handcrafted Rani Pink Bridal Mirror Kundan Bangle Set is part of the Partner Collection ecosystem. Meticulously wrapped in vivid rani magenta pink silk thread, featuring statement outer and center kadas with 4-square diamond mirror kundan clusters, pink rhombus stones, and gold bead trims, alternated with gold-dot spacer bangles. An opulent traditional chuda set tailored for brides, sangeet ceremonies, and festive occasions.",
+    "price": 700,
+    "compareAtPrice": 999,
+    "discountPercentage": 30,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758838/manamm/products/rani_pink_bridal_mirror_bangles_p129.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792758838/manamm/products/rani_pink_bridal_mirror_bangles_p129.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792758838/manamm/products/rani_pink_bridal_mirror_bangles_p129.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 28,
+    "unit": "Complete Bridal Set",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-013"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Complete Bridal Set"
+      },
+      {
+        "name": "Color",
+        "value": "Rani Pink / Magenta & Antique Gold"
+      },
+      {
+        "name": "Motif",
+        "value": "Diamond Mirror Kundan Clusters & Gold Bead Trims"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread, Glass Mirror Kundan, Gold-Tone Bezels"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal, Wedding, Sangeet, Karwa Chauth, Festive Wear"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "bridal",
+      "rani pink",
+      "mirror kundan",
+      "chuda",
+      "silk thread",
+      "wedding",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:04:00.000Z",
+    "updatedAt": "2026-10-23T18:04:00.000Z"
+  },
+  {
+    "id": "manamm-p130",
+    "sku": "PARTNER-AC-014",
+    "slug": "handcrafted-blooming-floral-sunburst-hair-brooch-with-pearl-latkan",
+    "name": "Handcrafted Blooming Floral Sunburst Hair Brooch with Pearl Latkan",
+    "shortDescription": "Stunning blooming floral sunburst hair brooch with ruby stone center and 5 cascading pearl latkan chains.",
+    "description": "Handcrafted Blooming Floral Sunburst Hair Brooch with Pearl Latkan is part of the Partner Collection ecosystem. Features a circular blooming dahlia sunburst brooch crafted with ivory white petal stones, an inner ring of ruby pink stones, and a sparkling diamond crystal core. Finished with five delicate cascading pearl bead latkan chains with teardrop pearl drops. Ideal for traditional braids, bridal half-updos, festive hairstyles, and wedding guest styling.",
+    "price": 200,
+    "compareAtPrice": 299,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792759034/manamm/products/floral_sunburst_pearl_hair_brooch_p130.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792759034/manamm/products/floral_sunburst_pearl_hair_brooch_p130.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792759034/manamm/products/floral_sunburst_pearl_hair_brooch_p130.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 80,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-014"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Centerpiece",
+        "value": "Circular Blooming Sunburst Dahlia Brooch"
+      },
+      {
+        "name": "Latkan Style",
+        "value": "5 Tiered Cascading Pearl Bead Chains with Teardrop Drops"
+      },
+      {
+        "name": "Colors",
+        "value": "Ivory White, Ruby Red, Pearl White & Antique Gold"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal, Wedding, Reception, Festive Hairstyles, Traditional Functions"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hair accessory",
+      "hair brooch",
+      "juda pin",
+      "pearl latkan",
+      "sunburst flower",
+      "bridal",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:07:00.000Z",
+    "updatedAt": "2026-10-23T18:07:00.000Z"
+  },
+  {
+    "id": "manamm-p131",
+    "sku": "PARTNER-AC-015",
+    "slug": "handcrafted-floral-pearl-crystal-hair-clip-pair",
+    "name": "Handcrafted Floral Pearl & Crystal Alligator Hair Clip (Pair)",
+    "shortDescription": "Elegant pair of pearl and crystal studded alligator hair clips in assorted floral designs.",
+    "description": "Handcrafted Floral Pearl & Crystal Alligator Hair Clip (Pair) is part of the Partner Collection ecosystem. Meticulously designed with sculpted lustrous white pearl petal flowers, multi-colored gemstone and crystal centers (ruby, turquoise, amethyst, emerald, clear diamond), and sturdy gold-tone alligator clip bases. Mounted as a pair per card. ₹200 per pair. Perfect for everyday glam, festive styling, half-updos, and side-swept locks.",
+    "price": 200,
+    "compareAtPrice": 299,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792759795/manamm/products/pearl_crystal_hair_clips_pair_p131.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792759795/manamm/products/pearl_crystal_hair_clips_pair_p131.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792759795/manamm/products/pearl_crystal_hair_clips_pair_p131.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 30,
+    "unit": "Set of 2 (1 Pair)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-015"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Set of 2 (1 Pair)"
+      },
+      {
+        "name": "Clip Type",
+        "value": "Alligator Hair Barrettes / Hair Pins"
+      },
+      {
+        "name": "Embellishment",
+        "value": "Lustrous Pearl Flowers & Multi-Colored Faceted Crystals"
+      },
+      {
+        "name": "Available Stone Colors",
+        "value": "Turquoise Blue, Ruby Pink, Purple Amethyst, Emerald Green, Diamond White"
+      },
+      {
+        "name": "Base",
+        "value": "Gold-Tone Metal Alloy"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hair accessory",
+      "hair clip",
+      "pearl clips",
+      "alligator clip",
+      "hair barrette",
+      "crystal",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:19:00.000Z",
+    "updatedAt": "2026-10-23T18:19:00.000Z"
+  },
+  {
+    "id": "manamm-p132",
+    "sku": "PARTNER-AC-016",
+    "slug": "handcrafted-peacock-teal-magenta-bridal-kundan-bangle-set",
+    "name": "Handcrafted Peacock Teal & Magenta Bridal Kundan Bangle Set (Complete Chuda Set)",
+    "shortDescription": "Dual-tone peacock teal and magenta silk thread bridal chuda set with floral and diamond mirror kundan kadas.",
+    "description": "Handcrafted Peacock Teal & Magenta Bridal Kundan Bangle Set is part of the Partner Collection ecosystem. Meticulously wrapped in complementary shades of peacock teal green and royal magenta silk thread, featuring broad floral kundan kadas, criss-cross diamond mirror kadas, square stone frames, and delicate accent spacer bangles. Curated for bridal trousseaus, sangeet ceremonies, and grand festive occasions.",
+    "price": 700,
+    "compareAtPrice": 999,
+    "discountPercentage": 30,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792759999/manamm/products/peacock_teal_magenta_bridal_bangles_p132.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792759999/manamm/products/peacock_teal_magenta_bridal_bangles_p132.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792759999/manamm/products/peacock_teal_magenta_bridal_bangles_p132.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 45,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 25,
+    "unit": "Complete Bridal Set",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-016"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Complete Bridal Set"
+      },
+      {
+        "name": "Color Combination",
+        "value": "Peacock Teal Green & Rich Magenta Pink"
+      },
+      {
+        "name": "Kundan Work",
+        "value": "Floral Mirror Motifs & Criss-Cross Triangular Kundan Settings"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread, Glass Mirror Kundan, Gold-Tone Bezels"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal, Wedding, Sangeet, Mehendi, Festive"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "bridal",
+      "peacock teal",
+      "magenta",
+      "kundan",
+      "chuda",
+      "silk thread",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:23:00.000Z",
+    "updatedAt": "2026-10-23T18:23:00.000Z"
+  },
+  {
+    "id": "manamm-p133",
+    "sku": "PARTNER-AC-017",
+    "slug": "temple-jewellery-lakshmi-coin-lotus-kundan-bangles-set-of-4",
+    "name": "Temple Jewellery Antique Gold Lakshmi Coin & Lotus Kundan Bangles (Set of 4)",
+    "shortDescription": "Traditional South Indian antique matte gold temple bangles featuring embossed Lakshmi coins and ruby lotus motifs.",
+    "description": "Temple Jewellery Antique Gold Lakshmi Coin & Lotus Kundan Bangles (Set of 4) is part of the Partner Collection ecosystem. Meticulously handcrafted in heritage antique matte gold finish, featuring embossed Goddess Lakshmi Kasu coins alternating with elegant ruby pink and emerald green kundan lotus flower motifs. An auspicious and timeless staple for weddings, festivals, temple visits, and classic South Indian silk saree styling. ₹600 for a set of 4.",
+    "price": 600,
+    "compareAtPrice": 850,
+    "discountPercentage": 29,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760202/manamm/products/lakshmi_coin_lotus_kundan_bangles_p133.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792760202/manamm/products/lakshmi_coin_lotus_kundan_bangles_p133.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760202/manamm/products/lakshmi_coin_lotus_kundan_bangles_p133.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 60,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 34,
+    "unit": "Set of 4",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-017"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Set of 4"
+      },
+      {
+        "name": "Design Style",
+        "value": "South Indian Temple Jewellery / Kasu Mala Bangles"
+      },
+      {
+        "name": "Motifs",
+        "value": "Embossed Goddess Lakshmi Coins & Lotus Kundan Flowers"
+      },
+      {
+        "name": "Color",
+        "value": "Antique Matte Gold with Ruby Pink & Emerald Green Accents"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Brass & Copper Alloy, Kundan Stones, Matte Gold Plating"
+      },
+      {
+        "name": "Occasion",
+        "value": "Weddings, Temple Visits, Festivals, Traditional Silk Saree Styling"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "temple jewellery",
+      "lakshmi coin",
+      "kasu bangles",
+      "lotus kundan",
+      "traditional",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:26:00.000Z",
+    "updatedAt": "2026-10-23T18:26:00.000Z"
+  },
+  {
+    "id": "manamm-p134",
+    "sku": "PARTNER-AC-018",
+    "slug": "antique-gold-temple-floral-chakra-hair-billa-brooch",
+    "name": "Handcrafted Antique Gold Temple Floral Chakra Hair Billa & Saree Brooch",
+    "shortDescription": "Traditional South Indian antique matte gold finish floral mandala chakra brooch and hair accessory with ruby and emerald stone accents.",
+    "description": "Handcrafted Antique Gold Temple Floral Chakra Hair Billa & Saree Brooch is part of the Partner Collection ecosystem. Masterfully designed with traditional temple jewellery aesthetics, showcasing an intricate concentric mandala chakra pattern with a faceted emerald green center stone, swirling ruby pink kundan spiral petals, and pear-cut emerald and ruby stone accents on beautifully embossed antique matte gold petal motifs. Versatile wear as a statement bridal hair accessory (choti billa / juda pin) or an ornate saree brooch for weddings, classical dance, and festive occasions. ₹300 per piece.",
+    "price": 300,
+    "compareAtPrice": 450,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760437/manamm/products/antique_gold_floral_chakra_brooch_p134.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792760437/manamm/products/antique_gold_floral_chakra_brooch_p134.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760437/manamm/products/antique_gold_floral_chakra_brooch_p134.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 45,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 22,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-018"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Design Style",
+        "value": "South Indian Temple Jewellery Floral Mandala / Chakra Brooch"
+      },
+      {
+        "name": "Motifs",
+        "value": "Concentric Chakra, Swirling Ruby Spiral, Floral Textured Petals"
+      },
+      {
+        "name": "Color",
+        "value": "Antique Matte Gold with Emerald Green & Ruby Pink Accents"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Brass & Copper Alloy, Synthetic Ruby & Emerald Stones, Antique Matte Gold Plating"
+      },
+      {
+        "name": "Occasion",
+        "value": "Weddings, Temple Visits, Festivals, Bharatanatyam/Classical Dance, Saree & Juda Styling"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "brooch",
+      "hair billa",
+      "choti billa",
+      "juda pin",
+      "saree pin",
+      "temple jewellery",
+      "chakra",
+      "mandala",
+      "traditional",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:30:00.000Z",
+    "updatedAt": "2026-10-23T18:30:00.000Z"
+  },
+  {
+    "id": "manamm-p135",
+    "sku": "PARTNER-AC-019",
+    "slug": "handcrafted-woolen-floral-wall-hanging-festive-latkan",
+    "name": "Handcrafted Woolen Floral Wall Hanging & Festive Latkan",
+    "shortDescription": "Artisan handcrafted red and white woolen thread floral wall hanging featuring pom-pom blossoms, golden bead chains, and traditional tassels.",
+    "description": "Handcrafted Woolen Floral Wall Hanging & Festive Latkan is part of the Partner Collection ecosystem. Meticulously hand-woven by traditional artisans using vibrant scarlet red and soft white woolen yarns. Features a central floral wheel with radiant thread work, delicate white pom-pom blossoms with golden bead accents, and descending golden beaded chains adorned with pom-poms and lush red tassels. Ideal for home decor, pooja room decoration, festive entrance doors, or bridal ethnic styling. ₹300 per piece.",
+    "price": 300,
+    "compareAtPrice": 450,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760546/manamm/products/woolen_floral_wall_hanging_latkan_p135.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792760546/manamm/products/woolen_floral_wall_hanging_latkan_p135.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760546/manamm/products/woolen_floral_wall_hanging_latkan_p135.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 19,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-019"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Craft Type",
+        "value": "Handmade Woolen Thread Craft & Tassel Art"
+      },
+      {
+        "name": "Motifs",
+        "value": "Floral Petal Wheel, Pom-Pom Flowers, Golden Bead Chains, Hanging Tassels"
+      },
+      {
+        "name": "Color",
+        "value": "Scarlet Red & Pure White with Metallic Gold Accents"
+      },
+      {
+        "name": "Material",
+        "value": "Premium Acrylic Wool Yarn, Metallic Golden Beads, Brass Bead Caps"
+      },
+      {
+        "name": "Usage",
+        "value": "Wall Hanging, Door Hanging, Mandir / Pooja Room Decor, Festive Toran, Ethnic Decor"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "wall hanging",
+      "door hanging",
+      "toran",
+      "latkan",
+      "woolen craft",
+      "pom pom",
+      "festive decor",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:32:00.000Z",
+    "updatedAt": "2026-10-23T18:32:00.000Z"
+  },
+  {
+    "id": "manamm-p136",
+    "sku": "PARTNER-AC-020",
+    "slug": "handcrafted-maroon-pearl-ring-floral-wall-hanging-toran",
+    "name": "Handcrafted Maroon Pearl Ring Floral Wall Hanging & Door Toran Latkan",
+    "shortDescription": "Traditional handcrafted maroon velvet ring wall hanging adorned with pearl beads, white pom-pom flowers, and golden beaded chimes.",
+    "description": "Handcrafted Maroon Pearl Ring Floral Wall Hanging & Door Toran Latkan is part of the Partner Collection ecosystem. Meticulously handcrafted by skilled rural artisans featuring a rich maroon thread-wrapped circular ring accentuated with pearl beads. Encircled by a wreath of pristine white pom-pom blossoms with golden bead cores, a suspended central floral pendant, and five cascading golden beaded chime strands finished with pom-poms and maroon looped tassels. Brings auspicious warmth and handcrafted charm to entrances, living spaces, mandir / pooja decor, and festive celebrations. ₹300 per piece.",
+    "price": 300,
+    "compareAtPrice": 450,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760659/manamm/products/maroon_pearl_ring_wall_hanging_p136.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792760659/manamm/products/maroon_pearl_ring_wall_hanging_p136.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760659/manamm/products/maroon_pearl_ring_wall_hanging_p136.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 45,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 16,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-020"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Craft Type",
+        "value": "Handmade Velvet Ring Toran & Pom-Pom Latkan"
+      },
+      {
+        "name": "Motifs",
+        "value": "Circular Dreamcatcher Ring, Pearl Beading, White Pom-Pom Wreath, Golden Bead Chimes"
+      },
+      {
+        "name": "Color",
+        "value": "Deep Maroon & Pure White with Metallic Gold & Pearl Accents"
+      },
+      {
+        "name": "Material",
+        "value": "High-Density Craft Ring, Maroon Thread, Faux Pearl Beads, Golden Beads, Woolen Pom-Poms"
+      },
+      {
+        "name": "Usage",
+        "value": "Entrance Door Toran, Living Room Wall Hanging, Pooja Room Decor, Festive Hanging"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "wall hanging",
+      "door hanging",
+      "toran",
+      "latkan",
+      "dreamcatcher",
+      "pearl decor",
+      "festive decor",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:34:00.000Z",
+    "updatedAt": "2026-10-23T18:34:00.000Z"
+  },
+  {
+    "id": "manamm-p137",
+    "sku": "PARTNER-AC-021",
+    "slug": "handcrafted-royal-purple-bridal-kundan-silk-thread-bangle-set",
+    "name": "Handcrafted Royal Purple Bridal Kundan Silk Thread Bangle Stack",
+    "shortDescription": "Exquisite bridal silk thread bangle stack in royal violet purple featuring kundan cluster kadas, square stone spacer bangles, and scattered stone accents (₹550 each).",
+    "description": "Handcrafted Royal Purple Bridal Kundan Silk Thread Bangle Stack is part of the Partner Collection ecosystem. Meticulously handcrafted by master artisans with lustrous royal purple silk thread. Each wrist stack features heavy outer statement kadas with leaf/marquise kundan stone clusters, inner square-cut kundan spacer bangles, center flower-and-vine kundan kadas, and interspersed sleek thread bangles accented with sparkling stone embellishments. Priced at ₹550 each (per single wrist stack). Order 2 units for the matching pair for both hands shown in photograph.",
+    "price": 550,
+    "compareAtPrice": 799,
+    "discountPercentage": 31,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760746/manamm/products/royal_purple_bridal_kundan_bangles_p137.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792760746/manamm/products/royal_purple_bridal_kundan_bangles_p137.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760746/manamm/products/royal_purple_bridal_kundan_bangles_p137.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 40,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 28,
+    "unit": "1 Wrist Stack (₹550 Each)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-021"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Wrist Stack (₹550 Each / Order 2 for Pair)"
+      },
+      {
+        "name": "Design Style",
+        "value": "Bridal Chuda & Floral Vine Kundan Work"
+      },
+      {
+        "name": "Motifs",
+        "value": "Marquise Kundan Clusters, Floral Vines, Square Cut Kundan Borders"
+      },
+      {
+        "name": "Color",
+        "value": "Royal Violet Purple with Gold Kundan & Clear Stones"
+      },
+      {
+        "name": "Material",
+        "value": "Pure Silk Thread, High-Grade Acrylic Core, Brass Frame Kundan Stones"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal Wear, Weddings, Sangeet, Receptions, Traditional Festivals"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "chuda",
+      "bridal set",
+      "silk thread",
+      "purple bangles",
+      "kundan bangles",
+      "wedding jewellery",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:35:00.000Z",
+    "updatedAt": "2026-10-23T13:07:09.633Z"
+  },
+  {
+    "id": "manamm-p138",
+    "sku": "PARTNER-AC-022",
+    "slug": "handcrafted-antique-gold-aubergine-purple-floral-kundan-bangle-set",
+    "name": "Handcrafted Antique Gold & Aubergine Purple Floral Kundan Silk Thread Bangle Stack",
+    "shortDescription": "Opulent deep purple silk thread bridal bangle stack featuring antique gold floral kundan clusters, mirror polki spacers, and teardrop kundan accents.",
+    "description": "Handcrafted Antique Gold & Aubergine Purple Floral Kundan Silk Thread Bangle Stack is part of the Partner Collection ecosystem. Meticulously handcrafted with traditional bridal craftsmanship on an aubergine deep purple silk thread foundation. Features heavy antique gold floral cluster kadas with purple and clear crystal petals, geometric cross kundan bangles, teardrop purple stone accents, and a grand central row of square mirror polki and pearl spacer bangles. An exquisite statement choice for bridal chuda wear, weddings, receptions, and festive celebrations. ₹550 per set.",
+    "price": 550,
+    "compareAtPrice": 850,
+    "discountPercentage": 35,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760970/manamm/products/antique_aubergine_floral_kundan_bangles_p138.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792760970/manamm/products/antique_aubergine_floral_kundan_bangles_p138.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792760970/manamm/products/antique_aubergine_floral_kundan_bangles_p138.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 40,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 26,
+    "unit": "1 Bangle Stack (Complete Hand Stack)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-022"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Bangle Stack (Complete Hand Stack)"
+      },
+      {
+        "name": "Design Style",
+        "value": "Bridal Floral Kundan & Mirror Polki Chuda Roll"
+      },
+      {
+        "name": "Motifs",
+        "value": "Floral Blossom Kadas, Cross Kundan Bangles, Pear-Cut Purple Stones, Square Polki Mirrors"
+      },
+      {
+        "name": "Color",
+        "value": "Aubergine Deep Purple & Antique Matte Gold with White Mirror Accents"
+      },
+      {
+        "name": "Material",
+        "value": "Pure Silk Thread, High-Grade Acrylic Core, Antique Brass Frame Kundan & Mirror Stones"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal Wear, Weddings, Sangeet, Festive Receptions, Silk Saree Styling"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "chuda",
+      "bridal set",
+      "silk thread",
+      "purple bangles",
+      "kundan bangles",
+      "polki mirror",
+      "wedding jewellery",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:39:00.000Z",
+    "updatedAt": "2026-10-23T18:39:00.000Z"
+  },
+  {
+    "id": "manamm-p139",
+    "sku": "PARTNER-AC-023",
+    "slug": "handcrafted-clear-white-kundan-floral-bridal-headband",
+    "name": "Handcrafted Clear White Kundan Floral Bridal Headband",
+    "shortDescription": "Traditional handcrafted gold-plated bridal headband featuring three blooming clear polki kundan floral blossoms on a stone-studded flexible band.",
+    "description": "Handcrafted Clear White Kundan Floral Bridal Headband is part of the Partner Collection ecosystem. Meticulously handcrafted by master artisans, this flexible gold-plated hairband/matha patti features three exquisite blooming flowers set with clear polki kundan petals around sparkling crystal centers. The band itself is lined with a row of square kundan stones, making it a radiant statement accessory for bridal hairstyles, receptions, sangeet, and festive celebrations. ₹400 each.",
+    "price": 400,
+    "compareAtPrice": 600,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761146/manamm/products/kundan_floral_headband_clear_p139_1.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792761146/manamm/products/kundan_floral_headband_clear_p139_1.jpg",
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_clear_p139_2.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761146/manamm/products/kundan_floral_headband_clear_p139_1.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 35,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "unit": "1 Piece (₹400 Each)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-023"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Design Style",
+        "value": "South Indian / Rajasthani Polki Kundan Hairband / Matha Patti"
+      },
+      {
+        "name": "Motifs",
+        "value": "Triple Blooming Kundan Flowers, Square Stone Lined Band"
+      },
+      {
+        "name": "Color",
+        "value": "Clear White Polki Stones with Gold Finish"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Brass & Copper Alloy, Polki Kundan Glass Stones, Gold Plating"
+      },
+      {
+        "name": "Occasion",
+        "value": "Weddings, Bridal Hairstyles, Receptions, Sangeet, Festive Styling"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hairband",
+      "headband",
+      "matha patti",
+      "kundan",
+      "bridal",
+      "clear kundan",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:42:00.000Z",
+    "updatedAt": "2026-10-23T18:42:00.000Z"
+  },
+  {
+    "id": "manamm-p140",
+    "sku": "PARTNER-AC-024",
+    "slug": "handcrafted-magenta-pink-lotus-kundan-floral-bridal-headband",
+    "name": "Handcrafted Magenta Pink Lotus Kundan Floral Bridal Headband",
+    "shortDescription": "Vibrant handcrafted gold-plated bridal headband featuring three double-layered magenta pink lotus kundan flowers with crystal centers.",
+    "description": "Handcrafted Magenta Pink Lotus Kundan Floral Bridal Headband is part of the Partner Collection ecosystem. Meticulously handcrafted by skilled jewelry artisans, featuring three striking double-layered lotus blossom motifs crafted from luminous magenta pink kundan stones centered with shimmering crystals. Set upon a flexible gold-plated headband adorned with side stone details, perfectly elevating lehengas, silk sarees, and festive ethnic hairstyles. ₹400 each.",
+    "price": 400,
+    "compareAtPrice": 600,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_magenta_p140.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_magenta_p140.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_magenta_p140.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 35,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 20,
+    "unit": "1 Piece (₹400 Each)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-024"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Design Style",
+        "value": "Double-Layered Lotus Kundan Bridal Headband"
+      },
+      {
+        "name": "Motifs",
+        "value": "Triple Layered Lotus Kundan Flowers with Center Crystal"
+      },
+      {
+        "name": "Color",
+        "value": "Vibrant Magenta Pink with Gold Finish"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Brass Alloy, Magenta Pink Kundan Stones, Gold Plating"
+      },
+      {
+        "name": "Occasion",
+        "value": "Weddings, Haldi, Sangeet, Mehendi, Festive Hairstyles"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hairband",
+      "headband",
+      "matha patti",
+      "kundan",
+      "magenta",
+      "pink kundan",
+      "lotus",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:42:00.000Z",
+    "updatedAt": "2026-10-23T18:42:00.000Z"
+  },
+  {
+    "id": "manamm-p141",
+    "sku": "PARTNER-AC-025",
+    "slug": "handcrafted-ruby-red-floral-kundan-bridal-headband",
+    "name": "Handcrafted Ruby Red Floral Kundan Bridal Headband",
+    "shortDescription": "Regal handcrafted gold-plated bridal headband featuring three blooming ruby red floral kundan motifs with crystal centers and beaded stone trim.",
+    "description": "Handcrafted Ruby Red Floral Kundan Bridal Headband is part of the Partner Collection ecosystem. Meticulously handcrafted by heritage artisans, this royal hairband displays three opulent blooming floral motifs set with faceted ruby red/wine kundan stones surrounding a sparkling solitaire crystal center. Completed with a graduated stone-studded trim along the flexible gold-plated band, creating a regal crown-like appeal for bridal and traditional occasions. ₹400 each.",
+    "price": 400,
+    "compareAtPrice": 600,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_ruby_p141.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_ruby_p141.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/kundan_floral_headband_ruby_p141.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 35,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 22,
+    "unit": "1 Piece (₹400 Each)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-025"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Design Style",
+        "value": "Heritage Ruby Kundan Floral Hairband"
+      },
+      {
+        "name": "Motifs",
+        "value": "Triple Blooming Ruby Flower Blossoms with Beaded Stone Trim"
+      },
+      {
+        "name": "Color",
+        "value": "Regal Ruby Red with Gold Finish"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Brass Alloy, Ruby Red Kundan Stones, Gold Plating"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal Wear, Weddings, Traditional Receptions, Silk Saree Styling"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hairband",
+      "headband",
+      "matha patti",
+      "kundan",
+      "ruby red",
+      "bridal",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:42:00.000Z",
+    "updatedAt": "2026-10-23T18:42:00.000Z"
+  },
+  {
+    "id": "manamm-p142",
+    "sku": "PARTNER-AC-026",
+    "slug": "handcrafted-champagne-gold-pearl-cluster-floral-bridal-headband",
+    "name": "Handcrafted Champagne Gold Pearl Cluster Floral Bridal Headband",
+    "shortDescription": "Elegant handcrafted bridal headband adorned with dual blooming floral clusters crafted from lustrous champagne gold pearl drops and crystals.",
+    "description": "Handcrafted Champagne Gold Pearl Cluster Floral Bridal Headband is part of the Partner Collection ecosystem. Meticulously handcrafted by skilled artisans featuring two magnificent blooming flower clusters sculpted from teardrop champagne gold pearl beads centered with a sparkling solitaire stone. The gold-tone band features a textured spiral rib trim, offering a timeless, graceful royal accessory for weddings, engagements, and festive celebrations. ₹400 each.",
+    "price": 400,
+    "compareAtPrice": 600,
+    "discountPercentage": 33,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/pearl_floral_headband_gold_p142.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/pearl_floral_headband_gold_p142.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792761147/manamm/products/pearl_floral_headband_gold_p142.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 35,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 18,
+    "unit": "1 Piece (₹400 Each)",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-026"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Design Style",
+        "value": "Champagne Pearl Floral Cluster Hairband"
+      },
+      {
+        "name": "Motifs",
+        "value": "Dual Teardrop Pearl Flower Blossoms with Textured Band"
+      },
+      {
+        "name": "Color",
+        "value": "Champagne Gold & Warm Pearl with Crystal Accents"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Brass Alloy, Champagne Pearl Beads, Gold Finish"
+      },
+      {
+        "name": "Occasion",
+        "value": "Engagements, Weddings, Receptions, Festive Styling"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "hairband",
+      "headband",
+      "pearl jewellery",
+      "champagne gold",
+      "bridal",
+      "handcrafted",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T18:42:00.000Z",
+    "updatedAt": "2026-10-23T18:42:00.000Z"
   }
 ]
