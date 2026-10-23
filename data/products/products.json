@@ -19985,5 +19985,228 @@
     ],
     "createdAt": "2026-10-22T16:26:45.390Z",
     "updatedAt": "2026-10-22T16:37:41.885Z"
+  },
+  {
+    "id": "manamm-p121",
+    "sku": "PARTNER-AC-005",
+    "slug": "handcrafted-silk-thread-stone-bangles-set-of-4",
+    "name": "Handcrafted Silk Thread Stone Bangles (Set of 4)",
+    "shortDescription": "Vibrant silk thread bangles embellished with gleaming circular kundan stonework.",
+    "description": "Handcrafted Silk Thread Stone Bangles (Set of 4) is part of the Partner Collection ecosystem. Thoughtfully designed and handcrafted with precision silk thread winding in rich festive hues (magenta pink, royal blue, emerald green) adorned with glistening circular gold-bezel kundan stones. Skin-friendly, lightweight, and perfect for weddings, festivals, and traditional celebrations.",
+    "price": 400,
+    "compareAtPrice": 550,
+    "discountPercentage": 27,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792756889/manamm/products/silk_thread_bangles_p121.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792756889/manamm/products/silk_thread_bangles_p121.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792756889/manamm/products/silk_thread_bangles_p121.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "unit": "Set of 4",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-005"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Set of 4"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread & Kundan Glass Stones"
+      },
+      {
+        "name": "Colors",
+        "value": "Multicolor (Magenta Pink, Royal Blue, Emerald Green)"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "silk thread",
+      "kundan",
+      "jewelry accents",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:10:00.000Z",
+    "updatedAt": "2026-10-23T17:10:00.000Z"
+  },
+  {
+    "id": "manamm-p122",
+    "sku": "PARTNER-AC-006",
+    "slug": "handcrafted-yellow-silk-thread-kundan-bangles-pack-of-4",
+    "name": "Handcrafted Yellow Silk Thread Kundan Bangles (Pack of 4)",
+    "shortDescription": "Vibrant yellow silk thread bangles embellished with intricate floral kundan stone motifs.",
+    "description": "Handcrafted Yellow Silk Thread Kundan Bangles (Pack of 4) is part of the Partner Collection ecosystem. Thoughtfully handcrafted with premium bright yellow silk thread winding, embellished with floral kundan crystal clusters, leaf-cut stones, and antique gold rim motifs. Perfect for Haldi ceremonies, weddings, festive gatherings, and ethnic wear.",
+    "price": 500,
+    "compareAtPrice": 699,
+    "discountPercentage": 28,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757120/manamm/products/yellow_silk_kundan_bangles_p122.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 18,
+    "unit": "Pack of 4",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-006"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Pack of 4"
+      },
+      {
+        "name": "Color",
+        "value": "Bright Yellow"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread & Kundan Glass Stones"
+      },
+      {
+        "name": "Occasion",
+        "value": "Festive, Haldi, Wedding, Traditional"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "yellow bangles",
+      "silk thread",
+      "kundan",
+      "haldi",
+      "jewelry accents",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:34:00.000Z",
+    "updatedAt": "2026-10-23T17:34:00.000Z"
+  },
+  {
+    "id": "manamm-p123",
+    "sku": "PARTNER-AC-007",
+    "slug": "handcrafted-magenta-lotus-kundan-silk-thread-bangles-set-of-2",
+    "name": "Handcrafted Magenta Lotus Kundan Silk Thread Bangles (Set of 2)",
+    "shortDescription": "Exquisite magenta silk thread bangles embellished with antique gold lotus kundan motifs.",
+    "description": "Handcrafted Magenta Lotus Kundan Silk Thread Bangles (Set of 2) is part of the Partner Collection ecosystem. Handcrafted with fine rani magenta silk thread wrapping and adorned with continuous antique gold lotus motifs featuring ruby pink and emerald green stone petals with a sparkling diamond crystal center. An exquisite statement pair for weddings, festive occasions, and bridal styling.",
+    "price": 450,
+    "compareAtPrice": 649,
+    "discountPercentage": 30,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "brandId": "brd_manamm",
+    "brand": "MANAMM",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757347/manamm/products/magenta_lotus_kundan_bangles_p123.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792757347/manamm/products/magenta_lotus_kundan_bangles_p123.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792757347/manamm/products/magenta_lotus_kundan_bangles_p123.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 21,
+    "unit": "Set of 2",
+    "attributes": [
+      {
+        "name": "SKU",
+        "value": "PARTNER-AC-007"
+      },
+      {
+        "name": "Origin",
+        "value": "Partner Artisan Network, India"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "Set of 2"
+      },
+      {
+        "name": "Color",
+        "value": "Magenta / Rani Pink"
+      },
+      {
+        "name": "Motif",
+        "value": "Lotus Flower Kundan Work"
+      },
+      {
+        "name": "Material",
+        "value": "Silk Thread, Ruby & Emerald Color Stones, Gold Finish Bezels"
+      },
+      {
+        "name": "Occasion",
+        "value": "Bridal, Wedding, Festive, Traditional"
+      },
+      {
+        "name": "Distribution",
+        "value": "Direct Distributor Network"
+      }
+    ],
+    "tags": [
+      "accessories",
+      "bangles",
+      "magenta bangles",
+      "lotus kundan",
+      "silk thread",
+      "wedding",
+      "bridal",
+      "partner",
+      "partner collection"
+    ],
+    "createdAt": "2026-10-23T17:38:00.000Z",
+    "updatedAt": "2026-10-23T17:38:00.000Z"
   }
 ]

@@ -3553,5 +3553,41 @@
     "lowStockThreshold": 10,
     "isInStock": true,
     "updatedAt": "2026-10-22T16:26:45.402Z"
+  },
+  {
+    "id": "inv_manamm-p121",
+    "productId": "manamm-p121",
+    "sku": "PARTNER-AC-005",
+    "stockQuantity": 50,
+    "reservedQuantity": 0,
+    "availableQuantity": 50,
+    "reorderLevel": 10,
+    "reorderQuantity": 30,
+    "warehouseLocation": "WH-CHN-01",
+    "lastRestockedAt": "2026-10-23T17:10:00.000Z"
+  },
+  {
+    "id": "inv_manamm-p122",
+    "productId": "manamm-p122",
+    "sku": "PARTNER-AC-006",
+    "stockQuantity": 50,
+    "reservedQuantity": 0,
+    "availableQuantity": 50,
+    "reorderLevel": 10,
+    "reorderQuantity": 30,
+    "warehouseLocation": "WH-CHN-01",
+    "lastRestockedAt": "2026-10-23T17:34:00.000Z"
+  },
+  {
+    "id": "inv_manamm-p123",
+    "productId": "manamm-p123",
+    "sku": "PARTNER-AC-007",
+    "stockQuantity": 50,
+    "reservedQuantity": 0,
+    "availableQuantity": 50,
+    "reorderLevel": 10,
+    "reorderQuantity": 30,
+    "warehouseLocation": "WH-CHN-01",
+    "lastRestockedAt": "2026-10-23T17:38:00.000Z"
   }
 ]
