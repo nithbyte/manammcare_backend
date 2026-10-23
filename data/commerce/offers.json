@@ -165,5 +165,41 @@
       "prod_mnm_029",
       "prod_mnm_030"
     ]
+  },
+  {
+    "id": "off_08",
+    "title": "Lunch Box & Thermoware Specials",
+    "description": "10% off high-grade stainless steel microwave-safe lunch containers.",
+    "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80",
+    "type": "CATEGORY_DISCOUNT",
+    "value": 10,
+    "startDate": "2026-03-01T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z",
+    "isActive": true,
+    "categoryIds": [
+      "cat_food_houseware"
+    ],
+    "productIds": [
+      "prod_fnf_001",
+      "prod_fnf_002"
+    ]
+  },
+  {
+    "id": "off_09",
+    "title": "Executive Wall Clocks & Desk Organizers",
+    "description": "Distinctive desk organizers and precision clocks for corporate gifting.",
+    "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80",
+    "type": "CATEGORY_DISCOUNT",
+    "value": 12,
+    "startDate": "2026-03-15T00:00:00.000Z",
+    "endDate": "2026-12-31T23:59:59.000Z",
+    "isActive": true,
+    "categoryIds": [
+      "cat_clocks_novelties"
+    ],
+    "productIds": [
+      "prod_clk_001",
+      "prod_clk_002"
+    ]
   }
 ]
