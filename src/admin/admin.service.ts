@@ -317,6 +317,15 @@ export class AdminService {
               referralsGiven: true,
             },
           },
+          referralReceived: {
+            select: {
+              id: true,
+              referrerId: true,
+              referralCodeUsed: true,
+              status: true,
+              createdAt: true,
+            },
+          },
         },
         orderBy: { createdAt: 'desc' },
         skip,
