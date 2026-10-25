@@ -54,6 +54,16 @@ describe('PaymentsService - Razorpay Standard Checkout', () => {
     });
 
     it('should create order when amount >= 100 paise', async () => {
+      (service as any).razorpayInstance = {
+        orders: {
+          create: jest.fn().mockResolvedValue({
+            id: 'order_test_123',
+            amount: 50000,
+            currency: 'INR',
+          }),
+        },
+      };
+
       const result = await service.createStandardOrder({
         amount: 50000,
         currency: 'INR',
@@ -61,7 +71,7 @@ describe('PaymentsService - Razorpay Standard Checkout', () => {
       });
 
       expect(result).toBeDefined();
-      expect(result.order_id).toBeDefined();
+      expect(result.order_id).toBe('order_test_123');
       expect(result.amount).toBe(50000);
       expect(result.currency).toBe('INR');
     });
