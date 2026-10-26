@@ -159,13 +159,13 @@
     "slug": "partner-collections-lifestyle",
     "description": "Sarees, fusion dresses, woven stoles, and curated lifestyle accessories.",
     "icon": "shirt",
-    "image": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654528/manamm/categories/fashion_31.jpg",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654528/manamm/categories/fashion_31.jpg",
+    "image": "/images/collections/dress-01.jpg",
+    "imageUrl": "/images/collections/dress-01.jpg",
     "parentId": null,
     "sortOrder": 4,
     "isActive": true,
-    "productCount": 54,
-    "itemCount": 54
+    "productCount": 42,
+    "itemCount": 42
   },
   {
     "id": "cat_home_household",
@@ -341,13 +341,13 @@
     "slug": "dresses",
     "parentId": "cat_fashion_lifestyle",
     "icon": "woman",
-    "image": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654538/manamm/categories/printed-dress_38.jpg",
-    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654538/manamm/categories/printed-dress_38.jpg",
+    "image": "/images/collections/dress-01.jpg",
+    "imageUrl": "/images/collections/dress-01.jpg",
     "description": "Breathable cotton and linen fusion dresses.",
     "isActive": true,
     "sortOrder": 0,
-    "productCount": 5,
-    "itemCount": 5
+    "productCount": 42,
+    "itemCount": 42
   },
   {
     "id": "cat_sarees",
