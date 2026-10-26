@@ -83,20 +83,35 @@ export class ProductsService {
       isActive: true,
     };
 
-    if (query.categoryId) {
-      where.categoryId = query.categoryId;
+    const andConditions: any[] = [];
+
+    if (query.categoryId && query.categoryId !== 'ALL') {
+      andConditions.push({
+        OR: [
+          { categoryId: query.categoryId },
+          { category: { slug: query.categoryId } },
+          { category: { name: query.categoryId } },
+        ],
+      });
     }
 
     if (query.brandId) {
       where.brandId = query.brandId;
     }
 
-    if (query.search) {
-      where.OR = [
-        { name: { contains: query.search } },
-        { description: { contains: query.search } },
-        { shortDescription: { contains: query.search } },
-      ];
+    if (query.search && query.search.trim()) {
+      const q = query.search.trim();
+      andConditions.push({
+        OR: [
+          { name: { contains: q } },
+          { description: { contains: q } },
+          { shortDescription: { contains: q } },
+        ],
+      });
+    }
+
+    if (andConditions.length > 0) {
+      where.AND = andConditions;
     }
 
     if (query.minPrice !== undefined || query.maxPrice !== undefined) {
