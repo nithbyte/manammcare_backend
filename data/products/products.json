@@ -18,11 +18,11 @@
     "mainCategory": "Cleaning & Households",
     "brandId": "brd_rimei",
     "brand": "Rimei",
-    "imageUrl": "/images/products/magic-traceless-hook.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037734/manamm/products/magic-traceless-hook.jpg",
     "images": [
-      "/images/products/magic-traceless-hook.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037734/manamm/products/magic-traceless-hook.jpg"
     ],
-    "thumbnail": "/images/products/magic-traceless-hook.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037734/manamm/products/magic-traceless-hook.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -97,11 +97,11 @@
     "mainCategory": "Health & Beauty",
     "brandId": "brd_mm",
     "brand": "M&M",
-    "imageUrl": "/images/products/mm-lipstick.png",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037736/manamm/products/mm-lipstick.jpg",
     "images": [
-      "/images/products/mm-lipstick.png"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037736/manamm/products/mm-lipstick.jpg"
     ],
-    "thumbnail": "/images/products/mm-lipstick.png",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037736/manamm/products/mm-lipstick.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -177,11 +177,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-01.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037643/manamm/collections/dress-01.jpg",
     "images": [
-      "/images/collections/dress-01.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037643/manamm/collections/dress-01.jpg"
     ],
-    "thumbnail": "/images/collections/dress-01.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037643/manamm/collections/dress-01.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -256,11 +256,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-02.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037644/manamm/collections/dress-02.jpg",
     "images": [
-      "/images/collections/dress-02.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037644/manamm/collections/dress-02.jpg"
     ],
-    "thumbnail": "/images/collections/dress-02.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037644/manamm/collections/dress-02.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -335,11 +335,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-03.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037646/manamm/collections/dress-03.jpg",
     "images": [
-      "/images/collections/dress-03.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037646/manamm/collections/dress-03.jpg"
     ],
-    "thumbnail": "/images/collections/dress-03.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037646/manamm/collections/dress-03.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -414,11 +414,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-04.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037648/manamm/collections/dress-04.jpg",
     "images": [
-      "/images/collections/dress-04.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037648/manamm/collections/dress-04.jpg"
     ],
-    "thumbnail": "/images/collections/dress-04.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037648/manamm/collections/dress-04.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -493,11 +493,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-05.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037650/manamm/collections/dress-05.jpg",
     "images": [
-      "/images/collections/dress-05.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037650/manamm/collections/dress-05.jpg"
     ],
-    "thumbnail": "/images/collections/dress-05.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037650/manamm/collections/dress-05.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -572,11 +572,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-06.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037651/manamm/collections/dress-06.jpg",
     "images": [
-      "/images/collections/dress-06.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037651/manamm/collections/dress-06.jpg"
     ],
-    "thumbnail": "/images/collections/dress-06.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037651/manamm/collections/dress-06.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -651,11 +651,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-07.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037654/manamm/collections/dress-07.jpg",
     "images": [
-      "/images/collections/dress-07.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037654/manamm/collections/dress-07.jpg"
     ],
-    "thumbnail": "/images/collections/dress-07.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037654/manamm/collections/dress-07.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -730,11 +730,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-08.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037656/manamm/collections/dress-08.jpg",
     "images": [
-      "/images/collections/dress-08.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037656/manamm/collections/dress-08.jpg"
     ],
-    "thumbnail": "/images/collections/dress-08.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037656/manamm/collections/dress-08.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -809,11 +809,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-09.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037658/manamm/collections/dress-09.jpg",
     "images": [
-      "/images/collections/dress-09.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037658/manamm/collections/dress-09.jpg"
     ],
-    "thumbnail": "/images/collections/dress-09.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037658/manamm/collections/dress-09.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -888,11 +888,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-10.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037659/manamm/collections/dress-10.jpg",
     "images": [
-      "/images/collections/dress-10.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037659/manamm/collections/dress-10.jpg"
     ],
-    "thumbnail": "/images/collections/dress-10.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037659/manamm/collections/dress-10.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -967,11 +967,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-11.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037661/manamm/collections/dress-11.jpg",
     "images": [
-      "/images/collections/dress-11.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037661/manamm/collections/dress-11.jpg"
     ],
-    "thumbnail": "/images/collections/dress-11.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037661/manamm/collections/dress-11.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1046,11 +1046,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-12.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037662/manamm/collections/dress-12.jpg",
     "images": [
-      "/images/collections/dress-12.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037662/manamm/collections/dress-12.jpg"
     ],
-    "thumbnail": "/images/collections/dress-12.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037662/manamm/collections/dress-12.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1125,11 +1125,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-13.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037665/manamm/collections/dress-13.jpg",
     "images": [
-      "/images/collections/dress-13.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037665/manamm/collections/dress-13.jpg"
     ],
-    "thumbnail": "/images/collections/dress-13.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037665/manamm/collections/dress-13.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1204,11 +1204,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-14.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037666/manamm/collections/dress-14.jpg",
     "images": [
-      "/images/collections/dress-14.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037666/manamm/collections/dress-14.jpg"
     ],
-    "thumbnail": "/images/collections/dress-14.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037666/manamm/collections/dress-14.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1283,11 +1283,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-15.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037667/manamm/collections/dress-15.jpg",
     "images": [
-      "/images/collections/dress-15.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037667/manamm/collections/dress-15.jpg"
     ],
-    "thumbnail": "/images/collections/dress-15.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037667/manamm/collections/dress-15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1362,11 +1362,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-16.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037669/manamm/collections/dress-16.jpg",
     "images": [
-      "/images/collections/dress-16.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037669/manamm/collections/dress-16.jpg"
     ],
-    "thumbnail": "/images/collections/dress-16.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037669/manamm/collections/dress-16.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1441,11 +1441,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-17.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037671/manamm/collections/dress-17.jpg",
     "images": [
-      "/images/collections/dress-17.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037671/manamm/collections/dress-17.jpg"
     ],
-    "thumbnail": "/images/collections/dress-17.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037671/manamm/collections/dress-17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1520,11 +1520,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-18.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037673/manamm/collections/dress-18.jpg",
     "images": [
-      "/images/collections/dress-18.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037673/manamm/collections/dress-18.jpg"
     ],
-    "thumbnail": "/images/collections/dress-18.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037673/manamm/collections/dress-18.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1599,11 +1599,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-19.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037674/manamm/collections/dress-19.jpg",
     "images": [
-      "/images/collections/dress-19.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037674/manamm/collections/dress-19.jpg"
     ],
-    "thumbnail": "/images/collections/dress-19.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037674/manamm/collections/dress-19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1678,11 +1678,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-20.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037676/manamm/collections/dress-20.jpg",
     "images": [
-      "/images/collections/dress-20.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037676/manamm/collections/dress-20.jpg"
     ],
-    "thumbnail": "/images/collections/dress-20.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037676/manamm/collections/dress-20.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1757,11 +1757,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-21.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037677/manamm/collections/dress-21.jpg",
     "images": [
-      "/images/collections/dress-21.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037677/manamm/collections/dress-21.jpg"
     ],
-    "thumbnail": "/images/collections/dress-21.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037677/manamm/collections/dress-21.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1836,11 +1836,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-22.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037678/manamm/collections/dress-22.jpg",
     "images": [
-      "/images/collections/dress-22.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037678/manamm/collections/dress-22.jpg"
     ],
-    "thumbnail": "/images/collections/dress-22.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037678/manamm/collections/dress-22.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1915,11 +1915,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-23.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037681/manamm/collections/dress-23.jpg",
     "images": [
-      "/images/collections/dress-23.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037681/manamm/collections/dress-23.jpg"
     ],
-    "thumbnail": "/images/collections/dress-23.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037681/manamm/collections/dress-23.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -1994,11 +1994,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-24.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037682/manamm/collections/dress-24.jpg",
     "images": [
-      "/images/collections/dress-24.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037682/manamm/collections/dress-24.jpg"
     ],
-    "thumbnail": "/images/collections/dress-24.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037682/manamm/collections/dress-24.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2073,11 +2073,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-25.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037684/manamm/collections/dress-25.jpg",
     "images": [
-      "/images/collections/dress-25.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037684/manamm/collections/dress-25.jpg"
     ],
-    "thumbnail": "/images/collections/dress-25.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037684/manamm/collections/dress-25.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2152,11 +2152,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-26.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037685/manamm/collections/dress-26.jpg",
     "images": [
-      "/images/collections/dress-26.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037685/manamm/collections/dress-26.jpg"
     ],
-    "thumbnail": "/images/collections/dress-26.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037685/manamm/collections/dress-26.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2231,11 +2231,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-27.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037687/manamm/collections/dress-27.jpg",
     "images": [
-      "/images/collections/dress-27.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037687/manamm/collections/dress-27.jpg"
     ],
-    "thumbnail": "/images/collections/dress-27.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037687/manamm/collections/dress-27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2310,11 +2310,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-28.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037689/manamm/collections/dress-28.jpg",
     "images": [
-      "/images/collections/dress-28.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037689/manamm/collections/dress-28.jpg"
     ],
-    "thumbnail": "/images/collections/dress-28.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037689/manamm/collections/dress-28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2389,11 +2389,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-29.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037691/manamm/collections/dress-29.jpg",
     "images": [
-      "/images/collections/dress-29.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037691/manamm/collections/dress-29.jpg"
     ],
-    "thumbnail": "/images/collections/dress-29.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037691/manamm/collections/dress-29.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2468,11 +2468,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-30.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037692/manamm/collections/dress-30.jpg",
     "images": [
-      "/images/collections/dress-30.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037692/manamm/collections/dress-30.jpg"
     ],
-    "thumbnail": "/images/collections/dress-30.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037692/manamm/collections/dress-30.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2547,11 +2547,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-31.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037694/manamm/collections/dress-31.jpg",
     "images": [
-      "/images/collections/dress-31.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037694/manamm/collections/dress-31.jpg"
     ],
-    "thumbnail": "/images/collections/dress-31.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037694/manamm/collections/dress-31.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2626,11 +2626,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-32.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037696/manamm/collections/dress-32.jpg",
     "images": [
-      "/images/collections/dress-32.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037696/manamm/collections/dress-32.jpg"
     ],
-    "thumbnail": "/images/collections/dress-32.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037696/manamm/collections/dress-32.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2705,11 +2705,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-33.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037697/manamm/collections/dress-33.jpg",
     "images": [
-      "/images/collections/dress-33.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037697/manamm/collections/dress-33.jpg"
     ],
-    "thumbnail": "/images/collections/dress-33.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037697/manamm/collections/dress-33.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2784,11 +2784,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-34.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037699/manamm/collections/dress-34.jpg",
     "images": [
-      "/images/collections/dress-34.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037699/manamm/collections/dress-34.jpg"
     ],
-    "thumbnail": "/images/collections/dress-34.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037699/manamm/collections/dress-34.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2863,11 +2863,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-35.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037701/manamm/collections/dress-35.jpg",
     "images": [
-      "/images/collections/dress-35.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037701/manamm/collections/dress-35.jpg"
     ],
-    "thumbnail": "/images/collections/dress-35.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037701/manamm/collections/dress-35.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -2942,11 +2942,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-36.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037702/manamm/collections/dress-36.jpg",
     "images": [
-      "/images/collections/dress-36.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037702/manamm/collections/dress-36.jpg"
     ],
-    "thumbnail": "/images/collections/dress-36.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037702/manamm/collections/dress-36.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3021,11 +3021,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-37.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037703/manamm/collections/dress-37.jpg",
     "images": [
-      "/images/collections/dress-37.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037703/manamm/collections/dress-37.jpg"
     ],
-    "thumbnail": "/images/collections/dress-37.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037703/manamm/collections/dress-37.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3100,11 +3100,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-38.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037705/manamm/collections/dress-38.jpg",
     "images": [
-      "/images/collections/dress-38.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037705/manamm/collections/dress-38.jpg"
     ],
-    "thumbnail": "/images/collections/dress-38.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037705/manamm/collections/dress-38.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3179,11 +3179,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-39.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037707/manamm/collections/dress-39.jpg",
     "images": [
-      "/images/collections/dress-39.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037707/manamm/collections/dress-39.jpg"
     ],
-    "thumbnail": "/images/collections/dress-39.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037707/manamm/collections/dress-39.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3258,11 +3258,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-40.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037709/manamm/collections/dress-40.jpg",
     "images": [
-      "/images/collections/dress-40.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037709/manamm/collections/dress-40.jpg"
     ],
-    "thumbnail": "/images/collections/dress-40.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037709/manamm/collections/dress-40.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3337,11 +3337,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-41.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037710/manamm/collections/dress-41.jpg",
     "images": [
-      "/images/collections/dress-41.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037710/manamm/collections/dress-41.jpg"
     ],
-    "thumbnail": "/images/collections/dress-41.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037710/manamm/collections/dress-41.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3416,11 +3416,11 @@
     "source": "Partner Collection",
     "brandId": "brd_partner_collections",
     "brand": "MANAMM Partner Studio",
-    "imageUrl": "/images/collections/dress-42.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037712/manamm/collections/dress-42.jpg",
     "images": [
-      "/images/collections/dress-42.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793037712/manamm/collections/dress-42.jpg"
     ],
-    "thumbnail": "/images/collections/dress-42.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793037712/manamm/collections/dress-42.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 60,
@@ -3491,11 +3491,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/turmeric-powder.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563804/manamm/products/turmeric-powder.jpg",
     "images": [
-      "https://manammcare.com/images/products/turmeric-powder.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563804/manamm/products/turmeric-powder.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/turmeric-powder.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563804/manamm/products/turmeric-powder.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3547,11 +3547,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/pepper.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563805/manamm/products/pepper.jpg",
     "images": [
-      "https://manammcare.com/images/products/pepper.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563805/manamm/products/pepper.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/pepper.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563805/manamm/products/pepper.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3602,11 +3602,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/cumins.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563807/manamm/products/cumins.jpg",
     "images": [
-      "https://manammcare.com/images/products/cumins.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563807/manamm/products/cumins.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/cumins.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563807/manamm/products/cumins.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3657,11 +3657,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/mustard.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563807/manamm/products/mustard.jpg",
     "images": [
-      "https://manammcare.com/images/products/mustard.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563807/manamm/products/mustard.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/mustard.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563807/manamm/products/mustard.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3712,11 +3712,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/fenugreek.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563808/manamm/products/fenugreek.jpg",
     "images": [
-      "https://manammcare.com/images/products/fenugreek.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563808/manamm/products/fenugreek.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/fenugreek.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563808/manamm/products/fenugreek.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3767,11 +3767,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/fennel.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563809/manamm/products/fennel.jpg",
     "images": [
-      "https://manammcare.com/images/products/fennel.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563809/manamm/products/fennel.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/fennel.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563809/manamm/products/fennel.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3822,11 +3822,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/round-chillies.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563811/manamm/products/round-chillies.jpg",
     "images": [
-      "https://manammcare.com/images/products/round-chillies.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563811/manamm/products/round-chillies.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/round-chillies.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563811/manamm/products/round-chillies.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3878,11 +3878,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/long-chilli.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563812/manamm/products/long-chilli.jpg",
     "images": [
-      "https://manammcare.com/images/products/long-chilli.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563812/manamm/products/long-chilli.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/long-chilli.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563812/manamm/products/long-chilli.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3934,11 +3934,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/coriander.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563813/manamm/products/coriander.jpg",
     "images": [
-      "https://manammcare.com/images/products/coriander.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563813/manamm/products/coriander.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/coriander.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563813/manamm/products/coriander.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -3989,11 +3989,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/turmeric-powder.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563804/manamm/products/turmeric-powder.jpg",
     "images": [
-      "https://manammcare.com/images/products/turmeric-powder.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563804/manamm/products/turmeric-powder.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/turmeric-powder.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563804/manamm/products/turmeric-powder.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4044,11 +4044,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/black-channa.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654552/manamm/products/black-channa_47.jpg",
     "images": [
-      "https://manammcare.com/images/products/black-channa.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654552/manamm/products/black-channa_47.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/black-channa.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654552/manamm/products/black-channa_47.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4099,11 +4099,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/white-channa.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654554/manamm/products/white-channa_48.jpg",
     "images": [
-      "https://manammcare.com/images/products/white-channa.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654554/manamm/products/white-channa_48.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/white-channa.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654554/manamm/products/white-channa_48.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4155,11 +4155,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/red-gram.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654555/manamm/products/red-gram_49.jpg",
     "images": [
-      "https://manammcare.com/images/products/red-gram.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654555/manamm/products/red-gram_49.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/red-gram.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654555/manamm/products/red-gram_49.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4210,11 +4210,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/peas.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654557/manamm/products/peas_50.jpg",
     "images": [
-      "https://manammcare.com/images/products/peas.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654557/manamm/products/peas_50.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/peas.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654557/manamm/products/peas_50.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4265,11 +4265,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/white-beans.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654559/manamm/products/white-beans_51.jpg",
     "images": [
-      "https://manammcare.com/images/products/white-beans.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654559/manamm/products/white-beans_51.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/white-beans.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654559/manamm/products/white-beans_51.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4320,11 +4320,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/thur-dhal.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654561/manamm/products/thur-dhal_52.jpg",
     "images": [
-      "https://manammcare.com/images/products/thur-dhal.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654561/manamm/products/thur-dhal_52.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/thur-dhal.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654561/manamm/products/thur-dhal_52.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4376,11 +4376,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/gram-dhal.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654562/manamm/products/gram-dhal_53.jpg",
     "images": [
-      "https://manammcare.com/images/products/gram-dhal.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654562/manamm/products/gram-dhal_53.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/gram-dhal.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654562/manamm/products/gram-dhal_53.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4431,11 +4431,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/moong-dhal.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654564/manamm/products/moong-dhal_54.jpg",
     "images": [
-      "https://manammcare.com/images/products/moong-dhal.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654564/manamm/products/moong-dhal_54.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/moong-dhal.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654564/manamm/products/moong-dhal_54.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4486,11 +4486,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/orid-dhal.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654565/manamm/products/orid-dhal_55.jpg",
     "images": [
-      "https://manammcare.com/images/products/orid-dhal.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654565/manamm/products/orid-dhal_55.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/orid-dhal.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654565/manamm/products/orid-dhal_55.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4542,11 +4542,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/whole-green-gram.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654567/manamm/products/whole-green-gram_56.jpg",
     "images": [
-      "https://manammcare.com/images/products/whole-green-gram.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654567/manamm/products/whole-green-gram_56.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/whole-green-gram.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654567/manamm/products/whole-green-gram_56.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4598,11 +4598,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/black-gram-dhal.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654569/manamm/products/black-gram-dhal_57.jpg",
     "images": [
-      "https://manammcare.com/images/products/black-gram-dhal.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654569/manamm/products/black-gram-dhal_57.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/black-gram-dhal.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654569/manamm/products/black-gram-dhal_57.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4653,11 +4653,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/soyabeans.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654570/manamm/products/soyabeans_58.jpg",
     "images": [
-      "https://manammcare.com/images/products/soyabeans.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654570/manamm/products/soyabeans_58.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/soyabeans.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654570/manamm/products/soyabeans_58.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4708,11 +4708,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/double-beans.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654572/manamm/products/double-beans_59.jpg",
     "images": [
-      "https://manammcare.com/images/products/double-beans.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654572/manamm/products/double-beans_59.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/double-beans.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654572/manamm/products/double-beans_59.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4763,11 +4763,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/white-gingelly-seeds.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563845/manamm/products/white-gingelly-seeds.jpg",
     "images": [
-      "https://manammcare.com/images/products/white-gingelly-seeds.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563845/manamm/products/white-gingelly-seeds.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/white-gingelly-seeds.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563845/manamm/products/white-gingelly-seeds.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4818,11 +4818,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/black-gingelly-seeds.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563846/manamm/products/black-gingelly-seeds.jpg",
     "images": [
-      "https://manammcare.com/images/products/black-gingelly-seeds.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563846/manamm/products/black-gingelly-seeds.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/black-gingelly-seeds.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563846/manamm/products/black-gingelly-seeds.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -4873,11 +4873,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/pumpkin-seeds.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563848/manamm/products/pumpkin-seeds.jpg",
     "images": [
-      "https://manammcare.com/images/products/pumpkin-seeds.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563848/manamm/products/pumpkin-seeds.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/pumpkin-seeds.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563848/manamm/products/pumpkin-seeds.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -5040,11 +5040,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/fried-grams.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654575/manamm/products/fried-grams_61.jpg",
     "images": [
-      "https://manammcare.com/images/products/fried-grams.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654575/manamm/products/fried-grams_61.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/fried-grams.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654575/manamm/products/fried-grams_61.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -5096,11 +5096,11 @@
     "mainCategory": "Manammcare Products",
     "brandId": "brd_manammcare",
     "brand": "Manammcare",
-    "imageUrl": "https://manammcare.com/images/products/fried-groundnuts.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563856/manamm/products/fried-groundnuts.jpg",
     "images": [
-      "https://manammcare.com/images/products/fried-groundnuts.jpg"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792563856/manamm/products/fried-groundnuts.jpg"
     ],
-    "thumbnail": "https://manammcare.com/images/products/fried-groundnuts.jpg",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792563856/manamm/products/fried-groundnuts.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 100,
@@ -5705,11 +5705,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_muthoot_finance",
     "brand": "Muthoot Finance",
-    "imageUrl": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654510/manamm/categories/asset_18.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654510/manamm/categories/asset_18.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654510/manamm/categories/asset_18.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6005,11 +6005,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_kirloskar",
     "brand": "Kirloskar",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6065,11 +6065,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_dove",
     "brand": "Dove",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6125,11 +6125,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_joyalukas",
     "brand": "Joyalukas",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6485,11 +6485,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_iifl",
     "brand": "IIFL",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6665,11 +6665,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_vida",
     "brand": "Vida",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6725,11 +6725,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_hermes",
     "brand": "Hermes",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -6965,11 +6965,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_unilever",
     "brand": "Unilever",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7145,11 +7145,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_kia",
     "brand": "Kia",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7505,11 +7505,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_tata_1mg",
     "brand": "Tata 1mg",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7565,11 +7565,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_total",
     "brand": "Total",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7625,11 +7625,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_herbalife_nutrition",
     "brand": "Herbalife Nutrition",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7685,11 +7685,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_hettich",
     "brand": "Hettich",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7745,11 +7745,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_indriya",
     "brand": "Indriya",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7805,11 +7805,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_malabar",
     "brand": "Malabar",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7865,11 +7865,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_fortis",
     "brand": "Fortis",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -7925,11 +7925,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_wow",
     "brand": "WOW",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -8105,11 +8105,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_sprite",
     "brand": "Sprite",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -8285,11 +8285,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_vinf_fast",
     "brand": "Vinf Fast",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -8525,11 +8525,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_barista",
     "brand": "Barista",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -8585,11 +8585,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_artania",
     "brand": "Artania",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -8765,11 +8765,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_tata_cliq",
     "brand": "Tata Cliq",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -8825,11 +8825,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_volvo",
     "brand": "Volvo",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -9305,11 +9305,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_lg",
     "brand": "LG",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -9485,11 +9485,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_avita",
     "brand": "Avita",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -9845,11 +9845,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_byd",
     "brand": "BYD",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -9905,11 +9905,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_pcj",
     "brand": "PCJ",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -9965,11 +9965,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_bandhan_bank",
     "brand": "Bandhan Bank",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -10025,11 +10025,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_cofsils",
     "brand": "Cofsils",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -10145,11 +10145,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_volini",
     "brand": "Volini",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -10265,11 +10265,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_hdfc_bank",
     "brand": "HDFC Bank",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -10325,11 +10325,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_tanishq",
     "brand": "Tanishq",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -10445,11 +10445,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_diya",
     "brand": "Diya",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -10745,11 +10745,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_xev_9e",
     "brand": "Xev 9e",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11045,11 +11045,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_agni",
     "brand": "Agni",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11285,11 +11285,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_uno_biotics",
     "brand": "Uno Biotics",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11345,11 +11345,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_sangini",
     "brand": "Sangini",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11405,11 +11405,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_tbz",
     "brand": "TBZ",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11765,11 +11765,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_nippon",
     "brand": "Nippon",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11825,11 +11825,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_blue_stone",
     "brand": "Blue Stone",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -11945,11 +11945,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_max_bupa",
     "brand": "Max Bupa",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12005,11 +12005,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_nirvana",
     "brand": "Nirvana",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12065,11 +12065,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_apl_apollo",
     "brand": "APL Apollo",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12125,11 +12125,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_veeba",
     "brand": "Veeba",
-    "imageUrl": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654505/manamm/categories/asset_15.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12425,11 +12425,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_diamond",
     "brand": "Diamond",
-    "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12485,11 +12485,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_zydus",
     "brand": "Zydus",
-    "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12605,11 +12605,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_apl_apollo",
     "brand": "APL Apollo",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12665,11 +12665,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_indigo",
     "brand": "Indigo",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12725,11 +12725,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_bru",
     "brand": "BRU",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12845,11 +12845,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_dettol",
     "brand": "Dettol",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -12905,11 +12905,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_gas_o_fast",
     "brand": "Gas O Fast",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -13025,11 +13025,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_crompton",
     "brand": "Crompton",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -13085,11 +13085,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_dulux",
     "brand": "Dulux",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -13145,11 +13145,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_loreal",
     "brand": "L'Oreal",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -13505,11 +13505,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_body_shop",
     "brand": "Body Shop",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -13565,11 +13565,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_swiggy",
     "brand": "Swiggy",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -13865,11 +13865,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_crocin",
     "brand": "Crocin",
-    "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654507/manamm/categories/asset_16.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14285,11 +14285,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_vivo",
     "brand": "Vivo",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14345,11 +14345,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_himalaya",
     "brand": "Himalaya",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14405,11 +14405,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_vicks",
     "brand": "Vicks",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14465,11 +14465,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_paper_boat",
     "brand": "Paper Boat",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14645,11 +14645,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_skoda",
     "brand": "Skoda",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14705,11 +14705,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_one_plus",
     "brand": "One Plus",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14765,11 +14765,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_honda",
     "brand": "Honda",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -14825,11 +14825,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_vip",
     "brand": "VIP",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15125,11 +15125,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_lipton",
     "brand": "Lipton",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15365,11 +15365,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_opus",
     "brand": "Opus",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15665,11 +15665,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_pandora",
     "brand": "Pandora",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15725,11 +15725,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_finolex",
     "brand": "Finolex",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15785,11 +15785,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_swastik",
     "brand": "Swastik",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15845,11 +15845,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_nirvana",
     "brand": "Nirvana",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15905,11 +15905,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_shree_cement",
     "brand": "Shree Cement",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -15965,11 +15965,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_oppo",
     "brand": "Oppo",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16025,11 +16025,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_marvel_tea",
     "brand": "Marvel Tea",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16085,11 +16085,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_dr_fixit",
     "brand": "Dr Fixit",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16145,11 +16145,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_bandhan_bank",
     "brand": "Bandhan Bank",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16205,11 +16205,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_daawat",
     "brand": "Daawat",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16265,11 +16265,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_xev_9e",
     "brand": "Xev 9e",
-    "imageUrl": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1586105251261-72a756497a11?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654511/manamm/categories/asset_19.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16325,11 +16325,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_nicotex",
     "brand": "NicoteX",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16385,11 +16385,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_jsw",
     "brand": "JSW",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16565,11 +16565,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_himalaya",
     "brand": "Himalaya",
-    "imageUrl": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654508/manamm/categories/asset_17.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -16985,11 +16985,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_croma",
     "brand": "Croma",
-    "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -17165,11 +17165,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_jsw",
     "brand": "JSW",
-    "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -17285,11 +17285,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_flipkart",
     "brand": "Flipkart",
-    "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -17525,11 +17525,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_sbi",
     "brand": "SBI",
-    "imageUrl": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654512/manamm/categories/asset_20.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -17645,11 +17645,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_nivea",
     "brand": "Nivea",
-    "imageUrl": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -17705,11 +17705,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_green_ply",
     "brand": "Green Ply",
-    "imageUrl": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -17765,11 +17765,11 @@
     "mainCategory": "Clocks & Novelties",
     "brandId": "brd_anchor",
     "brand": "Anchor",
-    "imageUrl": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654513/manamm/categories/asset_21.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -18245,11 +18245,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_delloitte",
     "brand": "DELLOITTE",
-    "imageUrl": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654515/manamm/categories/asset_22.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654515/manamm/categories/asset_22.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654515/manamm/categories/asset_22.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -19265,11 +19265,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_binani_cement",
     "brand": "BINANI CEMENT",
-    "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654518/manamm/categories/asset_24.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654518/manamm/categories/asset_24.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654518/manamm/categories/asset_24.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21125,11 +21125,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kalyan",
     "brand": "KALYAN",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21185,11 +21185,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kalyan",
     "brand": "KALYAN",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21245,11 +21245,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_axis_bank",
     "brand": "AXIS BANK",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21305,11 +21305,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_axis_bank",
     "brand": "AXIS BANK",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21365,11 +21365,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_axis_bank",
     "brand": "AXIS BANK",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21425,11 +21425,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_axis_bank",
     "brand": "AXIS BANK",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21485,11 +21485,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_axis_bank",
     "brand": "AXIS BANK",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21545,11 +21545,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kohinoor",
     "brand": "KOHINOOR",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21605,11 +21605,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kohinoor",
     "brand": "KOHINOOR",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21665,11 +21665,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kohinoor",
     "brand": "KOHINOOR",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21725,11 +21725,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kohinoor",
     "brand": "KOHINOOR",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -21785,11 +21785,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_kohinoor",
     "brand": "KOHINOOR",
-    "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654522/manamm/categories/asset_27.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -22805,11 +22805,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_jeep",
     "brand": "JEEP",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -22865,11 +22865,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_samsung",
     "brand": "SAMSUNG",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -22925,11 +22925,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_abbott",
     "brand": "ABBOTT",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -22985,11 +22985,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_cred",
     "brand": "CRED",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -23045,11 +23045,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_max_life",
     "brand": "MAX LIFE",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -23105,11 +23105,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_hsbc",
     "brand": "HSBC",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -23165,11 +23165,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_starbucks",
     "brand": "STARBUCKS",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
@@ -23225,11 +23225,11 @@
     "mainCategory": "Lunch Box & Thermoware",
     "brandId": "brd_volkswagen",
     "brand": "VOLKSWAGEN",
-    "imageUrl": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "images": [
-      "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80"
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg"
     ],
-    "thumbnail": "https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&w=600&q=80",
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654523/manamm/categories/asset_28.jpg",
     "priceConfirmed": true,
     "status": "ACTIVE",
     "stock": 50,
