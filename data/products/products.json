@@ -1,5 +1,84 @@
 [
   {
+    "id": "prod_rimei_magic_hook_01",
+    "sku": "MNM-HH-RM01",
+    "slug": "rimei-magic-traceless-hook-5kg",
+    "name": "Rimei Magic Traceless Wall Hook (5kg)",
+    "shortDescription": "Rimei heavy-duty 5kg load-bearing seamless adhesive magic traceless wall hook.",
+    "description": "Rimei Magic Traceless Wall Hook delivers reliable 5.0 kg load-bearing strength with advanced seamless adhesive technology. Waterproof, damage-free, and easy to install on tiles, glass, metal, and smooth walls across kitchens, bathrooms, and rooms.",
+    "price": 40,
+    "compareAtPrice": 69,
+    "mrp": 69,
+    "discountPercentage": 42,
+    "currency": "INR",
+    "category": "Household Accessories",
+    "categoryId": "cat_gd_184",
+    "subcategory": "Wall Hooks",
+    "mainCategoryId": "cat_cleaning_households",
+    "mainCategory": "Cleaning & Households",
+    "brandId": "brd_rimei",
+    "brand": "Rimei",
+    "imageUrl": "/images/products/magic-traceless-hook.jpg",
+    "images": [
+      "/images/products/magic-traceless-hook.jpg"
+    ],
+    "thumbnail": "/images/products/magic-traceless-hook.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.7,
+    "reviewCount": 18,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "Rimei"
+      },
+      {
+        "name": "Category",
+        "value": "Cleaning & Households"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Household Accessories"
+      },
+      {
+        "name": "Load Capacity",
+        "value": "5.0 kg"
+      },
+      {
+        "name": "Mounting Type",
+        "value": "Traceless Self-Adhesive"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Price",
+        "value": "₹40"
+      }
+    ],
+    "tags": [
+      "hook",
+      "wall hook",
+      "adhesive hook",
+      "traceless hook",
+      "rimei",
+      "magic hook",
+      "household accessories",
+      "cleaning-households",
+      "home utility"
+    ],
+    "createdAt": "2026-10-26T11:37:48.857Z",
+    "updatedAt": "2026-10-26T11:37:48.858Z"
+  },
+  {
     "id": "prod_mm_lipstick_01",
     "sku": "MNM-HB-MM01",
     "slug": "m-m-lipstick",

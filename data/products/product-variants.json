@@ -1,5 +1,20 @@
 [
   {
+    "id": "var_rimei_magic_hook_1",
+    "productId": "prod_rimei_magic_hook_01",
+    "sku": "MNM-HH-RM01",
+    "title": "Standard Hook (5kg)",
+    "packSize": "1 Piece",
+    "price": 40,
+    "compareAtPrice": 69,
+    "stock": 100,
+    "isAvailable": true,
+    "attributes": {
+      "Load Capacity": "5.0 kg",
+      "Brand": "Rimei"
+    }
+  },
+  {
     "id": "var_mm_lipstick_1",
     "productId": "prod_mm_lipstick_01",
     "sku": "MNM-HB-MM01",

@@ -890,8 +890,8 @@
     "parentId": null,
     "sortOrder": 14,
     "isActive": true,
-    "productCount": 1165,
-    "itemCount": 1165
+    "productCount": 1166,
+    "itemCount": 1166
   },
   {
     "id": "cat_fruit_vegetables",
@@ -2416,8 +2416,8 @@
     "parentId": "cat_cleaning_households",
     "sortOrder": 124,
     "isActive": true,
-    "productCount": 14,
-    "itemCount": 14
+    "productCount": 15,
+    "itemCount": 15
   },
   {
     "id": "cat_gd_183",

@@ -1,5 +1,14 @@
 [
   {
+    "id": "brd_rimei",
+    "name": "Rimei",
+    "slug": "rimei",
+    "description": "Rimei home hardware, utility accessories, and daily organization essentials.",
+    "logo": "/images/products/magic-traceless-hook.jpg",
+    "isActive": true,
+    "productCount": 1
+  },
+  {
     "id": "brd_mm",
     "name": "M&M",
     "slug": "m-and-m",

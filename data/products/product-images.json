@@ -1,5 +1,13 @@
 [
   {
+    "id": "pimg_rimei_magic_hook_1",
+    "productId": "prod_rimei_magic_hook_01",
+    "url": "/images/products/magic-traceless-hook.jpg",
+    "alt": "Rimei Magic Traceless Wall Hook (5kg)",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
     "id": "pimg_mm_lipstick_1",
     "productId": "prod_mm_lipstick_01",
     "url": "/images/products/mm-lipstick.png",
