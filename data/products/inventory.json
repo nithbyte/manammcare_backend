@@ -5850,15 +5850,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_11132",
-    "sku": "GD-FRU-11132",
-    "availableQuantity": 27,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_11287",
     "sku": "GD-FRU-11287",
     "availableQuantity": 26,
@@ -6831,51 +6822,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_12177",
-    "sku": "GD-FRU-12177",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12178",
-    "sku": "GD-FRU-12178",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12242",
-    "sku": "GD-FRU-12242",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12267",
-    "sku": "GD-FRU-12267",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12268",
-    "sku": "GD-FRU-12268",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_13083",
     "sku": "GD-FRU-13083",
     "availableQuantity": 50,
@@ -6915,15 +6861,6 @@
     "productId": "prod_gd_6320",
     "sku": "GD-BAK-6320",
     "availableQuantity": 36,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3192",
-    "sku": "GD-BAK-3192",
-    "availableQuantity": 35,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -7128,27 +7065,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3391",
-    "sku": "GD-BAK-3391",
-    "availableQuantity": 13,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10641",
     "sku": "GD-BAK-10641",
     "availableQuantity": 12,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3382",
-    "sku": "GD-BAK-3382",
-    "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -7236,15 +7155,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3383",
-    "sku": "GD-BAK-3383",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3395",
     "sku": "GD-BAK-3395",
     "availableQuantity": 9,
@@ -7317,24 +7227,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3376",
-    "sku": "GD-BAK-3376",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3390",
-    "sku": "GD-BAK-3390",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_6285",
     "sku": "GD-BAK-6285",
     "availableQuantity": 8,
@@ -7355,15 +7247,6 @@
   {
     "productId": "prod_gd_3392",
     "sku": "GD-BAK-3392",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3396",
-    "sku": "GD-BAK-3396",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -7436,24 +7319,6 @@
   {
     "productId": "prod_gd_3377",
     "sku": "GD-BAK-3377",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3393",
-    "sku": "GD-BAK-3393",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3401",
-    "sku": "GD-BAK-3401",
     "availableQuantity": 6,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -7554,42 +7419,6 @@
     "productId": "prod_gd_11902",
     "sku": "GD-BAK-11902",
     "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3368",
-    "sku": "GD-BAK-3368",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3369",
-    "sku": "GD-BAK-3369",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3375",
-    "sku": "GD-BAK-3375",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3381",
-    "sku": "GD-BAK-3381",
-    "availableQuantity": 4,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -7767,33 +7596,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3371",
-    "sku": "GD-BAK-3371",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3384",
-    "sku": "GD-BAK-3384",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3394",
-    "sku": "GD-BAK-3394",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3541",
     "sku": "GD-BAK-3541",
     "availableQuantity": 50,
@@ -7857,26 +7659,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_4299",
-    "sku": "GD-BAK-4299",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4993",
     "sku": "GD-BAK-4993",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5306",
-    "sku": "GD-BAK-5306",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -9893,15 +9677,6 @@
   {
     "productId": "prod_gd_10144",
     "sku": "GD-BEV-10144",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11582",
-    "sku": "GD-BEV-11582",
     "availableQuantity": 6,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -13869,81 +13644,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5298",
-    "sku": "GD-FOO-5298",
-    "availableQuantity": 193,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5286",
-    "sku": "GD-FOO-5286",
-    "availableQuantity": 187,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5030",
-    "sku": "GD-FOO-5030",
-    "availableQuantity": 98,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3295",
-    "sku": "GD-FOO-3295",
-    "availableQuantity": 97,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5314",
-    "sku": "GD-FOO-5314",
-    "availableQuantity": 88,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3292",
-    "sku": "GD-FOO-3292",
-    "availableQuantity": 77,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5049",
-    "sku": "GD-FOO-5049",
-    "availableQuantity": 72,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_1303",
     "sku": "GD-FOO-1303",
     "availableQuantity": 63,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3195",
-    "sku": "GD-FOO-3195",
-    "availableQuantity": 58,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -13959,27 +13662,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3183",
-    "sku": "GD-FOO-3183",
-    "availableQuantity": 56,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_2643",
     "sku": "GD-FOO-2643",
     "availableQuantity": 54,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7062",
-    "sku": "GD-FOO-7062",
-    "availableQuantity": 53,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -13995,33 +13680,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3275",
-    "sku": "GD-FOO-3275",
-    "availableQuantity": 45,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3294",
-    "sku": "GD-FOO-3294",
-    "availableQuantity": 44,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3299",
-    "sku": "GD-FOO-3299",
-    "availableQuantity": 44,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3737",
     "sku": "GD-FOO-3737",
     "availableQuantity": 44,
@@ -14031,36 +13689,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3168",
-    "sku": "GD-FOO-3168",
-    "availableQuantity": 43,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10416",
     "sku": "GD-FOO-10416",
     "availableQuantity": 43,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11131",
-    "sku": "GD-FOO-11131",
-    "availableQuantity": 43,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3186",
-    "sku": "GD-FOO-3186",
-    "availableQuantity": 42,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -14078,15 +13709,6 @@
   {
     "productId": "prod_gd_1079",
     "sku": "GD-FOO-1079",
-    "availableQuantity": 40,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3201",
-    "sku": "GD-FOO-3201",
     "availableQuantity": 40,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -14121,51 +13743,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5291",
-    "sku": "GD-FOO-5291",
-    "availableQuantity": 37,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7862",
-    "sku": "GD-FOO-7862",
-    "availableQuantity": 37,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8725",
-    "sku": "GD-FOO-8725",
-    "availableQuantity": 37,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8941",
-    "sku": "GD-FOO-8941",
-    "availableQuantity": 37,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3189",
-    "sku": "GD-FOO-3189",
-    "availableQuantity": 36,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5098",
     "sku": "GD-FOO-5098",
     "availableQuantity": 36,
@@ -14175,45 +13752,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3204",
-    "sku": "GD-FOO-3204",
-    "availableQuantity": 35,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3281",
-    "sku": "GD-FOO-3281",
-    "availableQuantity": 35,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3286",
-    "sku": "GD-FOO-3286",
-    "availableQuantity": 35,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_13224",
     "sku": "GD-FOO-13224",
     "availableQuantity": 35,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3179",
-    "sku": "GD-FOO-3179",
-    "availableQuantity": 34,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -14256,42 +13797,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3176",
-    "sku": "GD-FOO-3176",
-    "availableQuantity": 32,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3194",
-    "sku": "GD-FOO-3194",
-    "availableQuantity": 32,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5221",
-    "sku": "GD-FOO-5221",
-    "availableQuantity": 32,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5278",
-    "sku": "GD-FOO-5278",
-    "availableQuantity": 32,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10423",
     "sku": "GD-FOO-10423",
     "availableQuantity": 32,
@@ -14319,24 +13824,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3289",
-    "sku": "GD-FOO-3289",
-    "availableQuantity": 31,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_4796",
-    "sku": "GD-FOO-4796",
-    "availableQuantity": 31,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_169",
     "sku": "GD-FOO-169",
     "availableQuantity": 30,
@@ -14355,35 +13842,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3181",
-    "sku": "GD-FOO-3181",
-    "availableQuantity": 30,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4889",
     "sku": "GD-FOO-4889",
-    "availableQuantity": 30,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_6151",
-    "sku": "GD-FOO-6151",
-    "availableQuantity": 30,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9394",
-    "sku": "GD-FOO-9394",
     "availableQuantity": 30,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -14418,44 +13878,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3173",
-    "sku": "GD-FOO-3173",
-    "availableQuantity": 29,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3200",
-    "sku": "GD-FOO-3200",
-    "availableQuantity": 28,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5099",
     "sku": "GD-FOO-5099",
-    "availableQuantity": 28,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5338",
-    "sku": "GD-FOO-5338",
-    "availableQuantity": 28,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5340",
-    "sku": "GD-FOO-5340",
     "availableQuantity": 28,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -14472,63 +13896,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8668",
-    "sku": "GD-FOO-8668",
-    "availableQuantity": 27,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3172",
-    "sku": "GD-FOO-3172",
-    "availableQuantity": 26,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10433",
     "sku": "GD-FOO-10433",
     "availableQuantity": 26,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3182",
-    "sku": "GD-FOO-3182",
-    "availableQuantity": 25,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3193",
-    "sku": "GD-FOO-3193",
-    "availableQuantity": 25,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5262",
-    "sku": "GD-FOO-5262",
-    "availableQuantity": 25,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5328",
-    "sku": "GD-FOO-5328",
-    "availableQuantity": 25,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -14544,27 +13914,9 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_11253",
-    "sku": "GD-FOO-11253",
-    "availableQuantity": 25,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12098",
     "sku": "GD-FOO-12098",
     "availableQuantity": 25,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7830",
-    "sku": "GD-FOO-7830",
-    "availableQuantity": 24,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -14607,53 +13959,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_4857",
-    "sku": "GD-FOO-4857",
-    "availableQuantity": 23,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5260",
-    "sku": "GD-FOO-5260",
-    "availableQuantity": 23,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5396",
-    "sku": "GD-FOO-5396",
-    "availableQuantity": 23,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_6903",
     "sku": "GD-FOO-6903",
-    "availableQuantity": 23,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7833",
-    "sku": "GD-FOO-7833",
-    "availableQuantity": 23,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9946",
-    "sku": "GD-FOO-9946",
     "availableQuantity": 23,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -14697,15 +14004,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3159",
-    "sku": "GD-FOO-3159",
-    "availableQuantity": 22,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8726",
     "sku": "GD-FOO-8726",
     "availableQuantity": 22,
@@ -14742,71 +14040,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3298",
-    "sku": "GD-FOO-3298",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5077",
-    "sku": "GD-FOO-5077",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5323",
-    "sku": "GD-FOO-5323",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5337",
-    "sku": "GD-FOO-5337",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8049",
-    "sku": "GD-FOO-8049",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_178",
     "sku": "GD-FOO-178",
-    "availableQuantity": 20,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3274",
-    "sku": "GD-FOO-3274",
-    "availableQuantity": 20,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5261",
-    "sku": "GD-FOO-5261",
     "availableQuantity": 20,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -14823,62 +14058,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8937",
-    "sku": "GD-FOO-8937",
-    "availableQuantity": 20,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3269",
-    "sku": "GD-FOO-3269",
-    "availableQuantity": 19,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3287",
-    "sku": "GD-FOO-3287",
-    "availableQuantity": 19,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3651",
     "sku": "GD-FOO-3651",
-    "availableQuantity": 19,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5330",
-    "sku": "GD-FOO-5330",
-    "availableQuantity": 19,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9287",
-    "sku": "GD-FOO-9287",
-    "availableQuantity": 19,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9940",
-    "sku": "GD-FOO-9940",
     "availableQuantity": 19,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -14949,98 +14130,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3161",
-    "sku": "GD-FOO-3161",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3162",
-    "sku": "GD-FOO-3162",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3185",
-    "sku": "GD-FOO-3185",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3197",
-    "sku": "GD-FOO-3197",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3203",
-    "sku": "GD-FOO-3203",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5331",
-    "sku": "GD-FOO-5331",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5476",
     "sku": "GD-FOO-5476",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5542",
-    "sku": "GD-FOO-5542",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7195",
-    "sku": "GD-FOO-7195",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7233",
-    "sku": "GD-FOO-7233",
-    "availableQuantity": 18,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7861",
-    "sku": "GD-FOO-7861",
     "availableQuantity": 18,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15102,44 +14193,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3271",
-    "sku": "GD-FOO-3271",
-    "availableQuantity": 17,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4172",
     "sku": "GD-FOO-4172",
-    "availableQuantity": 17,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5050",
-    "sku": "GD-FOO-5050",
-    "availableQuantity": 17,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5315",
-    "sku": "GD-FOO-5315",
-    "availableQuantity": 17,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5493",
-    "sku": "GD-FOO-5493",
     "availableQuantity": 17,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15174,26 +14229,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_12391",
-    "sku": "GD-FOO-12391",
-    "availableQuantity": 17,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12402",
     "sku": "GD-FOO-12402",
-    "availableQuantity": 17,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12944",
-    "sku": "GD-FOO-12944",
     "availableQuantity": 17,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15273,62 +14310,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3164",
-    "sku": "GD-FOO-3164",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3169",
-    "sku": "GD-FOO-3169",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3188",
-    "sku": "GD-FOO-3188",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4178",
     "sku": "GD-FOO-4178",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_4833",
-    "sku": "GD-FOO-4833",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_4878",
-    "sku": "GD-FOO-4878",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5370",
-    "sku": "GD-FOO-5370",
     "availableQuantity": 16,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15390,15 +14373,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_11648",
-    "sku": "GD-FOO-11648",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12370",
     "sku": "GD-FOO-12370",
     "availableQuantity": 16,
@@ -15435,24 +14409,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3170",
-    "sku": "GD-FOO-3170",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5080",
-    "sku": "GD-FOO-5080",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5550",
     "sku": "GD-FOO-5550",
     "availableQuantity": 15,
@@ -15464,24 +14420,6 @@
   {
     "productId": "prod_gd_6995",
     "sku": "GD-FOO-6995",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7837",
-    "sku": "GD-FOO-7837",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8936",
-    "sku": "GD-FOO-8936",
     "availableQuantity": 15,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15527,15 +14465,6 @@
   {
     "productId": "prod_gd_12635",
     "sku": "GD-FOO-12635",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12965",
-    "sku": "GD-FOO-12965",
     "availableQuantity": 15,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15606,44 +14535,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3158",
-    "sku": "GD-FOO-3158",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5190",
     "sku": "GD-FOO-5190",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5279",
-    "sku": "GD-FOO-5279",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5409",
-    "sku": "GD-FOO-5409",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5536",
-    "sku": "GD-FOO-5536",
     "availableQuantity": 14,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15680,15 +14573,6 @@
   {
     "productId": "prod_gd_8474",
     "sku": "GD-FOO-8474",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9397",
-    "sku": "GD-FOO-9397",
     "availableQuantity": 14,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15786,15 +14670,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3171",
-    "sku": "GD-FOO-3171",
-    "availableQuantity": 13,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3614",
     "sku": "GD-FOO-3614",
     "availableQuantity": 13,
@@ -15813,35 +14688,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5147",
-    "sku": "GD-FOO-5147",
-    "availableQuantity": 13,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5403",
-    "sku": "GD-FOO-5403",
-    "availableQuantity": 13,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8803",
     "sku": "GD-FOO-8803",
-    "availableQuantity": 13,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11889",
-    "sku": "GD-FOO-11889",
     "availableQuantity": 13,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -15930,24 +14778,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3199",
-    "sku": "GD-FOO-3199",
-    "availableQuantity": 12,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3273",
-    "sku": "GD-FOO-3273",
-    "availableQuantity": 12,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4940",
     "sku": "GD-FOO-4940",
     "availableQuantity": 12,
@@ -15957,26 +14787,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5078",
-    "sku": "GD-FOO-5078",
-    "availableQuantity": 12,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5191",
     "sku": "GD-FOO-5191",
-    "availableQuantity": 12,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5519",
-    "sku": "GD-FOO-5519",
     "availableQuantity": 12,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16083,24 +14895,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3166",
-    "sku": "GD-FOO-3166",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3187",
-    "sku": "GD-FOO-3187",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3414",
     "sku": "GD-FOO-3414",
     "availableQuantity": 11,
@@ -16121,42 +14915,6 @@
   {
     "productId": "prod_gd_3735",
     "sku": "GD-FOO-3735",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5044",
-    "sku": "GD-FOO-5044",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5067",
-    "sku": "GD-FOO-5067",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5220",
-    "sku": "GD-FOO-5220",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5412",
-    "sku": "GD-FOO-5412",
     "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16256,15 +15014,6 @@
   {
     "productId": "prod_gd_12164",
     "sku": "GD-FOO-12164",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12346",
-    "sku": "GD-FOO-12346",
     "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16380,15 +15129,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3285",
-    "sku": "GD-FOO-3285",
-    "availableQuantity": 10,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3957",
     "sku": "GD-FOO-3957",
     "availableQuantity": 10,
@@ -16407,33 +15147,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7843",
-    "sku": "GD-FOO-7843",
-    "availableQuantity": 10,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9942",
-    "sku": "GD-FOO-9942",
-    "availableQuantity": 10,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10694",
-    "sku": "GD-FOO-10694",
-    "availableQuantity": 10,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_11694",
     "sku": "GD-FOO-11694",
     "availableQuantity": 10,
@@ -16445,24 +15158,6 @@
   {
     "productId": "prod_gd_11809",
     "sku": "GD-FOO-11809",
-    "availableQuantity": 10,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12390",
-    "sku": "GD-FOO-12390",
-    "availableQuantity": 10,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12396",
-    "sku": "GD-FOO-12396",
     "availableQuantity": 10,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16533,15 +15228,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_4507",
-    "sku": "GD-FOO-4507",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4836",
     "sku": "GD-FOO-4836",
     "availableQuantity": 9,
@@ -16553,42 +15239,6 @@
   {
     "productId": "prod_gd_4870",
     "sku": "GD-FOO-4870",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5027",
-    "sku": "GD-FOO-5027",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5327",
-    "sku": "GD-FOO-5327",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5329",
-    "sku": "GD-FOO-5329",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5543",
-    "sku": "GD-FOO-5543",
     "availableQuantity": 9,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16616,33 +15266,6 @@
   {
     "productId": "prod_gd_6968",
     "sku": "GD-FOO-6968",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7854",
-    "sku": "GD-FOO-7854",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9945",
-    "sku": "GD-FOO-9945",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10333",
-    "sku": "GD-FOO-10333",
     "availableQuantity": 9,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16776,71 +15399,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3160",
-    "sku": "GD-FOO-3160",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3278",
-    "sku": "GD-FOO-3278",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3283",
-    "sku": "GD-FOO-3283",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3637",
     "sku": "GD-FOO-3637",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_4924",
-    "sku": "GD-FOO-4924",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5179",
-    "sku": "GD-FOO-5179",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5181",
-    "sku": "GD-FOO-5181",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5309",
-    "sku": "GD-FOO-5309",
     "availableQuantity": 8,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -16857,26 +15417,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7060",
-    "sku": "GD-FOO-7060",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9246",
     "sku": "GD-FOO-9246",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9406",
-    "sku": "GD-FOO-9406",
     "availableQuantity": 8,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17091,33 +15633,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3165",
-    "sku": "GD-FOO-3165",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3282",
-    "sku": "GD-FOO-3282",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3293",
-    "sku": "GD-FOO-3293",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3613",
     "sku": "GD-FOO-3613",
     "availableQuantity": 7,
@@ -17147,24 +15662,6 @@
   {
     "productId": "prod_gd_5026",
     "sku": "GD-FOO-5026",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5180",
-    "sku": "GD-FOO-5180",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5346",
-    "sku": "GD-FOO-5346",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17208,53 +15705,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7173",
-    "sku": "GD-FOO-7173",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8019",
     "sku": "GD-FOO-8019",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8044",
-    "sku": "GD-FOO-8044",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8047",
-    "sku": "GD-FOO-8047",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8321",
-    "sku": "GD-FOO-8321",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8739",
-    "sku": "GD-FOO-8739",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17273,24 +15725,6 @@
   {
     "productId": "prod_gd_8819",
     "sku": "GD-FOO-8819",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9290",
-    "sku": "GD-FOO-9290",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9943",
-    "sku": "GD-FOO-9943",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17318,15 +15752,6 @@
   {
     "productId": "prod_gd_10607",
     "sku": "GD-FOO-10607",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10693",
-    "sku": "GD-FOO-10693",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17505,15 +15930,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_12501",
-    "sku": "GD-FOO-12501",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12696",
     "sku": "GD-FOO-12696",
     "availableQuantity": 7,
@@ -17577,15 +15993,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_13085",
-    "sku": "GD-FOO-13085",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_184",
     "sku": "GD-FOO-184",
     "availableQuantity": 6,
@@ -17631,15 +16038,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3272",
-    "sku": "GD-FOO-3272",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3409",
     "sku": "GD-FOO-3409",
     "availableQuantity": 6,
@@ -17651,15 +16049,6 @@
   {
     "productId": "prod_gd_6646",
     "sku": "GD-FOO-6646",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9289",
-    "sku": "GD-FOO-9289",
     "availableQuantity": 6,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17847,24 +16236,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3167",
-    "sku": "GD-FOO-3167",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3191",
-    "sku": "GD-FOO-3191",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3474",
     "sku": "GD-FOO-3474",
     "availableQuantity": 5,
@@ -17885,15 +16256,6 @@
   {
     "productId": "prod_gd_4522",
     "sku": "GD-FOO-4522",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5066",
-    "sku": "GD-FOO-5066",
     "availableQuantity": 5,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -17930,15 +16292,6 @@
   {
     "productId": "prod_gd_7920",
     "sku": "GD-FOO-7920",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8017",
-    "sku": "GD-FOO-8017",
     "availableQuantity": 5,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -18099,35 +16452,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5043",
-    "sku": "GD-FOO-5043",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5182",
-    "sku": "GD-FOO-5182",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5440",
     "sku": "GD-FOO-5440",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5494",
-    "sku": "GD-FOO-5494",
     "availableQuantity": 4,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -18198,15 +16524,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8048",
-    "sku": "GD-FOO-8048",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8378",
     "sku": "GD-FOO-8378",
     "availableQuantity": 4,
@@ -18225,15 +16542,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8943",
-    "sku": "GD-FOO-8943",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9619",
     "sku": "GD-FOO-9619",
     "availableQuantity": 4,
@@ -18243,44 +16551,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_9936",
-    "sku": "GD-FOO-9936",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10334",
-    "sku": "GD-FOO-10334",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10502",
-    "sku": "GD-FOO-10502",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10618",
     "sku": "GD-FOO-10618",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10953",
-    "sku": "GD-FOO-10953",
     "availableQuantity": 4,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -18522,15 +16794,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5491",
-    "sku": "GD-FOO-5491",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5541",
     "sku": "GD-FOO-5541",
     "availableQuantity": 3,
@@ -18558,15 +16821,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7813",
-    "sku": "GD-FOO-7813",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8619",
     "sku": "GD-FOO-8619",
     "availableQuantity": 3,
@@ -18587,15 +16841,6 @@
   {
     "productId": "prod_gd_10317",
     "sku": "GD-FOO-10317",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10331",
-    "sku": "GD-FOO-10331",
     "availableQuantity": 3,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -19197,33 +17442,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3174",
-    "sku": "GD-FOO-3174",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3177",
-    "sku": "GD-FOO-3177",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3206",
-    "sku": "GD-FOO-3206",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3241",
     "sku": "GD-FOO-3241",
     "availableQuantity": 50,
@@ -19235,24 +17453,6 @@
   {
     "productId": "prod_gd_3251",
     "sku": "GD-FOO-3251",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3280",
-    "sku": "GD-FOO-3280",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3284",
-    "sku": "GD-FOO-3284",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -19593,35 +17793,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5052",
-    "sku": "GD-FOO-5052",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5232",
     "sku": "GD-FOO-5232",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5312",
-    "sku": "GD-FOO-5312",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5324",
-    "sku": "GD-FOO-5324",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -19640,24 +17813,6 @@
   {
     "productId": "prod_gd_5392",
     "sku": "GD-FOO-5392",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5437",
-    "sku": "GD-FOO-5437",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5477",
-    "sku": "GD-FOO-5477",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -19764,15 +17919,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5963",
-    "sku": "GD-FOO-5963",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_6048",
     "sku": "GD-FOO-6048",
     "availableQuantity": 50,
@@ -19863,15 +18009,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7338",
-    "sku": "GD-FOO-7338",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_7344",
     "sku": "GD-FOO-7344",
     "availableQuantity": 50,
@@ -19892,15 +18029,6 @@
   {
     "productId": "prod_gd_7842",
     "sku": "GD-FOO-7842",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7856",
-    "sku": "GD-FOO-7856",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -19946,15 +18074,6 @@
   {
     "productId": "prod_gd_8380",
     "sku": "GD-FOO-8380",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8381",
-    "sku": "GD-FOO-8381",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -20018,15 +18137,6 @@
   {
     "productId": "prod_gd_8805",
     "sku": "GD-FOO-8805",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8816",
-    "sku": "GD-FOO-8816",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -20153,15 +18263,6 @@
   {
     "productId": "prod_gd_9359",
     "sku": "GD-FOO-9359",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9396",
-    "sku": "GD-FOO-9396",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -20358,15 +18459,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_9842",
-    "sku": "GD-FOO-9842",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9910",
     "sku": "GD-FOO-9910",
     "availableQuantity": 50,
@@ -20457,26 +18549,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10153",
-    "sku": "GD-FOO-10153",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10214",
     "sku": "GD-FOO-10214",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10237",
-    "sku": "GD-FOO-10237",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -20844,15 +18918,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10952",
-    "sku": "GD-FOO-10952",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10978",
     "sku": "GD-FOO-10978",
     "availableQuantity": 50,
@@ -21060,15 +19125,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_11647",
-    "sku": "GD-FOO-11647",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_11662",
     "sku": "GD-FOO-11662",
     "availableQuantity": 50,
@@ -21179,15 +19235,6 @@
   {
     "productId": "prod_gd_11839",
     "sku": "GD-FOO-11839",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11888",
-    "sku": "GD-FOO-11888",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -21447,15 +19494,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5528",
-    "sku": "GD-CLE-5528",
-    "availableQuantity": 101,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8484",
     "sku": "GD-CLE-8484",
     "availableQuantity": 98,
@@ -21702,15 +19740,6 @@
     "productId": "prod_gd_1268",
     "sku": "GD-CLE-1268",
     "availableQuantity": 34,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5529",
-    "sku": "GD-CLE-5529",
-    "availableQuantity": 32,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
     "isInStock": true,
@@ -23040,15 +21069,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_11269",
-    "sku": "GD-CLE-11269",
-    "availableQuantity": 12,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_11294",
     "sku": "GD-CLE-11294",
     "availableQuantity": 12,
@@ -23148,15 +21168,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5336",
-    "sku": "GD-CLE-5336",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5619",
     "sku": "GD-CLE-5619",
     "availableQuantity": 11,
@@ -23204,15 +21215,6 @@
   {
     "productId": "prod_gd_8532",
     "sku": "GD-CLE-8532",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8938",
-    "sku": "GD-CLE-8938",
     "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -24149,15 +22151,6 @@
   {
     "productId": "prod_gd_11119",
     "sku": "GD-CLE-11119",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11268",
-    "sku": "GD-CLE-11268",
     "availableQuantity": 8,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -26786,15 +24779,6 @@
   {
     "productId": "prod_gd_8259",
     "sku": "GD-CLE-8259",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8319",
-    "sku": "GD-CLE-8319",
     "availableQuantity": 3,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -30222,15 +28206,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_9939",
-    "sku": "GD-CLE-9939",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9974",
     "sku": "GD-CLE-9974",
     "availableQuantity": 50,
@@ -30719,15 +28694,6 @@
   {
     "productId": "prod_gd_10996",
     "sku": "GD-CLE-10996",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11042",
-    "sku": "GD-CLE-11042",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -32645,15 +30611,6 @@
   {
     "productId": "prod_gd_4847",
     "sku": "GD-HEA-4847",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5308",
-    "sku": "GD-HEA-5308",
     "availableQuantity": 16,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -37449,15 +35406,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5277",
-    "sku": "GD-HEA-5277",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5535",
     "sku": "GD-HEA-5535",
     "availableQuantity": 4,
@@ -39134,15 +37082,6 @@
   {
     "productId": "prod_gd_4602",
     "sku": "GD-HEA-4602",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5271",
-    "sku": "GD-HEA-5271",
     "availableQuantity": 3,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -44352,15 +42291,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7046",
-    "sku": "GD-HEA-7046",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_7052",
     "sku": "GD-HEA-7052",
     "availableQuantity": 50,
@@ -47144,15 +45074,6 @@
   {
     "productId": "prod_gd_11243",
     "sku": "GD-HEA-11243",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11284",
-    "sku": "GD-HEA-11284",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -50229,15 +48150,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5070",
-    "sku": "GD-BRA-5070",
-    "availableQuantity": 29,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_7021",
     "sku": "GD-BRA-7021",
     "availableQuantity": 29,
@@ -50634,15 +48546,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5408",
-    "sku": "GD-BRA-5408",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5931",
     "sku": "GD-BRA-5931",
     "availableQuantity": 21,
@@ -50681,15 +48584,6 @@
   {
     "productId": "prod_gd_9737",
     "sku": "GD-BRA-9737",
-    "availableQuantity": 21,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9947",
-    "sku": "GD-BRA-9947",
     "availableQuantity": 21,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -51057,15 +48951,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3305",
-    "sku": "GD-BRA-3305",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4404",
     "sku": "GD-BRA-4404",
     "availableQuantity": 16,
@@ -51167,15 +49052,6 @@
   {
     "productId": "prod_gd_10771",
     "sku": "GD-BRA-10771",
-    "availableQuantity": 16,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11159",
-    "sku": "GD-BRA-11159",
     "availableQuantity": 16,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -51309,15 +49185,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3316",
-    "sku": "GD-BRA-3316",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3683",
     "sku": "GD-BRA-3683",
     "availableQuantity": 15,
@@ -51408,15 +49275,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10497",
-    "sku": "GD-BRA-10497",
-    "availableQuantity": 15,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_13220",
     "sku": "GD-BRA-13220",
     "availableQuantity": 15,
@@ -51489,33 +49347,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3310",
-    "sku": "GD-BRA-3310",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3312",
-    "sku": "GD-BRA-3312",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3315",
-    "sku": "GD-BRA-3315",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3492",
     "sku": "GD-BRA-3492",
     "availableQuantity": 14,
@@ -51536,15 +49367,6 @@
   {
     "productId": "prod_gd_4837",
     "sku": "GD-BRA-4837",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7977",
-    "sku": "GD-BRA-7977",
     "availableQuantity": 14,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -51617,24 +49439,6 @@
   {
     "productId": "prod_gd_10157",
     "sku": "GD-BRA-10157",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10494",
-    "sku": "GD-BRA-10494",
-    "availableQuantity": 14,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10496",
-    "sku": "GD-BRA-10496",
     "availableQuantity": 14,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -51743,15 +49547,6 @@
   {
     "productId": "prod_gd_3155",
     "sku": "GD-BRA-3155",
-    "availableQuantity": 13,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3317",
-    "sku": "GD-BRA-3317",
     "availableQuantity": 13,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -52182,24 +49977,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3288",
-    "sku": "GD-BRA-3288",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3308",
-    "sku": "GD-BRA-3308",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3494",
     "sku": "GD-BRA-3494",
     "availableQuantity": 11,
@@ -52254,35 +50031,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_4921",
-    "sku": "GD-BRA-4921",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5069",
-    "sku": "GD-BRA-5069",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5274",
     "sku": "GD-BRA-5274",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5517",
-    "sku": "GD-BRA-5517",
     "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -52308,26 +50058,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7864",
-    "sku": "GD-BRA-7864",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_7889",
     "sku": "GD-BRA-7889",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8036",
-    "sku": "GD-BRA-8036",
     "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -52445,15 +50177,6 @@
   {
     "productId": "prod_gd_10385",
     "sku": "GD-BRA-10385",
-    "availableQuantity": 11,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10556",
-    "sku": "GD-BRA-10556",
     "availableQuantity": 11,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -52911,15 +50634,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3320",
-    "sku": "GD-BRA-3320",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3373",
     "sku": "GD-BRA-3373",
     "availableQuantity": 9,
@@ -53055,24 +50769,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7868",
-    "sku": "GD-BRA-7868",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7885",
-    "sku": "GD-BRA-7885",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8459",
     "sku": "GD-BRA-8459",
     "availableQuantity": 9,
@@ -53102,15 +50798,6 @@
   {
     "productId": "prod_gd_8921",
     "sku": "GD-BRA-8921",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8935",
-    "sku": "GD-BRA-8935",
     "availableQuantity": 9,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -53226,15 +50913,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10495",
-    "sku": "GD-BRA-10495",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10557",
     "sku": "GD-BRA-10557",
     "availableQuantity": 9,
@@ -53246,15 +50924,6 @@
   {
     "productId": "prod_gd_10800",
     "sku": "GD-BRA-10800",
-    "availableQuantity": 9,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10835",
-    "sku": "GD-BRA-10835",
     "availableQuantity": 9,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -53712,15 +51381,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8939",
-    "sku": "GD-BRA-8939",
-    "availableQuantity": 8,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9117",
     "sku": "GD-BRA-9117",
     "availableQuantity": 8,
@@ -54090,24 +51750,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3304",
-    "sku": "GD-BRA-3304",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3307",
-    "sku": "GD-BRA-3307",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3322",
     "sku": "GD-BRA-3322",
     "availableQuantity": 7,
@@ -54315,15 +51957,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_7881",
-    "sku": "GD-BRA-7881",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_7886",
     "sku": "GD-BRA-7886",
     "availableQuantity": 7,
@@ -54450,15 +52083,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_9399",
-    "sku": "GD-BRA-9399",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9806",
     "sku": "GD-BRA-9806",
     "availableQuantity": 7,
@@ -54522,15 +52146,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_9937",
-    "sku": "GD-BRA-9937",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9979",
     "sku": "GD-BRA-9979",
     "availableQuantity": 7,
@@ -54578,24 +52193,6 @@
   {
     "productId": "prod_gd_10739",
     "sku": "GD-BRA-10739",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10834",
-    "sku": "GD-BRA-10834",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10836",
-    "sku": "GD-BRA-10836",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -54783,26 +52380,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_12239",
-    "sku": "GD-BRA-12239",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12265",
     "sku": "GD-BRA-12265",
-    "availableQuantity": 7,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12420",
-    "sku": "GD-BRA-12420",
     "availableQuantity": 7,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -55107,24 +52686,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3302",
-    "sku": "GD-BRA-3302",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3314",
-    "sku": "GD-BRA-3314",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3326",
     "sku": "GD-BRA-3326",
     "availableQuantity": 6,
@@ -55269,15 +52830,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10499",
-    "sku": "GD-BRA-10499",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10598",
     "sku": "GD-BRA-10598",
     "availableQuantity": 6,
@@ -55298,24 +52850,6 @@
   {
     "productId": "prod_gd_10688",
     "sku": "GD-BRA-10688",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10841",
-    "sku": "GD-BRA-10841",
-    "availableQuantity": 6,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10877",
-    "sku": "GD-BRA-10877",
     "availableQuantity": 6,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -55692,33 +53226,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3300",
-    "sku": "GD-BRA-3300",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3301",
-    "sku": "GD-BRA-3301",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3311",
-    "sku": "GD-BRA-3311",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3465",
     "sku": "GD-BRA-3465",
     "availableQuantity": 5,
@@ -55883,15 +53390,6 @@
   {
     "productId": "prod_gd_7615",
     "sku": "GD-BRA-7615",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7865",
-    "sku": "GD-BRA-7865",
     "availableQuantity": 5,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -56079,15 +53577,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10832",
-    "sku": "GD-BRA-10832",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_11016",
     "sku": "GD-BRA-11016",
     "availableQuantity": 5,
@@ -56126,24 +53615,6 @@
   {
     "productId": "prod_gd_11202",
     "sku": "GD-BRA-11202",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11252",
-    "sku": "GD-BRA-11252",
-    "availableQuantity": 5,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11305",
-    "sku": "GD-BRA-11305",
     "availableQuantity": 5,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -56576,15 +54047,6 @@
   {
     "productId": "prod_gd_2976",
     "sku": "GD-BRA-2976",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3180",
-    "sku": "GD-BRA-3180",
     "availableQuantity": 4,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -57348,15 +54810,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10500",
-    "sku": "GD-BRA-10500",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10552",
     "sku": "GD-BRA-10552",
     "availableQuantity": 4,
@@ -57429,35 +54882,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10829",
-    "sku": "GD-BRA-10829",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10837",
-    "sku": "GD-BRA-10837",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10849",
     "sku": "GD-BRA-10849",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10878",
-    "sku": "GD-BRA-10878",
     "availableQuantity": 4,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -57737,15 +55163,6 @@
   {
     "productId": "prod_gd_12088",
     "sku": "GD-BRA-12088",
-    "availableQuantity": 4,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12092",
-    "sku": "GD-BRA-12092",
     "availableQuantity": 4,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -58347,15 +55764,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5071",
-    "sku": "GD-BRA-5071",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5862",
     "sku": "GD-BRA-5862",
     "availableQuantity": 3,
@@ -58439,15 +55847,6 @@
   {
     "productId": "prod_gd_7554",
     "sku": "GD-BRA-7554",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_7883",
-    "sku": "GD-BRA-7883",
     "availableQuantity": 3,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -58610,15 +56009,6 @@
   {
     "productId": "prod_gd_10092",
     "sku": "GD-BRA-10092",
-    "availableQuantity": 3,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10329",
-    "sku": "GD-BRA-10329",
     "availableQuantity": 3,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -61119,15 +58509,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_3184",
-    "sku": "GD-BRA-3184",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_3209",
     "sku": "GD-BRA-3209",
     "availableQuantity": 50,
@@ -61211,33 +58592,6 @@
   {
     "productId": "prod_gd_3266",
     "sku": "GD-BRA-3266",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3309",
-    "sku": "GD-BRA-3309",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3313",
-    "sku": "GD-BRA-3313",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_3319",
-    "sku": "GD-BRA-3319",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -62190,26 +59544,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_4925",
-    "sku": "GD-BRA-4925",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_4938",
     "sku": "GD-BRA-4938",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5055",
-    "sku": "GD-BRA-5055",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -62406,26 +59742,8 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_5439",
-    "sku": "GD-BRA-5439",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_5455",
     "sku": "GD-BRA-5455",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_5483",
-    "sku": "GD-BRA-5483",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -63576,33 +60894,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8045",
-    "sku": "GD-BRA-8045",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8046",
-    "sku": "GD-BRA-8046",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8051",
-    "sku": "GD-BRA-8051",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8054",
     "sku": "GD-BRA-8054",
     "availableQuantity": 50,
@@ -64566,42 +61857,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_8931",
-    "sku": "GD-BRA-8931",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8932",
-    "sku": "GD-BRA-8932",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8933",
-    "sku": "GD-BRA-8933",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_8942",
-    "sku": "GD-BRA-8942",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_8945",
     "sku": "GD-BRA-8945",
     "availableQuantity": 50,
@@ -65493,96 +62748,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_9679",
-    "sku": "GD-BRA-9679",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9680",
-    "sku": "GD-BRA-9680",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9681",
-    "sku": "GD-BRA-9681",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9682",
-    "sku": "GD-BRA-9682",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9683",
-    "sku": "GD-BRA-9683",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9684",
-    "sku": "GD-BRA-9684",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9685",
-    "sku": "GD-BRA-9685",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9687",
-    "sku": "GD-BRA-9687",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9688",
-    "sku": "GD-BRA-9688",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_9689",
-    "sku": "GD-BRA-9689",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_9752",
     "sku": "GD-BRA-9752",
     "availableQuantity": 50,
@@ -66294,33 +63459,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10328",
-    "sku": "GD-BRA-10328",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10330",
-    "sku": "GD-BRA-10330",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10332",
-    "sku": "GD-BRA-10332",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10337",
     "sku": "GD-BRA-10337",
     "availableQuantity": 50,
@@ -66557,24 +63695,6 @@
   {
     "productId": "prod_gd_10457",
     "sku": "GD-BRA-10457",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10498",
-    "sku": "GD-BRA-10498",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10501",
-    "sku": "GD-BRA-10501",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -67122,42 +64242,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_10831",
-    "sku": "GD-BRA-10831",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10833",
-    "sku": "GD-BRA-10833",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10838",
-    "sku": "GD-BRA-10838",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10839",
-    "sku": "GD-BRA-10839",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_10842",
     "sku": "GD-BRA-10842",
     "availableQuantity": 50,
@@ -67187,69 +64271,6 @@
   {
     "productId": "prod_gd_10866",
     "sku": "GD-BRA-10866",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10870",
-    "sku": "GD-BRA-10870",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10871",
-    "sku": "GD-BRA-10871",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10872",
-    "sku": "GD-BRA-10872",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10873",
-    "sku": "GD-BRA-10873",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10874",
-    "sku": "GD-BRA-10874",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10875",
-    "sku": "GD-BRA-10875",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_10876",
-    "sku": "GD-BRA-10876",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -67952,24 +64973,6 @@
   {
     "productId": "prod_gd_11235",
     "sku": "GD-BRA-11235",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11254",
-    "sku": "GD-BRA-11254",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_11267",
-    "sku": "GD-BRA-11267",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -69210,15 +66213,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_11854",
-    "sku": "GD-BRA-11854",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_11856",
     "sku": "GD-BRA-11856",
     "availableQuantity": 50,
@@ -69894,15 +66888,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_12263",
-    "sku": "GD-BRA-12263",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12266",
     "sku": "GD-BRA-12266",
     "availableQuantity": 50,
@@ -70020,15 +67005,6 @@
     "updatedAt": "2026-10-26T12:00:00.000Z"
   },
   {
-    "productId": "prod_gd_12348",
-    "sku": "GD-BRA-12348",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
     "productId": "prod_gd_12353",
     "sku": "GD-BRA-12353",
     "availableQuantity": 50,
@@ -70076,24 +67052,6 @@
   {
     "productId": "prod_gd_12409",
     "sku": "GD-BRA-12409",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12418",
-    "sku": "GD-BRA-12418",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12419",
-    "sku": "GD-BRA-12419",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
@@ -70787,15 +67745,6 @@
   {
     "productId": "prod_gd_12942",
     "sku": "GD-BRA-12942",
-    "availableQuantity": 50,
-    "reservedQuantity": 0,
-    "lowStockThreshold": 10,
-    "isInStock": true,
-    "updatedAt": "2026-10-26T12:00:00.000Z"
-  },
-  {
-    "productId": "prod_gd_12945",
-    "sku": "GD-BRA-12945",
     "availableQuantity": 50,
     "reservedQuantity": 0,
     "lowStockThreshold": 10,
