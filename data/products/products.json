@@ -1,5 +1,83 @@
 [
   {
+    "id": "prod_mm_lipstick_01",
+    "sku": "MNM-HB-MM01",
+    "slug": "m-m-lipstick",
+    "name": "M&M Lipstick",
+    "shortDescription": "M&M Makeup & More smooth matte lipstick in rich vibrant shades.",
+    "description": "M&M Makeup & More Lipstick offers rich, intense color payoff with a nourishing matte finish. Formulated for comfortable everyday wear, long-lasting color retention, and velvety lip definition.",
+    "price": 149,
+    "compareAtPrice": 249,
+    "mrp": 249,
+    "discountPercentage": 40,
+    "currency": "INR",
+    "category": "Lip Care",
+    "categoryId": "cat_gd_226",
+    "subcategory": "Lipstick",
+    "mainCategoryId": "cat_health_beauty",
+    "mainCategory": "Health & Beauty",
+    "brandId": "brd_mm",
+    "brand": "M&M",
+    "imageUrl": "/images/products/mm-lipstick.png",
+    "images": [
+      "/images/products/mm-lipstick.png"
+    ],
+    "thumbnail": "/images/products/mm-lipstick.png",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "M&M"
+      },
+      {
+        "name": "Category",
+        "value": "Health & Beauty"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Lip Care"
+      },
+      {
+        "name": "Product Type",
+        "value": "Lipstick"
+      },
+      {
+        "name": "Finish",
+        "value": "Matte"
+      },
+      {
+        "name": "Unit Measure",
+        "value": "1 Piece"
+      },
+      {
+        "name": "Price",
+        "value": "₹149"
+      }
+    ],
+    "tags": [
+      "m&m",
+      "lipstick",
+      "lip stick",
+      "lip-care",
+      "makeup",
+      "cosmetics",
+      "health-beauty",
+      "beauty"
+    ],
+    "createdAt": "2026-10-26T11:31:23.102Z",
+    "updatedAt": "2026-10-26T11:31:23.102Z"
+  },
+  {
     "id": "prod_drs_01",
     "sku": "MNM-DRS-01",
     "slug": "a-line-floral-print-cotton-kurti",

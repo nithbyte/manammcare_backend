@@ -1,5 +1,14 @@
 [
   {
+    "id": "brd_mm",
+    "name": "M&M",
+    "slug": "m-and-m",
+    "description": "M&M Makeup & More cosmetics, beauty, and lipstick essentials.",
+    "logo": "/images/products/mm-lipstick.png",
+    "isActive": true,
+    "productCount": 1
+  },
+  {
     "id": "brd_manamm",
     "name": "MANAMM",
     "slug": "manamm",

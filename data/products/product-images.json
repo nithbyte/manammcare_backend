@@ -1,5 +1,13 @@
 [
   {
+    "id": "pimg_mm_lipstick_1",
+    "productId": "prod_mm_lipstick_01",
+    "url": "/images/products/mm-lipstick.png",
+    "alt": "M&M Lipstick",
+    "sortOrder": 1,
+    "isPrimary": true
+  },
+  {
     "id": "pimg_1_1",
     "productId": "prod_1",
     "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1792654587/manamm/products/asset_70.jpg",

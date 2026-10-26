@@ -1,5 +1,20 @@
 [
   {
+    "id": "var_mm_lipstick_1",
+    "productId": "prod_mm_lipstick_01",
+    "sku": "MNM-HB-MM01",
+    "title": "Standard Shade",
+    "packSize": "1 Piece",
+    "price": 149,
+    "compareAtPrice": 249,
+    "stock": 50,
+    "isAvailable": true,
+    "attributes": {
+      "Finish": "Matte",
+      "Brand": "M&M"
+    }
+  },
+  {
     "id": "var_1_1",
     "productId": "prod_1",
     "sku": "MNM-OIL-GNT-500ML",
