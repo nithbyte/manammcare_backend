@@ -1,7 +1,7 @@
 {
   "name": "manammcare-backend",
   "version": "1.0.0",
-  "description": "Production NestJS REST API for MANAM Mobile App and E-commerce Platform",
+  "description": "Production NestJS REST API for MANAMM Mobile App and E-commerce Platform",
   "author": "Nithbyte",
   "private": true,
   "license": "UNLICENSED",

@@ -1,17 +1,17 @@
-# MANAM Backend — PostgreSQL to MySQL Migration Audit Report
+# MANAMM Backend — PostgreSQL to MySQL Migration Audit Report
 
 **Date**: October 8, 2026  
-**Project**: MANAM Care Backend (`manammcare_backend`)  
+**Project**: MANAMM Care Backend (`manammcare_backend`)  
 **Target Environment**: Hostinger Cloud / VPS / Managed Node.js + MySQL  
 **Target Domain**: `https://api.manammcare.com`  
-**Frontend / Mobile Application**: MANAM React Native App & Web (`https://manammcare.com`)  
+**Frontend / Mobile Application**: MANAMM React Native App & Web (`https://manammcare.com`)  
 **Auditor**: Antigravity AI Engineering Team  
 
 ---
 
 ## Executive Summary
 
-A comprehensive architectural and database audit of the existing **MANAM** production backend codebase was conducted to evaluate the migration from **PostgreSQL** to **MySQL** (Hostinger).
+A comprehensive architectural and database audit of the existing **MANAMM** production backend codebase was conducted to evaluate the migration from **PostgreSQL** to **MySQL** (Hostinger).
 
 The audit confirms that the existing backend has been built with clean abstraction using **NestJS** and **Prisma ORM**. There are **zero raw SQL queries (`$queryRaw`, `$executeRaw`)**, **zero PostgreSQL-specific database extensions** (such as `citext`, `uuid-ossp`, or `pg_trgm`), and all financial precision constraints use standard `DECIMAL(10, 2)` types which are natively and identically supported by MySQL.
 
@@ -19,7 +19,7 @@ Only two targeted adjustments are required:
 1. Updating `prisma/schema.prisma` datasource provider from `"postgresql"` to `"mysql"`.
 2. Removing PostgreSQL-specific `mode: 'insensitive'` filter flags from `src/products/products.service.ts` (because MySQL collations are case-insensitive by default, and Prisma's MySQL generator disallows the `mode` parameter).
 
-**No mobile application API contracts, endpoints, request/response formats, business rules, or security mechanisms will be affected.** The database migration will be 100% transparent to the MANAM mobile application.
+**No mobile application API contracts, endpoints, request/response formats, business rules, or security mechanisms will be affected.** The database migration will be 100% transparent to the MANAMM mobile application.
 
 ---
 

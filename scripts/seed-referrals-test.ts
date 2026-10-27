@@ -15,7 +15,7 @@ async function main() {
   const directMembersCount = 125;
 
   console.log('========================================================');
-  console.log(`Setting up MANAM Networking Test for: ${targetEmail}`);
+  console.log(`Setting up MANAMM Networking Test for: ${targetEmail}`);
   console.log(`Referral Code: ${targetRefCode}`);
   console.log(`Target Direct Qualifying Members: ${directMembersCount}`);
   console.log('========================================================\n');

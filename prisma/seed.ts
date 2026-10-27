@@ -43,7 +43,7 @@ function loadJson<T>(relativePath: string): T {
 }
 
 async function main() {
-  console.log('--- Starting MANAM Database Seeding ---');
+  console.log('--- Starting MANAMM Database Seeding ---');
 
   // 1. Seed Categories
   const categoriesData = loadJson<any[]>('products/categories.json');
@@ -378,7 +378,7 @@ async function main() {
     });
   }
 
-  console.log('--- MANAM Database Seeding Complete ---');
+  console.log('--- MANAMM Database Seeding Complete ---');
 }
 
 main()

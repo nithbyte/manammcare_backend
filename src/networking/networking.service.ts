@@ -544,7 +544,7 @@ export class NetworkingService {
           referralCode: null,
           eligibilityCriteria: {
             thresholdAmount: threshold,
-            rule: 'A customer automatically becomes a MANAM member after their first delivered qualifying order strictly greater than ₹500.',
+            rule: 'A customer automatically becomes a MANAMM member after their first delivered qualifying order strictly greater than ₹500.',
             qualifyingOrdersCount,
             isEligibleForImmediateActivation: qualifyingOrdersCount > 0,
           },
@@ -646,7 +646,7 @@ export class NetworkingService {
         stagesRoadmap: NETWORKING_STAGES,
         sharing: {
           code: activeCycle.referralCode || user.referralCode,
-          shareMessage: `Join MANAM for pure daily essentials and farm-fresh staples! Use my referral code ${
+          shareMessage: `Join MANAMM for pure daily essentials and farm-fresh staples! Use my referral code ${
             activeCycle.referralCode || user.referralCode
           } when creating your account.`,
         },

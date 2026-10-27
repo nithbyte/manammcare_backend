@@ -88,8 +88,8 @@ async function bootstrap() {
 
   // Swagger Documentation
   const config = new DocumentBuilder()
-    .setTitle('MANAM REST API')
-    .setDescription('Production REST API for MANAM Mobile App and E-commerce Platform')
+    .setTitle('MANAMM REST API')
+    .setDescription('Production REST API for MANAMM Mobile App and E-commerce Platform')
     .setVersion('1.0.0')
     .addBearerAuth()
     .addTag('Auth')
@@ -111,7 +111,7 @@ async function bootstrap() {
   const port = process.env.PORT || 5000;
   await app.listen(port, '0.0.0.0');
 
-  logger.log(`🚀 MANAM Backend running on port ${port}`);
+  logger.log(`🚀 MANAMM Backend running on port ${port}`);
   logger.log(`📖 Swagger API documentation available at http://localhost:${port}/api/docs`);
   logger.log(`🌐 Production target: https://api.manammcare.com`);
 }

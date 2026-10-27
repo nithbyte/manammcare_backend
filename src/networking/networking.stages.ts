@@ -1,5 +1,5 @@
 /**
- * Centralized MANAM Networking Stage Definitions & Due Date Utilities
+ * Centralized MANAMM Networking Stage Definitions & Due Date Utilities
  * Strictly enforces business rules from the confirmed specification.
  */
 

@@ -1,7 +1,7 @@
 [
   {
     "id": "anc_01",
-    "title": "Welcome to MANAM",
+    "title": "Welcome to MANAMM",
     "message": "Experience the authentic goodness of pure organic daily essentials delivered fresh to your doorstep.",
     "type": "INFO",
     "priority": "HIGH",
@@ -45,7 +45,7 @@
   {
     "id": "anc_05",
     "title": "Sustainable Eco-Friendly Packaging",
-    "message": "All MANAM orders are packed in biodegradable paper boxes with zero plastic bubble wrap.",
+    "message": "All MANAMM orders are packed in biodegradable paper boxes with zero plastic bubble wrap.",
     "type": "INFO",
     "priority": "LOW",
     "image": "https://images.unsplash.com/photo-1530587191325-3db32d826c18?auto=format&fit=crop&w=600&q=80",

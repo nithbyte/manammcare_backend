@@ -44,7 +44,7 @@
     "userId": "usr_02",
     "type": "ORDER",
     "title": "Order Confirmed",
-    "message": "Your order #MNM-2026-1002 has been received. Thank you for choosing MANAM.",
+    "message": "Your order #MNM-2026-1002 has been received. Thank you for choosing MANAMM.",
     "isRead": true,
     "createdAt": "2026-03-02T11:45:00.000Z",
     "data": { "orderId": "ord_002", "orderNumber": "MNM-2026-1002" }
@@ -122,7 +122,7 @@
     "id": "notif_013",
     "userId": "usr_05",
     "type": "ACCOUNT",
-    "title": "Welcome to MANAM",
+    "title": "Welcome to MANAMM",
     "message": "Thank you for creating an account. Enjoy fresh organic staples!",
     "isRead": true,
     "createdAt": "2026-01-15T10:00:00.000Z"
@@ -232,7 +232,7 @@
     "userId": "usr_11",
     "type": "SYSTEM",
     "title": "Security Notice",
-    "message": "New sign-in detected on your MANAM account from mobile device.",
+    "message": "New sign-in detected on your MANAMM account from mobile device.",
     "isRead": true,
     "createdAt": "2026-03-04T18:15:00.000Z"
   },
@@ -321,7 +321,7 @@
     "userId": "usr_16",
     "type": "SYSTEM",
     "title": "App Version Updated",
-    "message": "You are running the latest version of MANAM with enhanced cart performance.",
+    "message": "You are running the latest version of MANAMM with enhanced cart performance.",
     "isRead": true,
     "createdAt": "2026-03-01T07:00:00.000Z"
   },

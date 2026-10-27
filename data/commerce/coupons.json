@@ -153,7 +153,7 @@
     "id": "cpn_app5",
     "code": "MANAMAPP5",
     "title": "Mobile App Special",
-    "description": "Extra 5% discount exclusively on the MANAM mobile application.",
+    "description": "Extra 5% discount exclusively on the MANAMM mobile application.",
     "type": "PERCENTAGE",
     "value": 5,
     "minimumOrderValue": 499,

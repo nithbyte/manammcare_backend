@@ -1,5 +1,5 @@
 {
-  "title": "MANAM Mobile Application REST API Contract",
+  "title": "MANAMM Mobile Application REST API Contract",
   "version": "1.0.0",
   "baseUrl": "https://api.manammcare.com",
   "authScheme": "Bearer JWT",
