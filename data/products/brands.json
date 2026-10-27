@@ -1,5 +1,14 @@
 [
   {
+    "id": "brd_tag_hills",
+    "name": "TAG Hills",
+    "slug": "tag-hills",
+    "description": "TAG Hills exclusive umbrellas featuring windproof fibre frames, UV protective fabrics, and eye-safety engineering.",
+    "logo": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092935/manamm/products/tag-hills-golf-auto-30x8k-m8028.jpg",
+    "isActive": true,
+    "productCount": 4
+  },
+  {
     "id": "brd_rimei",
     "name": "Rimei",
     "slug": "rimei",

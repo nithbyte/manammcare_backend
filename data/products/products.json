@@ -1,5 +1,437 @@
 [
   {
+    "id": "prod_tag_hills_umbrella_8157",
+    "sku": "MNM-TH-8157",
+    "slug": "tag-hills-transparent-reverse-21x6k-umbrella-m8157",
+    "name": "TAG Hills 21\"x6K Transparent Reverse Umbrella with Eye-Safety Blunt Ribs (M-8157)",
+    "shortDescription": "TAG Hills 21\"x6K transparent dome umbrella with safety blunt ribs and auto-close reverse feature.",
+    "description": "TAG Hills Exclusive Umbrella M-8157-NUO- 21\"x6K Double Fibre ribs transparent umbrella with color border trim. Engineered with blunt curved tips for eye safety, manual smooth open, and push-button auto-close reverse feature to keep rainwater contained.",
+    "price": 700,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 42,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Umbrellas",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "brandId": "brd_tag_hills",
+    "brand": "TAG Hills",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092938/manamm/products/tag-hills-transparent-reverse-21x6k-m8157.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793092938/manamm/products/tag-hills-transparent-reverse-21x6k-m8157.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092938/manamm/products/tag-hills-transparent-reverse-21x6k-m8157.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "TAG Hills"
+      },
+      {
+        "name": "Category",
+        "value": "Partner Collections & Lifestyle"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Umbrella"
+      },
+      {
+        "name": "Model",
+        "value": "M-8157-NUO-"
+      },
+      {
+        "name": "Canopy Size",
+        "value": "21\" x 6K"
+      },
+      {
+        "name": "Material",
+        "value": "Clear Transparent Canopy with Color Border, Double Fibre Ribs"
+      },
+      {
+        "name": "Price",
+        "value": "₹700"
+      },
+      {
+        "name": "Feature",
+        "value": "21\" x 6K Double Fibre Ribs"
+      },
+      {
+        "name": "Feature",
+        "value": "Eye-Safety Blunt Curved Rib Tips"
+      },
+      {
+        "name": "Feature",
+        "value": "Clear View Transparent Canopy"
+      },
+      {
+        "name": "Feature",
+        "value": "Reverse Mechanism: Press Button to Close"
+      },
+      {
+        "name": "Feature",
+        "value": "Color Border Trim & Curved Ergonomic Handle"
+      },
+      {
+        "name": "Feature",
+        "value": "Drip-Free Folding Design"
+      }
+    ],
+    "tags": [
+      "umbrella",
+      "tag hills",
+      "rainwear",
+      "golf umbrella",
+      "windproof umbrella",
+      "accessories",
+      "partner collections",
+      "outdoor essentials",
+      "m8157nuo"
+    ],
+    "createdAt": "2026-10-27T09:22:19.187Z",
+    "updatedAt": "2026-10-27T09:22:19.187Z"
+  },
+  {
+    "id": "prod_tag_hills_umbrella_8016",
+    "sku": "MNM-TH-8016",
+    "slug": "tag-hills-auto-wooden-golf-27x8k-uv-umbrella-m8016",
+    "name": "TAG Hills Auto Wooden Golf 27\"x8K Black UV Coating Umbrella (M-8016)",
+    "shortDescription": "TAG Hills 27\"x8K auto golf umbrella with black UV protection coating, fibre frame and wooden handle.",
+    "description": "TAG Hills Exclusive Umbrella M-8016-NNR Auto Wooden Golf 27\"x8K Ponjee Gents Mono umbrella engineered with inner black UV coating fabric for complete sun and rain protection. Features a durable fibre windproof frame, polished wooden handle, and full-length shoulder strap cloth case.",
+    "price": 700,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 42,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Umbrellas",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "brandId": "brd_tag_hills",
+    "brand": "TAG Hills",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092937/manamm/products/tag-hills-auto-wooden-golf-27x8k-uv-m8016.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793092937/manamm/products/tag-hills-auto-wooden-golf-27x8k-uv-m8016.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092937/manamm/products/tag-hills-auto-wooden-golf-27x8k-uv-m8016.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "TAG Hills"
+      },
+      {
+        "name": "Category",
+        "value": "Partner Collections & Lifestyle"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Umbrella"
+      },
+      {
+        "name": "Model",
+        "value": "M-8016-NNR"
+      },
+      {
+        "name": "Canopy Size",
+        "value": "27\" x 8K"
+      },
+      {
+        "name": "Material",
+        "value": "Ponjee Gents Mono with Black UV Coating Fabric, Fibre Windproof Frame, Wooden Handle"
+      },
+      {
+        "name": "Price",
+        "value": "₹700"
+      },
+      {
+        "name": "Feature",
+        "value": "27\" x 8K Gents Mono Canopy"
+      },
+      {
+        "name": "Feature",
+        "value": "Black UV Protective Coating"
+      },
+      {
+        "name": "Feature",
+        "value": "Fibre Windproof Frame"
+      },
+      {
+        "name": "Feature",
+        "value": "Polished Wooden Handle"
+      },
+      {
+        "name": "Feature",
+        "value": "Full-Length Carry Case with Shoulder Strap"
+      },
+      {
+        "name": "Feature",
+        "value": "All-Weather Protection"
+      }
+    ],
+    "tags": [
+      "umbrella",
+      "tag hills",
+      "rainwear",
+      "golf umbrella",
+      "windproof umbrella",
+      "accessories",
+      "partner collections",
+      "outdoor essentials",
+      "m8016nnr"
+    ],
+    "createdAt": "2026-10-27T09:22:19.187Z",
+    "updatedAt": "2026-10-27T09:22:19.187Z"
+  },
+  {
+    "id": "prod_tag_hills_umbrella_8104",
+    "sku": "MNM-TH-8104",
+    "slug": "tag-hills-auto-wooden-golf-27x8k-umbrella-m8104",
+    "name": "TAG Hills Auto Wooden Golf 27\"x8K Ponjee Umbrella (M-8104)",
+    "shortDescription": "TAG Hills 27\"x8K automatic golf umbrella with classic wooden handle and matching cloth case.",
+    "description": "TAG Hills Exclusive Umbrella M-8104-NON Auto Wooden Golf 27\"x8K crafted with black silver ponjee fabric and windproof fibre frame. Finished with an elegant polished wooden handle, strap, and protective cloth carry case.",
+    "price": 700,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 42,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Umbrellas",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "brandId": "brd_tag_hills",
+    "brand": "TAG Hills",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092936/manamm/products/tag-hills-auto-wooden-golf-27x8k-m8104.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793092936/manamm/products/tag-hills-auto-wooden-golf-27x8k-m8104.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092936/manamm/products/tag-hills-auto-wooden-golf-27x8k-m8104.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "TAG Hills"
+      },
+      {
+        "name": "Category",
+        "value": "Partner Collections & Lifestyle"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Umbrella"
+      },
+      {
+        "name": "Model",
+        "value": "M-8104-NON"
+      },
+      {
+        "name": "Canopy Size",
+        "value": "27\" x 8K"
+      },
+      {
+        "name": "Material",
+        "value": "Ponjee Black Silver Fabric, Fibre Windproof Frame, Wooden Handle"
+      },
+      {
+        "name": "Price",
+        "value": "₹700"
+      },
+      {
+        "name": "Feature",
+        "value": "27\" x 8K Golf Canopy"
+      },
+      {
+        "name": "Feature",
+        "value": "Ponjee Black Silver Fabric"
+      },
+      {
+        "name": "Feature",
+        "value": "Fibre Windproof Frame"
+      },
+      {
+        "name": "Feature",
+        "value": "Classic Wooden Handle with Wrist Strap"
+      },
+      {
+        "name": "Feature",
+        "value": "Matching Fabric Carry Case"
+      },
+      {
+        "name": "Feature",
+        "value": "Automatic Push Button"
+      }
+    ],
+    "tags": [
+      "umbrella",
+      "tag hills",
+      "rainwear",
+      "golf umbrella",
+      "windproof umbrella",
+      "accessories",
+      "partner collections",
+      "outdoor essentials",
+      "m8104non"
+    ],
+    "createdAt": "2026-10-27T09:22:19.186Z",
+    "updatedAt": "2026-10-27T09:22:19.186Z"
+  },
+  {
+    "id": "prod_tag_hills_umbrella_8028",
+    "sku": "MNM-TH-8028",
+    "slug": "tag-hills-golf-auto-30x8k-umbrella-m8028",
+    "name": "TAG Hills Golf Auto 30\"x8K Nylon Windproof Umbrella (M-8028)",
+    "shortDescription": "TAG Hills 30\"x8K automatic windproof golf umbrella with full fibre frame and heavy handle.",
+    "description": "TAG Hills Exclusive Umbrella M-8028-OVV Golf Auto 30\"x8K crafted with premium black silver nylon fabric, full fibre frame, and flexible fibre ribs for heavy-duty windproof performance. Features a robust heavy handle and smooth automatic push-button opening.",
+    "price": 700,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 42,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Umbrellas",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "brandId": "brd_tag_hills",
+    "brand": "TAG Hills",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092935/manamm/products/tag-hills-golf-auto-30x8k-m8028.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793092935/manamm/products/tag-hills-golf-auto-30x8k-m8028.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793092935/manamm/products/tag-hills-golf-auto-30x8k-m8028.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.8,
+    "reviewCount": 24,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "TAG Hills"
+      },
+      {
+        "name": "Category",
+        "value": "Partner Collections & Lifestyle"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Umbrella"
+      },
+      {
+        "name": "Model",
+        "value": "M-8028-OVV-"
+      },
+      {
+        "name": "Canopy Size",
+        "value": "30\" x 8K"
+      },
+      {
+        "name": "Material",
+        "value": "Nylon Black Silver Fabric, Full Fibre Frame & Ribs"
+      },
+      {
+        "name": "Price",
+        "value": "₹700"
+      },
+      {
+        "name": "Feature",
+        "value": "30\" x 8K Large Golf Size"
+      },
+      {
+        "name": "Feature",
+        "value": "Nylon Black Silver Fabric"
+      },
+      {
+        "name": "Feature",
+        "value": "Full Fibre Frame & Fibre Ribs"
+      },
+      {
+        "name": "Feature",
+        "value": "Windproof Design"
+      },
+      {
+        "name": "Feature",
+        "value": "Heavy Handle Grip"
+      },
+      {
+        "name": "Feature",
+        "value": "Automatic Opening"
+      }
+    ],
+    "tags": [
+      "umbrella",
+      "tag hills",
+      "rainwear",
+      "golf umbrella",
+      "windproof umbrella",
+      "accessories",
+      "partner collections",
+      "outdoor essentials",
+      "m8028ovv"
+    ],
+    "createdAt": "2026-10-27T09:22:19.184Z",
+    "updatedAt": "2026-10-27T09:22:19.186Z"
+  },
+  {
     "id": "prod_rimei_magic_hook_01",
     "sku": "MNM-HH-RM01",
     "slug": "rimei-magic-traceless-hook-5kg",
