@@ -1,4 +1,4 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import { Injectable, NotFoundException, BadRequestException } from '@nestjs/common';
 import { PrismaService } from '../prisma/prisma.service';
 import { ProductsService } from '../products/products.service';
 import { OrdersService } from '../orders/orders.service';
@@ -217,6 +217,79 @@ export class AdminService {
         totalPages,
       },
     };
+  }
+
+  async createProduct(adminId: string, data: any) {
+    if (!data.name) {
+      throw new BadRequestException('Product name is required');
+    }
+    if (!data.categoryId) {
+      throw new BadRequestException('Category is required');
+    }
+    if (data.price === undefined || data.price === null || isNaN(Number(data.price))) {
+      throw new BadRequestException('Valid selling price is required');
+    }
+
+    const price = Number(data.price);
+    const compareAtPrice = data.compareAtPrice ? Number(data.compareAtPrice) : null;
+    const stock = data.stock !== undefined ? Math.max(0, Number(data.stock)) : 50;
+    const unit = data.unit?.trim() || '1 Unit';
+    const description = data.description?.trim() || data.name.trim();
+    const shortDescription = data.shortDescription?.trim() || description;
+    const imageUrl = data.imageUrl?.trim() ||
+      'https://res.cloudinary.com/hawhugfs/image/upload/v1792654494/manamm/categories/asset_7.jpg';
+    const images = Array.isArray(data.images) && data.images.length > 0 ? data.images : [imageUrl];
+
+    const slug = data.slug || `${data.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}-${Date.now().toString().slice(-4)}`;
+    const sku = data.sku || `MNM-${Date.now().toString().slice(-6)}`;
+
+    // Ensure category exists
+    let category = await this.prisma.category.findUnique({
+      where: { id: data.categoryId },
+    });
+    if (!category) {
+      category = await this.prisma.category.findFirst();
+    }
+
+    const created = await this.prisma.product.create({
+      data: {
+        name: data.name.trim(),
+        sku,
+        slug,
+        description,
+        shortDescription,
+        categoryId: category ? category.id : data.categoryId,
+        brandId: data.brandId || null,
+        price,
+        compareAtPrice,
+        discountPercentage: compareAtPrice && compareAtPrice > price
+          ? Math.round(((compareAtPrice - price) / compareAtPrice) * 100)
+          : 0,
+        stock,
+        isAvailable: stock > 0 ? (data.isAvailable ?? true) : false,
+        isActive: data.isActive ?? true,
+        isFeatured: data.isFeatured ?? false,
+        imageUrl,
+        images,
+        thumbnail: data.thumbnail || imageUrl,
+        unit,
+        rating: 5.0,
+        reviewCount: 0,
+        attributes: data.attributes || (data.lowStockThreshold ? { lowStockThreshold: Number(data.lowStockThreshold) } : []),
+        tags: data.tags || [],
+      },
+      include: { category: true },
+    });
+
+    await this.logActivity(
+      adminId,
+      'PRODUCT_CREATED',
+      'Product',
+      created.id,
+      `Created product ${created.name}`,
+    );
+
+    return this.productsService.formatProduct(created);
   }
 
   async updateProduct(adminId: string, productId: string, updates: any) {

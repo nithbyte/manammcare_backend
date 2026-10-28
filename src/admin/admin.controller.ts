@@ -78,6 +78,15 @@ export class AdminController {
     );
   }
 
+  @Post('products')
+  @ApiOperation({ summary: 'Admin: Create a new product' })
+  async createProduct(
+    @CurrentUser() admin: any,
+    @Body() productData: any,
+  ) {
+    return this.adminService.createProduct(admin.id, productData);
+  }
+
   @Patch('products/:id')
   @ApiOperation({ summary: 'Update product details, pricing, images, or availability' })
   async updateProduct(
