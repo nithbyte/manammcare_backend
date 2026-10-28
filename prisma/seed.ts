@@ -118,6 +118,7 @@ async function main() {
         role: isAdmin ? Role.ADMIN : Role.CUSTOMER,
         status: (u.status as UserStatus) || UserStatus.ACTIVE,
         profileImage: u.profileImage || u.avatarUrl || null,
+        password,
       },
       create: {
         id: u.id,

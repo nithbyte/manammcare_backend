@@ -63,4 +63,23 @@ export class NotificationsService {
       },
     });
   }
+
+  async registerPushToken(userId: string, pushToken: string) {
+    await this.prisma.user.update({
+      where: { id: userId },
+      data: { pushToken },
+    });
+
+    await this.prisma.notificationPreferences.upsert({
+      where: { userId },
+      update: { pushToken },
+      create: {
+        userId,
+        pushToken,
+      },
+    });
+
+    return { success: true, message: 'Device push token registered successfully.' };
+  }
 }
+

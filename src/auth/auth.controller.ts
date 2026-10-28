@@ -11,7 +11,14 @@ import {
 import { ApiTags, ApiOperation, ApiBearerAuth } from '@nestjs/swagger';
 import { AuthService } from './auth.service';
 import { RegisterDto } from './dto/register.dto';
-import { LoginDto, ForgotPasswordDto, ChangePasswordDto } from './dto/login.dto';
+import {
+  LoginDto,
+  ForgotPasswordDto,
+  ChangePasswordDto,
+  ResetPasswordDto,
+  SendRegisterOtpDto,
+  VerifyRegisterOtpDto,
+} from './dto/login.dto';
 import { JwtAuthGuard } from '../common/guards/jwt-auth.guard';
 import { CurrentUser } from '../common/decorators/current-user.decorator';
 import { PrismaService } from '../prisma/prisma.service';
@@ -31,6 +38,20 @@ export class AuthController {
     return this.authService.register(dto);
   }
 
+  @Post('register/send-otp')
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Send email verification OTP before account creation' })
+  async sendRegisterOtp(@Body() dto: SendRegisterOtpDto) {
+    return this.authService.sendRegisterOtp(dto);
+  }
+
+  @Post('register/verify-otp')
+  @HttpCode(HttpStatus.CREATED)
+  @ApiOperation({ summary: 'Verify email OTP and finalize account registration' })
+  async verifyRegisterOtp(@Body() dto: VerifyRegisterOtpDto) {
+    return this.authService.verifyRegisterOtp(dto);
+  }
+
   @Post('login')
   @HttpCode(HttpStatus.OK)
   @ApiOperation({ summary: 'Login with Email/Phone and Password' })
@@ -40,9 +61,16 @@ export class AuthController {
 
   @Post('forgot-password')
   @HttpCode(HttpStatus.OK)
-  @ApiOperation({ summary: 'Request password reset' })
+  @ApiOperation({ summary: 'Request password reset OTP code via email' })
   async forgotPassword(@Body() dto: ForgotPasswordDto) {
     return this.authService.forgotPassword(dto);
+  }
+
+  @Post('reset-password')
+  @HttpCode(HttpStatus.OK)
+  @ApiOperation({ summary: 'Reset password using verified OTP code' })
+  async resetPassword(@Body() dto: ResetPasswordDto) {
+    return this.authService.resetPassword(dto);
   }
 
   @Get('me')

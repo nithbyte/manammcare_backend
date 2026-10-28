@@ -77,18 +77,25 @@ enum NotificationType {
   ACCOUNT
 }
 
+enum OtpPurpose {
+  PASSWORD_RESET
+  ACCOUNT_VERIFICATION
+}
+
 model User {
-  id           String     @id @default(cuid())
-  email        String     @unique
-  phone        String?
-  password     String
-  fullName     String
-  role         Role       @default(CUSTOMER)
-  status       UserStatus @default(ACTIVE)
-  profileImage String?
-  lastLoginAt  DateTime?
-  createdAt    DateTime   @default(now())
-  updatedAt    DateTime   @updatedAt
+  id              String     @id @default(cuid())
+  email           String     @unique
+  phone           String?
+  password        String
+  fullName        String
+  role            Role       @default(CUSTOMER)
+  status          UserStatus @default(ACTIVE)
+  profileImage    String?
+  pushToken       String?
+  isEmailVerified Boolean    @default(false)
+  lastLoginAt     DateTime?
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
 
   membershipStatus     MembershipStatus @default(CUSTOMER)
   membershipActivatedAt DateTime?
@@ -457,6 +464,7 @@ model NotificationPreferences {
   id                  String   @id @default(cuid())
   userId              String   @unique
   user                User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  pushToken           String?
   pushEnabled         Boolean  @default(true)
   orderUpdates        Boolean  @default(true)
   paymentUpdates      Boolean  @default(true)
@@ -487,11 +495,13 @@ model Referral {
   referralCodeUsed  String
   cycleId           String?
   cycle             NetworkingCycle? @relation(fields: [cycleId], references: [id], onDelete: SetNull)
-  status            String           @default("REGISTERED")
-  activatedAt       DateTime?
-  qualifyingOrderId String?
-  createdAt         DateTime         @default(now())
-  updatedAt         DateTime         @updatedAt
+  status               String           @default("REGISTERED")
+  activatedAt          DateTime?
+  qualifyingOrderId    String?
+  lastInactivityAlert  DateTime?
+  inactivityAlertCount Int              @default(0)
+  createdAt            DateTime         @default(now())
+  updatedAt            DateTime         @updatedAt
 
   @@index([referrerId])
   @@index([referredUserId])
@@ -585,4 +595,17 @@ model BenefitAuditLog {
   @@index([benefitId])
   @@index([adminId])
 }
+
+model AuthOtp {
+  id        String     @id @default(cuid())
+  email     String
+  code      String
+  purpose   OtpPurpose
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime   @default(now())
+
+  @@index([email, purpose])
+}
+
 
