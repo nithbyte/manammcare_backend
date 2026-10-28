@@ -21,15 +21,25 @@ export class ForgotPasswordDto {
 }
 
 export class ChangePasswordDto {
-  @ApiProperty({ example: 'Customer@123' })
+  @ApiProperty({ example: 'Customer@123', required: false })
   @IsString()
-  @IsNotEmpty()
-  currentPass: string;
+  @IsOptional()
+  currentPass?: string;
 
-  @ApiProperty({ example: 'NewSecret@123', minLength: 6 })
+  @ApiProperty({ example: 'Customer@123', required: false })
   @IsString()
-  @MinLength(6)
-  newPass: string;
+  @IsOptional()
+  currentPassword?: string;
+
+  @ApiProperty({ example: 'NewSecret@123', minLength: 6, required: false })
+  @IsString()
+  @IsOptional()
+  newPass?: string;
+
+  @ApiProperty({ example: 'NewSecret@123', minLength: 6, required: false })
+  @IsString()
+  @IsOptional()
+  newPassword?: string;
 }
 
 export class ResetPasswordDto {

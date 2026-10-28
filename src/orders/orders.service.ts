@@ -137,14 +137,23 @@ export class OrdersService {
 
     // 2. Atomic Database Transaction: Order creation + Inventory decrement + Cart clearing
     const order = await this.prisma.$transaction(async (tx) => {
-      // Decrement inventory
+      // Decrement inventory and update availability if depleted
       for (const item of dto.items) {
-        await tx.product.update({
+        const updated = await tx.product.update({
           where: { id: item.productId },
           data: {
             stock: { decrement: item.quantity },
           },
         });
+        if (updated.stock <= 0) {
+          await tx.product.update({
+            where: { id: item.productId },
+            data: {
+              isAvailable: false,
+              stock: Math.max(0, updated.stock),
+            },
+          });
+        }
       }
 
       // Create Order

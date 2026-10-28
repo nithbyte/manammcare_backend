@@ -387,12 +387,22 @@ export class AuthService {
       throw new NotFoundException('User account not found.');
     }
 
-    const isMatch = await bcrypt.compare(dto.currentPass, user.password);
-    if (!isMatch) {
-      throw new BadRequestException('Current password does not match.');
+    const currentPass = dto.currentPass || dto.currentPassword;
+    const newPass = dto.newPass || dto.newPassword;
+
+    if (!currentPass) {
+      throw new BadRequestException('Current password is required.');
+    }
+    if (!newPass || newPass.length < 6) {
+      throw new BadRequestException('New password must be at least 6 characters.');
     }
 
-    const hashedPassword = await bcrypt.hash(dto.newPass, 10);
+    const isMatch = await bcrypt.compare(currentPass, user.password);
+    if (!isMatch) {
+      throw new BadRequestException('Current password is incorrect. Please verify and try again.');
+    }
+
+    const hashedPassword = await bcrypt.hash(newPass, 10);
     await this.prisma.user.update({
       where: { id: userId },
       data: { password: hashedPassword },

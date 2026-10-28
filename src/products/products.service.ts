@@ -23,6 +23,11 @@ export class ProductsService {
       : [imageUrl];
     const thumbnail = this.resolveImageUrl(p.thumbnail || rawImage);
 
+    const lowStockThreshold =
+      typeof p.attributes === 'object' && p.attributes !== null && !Array.isArray(p.attributes)
+        ? (p.attributes.lowStockThreshold ?? 10)
+        : 10;
+
     return {
       id: p.id,
       sku: p.sku || undefined,
@@ -38,13 +43,15 @@ export class ProductsService {
       discountPercentage: p.discountPercentage ?? 0,
       currency: p.currency || 'INR',
       stock: p.stock,
+      lowStockThreshold,
       isAvailable: Boolean(p.isAvailable && p.stock > 0),
+      inStock: Boolean(p.isAvailable && p.stock > 0),
       isFeatured: Boolean(p.isFeatured),
       isActive: Boolean(p.isActive),
       imageUrl,
       images,
       thumbnail,
-      attributes: Array.isArray(p.attributes) ? p.attributes : [],
+      attributes: p.attributes || [],
       tags: Array.isArray(p.tags) ? p.tags : [],
       rating: Number(p.rating ?? 5.0),
       reviewCount: p.reviewCount ?? 0,

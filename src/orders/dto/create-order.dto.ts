@@ -58,6 +58,21 @@ export class ShippingAddressDto {
   @IsString()
   @IsNotEmpty()
   postalCode: string;
+
+  @ApiProperty({ required: false })
+  @IsNumber()
+  @IsOptional()
+  latitude?: number;
+
+  @ApiProperty({ required: false })
+  @IsNumber()
+  @IsOptional()
+  longitude?: number;
+
+  @ApiProperty({ required: false })
+  @IsString()
+  @IsOptional()
+  mapAddress?: string;
 }
 
 export class CreateOrderDto {

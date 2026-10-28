@@ -67,6 +67,37 @@ export class AdminService {
     const totalRevenue = Number(revenueResult._sum?.grandTotal || 0);
     const recentOrders = recentOrdersRaw.map((o) => this.ordersService.formatOrder(o));
 
+    // Inventory & Low Stock Alerts
+    const defaultLowStockThreshold = 10;
+    const [outOfStockCount, lowStockCount, lowStockProductsRaw] = await Promise.all([
+      this.prisma.product.count({
+        where: {
+          isActive: true,
+          OR: [{ stock: { lte: 0 } }, { isAvailable: false }],
+        },
+      }),
+      this.prisma.product.count({
+        where: {
+          isActive: true,
+          stock: { gt: 0, lte: defaultLowStockThreshold },
+        },
+      }),
+      this.prisma.product.findMany({
+        where: {
+          isActive: true,
+          stock: { gt: 0, lte: defaultLowStockThreshold },
+        },
+        take: 10,
+        select: {
+          id: true,
+          name: true,
+          stock: true,
+          unit: true,
+          imageUrl: true,
+        },
+      }),
+    ]);
+
     // Top products
     const topProductsRaw = await this.prisma.product.findMany({
       where: { isActive: true },
@@ -91,6 +122,9 @@ export class AdminService {
       completedOrders,
       cancelledOrders,
       totalRevenue,
+      outOfStockCount,
+      lowStockCount,
+      lowStockProducts: lowStockProductsRaw,
       recentOrders,
       topProducts,
     };
@@ -194,13 +228,37 @@ export class AdminService {
       throw new NotFoundException(`Product ${productId} not found`);
     }
 
+    // Merge lowStockThreshold into attributes
+    let updatedAttributes = product.attributes;
+    if (updates.lowStockThreshold !== undefined) {
+      const currentAttrs =
+        typeof product.attributes === 'object' && product.attributes !== null && !Array.isArray(product.attributes)
+          ? { ...product.attributes }
+          : {};
+      currentAttrs.lowStockThreshold = Number(updates.lowStockThreshold);
+      updatedAttributes = currentAttrs;
+    } else if (updates.attributes !== undefined) {
+      updatedAttributes = updates.attributes;
+    }
+
+    const hasNewStock = updates.stock !== undefined;
+    const numStock = hasNewStock ? Math.max(0, Number(updates.stock)) : product.stock;
+    let newIsAvailable: boolean | undefined = undefined;
+    if (updates.isAvailable !== undefined) {
+      newIsAvailable = Boolean(updates.isAvailable);
+    }
+    if (hasNewStock && numStock <= 0) {
+      newIsAvailable = false;
+    }
+
     const updated = await this.prisma.product.update({
       where: { id: productId },
       data: {
-        ...(updates.stock !== undefined ? { stock: Number(updates.stock), isAvailable: Number(updates.stock) > 0 } : {}),
+        ...(hasNewStock ? { stock: numStock } : {}),
+        ...(newIsAvailable !== undefined ? { isAvailable: newIsAvailable } : {}),
+        ...(updatedAttributes !== undefined ? { attributes: updatedAttributes } : {}),
         ...(updates.price !== undefined ? { price: updates.price } : {}),
         ...(updates.compareAtPrice !== undefined ? { compareAtPrice: updates.compareAtPrice } : {}),
-        ...(updates.isAvailable !== undefined ? { isAvailable: Boolean(updates.isAvailable) } : {}),
         ...(updates.isActive !== undefined ? { isActive: Boolean(updates.isActive) } : {}),
         ...(updates.isFeatured !== undefined ? { isFeatured: Boolean(updates.isFeatured) } : {}),
         ...(updates.imageUrl !== undefined ? { imageUrl: updates.imageUrl } : {}),
@@ -210,7 +268,6 @@ export class AdminService {
         ...(updates.unit !== undefined ? { unit: updates.unit } : {}),
         ...(updates.description !== undefined ? { description: updates.description } : {}),
         ...(updates.shortDescription !== undefined ? { shortDescription: updates.shortDescription } : {}),
-        ...(updates.attributes !== undefined ? { attributes: updates.attributes } : {}),
         ...(updates.tags !== undefined ? { tags: updates.tags } : {}),
       },
       include: { category: true },
