@@ -3,6 +3,7 @@ import {
   Get,
   Post,
   Patch,
+  Delete,
   Body,
   Param,
   Query,
@@ -95,6 +96,15 @@ export class AdminController {
     @Body() updates: any,
   ) {
     return this.adminService.updateProduct(admin.id, productId, updates);
+  }
+
+  @Delete('products/:id')
+  @ApiOperation({ summary: 'Admin: Delete product and related records' })
+  async deleteProduct(
+    @CurrentUser() admin: any,
+    @Param('id') productId: string,
+  ) {
+    return this.adminService.deleteProduct(admin.id, productId);
   }
 
   @Post('products/upload-image')

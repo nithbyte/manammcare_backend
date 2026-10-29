@@ -357,6 +357,42 @@ export class AdminService {
     return this.productsService.formatProduct(updated);
   }
 
+  async deleteProduct(adminId: string, productId: string) {
+    const product = await this.prisma.product.findUnique({
+      where: { id: productId },
+    });
+
+    if (!product) {
+      throw new NotFoundException(`Product ${productId} not found`);
+    }
+
+    try {
+      await this.prisma.cartItem.deleteMany({ where: { productId } });
+    } catch {}
+
+    try {
+      await this.prisma.productVariant.deleteMany({ where: { productId } });
+    } catch {}
+
+    await this.prisma.product.delete({
+      where: { id: productId },
+    });
+
+    await this.logActivity(
+      adminId,
+      'PRODUCT_DELETED',
+      'Product',
+      productId,
+      `Deleted product ${product.name}`,
+    );
+
+    return {
+      success: true,
+      message: `Product ${product.name} deleted successfully`,
+      data: { id: productId },
+    };
+  }
+
   async syncCatalog(adminId: string, productsList?: any[]) {
     const list = Array.isArray(productsList) && productsList.length > 0 ? productsList : [];
     let upsertCount = 0;
