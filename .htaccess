@@ -1,24 +1,71 @@
-# =====================================================================
-# Hostinger LiteSpeed / Apache Configuration for Node.js Applications
-# =====================================================================
+# ==============================================================================
+# MANAMM CARE BACKEND API - APACHE / LITESPEED HOSTINGER CONFIGURATION
+# Production NestJS REST API Configuration
+# ==============================================================================
 
-<IfModule mod_rewrite.c>
-  RewriteEngine On
-
-  # Pass Authorization header
-  RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-
-  # If running behind Hostinger Passenger, Passenger handles routing directly.
-  # If running on Hostinger Cloud/VPS with reverse proxy, proxy requests to internal port:
-  # RewriteRule ^(.*)$ http://127.0.0.1:5000/$1 [P,L]
+# ------------------------------------------------------------------------------
+# 1. AUTHENTICATION & HEADERS FOR CGI / PROXY
+# ------------------------------------------------------------------------------
+# Pass Authorization header to Node.js / Passenger / FastCGI
+<IfModule mod_authz_core.c>
+    CGIPassAuth On
 </IfModule>
 
-# Prevent directory browsing
-Options -Indexes
+<IfModule mod_rewrite.c>
+    RewriteEngine On
 
-# Security headers fallback
+    # 1. Force HTTPS
+    RewriteCond %{HTTPS} off
+    RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+    # 2. Pass Authorization header into environment variable
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+    # 3. If running behind Hostinger Passenger, Passenger handles routing directly.
+    # If running behind internal reverse proxy (e.g. port 5000):
+    # RewriteCond %{REQUEST_FILENAME} !-f
+    # RewriteRule ^(.*)$ http://127.0.0.1:5000/$1 [P,L]
+</IfModule>
+
+# ------------------------------------------------------------------------------
+# 2. DIRECTORY & FILE ACCESS CONTROL
+# ------------------------------------------------------------------------------
+Options -Indexes
+Options -MultiViews
+
+# Block dotfiles (.env, .git, etc.) except .well-known
+<IfModule mod_rewrite.c>
+    RewriteRule "(^|/)\.(?!well-known)" - [F]
+</IfModule>
+
+# Block access to sensitive source code, config, database and credential files
+<FilesMatch "(^#.*#|\.(bak|conf|dist|fla|in[ci]|log|psd|sh|sql|sw[op]|env|env\..*|git.*|gitignore|lock|yml|yaml|md|ts|prisma)|(package|package-lock|tsconfig|nest-cli)\.json)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Specifically protect .htaccess and .htpasswd
+<Files ~ "^.*\.([Hh][Tt][AaPp])">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order allow,deny
+        Deny from all
+    </IfModule>
+</Files>
+
+# ------------------------------------------------------------------------------
+# 3. SECURITY HEADERS FALLBACK
+# ------------------------------------------------------------------------------
 <IfModule mod_headers.c>
-  Header set X-Content-Type-Options "nosniff"
-  Header set X-Frame-Options "SAMEORIGIN"
-  Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>
