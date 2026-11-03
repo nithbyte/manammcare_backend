@@ -8854,5 +8854,14 @@
     "logo": "https://res.cloudinary.com/hawhugfs/image/upload/v1793000106/manamm/products/gracedaily/gd_7674.png",
     "isActive": true,
     "productCount": 138
+  },
+  {
+    "id": "brd_partner_collections",
+    "name": "MANAMM Partner Studio",
+    "slug": "partner-collections",
+    "description": "Curated partner collection dresses and artisanal garments.",
+    "logo": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713914/manamm/products/prod_drs_43_pp16.jpg",
+    "isActive": true,
+    "productCount": 47
   }
 ]

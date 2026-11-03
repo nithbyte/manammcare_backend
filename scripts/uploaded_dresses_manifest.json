@@ -1,0 +1,32 @@
+{
+  "prod_drs_43": {
+    "sku": "PP16",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713914/manamm/products/prod_drs_43_pp16.jpg",
+    "version": 1793713914,
+    "publicId": "manamm/products/prod_drs_43_pp16"
+  },
+  "prod_drs_44": {
+    "sku": "PP17",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713916/manamm/products/prod_drs_44_pp17.jpg",
+    "version": 1793713916,
+    "publicId": "manamm/products/prod_drs_44_pp17"
+  },
+  "prod_drs_45": {
+    "sku": "PP18",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713917/manamm/products/prod_drs_45_pp18.jpg",
+    "version": 1793713917,
+    "publicId": "manamm/products/prod_drs_45_pp18"
+  },
+  "prod_drs_46": {
+    "sku": "PP19",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713918/manamm/products/prod_drs_46_pp19.jpg",
+    "version": 1793713918,
+    "publicId": "manamm/products/prod_drs_46_pp19"
+  },
+  "prod_drs_47": {
+    "sku": "PP20",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713919/manamm/products/prod_drs_47_pp20.jpg",
+    "version": 1793713919,
+    "publicId": "manamm/products/prod_drs_47_pp20"
+  }
+}

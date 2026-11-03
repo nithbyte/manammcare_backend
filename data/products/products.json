@@ -462773,5 +462773,469 @@
     ],
     "createdAt": "2026-10-26T12:00:00.000Z",
     "updatedAt": "2026-10-26T12:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_43",
+    "sku": "MNM-DRS-43",
+    "slug": "lime-green-white-floral-kurta-set",
+    "name": "Lime Green & White Floral Kurta Set",
+    "shortDescription": "Lime Green & White Floral Kurta Set with lace-trimmed neckline, printed dupatta & pants - Premium Partner Collection, ₹740 special rate.",
+    "description": "Lime Green & White Floral Kurta Set is part of the MANAMM Partner Collection. Tailored from premium soft breathable fabric with neat stitching and vibrant color-fast dyes. Features 3/4 sleeves, lace-trimmed neckline, printed floral kurta, matching pants, printed dupatta, and complimentary flower clip combo. Available in sizes 38, 42, and 44.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713914/manamm/products/prod_drs_43_pp16.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793713914/manamm/products/prod_drs_43_pp16.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713914/manamm/products/prod_drs_43_pp16.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 18,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP16"
+      },
+      {
+        "name": "Fabric",
+        "value": "Premium Cotton Rayon Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Kurta, Pants, Dupatta, Clip Combo"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "38, 42, 44"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "ethnic-wear",
+      "740-offer",
+      "pp16"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_44",
+    "sku": "MNM-DRS-44",
+    "slug": "peacock-blue-organza-kurta-set",
+    "name": "Peacock Blue Organza Kurta Set",
+    "shortDescription": "Peacock Blue Organza Kurta Set with floral printed organza dupatta - Premium Partner Collection, ₹740 special rate.",
+    "description": "Peacock Blue Organza Kurta Set is part of the MANAMM Partner Collection. Features 3/4 sleeves, V-neck with embroidered trim, exquisite white motif embroidery, floral printed organza dupatta, matching pants, and complimentary clip combo. Available in sizes M, L, XL, XXXL.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713916/manamm/products/prod_drs_44_pp17.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793713916/manamm/products/prod_drs_44_pp17.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713916/manamm/products/prod_drs_44_pp17.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 22,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP17"
+      },
+      {
+        "name": "Fabric",
+        "value": "Chanderi Organza Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Kurta, Pants, Organza Dupatta, Clip Combo"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "M, L, XL, XXXL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "organza",
+      "ethnic-wear",
+      "740-offer",
+      "pp17"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_45",
+    "sku": "MNM-DRS-45",
+    "slug": "purple-organza-kurta-set",
+    "name": "Purple Organza Kurta Set",
+    "shortDescription": "Purple Organza Kurta Set with white floral embroidery & organza dupatta - Premium Partner Collection, ₹740 special rate.",
+    "description": "Purple Organza Kurta Set is part of the MANAMM Partner Collection. Features 3/4 sleeves, V-neck with embroidered trim, intricate white floral embroidery, embroidered organza dupatta, matching pants, and complimentary purple floral clip combo. Available in sizes M, L, XL, XXL.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713917/manamm/products/prod_drs_45_pp18.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793713917/manamm/products/prod_drs_45_pp18.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713917/manamm/products/prod_drs_45_pp18.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 25,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP18"
+      },
+      {
+        "name": "Fabric",
+        "value": "Chanderi Organza Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Kurta, Pants, Embroidered Organza Dupatta, Clip Combo"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "M, L, XL, XXL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "organza",
+      "ethnic-wear",
+      "740-offer",
+      "pp18"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_46",
+    "sku": "MNM-DRS-46",
+    "slug": "sky-blue-floral-anarkali-set",
+    "name": "Sky Blue Floral Anarkali Set",
+    "shortDescription": "Sky Blue Floral Anarkali Set with flared silhouette, lace hem & dupatta - Premium Partner Collection, ₹740 special rate.",
+    "description": "Sky Blue Floral Anarkali Set is part of the MANAMM Partner Collection. Features 3/4 sleeves, flared anarkali kurta, round neck with yoke detail, delicate lace hem, printed dupatta, and matching pants. Gracefully draped and airy. Available in sizes 38, 40.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Anarkali Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713918/manamm/products/prod_drs_46_pp19.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793713918/manamm/products/prod_drs_46_pp19.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713918/manamm/products/prod_drs_46_pp19.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 20,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Anarkali Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP19"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Flared Anarkali Kurta, Pants, Printed Dupatta"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "38, 40"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "anarkali-set",
+      "anarkali",
+      "ethnic-wear",
+      "740-offer",
+      "pp19"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_47",
+    "sku": "MNM-DRS-47",
+    "slug": "navy-blue-floral-anarkali-set",
+    "name": "Navy Blue Floral Anarkali Set",
+    "shortDescription": "Navy Blue Floral Anarkali Set with embroidered yoke & lace hem - Premium Partner Collection, ₹740 special rate.",
+    "description": "Navy Blue Floral Anarkali Set is part of the MANAMM Partner Collection. Features 3/4 sleeves, flared anarkali silhouette, embroidered yoke, lace hem, printed dupatta, and matching pants. Rich indigo blue floral motifs with comfortable tailoring. Available in sizes 40, XL.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Anarkali Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713919/manamm/products/prod_drs_47_pp20.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793713919/manamm/products/prod_drs_47_pp20.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713919/manamm/products/prod_drs_47_pp20.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 27,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Anarkali Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP20"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Flared Anarkali Kurta, Pants, Printed Dupatta"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "40, XL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "anarkali-set",
+      "anarkali",
+      "ethnic-wear",
+      "740-offer",
+      "pp20"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
   }
 ]
