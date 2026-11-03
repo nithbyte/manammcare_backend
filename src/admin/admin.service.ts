@@ -41,6 +41,7 @@ export class AdminService {
       cancelledOrders,
       recentOrdersRaw,
       revenueResult,
+      recentUsersRaw,
     ] = await Promise.all([
       this.prisma.user.count({ where: { role: Role.CUSTOMER } }),
       this.prisma.product.count({ where: { isActive: true } }),
@@ -61,6 +62,25 @@ export class AdminService {
         _sum: {
           grandTotal: true,
         },
+      }),
+      this.prisma.user.findMany({
+        where: { role: Role.CUSTOMER },
+        select: {
+          id: true,
+          email: true,
+          phone: true,
+          fullName: true,
+          role: true,
+          status: true,
+          membershipStatus: true,
+          membershipActivatedAt: true,
+          referralCode: true,
+          profileImage: true,
+          createdAt: true,
+          lastLoginAt: true,
+        },
+        orderBy: { createdAt: 'desc' },
+        take: 10,
       }),
     ]);
 
@@ -126,6 +146,7 @@ export class AdminService {
       lowStockCount,
       lowStockProducts: lowStockProductsRaw,
       recentOrders,
+      recentUsers: recentUsersRaw,
       topProducts,
     };
   }
