@@ -28,5 +28,15 @@
     "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793713919/manamm/products/prod_drs_47_pp20.jpg",
     "version": 1793713919,
     "publicId": "manamm/products/prod_drs_47_pp20"
+  },
+  "prod_drs_48": {
+    "sku": "PP14",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714516/manamm/products/prod_drs_48_pp14.jpg",
+    "publicId": "manamm/products/prod_drs_48_pp14"
+  },
+  "prod_drs_49": {
+    "sku": "PP15",
+    "url": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714519/manamm/products/prod_drs_49_pp15.jpg",
+    "publicId": "manamm/products/prod_drs_49_pp15"
   }
 }

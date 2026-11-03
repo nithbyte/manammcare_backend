@@ -463237,5 +463237,197 @@
     ],
     "createdAt": "2026-11-03T10:00:00.000Z",
     "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_48",
+    "sku": "MNM-DRS-48",
+    "slug": "pink-white-floral-kurta-set",
+    "name": "Pink & White Floral Kurta Set",
+    "shortDescription": "Pink & White Floral Kurta Set with striped dupatta & pants - Premium Partner Collection, ₹740 special rate.",
+    "description": "Pink & White Floral Kurta Set is part of the MANAMM Partner Collection. Features 3/4 sleeves, V-neck with lace neckline, delicate white floral prints, striped matching pants, and coordinating striped dupatta with complimentary plumeria clip combo. Tailored from soft breathable fabric for all-day comfort. Available in sizes M, L, XXL.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714516/manamm/products/prod_drs_48_pp14.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793714516/manamm/products/prod_drs_48_pp14.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714516/manamm/products/prod_drs_48_pp14.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 19,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP14"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Kurta, Striped Pants, Striped Dupatta, Clip Combo"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Neckline",
+        "value": "V-neck with Lace Neckline"
+      },
+      {
+        "name": "Sizes",
+        "value": "M, L, XXL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "ethnic-wear",
+      "740-offer",
+      "pp14"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_49",
+    "sku": "MNM-DRS-49",
+    "slug": "yellow-green-white-floral-kurta-set",
+    "name": "Yellow, Green & White Floral Kurta Set",
+    "shortDescription": "Yellow, Green & White Floral Kurta Set with leaf-print dupatta & pants - Premium Partner Collection, ₹740 special rate.",
+    "description": "Yellow, Green & White Floral Kurta Set is part of the MANAMM Partner Collection. Features 3/4 sleeves, V-neck with printed trim, bold floral print kurta, leaf-print dupatta, matching pants, and complimentary plumeria clip set. Tailored from soft breathable fabric with vibrant color-fast dyes. Available in sizes 40, 44.",
+    "price": 740,
+    "compareAtPrice": 1299,
+    "mrp": 1299,
+    "discountPercentage": 43,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714519/manamm/products/prod_drs_49_pp15.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793714519/manamm/products/prod_drs_49_pp15.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714519/manamm/products/prod_drs_49_pp15.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 21,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹740"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP15"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Bold Floral Kurta, Leaf-Print Pants, Leaf-Print Dupatta, Clip Combo"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Neckline",
+        "value": "V-neck with Printed Trim"
+      },
+      {
+        "name": "Sizes",
+        "value": "40, 44"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "ethnic-wear",
+      "740-offer",
+      "pp15"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
   }
 ]
