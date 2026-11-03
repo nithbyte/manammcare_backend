@@ -463429,5 +463429,297 @@
     ],
     "createdAt": "2026-11-03T10:00:00.000Z",
     "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_50",
+    "sku": "MNM-DRS-50",
+    "slug": "ikat-print-kurta-palazzo-set",
+    "name": "Ikat Print Kurta & Palazzo Set",
+    "shortDescription": "Peach, grey and cream ikat-inspired print straight-cut kurta with matching straight palazzo - Premium Partner Collection, ₹650 special rate.",
+    "description": "Ikat Print Kurta & Palazzo Set is part of the MANAMM Partner Collection. Features mandarin collar, front button placket, three-quarter sleeves, straight-cut kurta with side slits, and matching printed palazzo pants. Soft, breathable, and gracefully tailored. Available in plus sizes XXL, XXXL, 4XL, 5XL.",
+    "price": 650,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 46,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714949/manamm/products/prod_drs_50_pp11.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793714949/manamm/products/prod_drs_50_pp11.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714949/manamm/products/prod_drs_50_pp11.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 16,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹650"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP11"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "Straight Kurta, Matching Palazzo Pants"
+      },
+      {
+        "name": "Collar",
+        "value": "Mandarin Collar with Front Button Placket"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "XXL, XXXL, 4XL, 5XL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "palazzo",
+      "plus-size",
+      "ethnic-wear",
+      "650-offer",
+      "pp11"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_51",
+    "sku": "MNM-DRS-51",
+    "slug": "brown-floral-kurta-set",
+    "name": "Brown Floral Kurta Set",
+    "shortDescription": "Brown Floral Kurta Set with A-line fit & straight pants - Premium Partner Collection, ₹650 special rate.",
+    "description": "Brown Floral Kurta Set is part of the MANAMM Partner Collection. Features A-line fit kurta with floral prints, mandarin collar, front button placket, 3/4 sleeves, and matching straight pants. Tailored from soft breathable fabric for everyday comfort. Available in plus sizes XXL, XXXL, 4XL, 5XL.",
+    "price": 650,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 46,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714952/manamm/products/prod_drs_51_pp12.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793714952/manamm/products/prod_drs_51_pp12.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714952/manamm/products/prod_drs_51_pp12.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹650"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP12"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "A-Line Kurta, Straight Pants"
+      },
+      {
+        "name": "Collar",
+        "value": "Mandarin Collar with Front Button Placket"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "XXL, XXXL, 4XL, 5XL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "plus-size",
+      "ethnic-wear",
+      "650-offer",
+      "pp12"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_drs_52",
+    "sku": "MNM-DRS-52",
+    "slug": "white-printed-kurta-set",
+    "name": "White Printed Kurta Set",
+    "shortDescription": "White Printed Kurta Set with A-line fit & straight pants - Premium Partner Collection, ₹650 special rate.",
+    "description": "White Printed Kurta Set is part of the MANAMM Partner Collection. Features elegant white and lavender floral prints, A-line fit, mandarin collar, front button placket, 3/4 sleeves, and matching straight pants. Tailored from soft breathable fabric for casual and semi-formal wear. Available in plus sizes XXL, XXXL, 4XL.",
+    "price": 650,
+    "compareAtPrice": 1199,
+    "mrp": 1199,
+    "discountPercentage": 46,
+    "currency": "INR",
+    "category": "Dresses",
+    "categoryId": "cat_dresses",
+    "subcategory": "Kurta Sets",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714955/manamm/products/prod_drs_52_pp13.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793714955/manamm/products/prod_drs_52_pp13.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793714955/manamm/products/prod_drs_52_pp13.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 50,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 28,
+    "unit": "1 Set",
+    "attributes": [
+      {
+        "name": "Category",
+        "value": "Dresses"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Kurta Sets"
+      },
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Price",
+        "value": "₹650"
+      },
+      {
+        "name": "Catalog Code",
+        "value": "PP13"
+      },
+      {
+        "name": "Fabric",
+        "value": "Breathable Cotton Blend"
+      },
+      {
+        "name": "Set Includes",
+        "value": "A-Line Kurta, Straight Pants"
+      },
+      {
+        "name": "Collar",
+        "value": "Mandarin Collar with Front Button Placket"
+      },
+      {
+        "name": "Sleeves",
+        "value": "3/4 Sleeves"
+      },
+      {
+        "name": "Sizes",
+        "value": "XXL, XXXL, 4XL"
+      },
+      {
+        "name": "Wash Care",
+        "value": "Gentle Machine Wash"
+      }
+    ],
+    "tags": [
+      "dresses",
+      "women-fashion",
+      "partner",
+      "partner collection",
+      "kurta-set",
+      "plus-size",
+      "ethnic-wear",
+      "650-offer",
+      "pp13"
+    ],
+    "createdAt": "2026-11-03T10:00:00.000Z",
+    "updatedAt": "2026-11-03T10:00:00.000Z"
   }
 ]
