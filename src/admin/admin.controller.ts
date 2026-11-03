@@ -12,6 +12,7 @@ import {
   UploadedFile,
   BadRequestException,
 } from '@nestjs/common';
+
 import { ApiTags, ApiBearerAuth, ApiOperation, ApiConsumes } from '@nestjs/swagger';
 import { FileInterceptor } from '@nestjs/platform-express';
 import { diskStorage } from 'multer';
@@ -35,7 +36,7 @@ export class AdminController {
     private adminService: AdminService,
     private networkingService: NetworkingService,
     private cloudinaryService: CloudinaryService,
-  ) {}
+  ) { }
 
   @Get('dashboard')
   @ApiOperation({ summary: 'Aggregated metrics and key operational KPIs' })
