@@ -463721,5 +463721,4577 @@
     ],
     "createdAt": "2026-11-03T10:00:00.000Z",
     "updatedAt": "2026-11-03T10:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_01",
+    "sku": "MNM-ACC-01",
+    "slug": "manamm-tropical-plumeria-blossom-hair-claw-clips-12pcs",
+    "name": "MANAMM Tropical Plumeria Blossom Hair Claw Clips (Pack of 12)",
+    "shortDescription": "MANAMM Tropical Plumeria Blossom Hair Claw Clips (Pack of 12) - Special promotional price ₹199 only.",
+    "description": "MANAMM Tropical Plumeria Blossom Hair Claw Clips (Pack of 12). Delightful tropical Hawaiian plumeria blossom hair claw clips featuring soft gradient petals in assorted pastel and vibrant colors. Durable spring grip ensures secure, slip-free all-day hold. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717118/manamm/products/prod_acc_01.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717118/manamm/products/prod_acc_01.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717118/manamm/products/prod_acc_01.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 12",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "12 Pieces Hair Claw Clips Card Set"
+      },
+      {
+        "name": "Material",
+        "value": "Durable Acrylic Resin & Alloy Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Assorted Gradient (Blush Pink, Ocean Teal, Coral, Violet)"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "hair-claw-clips",
+      "plumeria",
+      "flower-clips",
+      "hair-accessories",
+      "hawaiian",
+      "women-accessories",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_02",
+    "sku": "MNM-ACC-02",
+    "slug": "manamm-ombre-gradient-plumeria-hair-claw-clips-8pcs",
+    "name": "MANAMM Ombre Gradient Plumeria Hair Claw Clips Set (8 Pcs)",
+    "shortDescription": "MANAMM Ombre Gradient Plumeria Hair Claw Clips Set (8 Pcs) - Special promotional price ₹199 only.",
+    "description": "MANAMM Ombre Gradient Plumeria Hair Claw Clips Set (8 Pcs). Charming ombre gradient Hawaiian frangipani flower claw clips in pink, lavender, and neutral dual tones. Perfect for beach vacations, casual styling, and everyday elegance. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717125/manamm/products/prod_acc_02.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717125/manamm/products/prod_acc_02.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717125/manamm/products/prod_acc_02.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 8",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "8 Pieces Hair Claw Clips Pouch Set"
+      },
+      {
+        "name": "Material",
+        "value": "Matte Acrylic & Metal Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Ombre Multicolor (Pink, Mocha, Lilac, Slate)"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "frangipani",
+      "hair-clips",
+      "ombre",
+      "hair-claw",
+      "hair-accessories",
+      "beachwear",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_03",
+    "sku": "MNM-ACC-03",
+    "slug": "manamm-silver-luster-dual-flower-cat-eye-crystal-bangle",
+    "name": "MANAMM Silver Luster Dual Flower Cat-Eye Crystal Bangle",
+    "shortDescription": "MANAMM Silver Luster Dual Flower Cat-Eye Crystal Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Luster Dual Flower Cat-Eye Crystal Bangle. Handcrafted silver-finish luxury bangle adorned with twin blooming floral motifs featuring luminous cat-eye cabochon petals and a pave crystal encrusted rim. Secure spring-hinge clasp. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717134/manamm/products/prod_acc_03.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717134/manamm/products/prod_acc_03.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717134/manamm/products/prod_acc_03.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium-Plated Alloy, Cat-Eye Stone, Cubic Zirconia"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Moonstone White"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "bangle",
+      "bracelet",
+      "silver-jewelry",
+      "cat-eye-stone",
+      "crystal-bangle",
+      "fashion-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_04",
+    "sku": "MNM-ACC-04",
+    "slug": "manamm-rose-gold-oval-cat-eye-filigree-accent-bangle",
+    "name": "MANAMM Rose Gold Oval Cat-Eye Filigree Accent Bangle",
+    "shortDescription": "MANAMM Rose Gold Oval Cat-Eye Filigree Accent Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Oval Cat-Eye Filigree Accent Bangle. Sophisticated rose gold-plated bangle highlighting an exquisite oval cat-eye gemstone flanked by delicate swirling filigree and micro-pave crystal accents. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717138/manamm/products/prod_acc_04.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717138/manamm/products/prod_acc_04.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717138/manamm/products/prod_acc_04.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Brass, Cat-Eye Cabochon, Crystal Pavé"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Peach Moonstone"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "rose-gold-bangle",
+      "filigree-bracelet",
+      "cat-eye-gemstone",
+      "luxury-jewelry",
+      "festive-wear",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_05",
+    "sku": "MNM-ACC-05",
+    "slug": "manamm-silver-celestial-halo-solitaire-cat-eye-bangle",
+    "name": "MANAMM Silver Celestial Halo Solitaire Cat-Eye Bangle",
+    "shortDescription": "MANAMM Silver Celestial Halo Solitaire Cat-Eye Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Celestial Halo Solitaire Cat-Eye Bangle. Modern minimalist silver-plated bangle with a circular halo centerpiece encircling a serene moonlit cat-eye stone, complete with dual-row crystal band detailing. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717151/manamm/products/prod_acc_05.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717151/manamm/products/prod_acc_05.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717151/manamm/products/prod_acc_05.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Alloy, Cat-Eye Cabochon, Cubic Zirconia"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Pearl Grey"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "halo-bangle",
+      "solitaire-bracelet",
+      "silver-finish",
+      "cat-eye-stone",
+      "party-wear",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_06",
+    "sku": "MNM-ACC-06",
+    "slug": "manamm-rose-gold-dual-marquise-petal-crystal-bangle",
+    "name": "MANAMM Rose Gold Dual Marquise Petal Crystal Bangle",
+    "shortDescription": "MANAMM Rose Gold Dual Marquise Petal Crystal Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Dual Marquise Petal Crystal Bangle. Chic bypass cuff bangle finished in warm rose gold with twin marquise-cut cat-eye stones embraced by sparkling crystal-lined flowing branches. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717165/manamm/products/prod_acc_06.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717165/manamm/products/prod_acc_06.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717165/manamm/products/prod_acc_06.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, Marquise Cat-Eye Stone, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Champagne"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "marquise-stone",
+      "rose-gold-bracelet",
+      "botanical-jewelry",
+      "designer-bangle",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_07",
+    "sku": "MNM-ACC-07",
+    "slug": "manamm-silver-enchanted-vine-leaf-cat-eye-bangle",
+    "name": "MANAMM Silver Enchanted Vine Leaf Cat-Eye Bangle",
+    "shortDescription": "MANAMM Silver Enchanted Vine Leaf Cat-Eye Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Enchanted Vine Leaf Cat-Eye Bangle. Intricately sculpted botanical vine bracelet featuring sweeping silver scrolls, shimmering cubic zirconia accents, and pearlescent cat-eye teardrop gems. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717180/manamm/products/prod_acc_07.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717180/manamm/products/prod_acc_07.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717180/manamm/products/prod_acc_07.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium-Plated Alloy, Cat-Eye Teardrop Gems, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Opalescent White"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "vine-bracelet",
+      "nature-inspired",
+      "silver-bangle",
+      "leaf-motif",
+      "crystal-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_08",
+    "sku": "MNM-ACC-08",
+    "slug": "manamm-luxury-silk-satin-soft-hair-scrunchies-6pcs",
+    "name": "MANAMM Luxury Silk Satin Soft Hair Scrunchies (Pack of 6)",
+    "shortDescription": "MANAMM Luxury Silk Satin Soft Hair Scrunchies (Pack of 6) - Special promotional price ₹199 only.",
+    "description": "MANAMM Luxury Silk Satin Soft Hair Scrunchies (Pack of 6). Ultra-gentle premium silk satin hair scrunchies designed to prevent hair breakage and creasing. Comes in an assorted palette of dusty rose, sage green, mauve, burgundy, and ivory. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717191/manamm/products/prod_acc_08.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717191/manamm/products/prod_acc_08.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717191/manamm/products/prod_acc_08.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 6",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Scrunchies"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "6 Pieces Silk Satin Scrunchies Pack"
+      },
+      {
+        "name": "Material",
+        "value": "Mulberry-Feel Silk Satin Fabric, Premium Stretch Elastic"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Assorted Pastel & Jewel Tones"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "silk-scrunchies",
+      "satin-hair-ties",
+      "anti-breakage",
+      "hair-care",
+      "hair-accessories",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_09",
+    "sku": "MNM-ACC-09",
+    "slug": "manamm-rose-gold-rosette-cluster-shimmer-bangle",
+    "name": "MANAMM Rose Gold Rosette Cluster Shimmer Bangle",
+    "shortDescription": "MANAMM Rose Gold Rosette Cluster Shimmer Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Rosette Cluster Shimmer Bangle. Radiant rose gold cuff adorned with a shimmering cluster of floral crystal florets and bezel-set cat-eye cabochons, radiating graceful festive charm. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717195/manamm/products/prod_acc_09.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717195/manamm/products/prod_acc_09.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717195/manamm/products/prod_acc_09.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Brass, Gemstone Cabochons, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "rosette-bangle",
+      "cluster-bracelet",
+      "rose-gold",
+      "wedding-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_10",
+    "sku": "MNM-ACC-10",
+    "slug": "manamm-rose-gold-trinity-trio-cat-eye-bangle",
+    "name": "MANAMM Rose Gold Trinity Trio Cat-Eye Bangle",
+    "shortDescription": "MANAMM Rose Gold Trinity Trio Cat-Eye Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Trinity Trio Cat-Eye Bangle. Contemporary three-stone graduated bangle in rose gold plating with luminous opalescent cat-eye gems encased in pave crystal bezels. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717201/manamm/products/prod_acc_10.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717201/manamm/products/prod_acc_10.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717201/manamm/products/prod_acc_10.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, 3 Graduated Cat-Eye Stones, Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Blush Stone"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "trinity-bangle",
+      "three-stone",
+      "rose-gold-bracelet",
+      "modern-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_11",
+    "sku": "MNM-ACC-11",
+    "slug": "manamm-rose-gold-serpentine-dual-teardrop-bangle",
+    "name": "MANAMM Rose Gold Serpentine Dual Teardrop Bangle",
+    "shortDescription": "MANAMM Rose Gold Serpentine Dual Teardrop Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Serpentine Dual Teardrop Bangle. Graceful wave silhouette bangle featuring bypass curved branches set with double teardrop cat-eye stones and sparkling micro-crystals. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717211/manamm/products/prod_acc_11.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717211/manamm/products/prod_acc_11.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717211/manamm/products/prod_acc_11.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, Pear-Cut Cat-Eye Stones, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Sunset Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "serpentine-bangle",
+      "teardrop-bracelet",
+      "bypass-cuff",
+      "rose-gold",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_12",
+    "sku": "MNM-ACC-12",
+    "slug": "manamm-crystal-lucite-butterfly-hair-claw-clips-12pcs",
+    "name": "MANAMM Crystal Lucite Butterfly Hair Claw Clips (Set of 12)",
+    "shortDescription": "MANAMM Crystal Lucite Butterfly Hair Claw Clips (Set of 12) - Special promotional price ₹199 only.",
+    "description": "MANAMM Crystal Lucite Butterfly Hair Claw Clips (Set of 12). Crystal clear acrylic butterfly hair claw clips in gleaming jewel tones. Light-catching faceted design provides sturdy hold with effortless glamour. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717217/manamm/products/prod_acc_12.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717217/manamm/products/prod_acc_12.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717217/manamm/products/prod_acc_12.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 12",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "12 Pieces Crystal Butterfly Clips Card Pack"
+      },
+      {
+        "name": "Material",
+        "value": "High-Grade Lucite Acrylic & Steel Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Crystal Clear & Jewel Tones (Emerald, Amber, Rose, Amethyst)"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "lucite-clips",
+      "butterfly-hair-claw",
+      "crystal-hair-clips",
+      "hair-accessories",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_13",
+    "sku": "MNM-ACC-13",
+    "slug": "manamm-kawaii-gummy-bear-bunny-mini-claw-clips-24pcs",
+    "name": "MANAMM Kawaii Gummy Bear & Bunny Mini Hair Claw Clips (Card Set of 24)",
+    "shortDescription": "MANAMM Kawaii Gummy Bear & Bunny Mini Hair Claw Clips (Card Set of 24) - Special promotional price ₹199 only.",
+    "description": "MANAMM Kawaii Gummy Bear & Bunny Mini Hair Claw Clips (Card Set of 24). Adorable candy-colored mini claw clips with cute gummy bears and playful bunny motifs. Perfect for girls and kids hairstyle styling, parties, and everyday cuteness. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717223/manamm/products/prod_acc_13.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717223/manamm/products/prod_acc_13.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717223/manamm/products/prod_acc_13.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 24",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Clips & Pins"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "24 Pieces Kids Cartoon Claw Clips Board Set"
+      },
+      {
+        "name": "Material",
+        "value": "Eco-friendly Resin & Metal Clip"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Vibrant Rainbow Assorted"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "kids-hair-clips",
+      "gummy-bear",
+      "kawaii-clips",
+      "mini-claw-clips",
+      "girls-fashion",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_14",
+    "sku": "MNM-ACC-14",
+    "slug": "manamm-royal-silver-cat-eye-designer-bangles-gift-box-10pcs",
+    "name": "MANAMM Royal Silver Cat-Eye Designer Bangles Gift Box (Set of 10)",
+    "shortDescription": "MANAMM Royal Silver Cat-Eye Designer Bangles Gift Box (Set of 10) - Special promotional price ₹199 only.",
+    "description": "MANAMM Royal Silver Cat-Eye Designer Bangles Gift Box (Set of 10). Collector's edition luxury gift box containing 10 uniquely designed silver-plated cat-eye and crystal statement bangles. Ideal for weddings, festive gifting, and jewelry enthusiasts. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717232/manamm/products/prod_acc_14.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717232/manamm/products/prod_acc_14.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717232/manamm/products/prod_acc_14.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Box of 10",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets Set"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "10 Pieces Curated Luxury Silver Bangles in Display Gift Box"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium-Plated Alloy, Premium Cat-Eye Stones, Crystals, Gift Box"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Moonstone White"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "gift-box",
+      "bangle-set",
+      "silver-collection",
+      "bridal-jewelry",
+      "luxury-set",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_15",
+    "sku": "MNM-ACC-15",
+    "slug": "manamm-silver-twilight-oval-halo-pave-bangle",
+    "name": "MANAMM Silver Twilight Oval Halo Pave Bangle",
+    "shortDescription": "MANAMM Silver Twilight Oval Halo Pave Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Twilight Oval Halo Pave Bangle. Timeless oval-cut cat-eye centerpiece encircled by a double row of brilliant pave crystals on a polished silver rhodium-plated cuff. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717238/manamm/products/prod_acc_15.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717238/manamm/products/prod_acc_15.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717238/manamm/products/prod_acc_15.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Alloy, Oval Cat-Eye Gem, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Luminous Opal"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "halo-bangle",
+      "oval-stone",
+      "silver-bracelet",
+      "cat-eye-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_16",
+    "sku": "MNM-ACC-16",
+    "slug": "manamm-silver-endless-infinity-wave-crystal-bangle",
+    "name": "MANAMM Silver Endless Infinity Wave Crystal Bangle",
+    "shortDescription": "MANAMM Silver Endless Infinity Wave Crystal Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Endless Infinity Wave Crystal Bangle. Interlocking infinity wave motif bangle crafted in gleaming silver finish and lined with shimmering pavé stones for a dazzling wrist stack. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717245/manamm/products/prod_acc_16.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717245/manamm/products/prod_acc_16.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717245/manamm/products/prod_acc_16.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium Finish, Cubic Zirconia Wave Detailing"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Pure Silver"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "infinity-bangle",
+      "wave-bracelet",
+      "crystal-stack",
+      "rhodium-plated",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_17",
+    "sku": "MNM-ACC-17",
+    "slug": "manamm-silver-twin-starlight-crossover-bangle",
+    "name": "MANAMM Silver Twin Starlight Crossover Bangle",
+    "shortDescription": "MANAMM Silver Twin Starlight Crossover Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Twin Starlight Crossover Bangle. Modern crossover bypass silhouette bangle featuring two luminous oval cat-eye stones set diagonally with crystal-studded swooping accents. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717251/manamm/products/prod_acc_17.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717251/manamm/products/prod_acc_17.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717251/manamm/products/prod_acc_17.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Alloy, Dual Cat-Eye Stones, Shimmer Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Soft Silver Pearl"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "crossover-bangle",
+      "twin-stone",
+      "starlight-bracelet",
+      "silver-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_18",
+    "sku": "MNM-ACC-18",
+    "slug": "manamm-rose-gold-lucky-quatrefoil-floral-bangle",
+    "name": "MANAMM Rose Gold Lucky Quatrefoil Floral Bangle",
+    "shortDescription": "MANAMM Rose Gold Lucky Quatrefoil Floral Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Lucky Quatrefoil Floral Bangle. Charming four-leaf clover motif bangle crafted in warm rose gold with cat-eye petal inlays and pavé crystal accents representing luck, love, and grace. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717255/manamm/products/prod_acc_18.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717255/manamm/products/prod_acc_18.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717255/manamm/products/prod_acc_18.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Brass, Cat-Eye Clover Inlay, Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Peach Moonstone"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "clover-bangle",
+      "quatrefoil",
+      "lucky-charm",
+      "rose-gold-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_19",
+    "sku": "MNM-ACC-19",
+    "slug": "manamm-pastel-crystal-beaded-stretch-charm-bracelets-6pcs",
+    "name": "MANAMM Pastel Crystal Beaded Stretch Charm Bracelets (Set of 6)",
+    "shortDescription": "MANAMM Pastel Crystal Beaded Stretch Charm Bracelets (Set of 6) - Special promotional price ₹199 only.",
+    "description": "MANAMM Pastel Crystal Beaded Stretch Charm Bracelets (Set of 6). Delicate handcrafted beaded stretch bracelets made with faceted pastel crystal beads, faux pearls, and floral metallic charms. Comfortable elastic slip-on fit. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717262/manamm/products/prod_acc_19.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717262/manamm/products/prod_acc_19.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717262/manamm/products/prod_acc_19.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 6",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets Set"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "6 Pieces Carded Stretch Charm Bracelets Pack"
+      },
+      {
+        "name": "Material",
+        "value": "Faceted Crystal Beads, Alloy Charms, Elastic Cord"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Multicolor Pastels (Mint, Baby Pink, Lavender, Powder Blue)"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "beaded-bracelets",
+      "stretch-bracelet",
+      "charm-bracelet",
+      "pastel-beads",
+      "handcrafted",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_20",
+    "sku": "MNM-ACC-20",
+    "slug": "manamm-sweet-pastel-mini-butterfly-hair-claw-clips-36pcs",
+    "name": "MANAMM Sweet Pastel Mini Butterfly Hair Claw Clips (Pack of 36)",
+    "shortDescription": "MANAMM Sweet Pastel Mini Butterfly Hair Claw Clips (Pack of 36) - Special promotional price ₹199 only.",
+    "description": "MANAMM Sweet Pastel Mini Butterfly Hair Claw Clips (Pack of 36). Vibrant card collection of 36 miniature butterfly jaw claw clips in assorted pastel shades including mint, blush pink, lilac, and sky blue. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717267/manamm/products/prod_acc_20.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717267/manamm/products/prod_acc_20.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717267/manamm/products/prod_acc_20.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 36",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "36 Pieces Carded Mini Butterfly Clips Set"
+      },
+      {
+        "name": "Material",
+        "value": "Premium Durable Plastic & Steel Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rainbow Pastels Assortment"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "mini-butterfly-clips",
+      "hair-claws",
+      "pastel-clips",
+      "bulk-pack",
+      "hair-styling",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_21",
+    "sku": "MNM-ACC-21",
+    "slug": "manamm-island-breeze-tropical-floral-claw-clips-12pcs",
+    "name": "MANAMM Island Breeze Tropical Floral Claw Clips (Set of 12)",
+    "shortDescription": "MANAMM Island Breeze Tropical Floral Claw Clips (Set of 12) - Special promotional price ₹199 only.",
+    "description": "MANAMM Island Breeze Tropical Floral Claw Clips (Set of 12). Hawaiian tropical flower claw clips in vibrant gradient colors with high-gloss finish. Sturdy interlocking teeth keep buns, half-ups, and loose hair secure. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717273/manamm/products/prod_acc_21.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717273/manamm/products/prod_acc_21.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717273/manamm/products/prod_acc_21.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 12",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "12 Pieces Strip Pack Floral Claw Clips"
+      },
+      {
+        "name": "Material",
+        "value": "Glossy Acetate Resin & Alloy Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Tropical Gradient Rainbow"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "tropical-clips",
+      "flower-claw",
+      "hawaiian-hair-clips",
+      "vacation-style",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_22",
+    "sku": "MNM-ACC-22",
+    "slug": "manamm-silver-imperial-tiara-crown-crystal-bangle",
+    "name": "MANAMM Silver Imperial Tiara Crown Crystal Bangle",
+    "shortDescription": "MANAMM Silver Imperial Tiara Crown Crystal Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Imperial Tiara Crown Crystal Bangle. Regal crown tiara motif bangle decorated with intricate arched filigree, pearlescent stone accents, and twinkling pavé diamonds. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717279/manamm/products/prod_acc_22.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717279/manamm/products/prod_acc_22.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717279/manamm/products/prod_acc_22.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Alloy, Regal Tiara Arch, Cat-Eye Gems, Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Crystal Clear"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "tiara-bangle",
+      "crown-bracelet",
+      "queen-jewelry",
+      "regal-cuff",
+      "festive-bangle",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_23",
+    "sku": "MNM-ACC-23",
+    "slug": "manamm-silver-modernist-contour-loop-cat-eye-bangle",
+    "name": "MANAMM Silver Modernist Contour Loop Cat-Eye Bangle",
+    "shortDescription": "MANAMM Silver Modernist Contour Loop Cat-Eye Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Modernist Contour Loop Cat-Eye Bangle. Sleek contemporary loop bracelet with geometric fluid lines, highlighted by a glowing central cat-eye cabochon and crystal channel setting. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717289/manamm/products/prod_acc_23.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717289/manamm/products/prod_acc_23.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717289/manamm/products/prod_acc_23.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium Finish, Cat-Eye Gemstone, Pavé Channel"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Soft Opal"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "contour-bangle",
+      "loop-bracelet",
+      "modern-silver",
+      "geometric-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_24",
+    "sku": "MNM-ACC-24",
+    "slug": "manamm-floral-blossom-luminous-pearl-hair-clips-8pcs",
+    "name": "MANAMM Floral Blossom & Luminous Pearl Hair Clips (Set of 8)",
+    "shortDescription": "MANAMM Floral Blossom & Luminous Pearl Hair Clips (Set of 8) - Special promotional price ₹199 only.",
+    "description": "MANAMM Floral Blossom & Luminous Pearl Hair Clips (Set of 8). Delicate flower hair clips detailed with shimmering faux pearl centers and soft petal textures on sturdy gold-toned alligator claw clips. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717305/manamm/products/prod_acc_24.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717305/manamm/products/prod_acc_24.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717305/manamm/products/prod_acc_24.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 8",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Clips & Pins"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "8 Pieces (4 Pairs) Carded Floral Clips"
+      },
+      {
+        "name": "Material",
+        "value": "Velvety Fabric Petals, Faux Pearl, Gold-Plated Metal Clips"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Pastel Yellow, Sky Blue, Pink, Cream"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "pearl-flower-clips",
+      "alligator-clips",
+      "hair-pins",
+      "delicate-florals",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_25",
+    "sku": "MNM-ACC-25",
+    "slug": "manamm-marshmallow-plush-faux-fur-hair-scrunchies-6pcs",
+    "name": "MANAMM Marshmallow Plush Faux Fur Hair Scrunchies (Pack of 6)",
+    "shortDescription": "MANAMM Marshmallow Plush Faux Fur Hair Scrunchies (Pack of 6) - Special promotional price ₹199 only.",
+    "description": "MANAMM Marshmallow Plush Faux Fur Hair Scrunchies (Pack of 6). Incredibly soft, fluffy marshmallow plush hair scrunchies in gentle pastel shades. Super stretchy elastic core provides comfortable, snag-free hold. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717311/manamm/products/prod_acc_25.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717311/manamm/products/prod_acc_25.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717311/manamm/products/prod_acc_25.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 6",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Scrunchies"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "6 Pieces Plush Scrunchies Pouch Pack"
+      },
+      {
+        "name": "Material",
+        "value": "Faux Rabbit Fur Fleece, High Elastic Core"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Cloud White, Baby Pink, Lavender, Mint, Beige, Blue"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "plush-scrunchies",
+      "faux-fur",
+      "fluffy-hair-ties",
+      "marshmallow-soft",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_26",
+    "sku": "MNM-ACC-26",
+    "slug": "manamm-spring-tulip-blossom-elastic-hair-ties-12pcs",
+    "name": "MANAMM Spring Tulip Blossom Elastic Hair Ties (Pack of 12)",
+    "shortDescription": "MANAMM Spring Tulip Blossom Elastic Hair Ties (Pack of 12) - Special promotional price ₹199 only.",
+    "description": "MANAMM Spring Tulip Blossom Elastic Hair Ties (Pack of 12). Charming floral hair ties featuring 3D soft fabric tulip buds and ribbon accents on durable braided elastic bands. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717320/manamm/products/prod_acc_26.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717320/manamm/products/prod_acc_26.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717320/manamm/products/prod_acc_26.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 12",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Ties & Bands"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "12 Pieces Tulip Hair Ties Set"
+      },
+      {
+        "name": "Material",
+        "value": "Fabric Floral Buds, Braided Elastic Ribbon"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Assorted Garden Floral Shades"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "tulip-hair-ties",
+      "flower-scrunchie",
+      "braided-elastics",
+      "spring-floral",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_27",
+    "sku": "MNM-ACC-27",
+    "slug": "manamm-velvet-faux-fur-cozy-hair-scrunchies-6pcs",
+    "name": "MANAMM Velvet Faux Fur Cozy Hair Scrunchies (Set of 6)",
+    "shortDescription": "MANAMM Velvet Faux Fur Cozy Hair Scrunchies (Set of 6) - Special promotional price ₹199 only.",
+    "description": "MANAMM Velvet Faux Fur Cozy Hair Scrunchies (Set of 6). Cozy winter-ready faux fur hair scrunchies in rich tones of burgundy, blush, midnight black, and cream. Adds plush volume to ponytails and top knots. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717326/manamm/products/prod_acc_27.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717326/manamm/products/prod_acc_27.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717326/manamm/products/prod_acc_27.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 6",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Scrunchies"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "6 Pieces Dual Pouch Cozy Scrunchies Set"
+      },
+      {
+        "name": "Material",
+        "value": "Plush Velvet Faux Fur, Strong Elastic Band"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Burgundy, Black, Blush Pink, Off-White, Cocoa"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "cozy-scrunchies",
+      "velvet-fur",
+      "winter-accessories",
+      "hair-ponytail",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_28",
+    "sku": "MNM-ACC-28",
+    "slug": "manamm-metallic-shimmer-mini-floral-jaw-clips-12pcs",
+    "name": "MANAMM Metallic Shimmer Mini Floral Jaw Clips (Pack of 12)",
+    "shortDescription": "MANAMM Metallic Shimmer Mini Floral Jaw Clips (Pack of 12) - Special promotional price ₹199 only.",
+    "description": "MANAMM Metallic Shimmer Mini Floral Jaw Clips (Pack of 12). High-shine metallic finish mini floral hair clips in rose gold, gold, silver, and gunmetal tones. Ideal for accentuating braids and twists. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717341/manamm/products/prod_acc_28.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717341/manamm/products/prod_acc_28.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717341/manamm/products/prod_acc_28.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 12",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "12 Pieces Mini Metallic Floral Clips Strip"
+      },
+      {
+        "name": "Material",
+        "value": "Electroplated Metallic Finish Acrylic, Metal Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold, Champagne Gold, Silver, Gloss Black"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "metallic-hair-clips",
+      "mini-jaw-clips",
+      "floral-hairpins",
+      "party-styling",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_29",
+    "sku": "MNM-ACC-29",
+    "slug": "manamm-vibrant-hawaiian-hibiscus-flower-hair-clips-8pcs",
+    "name": "MANAMM Vibrant Hawaiian Hibiscus Flower Hair Clips (Set of 8)",
+    "shortDescription": "MANAMM Vibrant Hawaiian Hibiscus Flower Hair Clips (Set of 8) - Special promotional price ₹199 only.",
+    "description": "MANAMM Vibrant Hawaiian Hibiscus Flower Hair Clips (Set of 8). Tropical hibiscus flower hair claw clips featuring lifelike layered petals in bold yellow, magenta, teal, and coral shades with pearl center accents. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717347/manamm/products/prod_acc_29.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717347/manamm/products/prod_acc_29.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717347/manamm/products/prod_acc_29.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 8",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Clips & Pins"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "8 Pieces (4 Pairs) Carded Hibiscus Clips"
+      },
+      {
+        "name": "Material",
+        "value": "Textured Fabric Petals, Acrylic Clip Base, Faux Pearl"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Tropical Yellow, Hot Pink, Turquoise, Orange"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "hibiscus-clips",
+      "hawaiian-flower",
+      "tropical-hair-pin",
+      "beach-party",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_30",
+    "sku": "MNM-ACC-30",
+    "slug": "manamm-modern-matte-french-rectangle-claw-clips-8pcs",
+    "name": "MANAMM Modern Matte French Rectangle Claw Clips (Pack of 8)",
+    "shortDescription": "MANAMM Modern Matte French Rectangle Claw Clips (Pack of 8) - Special promotional price ₹199 only.",
+    "description": "MANAMM Modern Matte French Rectangle Claw Clips (Pack of 8). Chic minimalist matte square-frame hair claw clips in neutral tones (latte, espresso, cream, slate). Designed with heavy-duty springs for thick and long hair. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717355/manamm/products/prod_acc_30.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717355/manamm/products/prod_acc_30.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717355/manamm/products/prod_acc_30.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 8",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "8 Pieces Matte Rectangle Hair Claw Clips Pack"
+      },
+      {
+        "name": "Material",
+        "value": "Soft-Touch Matte Rubberized Acrylic, Heavy-Duty Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Neutral Earth Tones (Cream, Tan, Espresso, Charcoal)"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "matte-claw-clip",
+      "french-hair-claw",
+      "rectangle-clip",
+      "minimalist-hair",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_31",
+    "sku": "MNM-ACC-31",
+    "slug": "manamm-whimsical-teddy-bear-cartoon-kids-hair-pins-16pcs",
+    "name": "MANAMM Whimsical Teddy Bear & Cartoon Kids Hair Pins (Set of 16)",
+    "shortDescription": "MANAMM Whimsical Teddy Bear & Cartoon Kids Hair Pins (Set of 16) - Special promotional price ₹199 only.",
+    "description": "MANAMM Whimsical Teddy Bear & Cartoon Kids Hair Pins (Set of 16). Cheerful cartoon character hair clips and snap pins featuring adorable teddy bear faces, bows, and sweet motifs on safe, anti-slip coated metal clips. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717364/manamm/products/prod_acc_31.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717364/manamm/products/prod_acc_31.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717364/manamm/products/prod_acc_31.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 16",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Clips & Pins"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "16 Pieces Carded Kids Character Hair Pins Set"
+      },
+      {
+        "name": "Material",
+        "value": "Non-Toxic Enamel Resin, Soft Coated Metal Clips"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Warm Neutral & Pastel Bear Palette"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "teddy-bear-clips",
+      "kids-hairpins",
+      "cartoon-clips",
+      "baby-hair-accessories",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_32",
+    "sku": "MNM-ACC-32",
+    "slug": "manamm-sunburst-daisy-sunflower-matte-claw-clips-8pcs",
+    "name": "MANAMM Sunburst Daisy & Sunflower Matte Claw Clips (Set of 8)",
+    "shortDescription": "MANAMM Sunburst Daisy & Sunflower Matte Claw Clips (Set of 8) - Special promotional price ₹199 only.",
+    "description": "MANAMM Sunburst Daisy & Sunflower Matte Claw Clips (Set of 8). Delightful floral sunflower and daisy motif claw clips in earthy matte tones (olive, mustard, terracotta, rose). Non-slip matte finish grips hair firmly. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717379/manamm/products/prod_acc_32.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717379/manamm/products/prod_acc_32.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717379/manamm/products/prod_acc_32.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 8",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "8 Pieces Floral Daisy Claw Clips Pouch Set"
+      },
+      {
+        "name": "Material",
+        "value": "Matte Pastel Acrylic Resin & Alloy Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Sunflower Yellow, Olive Green, Dusty Pink, Rust Brown"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "sunflower-clip",
+      "daisy-hair-claw",
+      "matte-floral-clips",
+      "boho-hair",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_33",
+    "sku": "MNM-ACC-33",
+    "slug": "manamm-silver-serenade-fluid-teardrop-open-bangle",
+    "name": "MANAMM Silver Serenade Fluid Teardrop Open Bangle",
+    "shortDescription": "MANAMM Silver Serenade Fluid Teardrop Open Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Serenade Fluid Teardrop Open Bangle. Sculptural silver cuff with an open-wrap bypass design, terminating in teardrop cat-eye crystals and pave accents. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717394/manamm/products/prod_acc_33.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717394/manamm/products/prod_acc_33.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717394/manamm/products/prod_acc_33.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Brass, Teardrop Cat-Eye Gem, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Moonstone White"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "teardrop-bangle",
+      "open-wrap-cuff",
+      "fluid-sculpture",
+      "silver-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_34",
+    "sku": "MNM-ACC-34",
+    "slug": "manamm-silver-radiance-triple-oval-halo-bangle",
+    "name": "MANAMM Silver Radiance Triple Oval Halo Bangle",
+    "shortDescription": "MANAMM Silver Radiance Triple Oval Halo Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Radiance Triple Oval Halo Bangle. Striking three-station halo bangle showcasing opalescent cat-eye gems framed by sparkling round-cut crystals in a high-polish silver setting. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717403/manamm/products/prod_acc_34.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717403/manamm/products/prod_acc_34.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717403/manamm/products/prod_acc_34.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium Alloy, 3 Oval Cat-Eye Cabochons, Crystal Halos"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Opalescent White"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "triple-halo",
+      "oval-bangle",
+      "statement-cuff",
+      "rhodium-finish",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_35",
+    "sku": "MNM-ACC-35",
+    "slug": "manamm-shimmering-pastel-crystal-stone-charm-bracelets-6pcs",
+    "name": "MANAMM Shimmering Pastel Crystal & Stone Charm Bracelets (Set of 6)",
+    "shortDescription": "MANAMM Shimmering Pastel Crystal & Stone Charm Bracelets (Set of 6) - Special promotional price ₹199 only.",
+    "description": "MANAMM Shimmering Pastel Crystal & Stone Charm Bracelets (Set of 6). Assorted set of 6 sparkling crystal and gemstone beaded stretch bracelets featuring dangling celestial charms and polished round beads. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717410/manamm/products/prod_acc_35.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717410/manamm/products/prod_acc_35.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717410/manamm/products/prod_acc_35.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 6",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets Set"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "6 Pieces Carded Gemstone Stretch Bracelets Set"
+      },
+      {
+        "name": "Material",
+        "value": "Faceted Glass Crystals, Semi-Precious Beads, Metal Charms"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Multicolor Pastels & Gem Tones"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "crystal-bracelets",
+      "beaded-jewelry",
+      "charm-bracelets",
+      "gemstone-stretch",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_36",
+    "sku": "MNM-ACC-36",
+    "slug": "manamm-flutter-matte-butterfly-hair-claw-clips-12pcs",
+    "name": "MANAMM Flutter Matte Butterfly Hair Claw Clips (Pack of 12)",
+    "shortDescription": "MANAMM Flutter Matte Butterfly Hair Claw Clips (Pack of 12) - Special promotional price ₹199 only.",
+    "description": "MANAMM Flutter Matte Butterfly Hair Claw Clips (Pack of 12). Gorgeous butterfly-shaped hair claws in smooth matte colors ranging from soft pink and lavender to mustard and navy. Medium size suitable for half-up styles. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717417/manamm/products/prod_acc_36.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717417/manamm/products/prod_acc_36.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717417/manamm/products/prod_acc_36.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 12",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "12 Pieces Butterfly Matte Claw Clips Pouch Set"
+      },
+      {
+        "name": "Material",
+        "value": "Matte Coated Acrylic & Reinforced Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Assorted Matte Pastel & Earth Tones"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "butterfly-claws",
+      "matte-hairpins",
+      "colorful-clips",
+      "hair-styling",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_37",
+    "sku": "MNM-ACC-37",
+    "slug": "manamm-rose-gold-intertwined-teardrop-pave-bangle",
+    "name": "MANAMM Rose Gold Intertwined Teardrop Pavé Bangle",
+    "shortDescription": "MANAMM Rose Gold Intertwined Teardrop Pavé Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Intertwined Teardrop Pavé Bangle. Elegantly twisted dual-branch rose gold bangle adorned with twin pear-shaped cat-eye stones nestled within crystal pave braids. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717423/manamm/products/prod_acc_37.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717423/manamm/products/prod_acc_37.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717423/manamm/products/prod_acc_37.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, Twin Cat-Eye Pears, Pavé Braid"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "braided-bangle",
+      "intertwined-cuff",
+      "teardrop-gem",
+      "rose-gold",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_38",
+    "sku": "MNM-ACC-38",
+    "slug": "manamm-paradise-plumeria-flower-hair-claw-clips-10pcs",
+    "name": "MANAMM Paradise Plumeria Flower Hair Claw Clips (Set of 10)",
+    "shortDescription": "MANAMM Paradise Plumeria Flower Hair Claw Clips (Set of 10) - Special promotional price ₹199 only.",
+    "description": "MANAMM Paradise Plumeria Flower Hair Claw Clips (Set of 10). Vibrant tropical plumeria floral claw clips with frosted petal textures and gradient shading. Perfect accessory for summer dresses and beach outfits. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Hair Accessories",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717441/manamm/products/prod_acc_38.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717441/manamm/products/prod_acc_38.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717441/manamm/products/prod_acc_38.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "Pack of 10",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Hair Accessories"
+      },
+      {
+        "name": "Product Type",
+        "value": "Hair Claw Clips"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "10 Pieces Strip Pack Floral Claw Clips"
+      },
+      {
+        "name": "Material",
+        "value": "Frosted Acrylic Resin & High-Tension Spring"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Gradient Cyan, Rose, Coral, Azure"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "frosted-plumeria",
+      "beach-hair-clips",
+      "summer-vacation",
+      "flower-claw",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_39",
+    "sku": "MNM-ACC-39",
+    "slug": "manamm-silver-pear-blossom-luminous-pearl-bangle",
+    "name": "MANAMM Silver Pear Blossom & Luminous Pearl Bangle",
+    "shortDescription": "MANAMM Silver Pear Blossom & Luminous Pearl Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Pear Blossom & Luminous Pearl Bangle. Refined luxury bangle combining a pear-cut cat-eye cabochon and an iridescent pearl accent within a pave crystal leaf frame. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717450/manamm/products/prod_acc_39.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717450/manamm/products/prod_acc_39.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717450/manamm/products/prod_acc_39.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Alloy, Teardrop Cat-Eye Stone, Faux Shell Pearl, Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Iridescent White"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "pearl-bangle",
+      "pear-cut-gem",
+      "bridal-bracelet",
+      "silver-cuff",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_40",
+    "sku": "MNM-ACC-40",
+    "slug": "manamm-rose-gold-botanical-twin-leaf-gem-bangle",
+    "name": "MANAMM Rose Gold Botanical Twin Leaf Gem Bangle",
+    "shortDescription": "MANAMM Rose Gold Botanical Twin Leaf Gem Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Botanical Twin Leaf Gem Bangle. Nature-inspired rose gold bangle crowned with two opposing leaf-shaped cat-eye stones connected by pavé diamond-style vine curves. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717456/manamm/products/prod_acc_40.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717456/manamm/products/prod_acc_40.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717456/manamm/products/prod_acc_40.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Brass, Marquise Cat-Eye Gems, Pavé Vines"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Warm Champagne"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "leaf-bangle",
+      "botanical-bracelet",
+      "twin-gem",
+      "rose-gold-cuff",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_41",
+    "sku": "MNM-ACC-41",
+    "slug": "manamm-silver-moonstone-halo-pave-solitaire-bangle",
+    "name": "MANAMM Silver Moonstone Halo Pavé Solitaire Bangle",
+    "shortDescription": "MANAMM Silver Moonstone Halo Pavé Solitaire Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Moonstone Halo Pavé Solitaire Bangle. Classic solitaire bangle highlighting a glowing round cat-eye stone wrapped in a halo of micropavé cubic zirconia on a sleek silver band. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717462/manamm/products/prod_acc_41.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717462/manamm/products/prod_acc_41.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717462/manamm/products/prod_acc_41.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver Rhodium Finish, Round Cat-Eye Solitaire, Pavé Halo"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Moonstone Glow"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "solitaire-bangle",
+      "round-halo",
+      "silver-jewelry",
+      "moonstone-glow",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_42",
+    "sku": "MNM-ACC-42",
+    "slug": "manamm-rose-gold-tri-petal-orchid-blossom-bangle",
+    "name": "MANAMM Rose Gold Tri-Petal Orchid Blossom Bangle",
+    "shortDescription": "MANAMM Rose Gold Tri-Petal Orchid Blossom Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Tri-Petal Orchid Blossom Bangle. Exquisite orchid flower motif bracelet in warm rose gold, showcasing three smooth cat-eye gemstone petals with crystal stem accents. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717470/manamm/products/prod_acc_42.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717470/manamm/products/prod_acc_42.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717470/manamm/products/prod_acc_42.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold Plating, 3 Pear Cat-Eye Petals, Pavé Crystals"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "orchid-bangle",
+      "floral-bracelet",
+      "three-petal",
+      "rose-gold-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_43",
+    "sku": "MNM-ACC-43",
+    "slug": "manamm-rose-gold-art-deco-rhombus-diamond-bangle",
+    "name": "MANAMM Rose Gold Art Deco Rhombus Diamond Bangle",
+    "shortDescription": "MANAMM Rose Gold Art Deco Rhombus Diamond Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Art Deco Rhombus Diamond Bangle. Striking Art Deco inspired bangle featuring a geometric diamond rhombus frame encrusted with crystals around a cushion cat-eye gem. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717475/manamm/products/prod_acc_43.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717475/manamm/products/prod_acc_43.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717475/manamm/products/prod_acc_43.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, Cushion Cat-Eye Stone, Geometric Pavé Frame"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Champagne"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "art-deco-bangle",
+      "rhombus-cuff",
+      "geometric-bracelet",
+      "statement-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_44",
+    "sku": "MNM-ACC-44",
+    "slug": "manamm-silver-orbit-triple-cat-eye-designer-bangle",
+    "name": "MANAMM Silver Orbit Triple Cat-Eye Designer Bangle",
+    "shortDescription": "MANAMM Silver Orbit Triple Cat-Eye Designer Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Silver Orbit Triple Cat-Eye Designer Bangle. Futuristic curved orbit silhouette bangle with three graduated cat-eye gemstones resting along an asymmetric crystal ribbon. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717479/manamm/products/prod_acc_44.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717479/manamm/products/prod_acc_44.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717479/manamm/products/prod_acc_44.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Silver-Plated Alloy, 3 Graduated Cat-Eye Stones, Crystal Channel"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Silver & Moonlight Pearl"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "orbit-bangle",
+      "asymmetric-cuff",
+      "triple-stone",
+      "silver-bracelet",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_45",
+    "sku": "MNM-ACC-45",
+    "slug": "manamm-rose-gold-sweetheart-open-heart-gem-bangle",
+    "name": "MANAMM Rose Gold Sweetheart Open Heart & Gem Bangle",
+    "shortDescription": "MANAMM Rose Gold Sweetheart Open Heart & Gem Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Sweetheart Open Heart & Gem Bangle. Romantic charm bangle showcasing an open pavé crystal heart paired with a glowing cat-eye cabochon along a slender rose gold band. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717483/manamm/products/prod_acc_45.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717483/manamm/products/prod_acc_45.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717483/manamm/products/prod_acc_45.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold Plating, Open Pavé Heart, Cat-Eye Gem"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Soft Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "heart-bangle",
+      "sweetheart-cuff",
+      "romantic-jewelry",
+      "gift-for-her",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_46",
+    "sku": "MNM-ACC-46",
+    "slug": "manamm-rose-gold-royal-lattice-oval-cat-eye-bangle",
+    "name": "MANAMM Rose Gold Royal Lattice Oval Cat-Eye Bangle",
+    "shortDescription": "MANAMM Rose Gold Royal Lattice Oval Cat-Eye Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Royal Lattice Oval Cat-Eye Bangle. Opulent lattice cuff bracelet in warm rose gold, featuring openwork side arches and a dramatic oval cat-eye centerpiece encircled by micropave stones. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717486/manamm/products/prod_acc_46.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717486/manamm/products/prod_acc_46.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717486/manamm/products/prod_acc_46.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Brass, Oval Cat-Eye Gem, Openwork Lattice Cuff"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Sunset Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "lattice-cuff",
+      "openwork-bangle",
+      "oval-cat-eye",
+      "grand-jewelry",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_47",
+    "sku": "MNM-ACC-47",
+    "slug": "manamm-rose-gold-meadow-leaf-teardrop-wrap-bangle",
+    "name": "MANAMM Rose Gold Meadow Leaf & Teardrop Wrap Bangle",
+    "shortDescription": "MANAMM Rose Gold Meadow Leaf & Teardrop Wrap Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Meadow Leaf & Teardrop Wrap Bangle. Fluid botanical wrap bangle featuring a pave-encrusted leaf meeting an opalescent teardrop stone in a graceful bypass curve. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717490/manamm/products/prod_acc_47.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717490/manamm/products/prod_acc_47.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717490/manamm/products/prod_acc_47.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, Leaf Pavé Motif, Teardrop Cat-Eye Gem"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Amber Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "botanical-wrap",
+      "leaf-and-gem",
+      "rose-gold-bangle",
+      "meadow-motif",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_48",
+    "sku": "MNM-ACC-48",
+    "slug": "manamm-rose-gold-harmony-oval-gemstone-bangle",
+    "name": "MANAMM Rose Gold Harmony Oval Gemstone Bangle",
+    "shortDescription": "MANAMM Rose Gold Harmony Oval Gemstone Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Harmony Oval Gemstone Bangle. Clean and elegant full-circle bangle crafted in premium rose gold plating with a bezel-set luminous oval cat-eye centerpiece. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717495/manamm/products/prod_acc_48.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717495/manamm/products/prod_acc_48.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717495/manamm/products/prod_acc_48.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Alloy, Oval Gemstone Cabochon, Pavé Accents"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Soft Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "harmony-bangle",
+      "oval-gemstone",
+      "minimalist-rose-gold",
+      "daily-elegance",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
+  },
+  {
+    "id": "prod_acc_49",
+    "sku": "MNM-ACC-49",
+    "slug": "manamm-rose-gold-symphony-swirl-twin-teardrop-bangle",
+    "name": "MANAMM Rose Gold Symphony Swirl Twin Teardrop Bangle",
+    "shortDescription": "MANAMM Rose Gold Symphony Swirl Twin Teardrop Bangle - Special promotional price ₹199 only.",
+    "description": "MANAMM Rose Gold Symphony Swirl Twin Teardrop Bangle. Sinuous twin teardrop swirl bangle adorned with two radiant opalescent stones and crystal pavé flourishes on a polished rose gold cuff. Featured in the MANAMM Partner Accessories Collection at a limited-time promotional rate of ₹199 each (MRP ₹499).",
+    "price": 199,
+    "compareAtPrice": 499,
+    "mrp": 499,
+    "discountPercentage": 60,
+    "currency": "INR",
+    "category": "Accessories",
+    "categoryId": "cat_accessories",
+    "subcategory": "Fashion Jewelry",
+    "mainCategoryId": "cat_fashion_lifestyle",
+    "mainCategory": "Partner Collections & Lifestyle",
+    "sourceType": "PARTNER",
+    "source": "Partner Collection",
+    "brandId": "brd_partner_collections",
+    "brand": "MANAMM Partner Studio",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717498/manamm/products/prod_acc_49.jpg",
+    "images": [
+      "https://res.cloudinary.com/hawhugfs/image/upload/v1793717498/manamm/products/prod_acc_49.jpg"
+    ],
+    "thumbnail": "https://res.cloudinary.com/hawhugfs/image/upload/v1793717498/manamm/products/prod_acc_49.jpg",
+    "priceConfirmed": true,
+    "status": "ACTIVE",
+    "stock": 100,
+    "isAvailable": true,
+    "isFeatured": true,
+    "featured": true,
+    "newArrival": true,
+    "isActive": true,
+    "rating": 4.9,
+    "reviewCount": 32,
+    "unit": "1 Piece",
+    "attributes": [
+      {
+        "name": "Brand",
+        "value": "MANAMM Partner Studio"
+      },
+      {
+        "name": "Category",
+        "value": "Accessories"
+      },
+      {
+        "name": "Subcategory",
+        "value": "Fashion Jewelry"
+      },
+      {
+        "name": "Product Type",
+        "value": "Bangles & Bracelets"
+      },
+      {
+        "name": "Price",
+        "value": "₹199"
+      },
+      {
+        "name": "MRP",
+        "value": "₹499"
+      },
+      {
+        "name": "Discount",
+        "value": "60% OFF"
+      },
+      {
+        "name": "Set Details",
+        "value": "1 Piece Bangle"
+      },
+      {
+        "name": "Material",
+        "value": "Rose Gold-Plated Brass, Twin Pear Stones, Crystal Swirls"
+      },
+      {
+        "name": "Color / Finish",
+        "value": "Rose Gold & Champagne Peach"
+      },
+      {
+        "name": "Packaging",
+        "value": "Tamper-Evident Studio Poly Pack"
+      }
+    ],
+    "tags": [
+      "symphony-swirl",
+      "twin-teardrop",
+      "rose-gold-cuff",
+      "festive-elegance",
+      "special-offer-199"
+    ],
+    "createdAt": "2026-11-03T14:00:00.000Z",
+    "updatedAt": "2026-11-03T14:00:00.000Z"
   }
 ]
