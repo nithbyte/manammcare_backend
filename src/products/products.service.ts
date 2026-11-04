@@ -127,8 +127,21 @@ export class ProductsService implements OnModuleInit {
         ? (p.attributes.lowStockThreshold ?? 10)
         : 10;
 
+    let variants: any[] | undefined = undefined;
+    if (Array.isArray(p.attributes)) {
+      const varAttr = p.attributes.find((a: any) => a && a.name === 'variants');
+      if (varAttr && varAttr.value) {
+        try {
+          variants = typeof varAttr.value === 'string' ? JSON.parse(varAttr.value) : varAttr.value;
+        } catch {}
+      }
+    } else if (Array.isArray(p.variants) && p.variants.length > 0) {
+      variants = p.variants;
+    }
+
     return {
       id: p.id,
+      variants,
       sku: p.sku || undefined,
       slug: p.slug || undefined,
       name: p.name,
