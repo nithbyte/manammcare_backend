@@ -1,0 +1,6888 @@
+[
+  {
+    "serialNo": 1,
+    "id": "prod_trp_02_03_01",
+    "modelCode": "ROW-3",
+    "originalName": "ROW-3",
+    "catalogLocation": "Page 2, Row 3, Col 1",
+    "sourceCard": "02_03_01_ROW-3__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-3\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "5.75\"",
+        "price": 150,
+        "sku": "TRP-ROW-3-5-75"
+      },
+      {
+        "size": "6.5\"",
+        "price": 180,
+        "sku": "TRP-ROW-3-6-5"
+      },
+      {
+        "size": "7.25\"",
+        "price": 200,
+        "sku": "TRP-ROW-3-7-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 2,
+    "id": "prod_trp_02_04_01",
+    "modelCode": "a",
+    "originalName": "a",
+    "catalogLocation": "Page 2, Row 4, Col 1",
+    "sourceCard": "02_04_01_a__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"a\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.5\"",
+        "price": 190,
+        "sku": "TRP-a-8-5"
+      },
+      {
+        "size": "9\"",
+        "price": 230,
+        "sku": "TRP-a-9"
+      },
+      {
+        "size": "10.5\"",
+        "price": 280,
+        "sku": "TRP-a-10-5"
+      }
+    ]
+  },
+  {
+    "serialNo": 3,
+    "id": "prod_trp_02_05_02",
+    "modelCode": "PC-51",
+    "originalName": "PC-51",
+    "catalogLocation": "Page 2, Row 5, Col 2",
+    "sourceCard": "02_05_02_PC-51__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-51-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 4,
+    "id": "prod_trp_02_06_01",
+    "modelCode": "A X.8 8.5 200.00",
+    "originalName": "A X.8 8.5 200.00",
+    "catalogLocation": "Page 2, Row 6, Col 1",
+    "sourceCard": "02_06_01_A_X.8_8.5_200.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-A-X-8-8-5-200-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 5,
+    "id": "prod_trp_03_01_03",
+    "modelCode": "PC-302",
+    "originalName": "PC-302",
+    "catalogLocation": "Page 3, Row 1, Col 3",
+    "sourceCard": "03_01_03_PC-302__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-302-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 6,
+    "id": "prod_trp_03_03_01",
+    "modelCode": "ROW-3",
+    "originalName": "ROW-3",
+    "catalogLocation": "Page 3, Row 3, Col 1",
+    "sourceCard": "03_03_01_ROW-3__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-3\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "25\"",
+        "price": 1070,
+        "sku": "TRP-ROW-3-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 7,
+    "id": "prod_trp_03_04_01",
+    "modelCode": "ROW-4",
+    "originalName": "ROW-4",
+    "catalogLocation": "Page 3, Row 4, Col 1",
+    "sourceCard": "03_04_01_ROW-4__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-4\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "30\"",
+        "price": 1460,
+        "sku": "TRP-ROW-4-30"
+      },
+      {
+        "size": "35\"",
+        "price": 2000,
+        "sku": "TRP-ROW-4-35"
+      },
+      {
+        "size": "41\"",
+        "price": 2590,
+        "sku": "TRP-ROW-4-41"
+      }
+    ]
+  },
+  {
+    "serialNo": 8,
+    "id": "prod_trp_03_05_01",
+    "modelCode": "ROW-5",
+    "originalName": "ROW-5",
+    "catalogLocation": "Page 3, Row 5, Col 1",
+    "sourceCard": "03_05_01_ROW-5__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-5\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "10\"",
+        "price": 240,
+        "sku": "TRP-ROW-5-10"
+      },
+      {
+        "size": "12\"",
+        "price": 330,
+        "sku": "TRP-ROW-5-12"
+      },
+      {
+        "size": "13.3\"",
+        "price": 440,
+        "sku": "TRP-ROW-5-13-3"
+      }
+    ]
+  },
+  {
+    "serialNo": 9,
+    "id": "prod_trp_03_06_01",
+    "modelCode": "ROW-6",
+    "originalName": "ROW-6",
+    "catalogLocation": "Page 3, Row 6, Col 1",
+    "sourceCard": "03_06_01_ROW-6__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-6\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "6.5\"",
+        "price": 150,
+        "sku": "TRP-ROW-6-6-5"
+      },
+      {
+        "size": "8\"",
+        "price": 200,
+        "sku": "TRP-ROW-6-8"
+      },
+      {
+        "size": "8.5\"",
+        "price": 250,
+        "sku": "TRP-ROW-6-8-5"
+      }
+    ]
+  },
+  {
+    "serialNo": 10,
+    "id": "prod_trp_04_03_01",
+    "modelCode": "ig",
+    "originalName": "ig",
+    "catalogLocation": "Page 4, Row 3, Col 1",
+    "sourceCard": "04_03_01_ig__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ig-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 11,
+    "id": "prod_trp_04_04_01",
+    "modelCode": "EEE,",
+    "originalName": "EEE,",
+    "catalogLocation": "Page 4, Row 4, Col 1",
+    "sourceCard": "04_04_01_EEE,__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"EEE,\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-EEE-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 12,
+    "id": "prod_trp_04_05_01",
+    "modelCode": "EE —",
+    "originalName": "EE —",
+    "catalogLocation": "Page 4, Row 5, Col 1",
+    "sourceCard": "04_05_01_EE_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"EE —\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8\"",
+        "price": 170,
+        "sku": "TRP-EE-8"
+      },
+      {
+        "size": "9.5\"",
+        "price": 240,
+        "sku": "TRP-EE-9-5"
+      }
+    ]
+  },
+  {
+    "serialNo": 13,
+    "id": "prod_trp_04_05_03",
+    "modelCode": "PC-408",
+    "originalName": "PC-408",
+    "catalogLocation": "Page 4, Row 5, Col 3",
+    "sourceCard": "04_05_03_PC-408__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-408-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 14,
+    "id": "prod_trp_04_06_01",
+    "modelCode": "ROW-6",
+    "originalName": "ROW-6",
+    "catalogLocation": "Page 4, Row 6, Col 1",
+    "sourceCard": "04_06_01_ROW-6__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-6\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.5\"",
+        "price": 250,
+        "sku": "TRP-ROW-6-9-5"
+      },
+      {
+        "size": "11\"",
+        "price": 340,
+        "sku": "TRP-ROW-6-11"
+      }
+    ]
+  },
+  {
+    "serialNo": 15,
+    "id": "prod_trp_05_02_01",
+    "modelCode": "PC-411",
+    "originalName": "PC-411",
+    "catalogLocation": "Page 5, Row 2, Col 1",
+    "sourceCard": "05_02_01_PC-411__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-411-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 16,
+    "id": "prod_trp_05_03_02",
+    "modelCode": "PC-418",
+    "originalName": "PC-418",
+    "catalogLocation": "Page 5, Row 3, Col 2",
+    "sourceCard": "05_03_02_PC-418__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-418-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 17,
+    "id": "prod_trp_05_04_02",
+    "modelCode": "ROW-4",
+    "originalName": "ROW-4",
+    "catalogLocation": "Page 5, Row 4, Col 2",
+    "sourceCard": "05_04_02_ROW-4__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-4\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "25\"",
+        "price": 1100,
+        "sku": "TRP-ROW-4-25"
+      },
+      {
+        "size": "29\"",
+        "price": 1320,
+        "sku": "TRP-ROW-4-29"
+      },
+      {
+        "size": "34\"",
+        "price": 1540,
+        "sku": "TRP-ROW-4-34"
+      }
+    ]
+  },
+  {
+    "serialNo": 18,
+    "id": "prod_trp_05_03_03",
+    "modelCode": "PC-423",
+    "originalName": "PC-423",
+    "catalogLocation": "Page 5, Row 3, Col 3",
+    "sourceCard": "05_03_03_PC-423__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-423-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 19,
+    "id": "prod_trp_05_05_02",
+    "modelCode": "PC - 419",
+    "originalName": "PC - 419",
+    "catalogLocation": "Page 5, Row 5, Col 2",
+    "sourceCard": "05_05_02_E—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PC-419-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 20,
+    "id": "prod_trp_05_04_01",
+    "modelCode": "seas tINNSSS——",
+    "originalName": "seas tINNSSS——",
+    "catalogLocation": "Page 5, Row 4, Col 1",
+    "sourceCard": "05_04_01_seas_tINNSSS——__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"seas tINNSSS——\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "22\"",
+        "price": 1060,
+        "sku": "TRP-seas-tINNSSS-22"
+      }
+    ]
+  },
+  {
+    "serialNo": 21,
+    "id": "prod_trp_05_06_02",
+    "modelCode": "a",
+    "originalName": "a",
+    "catalogLocation": "Page 5, Row 6, Col 2",
+    "sourceCard": "05_06_02_a__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"a\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "32\"",
+        "price": 1320,
+        "sku": "TRP-a-32"
+      }
+    ]
+  },
+  {
+    "serialNo": 22,
+    "id": "prod_trp_05_05_01",
+    "modelCode": "a",
+    "originalName": "a",
+    "catalogLocation": "Page 5, Row 5, Col 1",
+    "sourceCard": "05_05_01_a__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"a\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-a-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 23,
+    "id": "prod_trp_06_03_02",
+    "modelCode": "S20 3600.00",
+    "originalName": "S20 3600.00",
+    "catalogLocation": "Page 6, Row 3, Col 2",
+    "sourceCard": "06_03_02_S20_3600.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-S20-3600-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 24,
+    "id": "prod_trp_05_06_01",
+    "modelCode": "b=",
+    "originalName": "b=",
+    "catalogLocation": "Page 5, Row 6, Col 1",
+    "sourceCard": "05_06_01_b=__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-b-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 25,
+    "id": "prod_trp_06_04_02",
+    "modelCode": "MC-115",
+    "originalName": "MC-115",
+    "catalogLocation": "Page 6, Row 4, Col 2",
+    "sourceCard": "06_04_02_MC-115__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-115-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 26,
+    "id": "prod_trp_06_02_03",
+    "modelCode": "MC-131",
+    "originalName": "MC-131",
+    "catalogLocation": "Page 6, Row 2, Col 3",
+    "sourceCard": "06_02_03_MC-131__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-131-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 27,
+    "id": "prod_trp_06_02_01",
+    "modelCode": "b 4",
+    "originalName": "b 4",
+    "catalogLocation": "Page 6, Row 2, Col 1",
+    "sourceCard": "06_02_01_b_4__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-b-4-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 28,
+    "id": "prod_trp_06_06_02",
+    "modelCode": "W S26 2400.00",
+    "originalName": "W S26 2400.00",
+    "catalogLocation": "Page 6, Row 6, Col 2",
+    "sourceCard": "06_06_02_W_S26_2400.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-S26-2400-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 29,
+    "id": "prod_trp_06_04_03",
+    "modelCode": "MC-132",
+    "originalName": "MC-132",
+    "catalogLocation": "Page 6, Row 4, Col 3",
+    "sourceCard": "06_04_03_MC-132__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-132-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 30,
+    "id": "prod_trp_06_05_01",
+    "modelCode": "FY J L 21.5 2530.00",
+    "originalName": "FY J L 21.5 2530.00",
+    "catalogLocation": "Page 6, Row 5, Col 1",
+    "sourceCard": "06_05_01_FY_J_L_21.5_2530.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FY-J-L-21-5-2530-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 31,
+    "id": "prod_trp_07_02_02",
+    "modelCode": "MC-140",
+    "originalName": "MC-140",
+    "catalogLocation": "Page 7, Row 2, Col 2",
+    "sourceCard": "07_02_02_MC-140__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-140-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 32,
+    "id": "prod_trp_07_04_02",
+    "modelCode": "MC-141",
+    "originalName": "MC-141",
+    "catalogLocation": "Page 7, Row 4, Col 2",
+    "sourceCard": "07_04_02_MC-141__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-141-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 33,
+    "id": "prod_trp_07_05_02",
+    "modelCode": "a XL 26 2930.00",
+    "originalName": "a XL 26 2930.00",
+    "catalogLocation": "Page 7, Row 5, Col 2",
+    "sourceCard": "07_05_02_a_XL_26_2930.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-a-XL-26-2930-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 34,
+    "id": "prod_trp_07_04_03",
+    "modelCode": "MC-146",
+    "originalName": "MC-146",
+    "catalogLocation": "Page 7, Row 4, Col 3",
+    "sourceCard": "07_04_03_MC-146__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-146-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 35,
+    "id": "prod_trp_07_04_01",
+    "modelCode": "A S 29 3990.00",
+    "originalName": "A S 29 3990.00",
+    "catalogLocation": "Page 7, Row 4, Col 1",
+    "sourceCard": "07_04_01_A_S_29_3990.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-A-S-29-3990-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 36,
+    "id": "prod_trp_08_01_02",
+    "modelCode": "MP-01",
+    "originalName": "MP-01",
+    "catalogLocation": "Page 8, Row 1, Col 2",
+    "sourceCard": "08_01_02_MP-01__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MP-01-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 37,
+    "id": "prod_trp_08_01_03",
+    "modelCode": "MP-05",
+    "originalName": "MP-05",
+    "catalogLocation": "Page 8, Row 1, Col 3",
+    "sourceCard": "08_01_03_MP-05__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MP-05-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 38,
+    "id": "prod_trp_08_01_01",
+    "modelCode": "MC-148",
+    "originalName": "MC-148",
+    "catalogLocation": "Page 8, Row 1, Col 1",
+    "sourceCard": "08_01_01_MC-148__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MC-148-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 39,
+    "id": "prod_trp_08_03_02",
+    "modelCode": "hg",
+    "originalName": "hg",
+    "catalogLocation": "Page 8, Row 3, Col 2",
+    "sourceCard": "08_03_02_hg__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"hg\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "12\"",
+        "price": 3030,
+        "sku": "TRP-hg-12"
+      }
+    ]
+  },
+  {
+    "serialNo": 40,
+    "id": "prod_trp_08_04_02",
+    "modelCode": "MP-03",
+    "originalName": "MP-03",
+    "catalogLocation": "Page 8, Row 4, Col 2",
+    "sourceCard": "08_04_02_MP-03__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MP-03-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 41,
+    "id": "prod_trp_08_02_03",
+    "modelCode": "M 10 1800.00",
+    "originalName": "M 10 1800.00",
+    "catalogLocation": "Page 8, Row 2, Col 3",
+    "sourceCard": "08_02_03_M_10_1800.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-M-10-1800-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 42,
+    "id": "prod_trp_08_02_01",
+    "modelCode": "IY »—— —",
+    "originalName": "IY »—— —",
+    "catalogLocation": "Page 8, Row 2, Col 1",
+    "sourceCard": "08_02_01_IY_»——_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"IY »—— —\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "35.75\"",
+        "price": 5080,
+        "sku": "TRP-IY-35-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 43,
+    "id": "prod_trp_08_03_01",
+    "modelCode": "NC 1140",
+    "originalName": "NC 1140",
+    "catalogLocation": "Page 8, Row 3, Col 1",
+    "sourceCard": "08_03_01_NC_1140__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-NC-1140-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 44,
+    "id": "prod_trp_08_04_03",
+    "modelCode": "MP-07",
+    "originalName": "MP-07",
+    "catalogLocation": "Page 8, Row 4, Col 3",
+    "sourceCard": "08_04_03_MP-07__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MP-07-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 45,
+    "id": "prod_trp_08_04_01",
+    "modelCode": "M 38.25 8110.00",
+    "originalName": "M 38.25 8110.00",
+    "catalogLocation": "Page 8, Row 4, Col 1",
+    "sourceCard": "08_04_01_M_38.25_8110.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-M-38-25-8110-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 46,
+    "id": "prod_trp_08_06_03",
+    "modelCode": "'S 8 1320.00",
+    "originalName": "'S 8 1320.00",
+    "catalogLocation": "Page 8, Row 6, Col 3",
+    "sourceCard": "08_06_03_'S_8_1320.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-S-8-1320-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 47,
+    "id": "prod_trp_09_01_03",
+    "modelCode": "PF-96",
+    "originalName": "PF-96",
+    "catalogLocation": "Page 9, Row 1, Col 3",
+    "sourceCard": "09_01_03_PF-96__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-96-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 48,
+    "id": "prod_trp_09_03_03",
+    "modelCode": "DC O99",
+    "originalName": "DC O99",
+    "catalogLocation": "Page 9, Row 3, Col 3",
+    "sourceCard": "09_03_03_DC_O99__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DC-O99-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 49,
+    "id": "prod_trp_09_04_03",
+    "modelCode": "PF - 99",
+    "originalName": "PF - 99",
+    "catalogLocation": "Page 9, Row 4, Col 3",
+    "sourceCard": "09_04_03_EE__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-99-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 50,
+    "id": "prod_trp_09_05_01",
+    "modelCode": "C 000",
+    "originalName": "C 000",
+    "catalogLocation": "Page 9, Row 5, Col 1",
+    "sourceCard": "09_05_01_C_000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-C-000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 51,
+    "id": "prod_trp_09_05_03",
+    "modelCode": "PF - 100",
+    "originalName": "PF - 100",
+    "catalogLocation": "Page 9, Row 5, Col 3",
+    "sourceCard": "09_05_03_ec__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-100-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 52,
+    "id": "prod_trp_09_06_01",
+    "modelCode": "ROW-6",
+    "originalName": "ROW-6",
+    "catalogLocation": "Page 9, Row 6, Col 1",
+    "sourceCard": "09_06_01_ROW-6__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-6\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "7.25\"",
+        "price": 70,
+        "sku": "TRP-ROW-6-7-25"
+      },
+      {
+        "size": "8.75\"",
+        "price": 90,
+        "sku": "TRP-ROW-6-8-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 53,
+    "id": "prod_trp_09_06_03",
+    "modelCode": "PF-112",
+    "originalName": "PF-112",
+    "catalogLocation": "Page 9, Row 6, Col 3",
+    "sourceCard": "09_06_03_PF-112__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-112-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 54,
+    "id": "prod_trp_10_01_02",
+    "modelCode": "PF-132",
+    "originalName": "PF-132",
+    "catalogLocation": "Page 10, Row 1, Col 2",
+    "sourceCard": "10_01_02_PF-132__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-132-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 55,
+    "id": "prod_trp_10_01_01",
+    "modelCode": "PF-16",
+    "originalName": "PF-16",
+    "catalogLocation": "Page 10, Row 1, Col 1",
+    "sourceCard": "10_01_01_PF-16__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-16-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 56,
+    "id": "prod_trp_10_02_02",
+    "modelCode": "PF-133",
+    "originalName": "PF-133",
+    "catalogLocation": "Page 10, Row 2, Col 2",
+    "sourceCard": "10_02_02_PF-133__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-133-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 57,
+    "id": "prod_trp_10_02_03",
+    "modelCode": "PF-154",
+    "originalName": "PF-154",
+    "catalogLocation": "Page 10, Row 2, Col 3",
+    "sourceCard": "10_02_03_PF-154__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-154-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 58,
+    "id": "prod_trp_10_03_02",
+    "modelCode": "DE 4A7",
+    "originalName": "DE 4A7",
+    "catalogLocation": "Page 10, Row 3, Col 2",
+    "sourceCard": "10_03_02_DE_4A7__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DE-4A7-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 59,
+    "id": "prod_trp_10_04_01",
+    "modelCode": "Ee —",
+    "originalName": "Ee —",
+    "catalogLocation": "Page 10, Row 4, Col 1",
+    "sourceCard": "10_04_01_Ee_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"Ee —\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.25\"",
+        "price": 90,
+        "sku": "TRP-Ee-9-25"
+      },
+      {
+        "size": "10.25\"",
+        "price": 110,
+        "sku": "TRP-Ee-10-25"
+      },
+      {
+        "size": "11.75\"",
+        "price": 150,
+        "sku": "TRP-Ee-11-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 60,
+    "id": "prod_trp_10_05_01",
+    "modelCode": "BE ——",
+    "originalName": "BE ——",
+    "catalogLocation": "Page 10, Row 5, Col 1",
+    "sourceCard": "10_05_01_BE_——__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"BE ——\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "7.5\"",
+        "price": 50,
+        "sku": "TRP-BE-7-5"
+      },
+      {
+        "size": "8.75\"",
+        "price": 70,
+        "sku": "TRP-BE-8-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 61,
+    "id": "prod_trp_10_06_01",
+    "modelCode": "& Size 8 150.00",
+    "originalName": "& Size 8 150.00",
+    "catalogLocation": "Page 10, Row 6, Col 1",
+    "sourceCard": "10_06_01_&_Size_8_150.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Size-8-150-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 62,
+    "id": "prod_trp_10_05_03",
+    "modelCode": "PF - 157",
+    "originalName": "PF - 157",
+    "catalogLocation": "Page 10, Row 5, Col 3",
+    "sourceCard": "10_05_03_BE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-157-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 63,
+    "id": "prod_trp_10_06_02",
+    "modelCode": "PF-151",
+    "originalName": "PF-151",
+    "catalogLocation": "Page 10, Row 6, Col 2",
+    "sourceCard": "10_06_02_PF-151__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-151-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 64,
+    "id": "prod_trp_11_01_01",
+    "modelCode": "PF-160",
+    "originalName": "PF-160",
+    "catalogLocation": "Page 11, Row 1, Col 1",
+    "sourceCard": "11_01_01_PF-160__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-160-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 65,
+    "id": "prod_trp_11_01_02",
+    "modelCode": "PF-166",
+    "originalName": "PF-166",
+    "catalogLocation": "Page 11, Row 1, Col 2",
+    "sourceCard": "11_01_02_PF-166__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-166-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 66,
+    "id": "prod_trp_11_02_01",
+    "modelCode": "PF-161",
+    "originalName": "PF-161",
+    "catalogLocation": "Page 11, Row 2, Col 1",
+    "sourceCard": "11_02_01_PF-161__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-161-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 67,
+    "id": "prod_trp_11_03_01",
+    "modelCode": "DC 129",
+    "originalName": "DC 129",
+    "catalogLocation": "Page 11, Row 3, Col 1",
+    "sourceCard": "11_03_01_DC_129__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DC-129-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 68,
+    "id": "prod_trp_11_02_03",
+    "modelCode": "PF-176",
+    "originalName": "PF-176",
+    "catalogLocation": "Page 11, Row 2, Col 3",
+    "sourceCard": "11_02_03_PF-176__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-176-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 69,
+    "id": "prod_trp_11_03_03",
+    "modelCode": "DEC A477",
+    "originalName": "DEC A477",
+    "catalogLocation": "Page 11, Row 3, Col 3",
+    "sourceCard": "11_03_03_DEC_A477__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DEC-A477-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 70,
+    "id": "prod_trp_11_04_01",
+    "modelCode": "Ee —",
+    "originalName": "Ee —",
+    "catalogLocation": "Page 11, Row 4, Col 1",
+    "sourceCard": "11_04_01_Ee_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"Ee —\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9\"",
+        "price": 130,
+        "sku": "TRP-Ee-9"
+      }
+    ]
+  },
+  {
+    "serialNo": 71,
+    "id": "prod_trp_11_04_03",
+    "modelCode": "PF-178",
+    "originalName": "PF-178",
+    "catalogLocation": "Page 11, Row 4, Col 3",
+    "sourceCard": "11_04_03_PF-178__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-178-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 72,
+    "id": "prod_trp_11_05_01",
+    "modelCode": "a",
+    "originalName": "a",
+    "catalogLocation": "Page 11, Row 5, Col 1",
+    "sourceCard": "11_05_01_a__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"a\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.5\"",
+        "price": 90,
+        "sku": "TRP-a-8-5-1"
+      },
+      {
+        "size": "10\"",
+        "price": 110,
+        "sku": "TRP-a-10"
+      }
+    ]
+  },
+  {
+    "serialNo": 73,
+    "id": "prod_trp_11_05_02",
+    "modelCode": "PF-173",
+    "originalName": "PF-173",
+    "catalogLocation": "Page 11, Row 5, Col 2",
+    "sourceCard": "11_05_02_PF-173__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-173-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 74,
+    "id": "prod_trp_11_06_01",
+    "modelCode": "v Size 9.5 100.00",
+    "originalName": "v Size 9.5 100.00",
+    "catalogLocation": "Page 11, Row 6, Col 1",
+    "sourceCard": "11_06_01_v_Size_9.5_100.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-v-Size-9-5-100-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 75,
+    "id": "prod_trp_11_06_02",
+    "modelCode": "PF-174",
+    "originalName": "PF-174",
+    "catalogLocation": "Page 11, Row 6, Col 2",
+    "sourceCard": "11_06_02_PF-174__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-174-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 76,
+    "id": "prod_trp_12_03_01",
+    "modelCode": "DEC 44417",
+    "originalName": "DEC 44417",
+    "catalogLocation": "Page 12, Row 3, Col 1",
+    "sourceCard": "12_03_01_DEC_44417__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DEC-44417-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 77,
+    "id": "prod_trp_12_02_03",
+    "modelCode": "PF-1129",
+    "originalName": "PF-1129",
+    "catalogLocation": "Page 12, Row 2, Col 3",
+    "sourceCard": "12_02_03_PF-1129__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1129-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 78,
+    "id": "prod_trp_12_02_02",
+    "modelCode": "PF-1123",
+    "originalName": "PF-1123",
+    "catalogLocation": "Page 12, Row 2, Col 2",
+    "sourceCard": "12_02_02_PF-1123__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1123-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 79,
+    "id": "prod_trp_12_03_03",
+    "modelCode": "DC 4492",
+    "originalName": "DC 4492",
+    "catalogLocation": "Page 12, Row 3, Col 3",
+    "sourceCard": "12_03_03_DC_4492N0__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DC-4492-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 80,
+    "id": "prod_trp_12_05_01",
+    "modelCode": "I",
+    "originalName": "I",
+    "catalogLocation": "Page 12, Row 5, Col 1",
+    "sourceCard": "12_05_01_I__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"I\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.75\"",
+        "price": 330,
+        "sku": "TRP-I-8-75"
+      },
+      {
+        "size": "11.25\"",
+        "price": 480,
+        "sku": "TRP-I-11-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 81,
+    "id": "prod_trp_12_04_03",
+    "modelCode": "PF-1131",
+    "originalName": "PF-1131",
+    "catalogLocation": "Page 12, Row 4, Col 3",
+    "sourceCard": "12_04_03_PF-1131__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1131-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 82,
+    "id": "prod_trp_13_01_03",
+    "modelCode": "PF-1303",
+    "originalName": "PF-1303",
+    "catalogLocation": "Page 13, Row 1, Col 3",
+    "sourceCard": "13_01_03_PF-1303__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1303-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 83,
+    "id": "prod_trp_13_01_02",
+    "modelCode": "PF-1209",
+    "originalName": "PF-1209",
+    "catalogLocation": "Page 13, Row 1, Col 2",
+    "sourceCard": "13_01_02_PF-1209__source-card.jpg",
+    "reasons": [
+      "Rates Per Set / Set rate pricing without individual size breakdown",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1209-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 84,
+    "id": "prod_trp_13_02_02",
+    "modelCode": "PF-1210",
+    "originalName": "PF-1210",
+    "catalogLocation": "Page 13, Row 2, Col 2",
+    "sourceCard": "13_02_02_PF-1210__source-card.jpg",
+    "reasons": [
+      "Rates Per Set / Set rate pricing without individual size breakdown",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1210-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 85,
+    "id": "prod_trp_13_03_02",
+    "modelCode": "DE 4149441",
+    "originalName": "DE 4149441",
+    "catalogLocation": "Page 13, Row 3, Col 2",
+    "sourceCard": "13_03_02_DE_4149441__source-card.jpg",
+    "reasons": [
+      "Rates Per Set / Set rate pricing without individual size breakdown",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DE-4149441-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 86,
+    "id": "prod_trp_13_05_01",
+    "modelCode": "Se 2",
+    "originalName": "Se 2",
+    "catalogLocation": "Page 13, Row 5, Col 1",
+    "sourceCard": "13_05_01_Se_2__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Se-2-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 87,
+    "id": "prod_trp_13_04_02",
+    "modelCode": "PF - 1212",
+    "originalName": "PF - 1212",
+    "catalogLocation": "Page 13, Row 4, Col 2",
+    "sourceCard": "13_04_02_Sa__source-card.jpg",
+    "reasons": [
+      "Rates Per Set / Set rate pricing without individual size breakdown",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1212-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 88,
+    "id": "prod_trp_13_05_03",
+    "modelCode": "PF-1604",
+    "originalName": "PF-1604",
+    "catalogLocation": "Page 13, Row 5, Col 3",
+    "sourceCard": "13_05_03_PF-1604__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1604-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 89,
+    "id": "prod_trp_14_02_01",
+    "modelCode": "PF-1606",
+    "originalName": "PF-1606",
+    "catalogLocation": "Page 14, Row 2, Col 1",
+    "sourceCard": "14_02_01_PF-1606__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1606-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 90,
+    "id": "prod_trp_14_03_01",
+    "modelCode": "Ss 8 7000",
+    "originalName": "Ss 8 7000",
+    "catalogLocation": "Page 14, Row 3, Col 1",
+    "sourceCard": "14_03_01_Ss_8_7000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ss-8-7000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 91,
+    "id": "prod_trp_13_06_03",
+    "modelCode": "Ne 8 626 5000",
+    "originalName": "Ne 8 626 5000",
+    "catalogLocation": "Page 13, Row 6, Col 3",
+    "sourceCard": "13_06_03_Ne_8_626_5000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ne-8-626-5000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 92,
+    "id": "prod_trp_14_05_01",
+    "modelCode": "L 8.75 80.00",
+    "originalName": "L 8.75 80.00",
+    "catalogLocation": "Page 14, Row 5, Col 1",
+    "sourceCard": "14_05_01_L_8.75_80.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-L-8-75-80-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 93,
+    "id": "prod_trp_14_02_02",
+    "modelCode": "PF-1611",
+    "originalName": "PF-1611",
+    "catalogLocation": "Page 14, Row 2, Col 2",
+    "sourceCard": "14_02_02_PF-1611__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1611-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 94,
+    "id": "prod_trp_14_06_01",
+    "modelCode": "ROW-6",
+    "originalName": "ROW-6",
+    "catalogLocation": "Page 14, Row 6, Col 1",
+    "sourceCard": "14_06_01_ROW-6__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-6\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "5\"",
+        "price": 60,
+        "sku": "TRP-ROW-6-5"
+      },
+      {
+        "size": "5.5\"",
+        "price": 70,
+        "sku": "TRP-ROW-6-5-5"
+      },
+      {
+        "size": "6\"",
+        "price": 80,
+        "sku": "TRP-ROW-6-6"
+      }
+    ]
+  },
+  {
+    "serialNo": 95,
+    "id": "prod_trp_14_02_03",
+    "modelCode": "PW-1312 5MM",
+    "originalName": "PW-1312 5MM",
+    "catalogLocation": "Page 14, Row 2, Col 3",
+    "sourceCard": "14_02_03_PW-1312_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-1312-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 96,
+    "id": "prod_trp_14_05_02",
+    "modelCode": "PF-1613",
+    "originalName": "PF-1613",
+    "catalogLocation": "Page 14, Row 5, Col 2",
+    "sourceCard": "14_05_02_PF-1613__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PF-1613-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 97,
+    "id": "prod_trp_14_06_02",
+    "modelCode": "y Size 10.75 130.00",
+    "originalName": "y Size 10.75 130.00",
+    "catalogLocation": "Page 14, Row 6, Col 2",
+    "sourceCard": "14_06_02_y_Size_10.75_130.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-y-Size-10-75-130-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 98,
+    "id": "prod_trp_14_04_03",
+    "modelCode": "PW-1317 5MM",
+    "originalName": "PW-1317 5MM",
+    "catalogLocation": "Page 14, Row 4, Col 3",
+    "sourceCard": "14_04_03_PW-1317_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-1317-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 99,
+    "id": "prod_trp_14_05_03",
+    "modelCode": "W-1318 5MM",
+    "originalName": "W-1318 5MM",
+    "catalogLocation": "Page 14, Row 5, Col 3",
+    "sourceCard": "14_05_03_W-1318_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-1318-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 100,
+    "id": "prod_trp_15_01_03",
+    "modelCode": "PW-1386 5MM",
+    "originalName": "PW-1386 5MM",
+    "catalogLocation": "Page 15, Row 1, Col 3",
+    "sourceCard": "15_01_03_PW-1386_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-1386-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 101,
+    "id": "prod_trp_15_01_01",
+    "modelCode": "PW-1363 5MM",
+    "originalName": "PW-1363 5MM",
+    "catalogLocation": "Page 15, Row 1, Col 1",
+    "sourceCard": "15_01_01_PW-1363_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-1363-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 102,
+    "id": "prod_trp_15_02_02",
+    "modelCode": "PW-1381 5MM",
+    "originalName": "PW-1381 5MM",
+    "catalogLocation": "Page 15, Row 2, Col 2",
+    "sourceCard": "15_02_02_PW-1381_5MM__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (8.25280.00)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.25280.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1381-5MM-8-25280-00"
+      },
+      {
+        "size": "9.25330.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1381-5MM-9-25330-00"
+      }
+    ]
+  },
+  {
+    "serialNo": 103,
+    "id": "prod_trp_15_02_01",
+    "modelCode": "PW-1365 5MM",
+    "originalName": "PW-1365 5MM",
+    "catalogLocation": "Page 15, Row 2, Col 1",
+    "sourceCard": "15_02_01_PW-1365_5MM__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #3 (10.25200.00)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.25\"",
+        "price": 140,
+        "sku": "TRP-PW-1365-5MM-8-25"
+      },
+      {
+        "size": "9.25\"",
+        "price": 180,
+        "sku": "TRP-PW-1365-5MM-9-25"
+      },
+      {
+        "size": "10.25200.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1365-5MM-10-25200-00"
+      }
+    ]
+  },
+  {
+    "serialNo": 104,
+    "id": "prod_trp_15_03_02",
+    "modelCode": "PW-1382 5MM",
+    "originalName": "PW-1382 5MM",
+    "catalogLocation": "Page 15, Row 3, Col 2",
+    "sourceCard": "15_03_02_PW-1382_5MM__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (9.25330.00)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.25330.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1382-5MM-9-25330-00"
+      }
+    ]
+  },
+  {
+    "serialNo": 105,
+    "id": "prod_trp_15_04_02",
+    "modelCode": "PW-1383 5MM",
+    "originalName": "PW-1383 5MM",
+    "catalogLocation": "Page 15, Row 4, Col 2",
+    "sourceCard": "15_04_02_PW-1383_5MM__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (8.25280.00)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.25280.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1383-5MM-8-25280-00"
+      },
+      {
+        "size": "9.25330.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1383-5MM-9-25330-00"
+      }
+    ]
+  },
+  {
+    "serialNo": 106,
+    "id": "prod_trp_15_05_02",
+    "modelCode": "PW-1384 5MM",
+    "originalName": "PW-1384 5MM",
+    "catalogLocation": "Page 15, Row 5, Col 2",
+    "sourceCard": "15_05_02_PW-1384_5MM__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (9.25330.00)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.25330.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1384-5MM-9-25330-00"
+      }
+    ]
+  },
+  {
+    "serialNo": 107,
+    "id": "prod_trp_15_04_01",
+    "modelCode": "MST",
+    "originalName": "MST",
+    "catalogLocation": "Page 15, Row 4, Col 1",
+    "sourceCard": "15_04_01_MST__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"MST\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "10.3\"",
+        "price": 150,
+        "sku": "TRP-MST-10-3"
+      },
+      {
+        "size": "11.3\"",
+        "price": 190,
+        "sku": "TRP-MST-11-3"
+      },
+      {
+        "size": "12.3\"",
+        "price": 220,
+        "sku": "TRP-MST-12-3"
+      }
+    ]
+  },
+  {
+    "serialNo": 108,
+    "id": "prod_trp_15_06_02",
+    "modelCode": "PW-1385 5MM",
+    "originalName": "PW-1385 5MM",
+    "catalogLocation": "Page 15, Row 6, Col 2",
+    "sourceCard": "15_06_02_PW-1385_5MM__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (9.25330.00)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.25330.00\"",
+        "price": 20,
+        "sku": "TRP-PW-1385-5MM-9-25330-00"
+      }
+    ]
+  },
+  {
+    "serialNo": 109,
+    "id": "prod_trp_15_05_01",
+    "modelCode": "A",
+    "originalName": "A",
+    "catalogLocation": "Page 15, Row 5, Col 1",
+    "sourceCard": "15_05_01_A__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"A\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.3\"",
+        "price": 190,
+        "sku": "TRP-A-9-3"
+      },
+      {
+        "size": "10.3\"",
+        "price": 230,
+        "sku": "TRP-A-10-3"
+      }
+    ]
+  },
+  {
+    "serialNo": 110,
+    "id": "prod_trp_15_06_01",
+    "modelCode": "MST",
+    "originalName": "MST",
+    "catalogLocation": "Page 15, Row 6, Col 1",
+    "sourceCard": "15_06_01_MST__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"MST\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "9.7\"",
+        "price": 180,
+        "sku": "TRP-MST-9-7"
+      },
+      {
+        "size": "10.7\"",
+        "price": 220,
+        "sku": "TRP-MST-10-7"
+      }
+    ]
+  },
+  {
+    "serialNo": 111,
+    "id": "prod_trp_16_01_03",
+    "modelCode": "PW-1506",
+    "originalName": "PW-1506",
+    "catalogLocation": "Page 16, Row 1, Col 3",
+    "sourceCard": "16_01_03_PW-1506__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-1506-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 112,
+    "id": "prod_trp_16_03_02",
+    "modelCode": "DAN 1END ANN",
+    "originalName": "DAN 1END ANN",
+    "catalogLocation": "Page 16, Row 3, Col 2",
+    "sourceCard": "16_03_02_DAN_1END_ANN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DAN-1END-ANN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 113,
+    "id": "prod_trp_16_05_01",
+    "modelCode": "EE 4 COX ——",
+    "originalName": "EE 4 COX ——",
+    "catalogLocation": "Page 16, Row 5, Col 1",
+    "sourceCard": "16_05_01_EE_4_COX_——__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"EE 4 COX ——\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-EE-4-COX-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 114,
+    "id": "prod_trp_16_06_03",
+    "modelCode": "8 sox 2s",
+    "originalName": "8 sox 2s",
+    "catalogLocation": "Page 16, Row 6, Col 3",
+    "sourceCard": "16_06_03_8_sox_2s__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-8-sox-2s-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 115,
+    "id": "prod_trp_17_02_01",
+    "modelCode": "PW-1513 3MM",
+    "originalName": "PW-1513 3MM",
+    "catalogLocation": "Page 17, Row 2, Col 1",
+    "sourceCard": "17_02_01_PW-1513_3MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-1513-3MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 116,
+    "id": "prod_trp_17_03_02",
+    "modelCode": "W-2521 8MM",
+    "originalName": "W-2521 8MM",
+    "catalogLocation": "Page 17, Row 3, Col 2",
+    "sourceCard": "17_03_02_W-2521_8MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-2521-8MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 117,
+    "id": "prod_trp_17_03_03",
+    "modelCode": "W-2528 8MM",
+    "originalName": "W-2528 8MM",
+    "catalogLocation": "Page 17, Row 3, Col 3",
+    "sourceCard": "17_03_03_W-2528_8MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-2528-8MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 118,
+    "id": "prod_trp_17_04_01",
+    "modelCode": "a",
+    "originalName": "a",
+    "catalogLocation": "Page 17, Row 4, Col 1",
+    "sourceCard": "17_04_01_a__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"a\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "6.7\"",
+        "price": 70,
+        "sku": "TRP-a-6-7"
+      },
+      {
+        "size": "7.7\"",
+        "price": 92,
+        "sku": "TRP-a-7-7"
+      },
+      {
+        "size": "8.7\"",
+        "price": 104,
+        "sku": "TRP-a-8-7"
+      }
+    ]
+  },
+  {
+    "serialNo": 119,
+    "id": "prod_trp_17_04_02",
+    "modelCode": "= i",
+    "originalName": "= i",
+    "catalogLocation": "Page 17, Row 4, Col 2",
+    "sourceCard": "17_04_02_=_i__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-i-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 120,
+    "id": "prod_trp_17_05_01",
+    "modelCode": "— BOX £vYPLs",
+    "originalName": "— BOX £vYPLs",
+    "catalogLocation": "Page 17, Row 5, Col 1",
+    "sourceCard": "17_05_01_—_BOX_£vYPLs__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"— BOX £vYPLs\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "82\"",
+        "price": 64,
+        "sku": "TRP-BOX-vYPLs-82"
+      },
+      {
+        "size": "9.2\"",
+        "price": 86,
+        "sku": "TRP-BOX-vYPLs-9-2"
+      },
+      {
+        "size": "10\"",
+        "price": 27108,
+        "sku": "TRP-BOX-vYPLs-10"
+      }
+    ]
+  },
+  {
+    "serialNo": 121,
+    "id": "prod_trp_17_05_02",
+    "modelCode": "Bierce AN",
+    "originalName": "Bierce AN",
+    "catalogLocation": "Page 17, Row 5, Col 2",
+    "sourceCard": "17_05_02_Bierce_AN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Bierce-AN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 122,
+    "id": "prod_trp_18_01_03",
+    "modelCode": "PW-3022 12MM",
+    "originalName": "PW-3022 12MM",
+    "catalogLocation": "Page 18, Row 1, Col 3",
+    "sourceCard": "18_01_03_PW-3022_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-3022-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 123,
+    "id": "prod_trp_18_01_01",
+    "modelCode": "WWW-2532 8MM",
+    "originalName": "WWW-2532 8MM",
+    "catalogLocation": "Page 18, Row 1, Col 1",
+    "sourceCard": "18_01_01_WWW-2532_8MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WWW-2532-8MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 124,
+    "id": "prod_trp_18_02_03",
+    "modelCode": "PW-3023 12MM",
+    "originalName": "PW-3023 12MM",
+    "catalogLocation": "Page 18, Row 2, Col 3",
+    "sourceCard": "18_02_03_PW-3023_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-3023-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 125,
+    "id": "prod_trp_18_01_02",
+    "modelCode": "WWW-2538 8MM",
+    "originalName": "WWW-2538 8MM",
+    "catalogLocation": "Page 18, Row 1, Col 2",
+    "sourceCard": "18_01_02_WWW-2538_8MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WWW-2538-8MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 126,
+    "id": "prod_trp_18_03_03",
+    "modelCode": "DA 200",
+    "originalName": "DA 200",
+    "catalogLocation": "Page 18, Row 3, Col 3",
+    "sourceCard": "18_03_03_DA_200A_ADNAN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DA-200-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 127,
+    "id": "prod_trp_18_03_01",
+    "modelCode": "S85 110.00",
+    "originalName": "S85 110.00",
+    "catalogLocation": "Page 18, Row 3, Col 1",
+    "sourceCard": "18_03_01_S85_110.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-S85-110-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 128,
+    "id": "prod_trp_18_03_02",
+    "modelCode": "PW-3014 12MM",
+    "originalName": "PW-3014 12MM",
+    "catalogLocation": "Page 18, Row 3, Col 2",
+    "sourceCard": "18_03_02_PW-3014_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-3014-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 129,
+    "id": "prod_trp_18_04_02",
+    "modelCode": "PW-3018 12MM",
+    "originalName": "PW-3018 12MM",
+    "catalogLocation": "Page 18, Row 4, Col 2",
+    "sourceCard": "18_04_02_PW-3018_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-3018-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 130,
+    "id": "prod_trp_18_06_03",
+    "modelCode": "W - 3470 12MM",
+    "originalName": "W - 3470 12MM",
+    "catalogLocation": "Page 18, Row 6, Col 3",
+    "sourceCard": "18_06_03_Lp__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3470-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 131,
+    "id": "prod_trp_18_05_02",
+    "modelCode": "W-3020 12MM",
+    "originalName": "W-3020 12MM",
+    "catalogLocation": "Page 18, Row 5, Col 2",
+    "sourceCard": "18_05_02_W-3020_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3020-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 132,
+    "id": "prod_trp_19_01_03",
+    "modelCode": "WWW-3524 12MM",
+    "originalName": "WWW-3524 12MM",
+    "catalogLocation": "Page 19, Row 1, Col 3",
+    "sourceCard": "19_01_03_WWW-3524_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WWW-3524-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 133,
+    "id": "prod_trp_19_01_01",
+    "modelCode": "WW-3483 12MM",
+    "originalName": "WW-3483 12MM",
+    "catalogLocation": "Page 19, Row 1, Col 1",
+    "sourceCard": "19_01_01_WW-3483_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WW-3483-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 134,
+    "id": "prod_trp_18_06_02",
+    "modelCode": "PW-3021 12MM",
+    "originalName": "PW-3021 12MM",
+    "catalogLocation": "Page 18, Row 6, Col 2",
+    "sourceCard": "18_06_02_PW-3021_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-3021-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 135,
+    "id": "prod_trp_19_02_03",
+    "modelCode": "W-3525 12MM",
+    "originalName": "W-3525 12MM",
+    "catalogLocation": "Page 19, Row 2, Col 3",
+    "sourceCard": "19_02_03_W-3525_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3525-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 136,
+    "id": "prod_trp_19_02_01",
+    "modelCode": "W-3484 12MM",
+    "originalName": "W-3484 12MM",
+    "catalogLocation": "Page 19, Row 2, Col 1",
+    "sourceCard": "19_02_01_W-3484_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3484-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 137,
+    "id": "prod_trp_19_03_01",
+    "modelCode": "“of xs 95 29000",
+    "originalName": "“of xs 95 29000",
+    "catalogLocation": "Page 19, Row 3, Col 1",
+    "sourceCard": "19_03_01_“of_xs_95_29000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-of-xs-95-29000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 138,
+    "id": "prod_trp_19_03_03",
+    "modelCode": "A 20NA1 A99MNMA",
+    "originalName": "A 20NA1 A99MNMA",
+    "catalogLocation": "Page 19, Row 3, Col 3",
+    "sourceCard": "19_03_03_A_20NA1_A99MNMA__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-A-20NA1-A99MNMA-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 139,
+    "id": "prod_trp_19_02_02",
+    "modelCode": "W-3517 12MM",
+    "originalName": "W-3517 12MM",
+    "catalogLocation": "Page 19, Row 2, Col 2",
+    "sourceCard": "19_02_02_W-3517_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3517-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 140,
+    "id": "prod_trp_19_04_01",
+    "modelCode": "W-3486 12MM",
+    "originalName": "W-3486 12MM",
+    "catalogLocation": "Page 19, Row 4, Col 1",
+    "sourceCard": "19_04_01_SESEESTRE_NR_T=_a_oo__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3486-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 141,
+    "id": "prod_trp_19_05_01",
+    "modelCode": "laid vm 135 48000",
+    "originalName": "laid vm 135 48000",
+    "catalogLocation": "Page 19, Row 5, Col 1",
+    "sourceCard": "19_05_01_laid_vm_135_48000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-laid-vm-135-48000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 142,
+    "id": "prod_trp_19_06_01",
+    "modelCode": "Sy ___ Si",
+    "originalName": "Sy ___ Si",
+    "catalogLocation": "Page 19, Row 6, Col 1",
+    "sourceCard": "19_06_01_Sy_____Si__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Sy-Si-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 143,
+    "id": "prod_trp_19_06_03",
+    "modelCode": "W-3604 12MM",
+    "originalName": "W-3604 12MM",
+    "catalogLocation": "Page 19, Row 6, Col 3",
+    "sourceCard": "19_06_03_W-3604_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-3604-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 144,
+    "id": "prod_trp_20_01_03",
+    "modelCode": "PW-4013 12MM",
+    "originalName": "PW-4013 12MM",
+    "catalogLocation": "Page 20, Row 1, Col 3",
+    "sourceCard": "20_01_03_PW-4013_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4013-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 145,
+    "id": "prod_trp_20_02_03",
+    "modelCode": "PW-4014 12MM",
+    "originalName": "PW-4014 12MM",
+    "catalogLocation": "Page 20, Row 2, Col 3",
+    "sourceCard": "20_02_03_PW-4014_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4014-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 146,
+    "id": "prod_trp_20_01_02",
+    "modelCode": "WWW-4005 12MM",
+    "originalName": "WWW-4005 12MM",
+    "catalogLocation": "Page 20, Row 1, Col 2",
+    "sourceCard": "20_01_02_WWW-4005_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WWW-4005-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 147,
+    "id": "prod_trp_20_02_02",
+    "modelCode": "W-4008 12MM",
+    "originalName": "W-4008 12MM",
+    "catalogLocation": "Page 20, Row 2, Col 2",
+    "sourceCard": "20_02_02_W-4008_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4008-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 148,
+    "id": "prod_trp_20_05_01",
+    "modelCode": "PW-4003 12MM",
+    "originalName": "PW-4003 12MM",
+    "catalogLocation": "Page 20, Row 5, Col 1",
+    "sourceCard": "20_05_01_PW-4003_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4003-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 149,
+    "id": "prod_trp_20_04_03",
+    "modelCode": "PW-4018 12MM",
+    "originalName": "PW-4018 12MM",
+    "catalogLocation": "Page 20, Row 4, Col 3",
+    "sourceCard": "20_04_03_EE__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4018-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 150,
+    "id": "prod_trp_20_04_02",
+    "modelCode": "W -4010 12MM",
+    "originalName": "W -4010 12MM",
+    "catalogLocation": "Page 20, Row 4, Col 2",
+    "sourceCard": "20_04_02_EE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4010-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 151,
+    "id": "prod_trp_20_05_03",
+    "modelCode": "PW-4019 12MM",
+    "originalName": "PW-4019 12MM",
+    "catalogLocation": "Page 20, Row 5, Col 3",
+    "sourceCard": "20_05_03_EE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4019-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 152,
+    "id": "prod_trp_20_06_01",
+    "modelCode": "PW -4004 12MM",
+    "originalName": "PW -4004 12MM",
+    "catalogLocation": "Page 20, Row 6, Col 1",
+    "sourceCard": "20_06_01_SN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4004-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 153,
+    "id": "prod_trp_21_01_01",
+    "modelCode": "PW-4050 12MM",
+    "originalName": "PW-4050 12MM",
+    "catalogLocation": "Page 21, Row 1, Col 1",
+    "sourceCard": "21_01_01_PW-4050_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4050-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 154,
+    "id": "prod_trp_20_06_03",
+    "modelCode": "PW-4020 12MM",
+    "originalName": "PW-4020 12MM",
+    "catalogLocation": "Page 20, Row 6, Col 3",
+    "sourceCard": "20_06_03_PW-4020_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4020-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 155,
+    "id": "prod_trp_20_05_02",
+    "modelCode": "W -4011 12MM",
+    "originalName": "W -4011 12MM",
+    "catalogLocation": "Page 20, Row 5, Col 2",
+    "sourceCard": "20_05_02_EE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4011-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 156,
+    "id": "prod_trp_21_01_03",
+    "modelCode": "W-4718 12MM",
+    "originalName": "W-4718 12MM",
+    "catalogLocation": "Page 21, Row 1, Col 3",
+    "sourceCard": "21_01_03_W-4718_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4718-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 157,
+    "id": "prod_trp_21_02_01",
+    "modelCode": "PW-4051 12MM",
+    "originalName": "PW-4051 12MM",
+    "catalogLocation": "Page 21, Row 2, Col 1",
+    "sourceCard": "21_02_01_PW-4051_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-4051-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 158,
+    "id": "prod_trp_21_02_03",
+    "modelCode": "W-4719 12MM",
+    "originalName": "W-4719 12MM",
+    "catalogLocation": "Page 21, Row 2, Col 3",
+    "sourceCard": "21_02_03_W-4719_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4719-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 159,
+    "id": "prod_trp_21_01_02",
+    "modelCode": "W-4712 12MM",
+    "originalName": "W-4712 12MM",
+    "catalogLocation": "Page 21, Row 1, Col 2",
+    "sourceCard": "21_01_02_W-4712_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4712-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 160,
+    "id": "prod_trp_21_03_03",
+    "modelCode": "Al AT7ON ANN",
+    "originalName": "Al AT7ON ANN",
+    "catalogLocation": "Page 21, Row 3, Col 3",
+    "sourceCard": "21_03_03_Al_AT7ON_ANN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Al-AT7ON-ANN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 161,
+    "id": "prod_trp_21_02_02",
+    "modelCode": "W-4713 12MM",
+    "originalName": "W-4713 12MM",
+    "catalogLocation": "Page 21, Row 2, Col 2",
+    "sourceCard": "21_02_02_W-4713_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4713-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 162,
+    "id": "prod_trp_21_04_03",
+    "modelCode": "W-4721 12MM",
+    "originalName": "W-4721 12MM",
+    "catalogLocation": "Page 21, Row 4, Col 3",
+    "sourceCard": "21_04_03_W-4721_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4721-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 163,
+    "id": "prod_trp_21_05_01",
+    "modelCode": "—y 0000000000",
+    "originalName": "—y 0000000000",
+    "catalogLocation": "Page 21, Row 5, Col 1",
+    "sourceCard": "21_05_01_—y_0000000000__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"—y 0000000000\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-y-0000000000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 164,
+    "id": "prod_trp_21_03_02",
+    "modelCode": "W-4714 12MM",
+    "originalName": "W-4714 12MM",
+    "catalogLocation": "Page 21, Row 3, Col 2",
+    "sourceCard": "21_03_02_W-4714_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4714-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 165,
+    "id": "prod_trp_21_05_03",
+    "modelCode": "W -4722 12MM",
+    "originalName": "W -4722 12MM",
+    "catalogLocation": "Page 21, Row 5, Col 3",
+    "sourceCard": "21_05_03_Ee__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4722-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 166,
+    "id": "prod_trp_21_06_01",
+    "modelCode": "ROW-6",
+    "originalName": "ROW-6",
+    "catalogLocation": "Page 21, Row 6, Col 1",
+    "sourceCard": "21_06_01_ROW-6__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-6\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "11.7\"",
+        "price": 760,
+        "sku": "TRP-ROW-6-11-7"
+      },
+      {
+        "size": "12.7\"",
+        "price": 890,
+        "sku": "TRP-ROW-6-12-7"
+      },
+      {
+        "size": "13.7\"",
+        "price": 1000,
+        "sku": "TRP-ROW-6-13-7"
+      }
+    ]
+  },
+  {
+    "serialNo": 167,
+    "id": "prod_trp_21_04_02",
+    "modelCode": "W - 4715 12MM",
+    "originalName": "W - 4715 12MM",
+    "catalogLocation": "Page 21, Row 4, Col 2",
+    "sourceCard": "21_04_02_Ea__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4715-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 168,
+    "id": "prod_trp_21_06_03",
+    "modelCode": "W -4723 12MM",
+    "originalName": "W -4723 12MM",
+    "catalogLocation": "Page 21, Row 6, Col 3",
+    "sourceCard": "21_06_03_=a__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4723-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 169,
+    "id": "prod_trp_22_01_01",
+    "modelCode": "W-4724 12MM",
+    "originalName": "W-4724 12MM",
+    "catalogLocation": "Page 22, Row 1, Col 1",
+    "sourceCard": "22_01_01_W-4724_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4724-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 170,
+    "id": "prod_trp_21_05_02",
+    "modelCode": "W-4716 12MM",
+    "originalName": "W-4716 12MM",
+    "catalogLocation": "Page 21, Row 5, Col 2",
+    "sourceCard": "21_05_02_W-4716_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4716-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 171,
+    "id": "prod_trp_22_03_01",
+    "modelCode": "ff S 8 30000",
+    "originalName": "ff S 8 30000",
+    "catalogLocation": "Page 22, Row 3, Col 1",
+    "sourceCard": "22_03_01_ff_S_8_30000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ff-S-8-30000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 172,
+    "id": "prod_trp_21_06_02",
+    "modelCode": "W-4717 12MM",
+    "originalName": "W-4717 12MM",
+    "catalogLocation": "Page 21, Row 6, Col 2",
+    "sourceCard": "21_06_02_W-4717_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-4717-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 173,
+    "id": "prod_trp_22_02_03",
+    "modelCode": "W-6231 18MM",
+    "originalName": "W-6231 18MM",
+    "catalogLocation": "Page 22, Row 2, Col 3",
+    "sourceCard": "22_02_03_W-6231_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6231-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 174,
+    "id": "prod_trp_22_01_02",
+    "modelCode": "WW-5007 12MM",
+    "originalName": "WW-5007 12MM",
+    "catalogLocation": "Page 22, Row 1, Col 2",
+    "sourceCard": "22_01_02_WW-5007_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WW-5007-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 175,
+    "id": "prod_trp_22_02_02",
+    "modelCode": "W-5008 12MM",
+    "originalName": "W-5008 12MM",
+    "catalogLocation": "Page 22, Row 2, Col 2",
+    "sourceCard": "22_02_02_W-5008_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-5008-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 176,
+    "id": "prod_trp_22_04_01",
+    "modelCode": "EEEE—————.",
+    "originalName": "EEEE—————.",
+    "catalogLocation": "Page 22, Row 4, Col 1",
+    "sourceCard": "22_04_01_EEEE—————.__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"EEEE—————.\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.75\"",
+        "price": 360,
+        "sku": "TRP-EEEE-8-75"
+      },
+      {
+        "size": "9.75\"",
+        "price": 430,
+        "sku": "TRP-EEEE-9-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 177,
+    "id": "prod_trp_22_03_03",
+    "modelCode": "W-6813 18MM",
+    "originalName": "W-6813 18MM",
+    "catalogLocation": "Page 22, Row 3, Col 3",
+    "sourceCard": "22_03_03_W-6813_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6813-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 178,
+    "id": "prod_trp_22_05_01",
+    "modelCode": "Ee",
+    "originalName": "Ee",
+    "catalogLocation": "Page 22, Row 5, Col 1",
+    "sourceCard": "22_05_01_Ee__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"Ee\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "8.5\"",
+        "price": 360,
+        "sku": "TRP-Ee-8-5"
+      },
+      {
+        "size": "9.5\"",
+        "price": 430,
+        "sku": "TRP-Ee-9-5"
+      }
+    ]
+  },
+  {
+    "serialNo": 179,
+    "id": "prod_trp_22_04_02",
+    "modelCode": "W-5054 12MM",
+    "originalName": "W-5054 12MM",
+    "catalogLocation": "Page 22, Row 4, Col 2",
+    "sourceCard": "22_04_02_EE__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-5054-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 180,
+    "id": "prod_trp_22_06_01",
+    "modelCode": "W-5006 12MM",
+    "originalName": "W-5006 12MM",
+    "catalogLocation": "Page 22, Row 6, Col 1",
+    "sourceCard": "22_06_01_W-5006_12MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-5006-12MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 181,
+    "id": "prod_trp_22_04_03",
+    "modelCode": "Ee —",
+    "originalName": "Ee —",
+    "catalogLocation": "Page 22, Row 4, Col 3",
+    "sourceCard": "22_04_03_Ee_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"Ee —\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ee-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 182,
+    "id": "prod_trp_22_05_02",
+    "modelCode": "W-6224 18MM",
+    "originalName": "W-6224 18MM",
+    "catalogLocation": "Page 22, Row 5, Col 2",
+    "sourceCard": "22_05_02___E—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6224-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 183,
+    "id": "prod_trp_23_01_01",
+    "modelCode": "PW-6820 18MM",
+    "originalName": "PW-6820 18MM",
+    "catalogLocation": "Page 23, Row 1, Col 1",
+    "sourceCard": "23_01_01_PW-6820_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-6820-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 184,
+    "id": "prod_trp_22_06_02",
+    "modelCode": "W-6226 18MM",
+    "originalName": "W-6226 18MM",
+    "catalogLocation": "Page 22, Row 6, Col 2",
+    "sourceCard": "22_06_02_W-6226_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6226-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 185,
+    "id": "prod_trp_23_02_01",
+    "modelCode": "PW-6821 18MM",
+    "originalName": "PW-6821 18MM",
+    "catalogLocation": "Page 23, Row 2, Col 1",
+    "sourceCard": "23_02_01_PW-6821_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-6821-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 186,
+    "id": "prod_trp_23_01_02",
+    "modelCode": "WW-6831 18MM",
+    "originalName": "WW-6831 18MM",
+    "catalogLocation": "Page 23, Row 1, Col 2",
+    "sourceCard": "23_01_02_WW-6831_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WW-6831-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 187,
+    "id": "prod_trp_22_06_03",
+    "modelCode": "PW-6819 18MM",
+    "originalName": "PW-6819 18MM",
+    "catalogLocation": "Page 22, Row 6, Col 3",
+    "sourceCard": "22_06_03_PW-6819_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-6819-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 188,
+    "id": "prod_trp_23_02_02",
+    "modelCode": "W-6832 18MM",
+    "originalName": "W-6832 18MM",
+    "catalogLocation": "Page 23, Row 2, Col 2",
+    "sourceCard": "23_02_02_W-6832_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6832-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 189,
+    "id": "prod_trp_23_03_02",
+    "modelCode": "W-6833 18MM",
+    "originalName": "W-6833 18MM",
+    "catalogLocation": "Page 23, Row 3, Col 2",
+    "sourceCard": "23_03_02_W-6833_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6833-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 190,
+    "id": "prod_trp_23_03_01",
+    "modelCode": "Al ODA A1AQMNAMNAN",
+    "originalName": "Al ODA A1AQMNAMNAN",
+    "catalogLocation": "Page 23, Row 3, Col 1",
+    "sourceCard": "23_03_01_Al_ODA_A1AQMNAMNAN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Al-ODA-A1AQMNAMNAN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 191,
+    "id": "prod_trp_23_01_03",
+    "modelCode": "WWW-6857 18MM",
+    "originalName": "WWW-6857 18MM",
+    "catalogLocation": "Page 23, Row 1, Col 3",
+    "sourceCard": "23_01_03_WWW-6857_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WWW-6857-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 192,
+    "id": "prod_trp_23_04_01",
+    "modelCode": "W-6828 18MM",
+    "originalName": "W-6828 18MM",
+    "catalogLocation": "Page 23, Row 4, Col 1",
+    "sourceCard": "23_04_01_W-6828_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6828-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 193,
+    "id": "prod_trp_23_02_03",
+    "modelCode": "W-6858 18MM",
+    "originalName": "W-6858 18MM",
+    "catalogLocation": "Page 23, Row 2, Col 3",
+    "sourceCard": "23_02_03_W-6858_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6858-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 194,
+    "id": "prod_trp_23_03_03",
+    "modelCode": "Al LOCO A0OMNANAN",
+    "originalName": "Al LOCO A0OMNANAN",
+    "catalogLocation": "Page 23, Row 3, Col 3",
+    "sourceCard": "23_03_03_Al_LOCO_A0OMNANAN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Al-LOCO-A0OMNANAN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 195,
+    "id": "prod_trp_23_06_01",
+    "modelCode": "W-6830 18MM",
+    "originalName": "W-6830 18MM",
+    "catalogLocation": "Page 23, Row 6, Col 1",
+    "sourceCard": "23_06_01_I__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6830-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 196,
+    "id": "prod_trp_23_04_03",
+    "modelCode": "W-6860 18MM",
+    "originalName": "W-6860 18MM",
+    "catalogLocation": "Page 23, Row 4, Col 3",
+    "sourceCard": "23_04_03_W-6860_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6860-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 197,
+    "id": "prod_trp_23_06_02",
+    "modelCode": "W-6856 18MM",
+    "originalName": "W-6856 18MM",
+    "catalogLocation": "Page 23, Row 6, Col 2",
+    "sourceCard": "23_06_02_e—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6856-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 198,
+    "id": "prod_trp_24_02_01",
+    "modelCode": "W-6864 18MM",
+    "originalName": "W-6864 18MM",
+    "catalogLocation": "Page 24, Row 2, Col 1",
+    "sourceCard": "24_02_01_W-6864_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6864-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 199,
+    "id": "prod_trp_23_05_03",
+    "modelCode": "i A",
+    "originalName": "i A",
+    "catalogLocation": "Page 23, Row 5, Col 3",
+    "sourceCard": "23_05_03_i_A__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-i-A-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 200,
+    "id": "prod_trp_24_01_02",
+    "modelCode": "WWW-6890 18MM",
+    "originalName": "WWW-6890 18MM",
+    "catalogLocation": "Page 24, Row 1, Col 2",
+    "sourceCard": "24_01_02_WWW-6890_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WWW-6890-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 201,
+    "id": "prod_trp_23_06_03",
+    "modelCode": "W-6862 18MM",
+    "originalName": "W-6862 18MM",
+    "catalogLocation": "Page 23, Row 6, Col 3",
+    "sourceCard": "23_06_03_W-6862_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6862-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 202,
+    "id": "prod_trp_24_03_01",
+    "modelCode": "AN CQ 77 A0MNANA",
+    "originalName": "AN CQ 77 A0MNANA",
+    "catalogLocation": "Page 24, Row 3, Col 1",
+    "sourceCard": "24_03_01_AN_CQ_77_A0MNANA__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AN-CQ-77-A0MNANA-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 203,
+    "id": "prod_trp_24_02_02",
+    "modelCode": "W-6891 18MM",
+    "originalName": "W-6891 18MM",
+    "catalogLocation": "Page 24, Row 2, Col 2",
+    "sourceCard": "24_02_02_W-6891_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6891-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 204,
+    "id": "prod_trp_24_01_03",
+    "modelCode": "AA-9401 8MM",
+    "originalName": "AA-9401 8MM",
+    "catalogLocation": "Page 24, Row 1, Col 3",
+    "sourceCard": "24_01_03_AA-9401_8MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AA-9401-8MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 205,
+    "id": "prod_trp_24_04_01",
+    "modelCode": "A —",
+    "originalName": "A —",
+    "catalogLocation": "Page 24, Row 4, Col 1",
+    "sourceCard": "24_04_01_A_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"A —\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-A-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 206,
+    "id": "prod_trp_24_03_02",
+    "modelCode": "A 00D 41AQMNAMNAN",
+    "originalName": "A 00D 41AQMNAMNAN",
+    "catalogLocation": "Page 24, Row 3, Col 2",
+    "sourceCard": "24_03_02_A_00D_41AQMNAMNAN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-A-00D-41AQMNAMNAN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 207,
+    "id": "prod_trp_24_02_03",
+    "modelCode": "AA-9406",
+    "originalName": "AA-9406",
+    "catalogLocation": "Page 24, Row 2, Col 3",
+    "sourceCard": "24_02_03_AA-9406__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AA-9406-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 208,
+    "id": "prod_trp_24_05_01",
+    "modelCode": "PW-6880 18MM",
+    "originalName": "PW-6880 18MM",
+    "catalogLocation": "Page 24, Row 5, Col 1",
+    "sourceCard": "24_05_01_PW-6880_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PW-6880-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 209,
+    "id": "prod_trp_24_04_02",
+    "modelCode": "W-6884 18MM",
+    "originalName": "W-6884 18MM",
+    "catalogLocation": "Page 24, Row 4, Col 2",
+    "sourceCard": "24_04_02_EE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-W-6884-18MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 210,
+    "id": "prod_trp_24_04_03",
+    "modelCode": "AA-9413",
+    "originalName": "AA-9413",
+    "catalogLocation": "Page 24, Row 4, Col 3",
+    "sourceCard": "24_04_03_AA-9413__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AA-9413-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 211,
+    "id": "prod_trp_24_05_02",
+    "modelCode": "(gh & 24",
+    "originalName": "(gh & 24",
+    "catalogLocation": "Page 24, Row 5, Col 2",
+    "sourceCard": "24_05_02_(gh_&_24__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-gh-24-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 212,
+    "id": "prod_trp_25_02_01",
+    "modelCode": "AP-9502 5MM",
+    "originalName": "AP-9502 5MM",
+    "catalogLocation": "Page 25, Row 2, Col 1",
+    "sourceCard": "25_02_01_AP-9502_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AP-9502-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 213,
+    "id": "prod_trp_25_01_03",
+    "modelCode": "CA-7016",
+    "originalName": "CA-7016",
+    "catalogLocation": "Page 25, Row 1, Col 3",
+    "sourceCard": "25_01_03_CA-7016__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7016-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 214,
+    "id": "prod_trp_25_03_01",
+    "modelCode": "El S 975 310.00",
+    "originalName": "El S 975 310.00",
+    "catalogLocation": "Page 25, Row 3, Col 1",
+    "sourceCard": "25_03_01_El_S_975_310.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-El-S-975-310-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 215,
+    "id": "prod_trp_25_03_02",
+    "modelCode": "CN 7019 MNACTAI",
+    "originalName": "CN 7019 MNACTAI",
+    "catalogLocation": "Page 25, Row 3, Col 2",
+    "sourceCard": "25_03_02_CN_7019_MNACTAI__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CN-7019-MNACTAI-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 216,
+    "id": "prod_trp_25_04_02",
+    "modelCode": "CA-7013",
+    "originalName": "CA-7013",
+    "catalogLocation": "Page 25, Row 4, Col 2",
+    "sourceCard": "25_04_02_CA-7013__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7013-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 217,
+    "id": "prod_trp_25_05_03",
+    "modelCode": "CA-7021",
+    "originalName": "CA-7021",
+    "catalogLocation": "Page 25, Row 5, Col 3",
+    "sourceCard": "25_05_03_ee._S—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7021-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 218,
+    "id": "prod_trp_25_05_01",
+    "modelCode": "a 4",
+    "originalName": "a 4",
+    "catalogLocation": "Page 25, Row 5, Col 1",
+    "sourceCard": "25_05_01_a_4__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-a-4-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 219,
+    "id": "prod_trp_25_05_02",
+    "modelCode": "CA-7014",
+    "originalName": "CA-7014",
+    "catalogLocation": "Page 25, Row 5, Col 2",
+    "sourceCard": "25_05_02_CA-7014__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7014-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 220,
+    "id": "prod_trp_25_06_02",
+    "modelCode": "Bn. J",
+    "originalName": "Bn. J",
+    "catalogLocation": "Page 25, Row 6, Col 2",
+    "sourceCard": "25_06_02_Bn._J__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Bn-J-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 221,
+    "id": "prod_trp_26_03_03",
+    "modelCode": "NAN 7202 MNLCTAI",
+    "originalName": "NAN 7202 MNLCTAI",
+    "catalogLocation": "Page 26, Row 3, Col 3",
+    "sourceCard": "26_03_03_NAN_7202_MNLCTAI__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-NAN-7202-MNLCTAI-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 222,
+    "id": "prod_trp_26_02_01",
+    "modelCode": "CA-7025",
+    "originalName": "CA-7025",
+    "catalogLocation": "Page 26, Row 2, Col 1",
+    "sourceCard": "26_02_01_CA-7025__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7025-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 223,
+    "id": "prod_trp_26_02_02",
+    "modelCode": "CA-7032",
+    "originalName": "CA-7032",
+    "catalogLocation": "Page 26, Row 2, Col 2",
+    "sourceCard": "26_02_02_CA-7032__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7032-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 224,
+    "id": "prod_trp_26_04_03",
+    "modelCode": "CA-7511",
+    "originalName": "CA-7511",
+    "catalogLocation": "Page 26, Row 4, Col 3",
+    "sourceCard": "26_04_03_CA-7511__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7511-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 225,
+    "id": "prod_trp_26_03_01",
+    "modelCode": "MAN 7002 NCTA",
+    "originalName": "MAN 7002 NCTA",
+    "catalogLocation": "Page 26, Row 3, Col 1",
+    "sourceCard": "26_03_01_MAN_7002_NCTA__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MAN-7002-NCTA-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 226,
+    "id": "prod_trp_26_03_02",
+    "modelCode": "CA-7033",
+    "originalName": "CA-7033",
+    "catalogLocation": "Page 26, Row 3, Col 2",
+    "sourceCard": "26_03_02_CA-7033__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7033-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 227,
+    "id": "prod_trp_26_05_03",
+    "modelCode": "CA-7562",
+    "originalName": "CA-7562",
+    "catalogLocation": "Page 26, Row 5, Col 3",
+    "sourceCard": "26_05_03_BE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7562-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 228,
+    "id": "prod_trp_26_04_01",
+    "modelCode": "CA-7028",
+    "originalName": "CA-7028",
+    "catalogLocation": "Page 26, Row 4, Col 1",
+    "sourceCard": "26_04_01_CA-7028__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7028-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 229,
+    "id": "prod_trp_26_04_02",
+    "modelCode": "CA-7034",
+    "originalName": "CA-7034",
+    "catalogLocation": "Page 26, Row 4, Col 2",
+    "sourceCard": "26_04_02_CA-7034__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7034-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 230,
+    "id": "prod_trp_26_06_03",
+    "modelCode": "CA-7583",
+    "originalName": "CA-7583",
+    "catalogLocation": "Page 26, Row 6, Col 3",
+    "sourceCard": "26_06_03_EE__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7583-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 231,
+    "id": "prod_trp_27_01_03",
+    "modelCode": "CA-8301",
+    "originalName": "CA-8301",
+    "catalogLocation": "Page 27, Row 1, Col 3",
+    "sourceCard": "27_01_03_CA-8301__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-8301-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 232,
+    "id": "prod_trp_26_05_01",
+    "modelCode": "CA-7029",
+    "originalName": "CA-7029",
+    "catalogLocation": "Page 26, Row 5, Col 1",
+    "sourceCard": "26_05_01_CA-7029__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7029-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 233,
+    "id": "prod_trp_26_05_02",
+    "modelCode": "CA-7035",
+    "originalName": "CA-7035",
+    "catalogLocation": "Page 26, Row 5, Col 2",
+    "sourceCard": "26_05_02_A__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7035-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 234,
+    "id": "prod_trp_27_03_03",
+    "modelCode": "CA-8302",
+    "originalName": "CA-8302",
+    "catalogLocation": "Page 27, Row 3, Col 3",
+    "sourceCard": "27_03_03_CA-8302__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-8302-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 235,
+    "id": "prod_trp_26_06_01",
+    "modelCode": "Ho A",
+    "originalName": "Ho A",
+    "catalogLocation": "Page 26, Row 6, Col 1",
+    "sourceCard": "26_06_01_Ho_A__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ho-A-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 236,
+    "id": "prod_trp_27_05_03",
+    "modelCode": "CA-8303",
+    "originalName": "CA-8303",
+    "catalogLocation": "Page 27, Row 5, Col 3",
+    "sourceCard": "27_05_03_CA-8303__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-8303-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 237,
+    "id": "prod_trp_27_01_01",
+    "modelCode": "CA-7587",
+    "originalName": "CA-7587",
+    "catalogLocation": "Page 27, Row 1, Col 1",
+    "sourceCard": "27_01_01_CA-7587__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7587-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 238,
+    "id": "prod_trp_27_06_03",
+    "modelCode": "ILE 1£.9 YOU.UU",
+    "originalName": "ILE 1£.9 YOU.UU",
+    "catalogLocation": "Page 27, Row 6, Col 3",
+    "sourceCard": "27_06_03_ILE_1£.9_YOU.UU__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ILE-1-9-YOU-UU-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 239,
+    "id": "prod_trp_27_01_02",
+    "modelCode": "CA-8002",
+    "originalName": "CA-8002",
+    "catalogLocation": "Page 27, Row 1, Col 2",
+    "sourceCard": "27_01_02_CA-8002_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-8002-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 240,
+    "id": "prod_trp_27_05_01",
+    "modelCode": "CA-7904",
+    "originalName": "CA-7904",
+    "catalogLocation": "Page 27, Row 5, Col 1",
+    "sourceCard": "27_05_01_BE_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7904-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 241,
+    "id": "prod_trp_27_06_01",
+    "modelCode": "CA-7906",
+    "originalName": "CA-7906",
+    "catalogLocation": "Page 27, Row 6, Col 1",
+    "sourceCard": "27_06_01_CA-7906__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CA-7906-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 242,
+    "id": "prod_trp_27_05_02",
+    "modelCode": "'S 11.25 560.00",
+    "originalName": "'S 11.25 560.00",
+    "catalogLocation": "Page 27, Row 5, Col 2",
+    "sourceCard": "27_05_02_'S_11.25_560.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-S-11-25-560-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 243,
+    "id": "prod_trp_28_01_02",
+    "modelCode": "WA-18",
+    "originalName": "WA-18",
+    "catalogLocation": "Page 28, Row 1, Col 2",
+    "sourceCard": "28_01_02_WA-18_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-18-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 244,
+    "id": "prod_trp_28_01_03",
+    "modelCode": "WA-26",
+    "originalName": "WA-26",
+    "catalogLocation": "Page 28, Row 1, Col 3",
+    "sourceCard": "28_01_03_WA-26_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-26-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 245,
+    "id": "prod_trp_28_02_01",
+    "modelCode": "WA-06",
+    "originalName": "WA-06",
+    "catalogLocation": "Page 28, Row 2, Col 1",
+    "sourceCard": "28_02_01_WA-06_50MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-06-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 246,
+    "id": "prod_trp_28_02_02",
+    "modelCode": "WA-20",
+    "originalName": "WA-20",
+    "catalogLocation": "Page 28, Row 2, Col 2",
+    "sourceCard": "28_02_02_WA-20_50MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-20-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 247,
+    "id": "prod_trp_28_03_03",
+    "modelCode": "AAJA DO 41Q0MNNA",
+    "originalName": "AAJA DO 41Q0MNNA",
+    "catalogLocation": "Page 28, Row 3, Col 3",
+    "sourceCard": "28_03_03_AAJA_DO_41Q0MNNA__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AAJA-DO-41Q0MNNA-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 248,
+    "id": "prod_trp_28_03_02",
+    "modelCode": "WA-21",
+    "originalName": "WA-21",
+    "catalogLocation": "Page 28, Row 3, Col 2",
+    "sourceCard": "28_03_02_WA-21_50MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-21-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 249,
+    "id": "prod_trp_28_04_01",
+    "modelCode": "ttt Size 11 440.00",
+    "originalName": "ttt Size 11 440.00",
+    "catalogLocation": "Page 28, Row 4, Col 1",
+    "sourceCard": "28_04_01_ttt_Size_11_440.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ttt-Size-11-440-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 250,
+    "id": "prod_trp_28_04_03",
+    "modelCode": "WA-30",
+    "originalName": "WA-30",
+    "catalogLocation": "Page 28, Row 4, Col 3",
+    "sourceCard": "28_04_03_WA-30_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-30-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 251,
+    "id": "prod_trp_28_04_02",
+    "modelCode": "WA-22",
+    "originalName": "WA-22",
+    "catalogLocation": "Page 28, Row 4, Col 2",
+    "sourceCard": "28_04_02_EE——.——__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-22-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 252,
+    "id": "prod_trp_28_05_01",
+    "modelCode": "Ea",
+    "originalName": "Ea",
+    "catalogLocation": "Page 28, Row 5, Col 1",
+    "sourceCard": "28_05_01_Ea__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ea-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 253,
+    "id": "prod_trp_28_05_02",
+    "modelCode": "WA-23",
+    "originalName": "WA-23",
+    "catalogLocation": "Page 28, Row 5, Col 2",
+    "sourceCard": "28_05_02_a__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-23-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 254,
+    "id": "prod_trp_28_05_03",
+    "modelCode": "WA-31",
+    "originalName": "WA-31",
+    "catalogLocation": "Page 28, Row 5, Col 3",
+    "sourceCard": "28_05_03_WA-31_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-31-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 255,
+    "id": "prod_trp_28_06_02",
+    "modelCode": "WA-24",
+    "originalName": "WA-24",
+    "catalogLocation": "Page 28, Row 6, Col 2",
+    "sourceCard": "28_06_02_WA-24_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-24-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 256,
+    "id": "prod_trp_28_06_01",
+    "modelCode": "INQ",
+    "originalName": "INQ",
+    "catalogLocation": "Page 28, Row 6, Col 1",
+    "sourceCard": "28_06_01_INQ__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-INQ-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 257,
+    "id": "prod_trp_28_06_03",
+    "modelCode": "in I",
+    "originalName": "in I",
+    "catalogLocation": "Page 28, Row 6, Col 3",
+    "sourceCard": "28_06_03_in_I__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-in-I-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 258,
+    "id": "prod_trp_29_01_02",
+    "modelCode": "WA-39",
+    "originalName": "WA-39",
+    "catalogLocation": "Page 29, Row 1, Col 2",
+    "sourceCard": "29_01_02_WA-39_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-39-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 259,
+    "id": "prod_trp_29_01_01",
+    "modelCode": "WA-33",
+    "originalName": "WA-33",
+    "catalogLocation": "Page 29, Row 1, Col 1",
+    "sourceCard": "29_01_01_WA-33_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-33-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 260,
+    "id": "prod_trp_29_01_03",
+    "modelCode": "WA-47",
+    "originalName": "WA-47",
+    "catalogLocation": "Page 29, Row 1, Col 3",
+    "sourceCard": "29_01_03_WA-47_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-47-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 261,
+    "id": "prod_trp_29_02_01",
+    "modelCode": "WA-34",
+    "originalName": "WA-34",
+    "catalogLocation": "Page 29, Row 2, Col 1",
+    "sourceCard": "29_02_01_WA-34_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-34-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 262,
+    "id": "prod_trp_29_02_03",
+    "modelCode": "WA-48",
+    "originalName": "WA-48",
+    "catalogLocation": "Page 29, Row 2, Col 3",
+    "sourceCard": "29_02_03_WA-48_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-48-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 263,
+    "id": "prod_trp_29_03_02",
+    "modelCode": "WA-41",
+    "originalName": "WA-41",
+    "catalogLocation": "Page 29, Row 3, Col 2",
+    "sourceCard": "29_03_02_WA-41_35MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-41-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 264,
+    "id": "prod_trp_29_03_01",
+    "modelCode": "AA DAE A1QMNANA",
+    "originalName": "AA DAE A1QMNANA",
+    "catalogLocation": "Page 29, Row 3, Col 1",
+    "sourceCard": "29_03_01_AA_DAE_A1QMNANA__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-AA-DAE-A1QMNANA-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 265,
+    "id": "prod_trp_29_03_03",
+    "modelCode": "LA-101 5MM",
+    "originalName": "LA-101 5MM",
+    "catalogLocation": "Page 29, Row 3, Col 3",
+    "sourceCard": "29_03_03_LA-101_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-LA-101-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 266,
+    "id": "prod_trp_29_04_02",
+    "modelCode": "WA-42",
+    "originalName": "WA-42",
+    "catalogLocation": "Page 29, Row 4, Col 2",
+    "sourceCard": "29_04_02_ee._—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-42-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 267,
+    "id": "prod_trp_29_04_03",
+    "modelCode": "SE —",
+    "originalName": "SE —",
+    "catalogLocation": "Page 29, Row 4, Col 3",
+    "sourceCard": "29_04_03_SE_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"SE —\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-SE-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 268,
+    "id": "prod_trp_29_04_01",
+    "modelCode": "WA-36",
+    "originalName": "WA-36",
+    "catalogLocation": "Page 29, Row 4, Col 1",
+    "sourceCard": "29_04_01_En__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-36-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 269,
+    "id": "prod_trp_29_05_01",
+    "modelCode": "q Size 8x10 770.00",
+    "originalName": "q Size 8x10 770.00",
+    "catalogLocation": "Page 29, Row 5, Col 1",
+    "sourceCard": "29_05_01_q_Size_8x10_770.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-q-Size-8x10-770-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 270,
+    "id": "prod_trp_29_05_02",
+    "modelCode": "WA-44",
+    "originalName": "WA-44",
+    "catalogLocation": "Page 29, Row 5, Col 2",
+    "sourceCard": "29_05_02_i_—__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-44-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 271,
+    "id": "prod_trp_29_05_03",
+    "modelCode": "LA-103 5MM",
+    "originalName": "LA-103 5MM",
+    "catalogLocation": "Page 29, Row 5, Col 3",
+    "sourceCard": "29_05_03_LA-103_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-LA-103-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 272,
+    "id": "prod_trp_29_06_01",
+    "modelCode": "WA-38",
+    "originalName": "WA-38",
+    "catalogLocation": "Page 29, Row 6, Col 1",
+    "sourceCard": "29_06_01_WA-38_18MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-38-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 273,
+    "id": "prod_trp_29_06_02",
+    "modelCode": "WA-46",
+    "originalName": "WA-46",
+    "catalogLocation": "Page 29, Row 6, Col 2",
+    "sourceCard": "29_06_02_WA-46_60MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-WA-46-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 274,
+    "id": "prod_trp_29_06_03",
+    "modelCode": "TT]",
+    "originalName": "TT]",
+    "catalogLocation": "Page 29, Row 6, Col 3",
+    "sourceCard": "29_06_03_TT]__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-TT-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 275,
+    "id": "prod_trp_30_01_02",
+    "modelCode": "ACA-203 5MM",
+    "originalName": "ACA-203 5MM",
+    "catalogLocation": "Page 30, Row 1, Col 2",
+    "sourceCard": "30_01_02_ACA-203_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ACA-203-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 276,
+    "id": "prod_trp_30_02_02",
+    "modelCode": "ACA-204 5MM",
+    "originalName": "ACA-204 5MM",
+    "catalogLocation": "Page 30, Row 2, Col 2",
+    "sourceCard": "30_02_02_ACA-204_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ACA-204-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 277,
+    "id": "prod_trp_30_03_02",
+    "modelCode": "ACA-205 5MM",
+    "originalName": "ACA-205 5MM",
+    "catalogLocation": "Page 30, Row 3, Col 2",
+    "sourceCard": "30_03_02_ACA-205_5MM__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ACA-205-5MM-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 278,
+    "id": "prod_trp_30_03_03",
+    "modelCode": "RA-405",
+    "originalName": "RA-405",
+    "catalogLocation": "Page 30, Row 3, Col 3",
+    "sourceCard": "30_03_03_RA-405__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-RA-405-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 279,
+    "id": "prod_trp_30_04_01",
+    "modelCode": "Ee —",
+    "originalName": "Ee —",
+    "catalogLocation": "Page 30, Row 4, Col 1",
+    "sourceCard": "30_04_01_Ee_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"Ee —\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "10\"",
+        "price": 290,
+        "sku": "TRP-Ee-10"
+      }
+    ]
+  },
+  {
+    "serialNo": 280,
+    "id": "prod_trp_30_04_02",
+    "modelCode": "EE —",
+    "originalName": "EE —",
+    "catalogLocation": "Page 30, Row 4, Col 2",
+    "sourceCard": "30_04_02_EE_—__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"EE —\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-EE-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 281,
+    "id": "prod_trp_30_04_03",
+    "modelCode": "RA-406",
+    "originalName": "RA-406",
+    "catalogLocation": "Page 30, Row 4, Col 3",
+    "sourceCard": "30_04_03_RA-406__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-RA-406-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 282,
+    "id": "prod_trp_30_05_01",
+    "modelCode": "EE",
+    "originalName": "EE",
+    "catalogLocation": "Page 30, Row 5, Col 1",
+    "sourceCard": "30_05_01_EE__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"EE\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-EE-See-source-card-1"
+      }
+    ]
+  },
+  {
+    "serialNo": 283,
+    "id": "prod_trp_30_06_01",
+    "modelCode": "EN",
+    "originalName": "EN",
+    "catalogLocation": "Page 30, Row 6, Col 1",
+    "sourceCard": "30_06_01_EN__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-EN-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 284,
+    "id": "prod_trp_30_06_02",
+    "modelCode": "ones",
+    "originalName": "ones",
+    "catalogLocation": "Page 30, Row 6, Col 2",
+    "sourceCard": "30_06_02_ones__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ones-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 285,
+    "id": "prod_trp_31_01_01",
+    "modelCode": "F-01",
+    "originalName": "F-01",
+    "catalogLocation": "Page 31, Row 1, Col 1",
+    "sourceCard": "31_01_01_F-01__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (10.25x10.25)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "10.25x10.25",
+        "price": 610,
+        "sku": "TRP-F-01-10-25x10-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 286,
+    "id": "prod_trp_31_01_02",
+    "modelCode": "FC-02",
+    "originalName": "FC-02",
+    "catalogLocation": "Page 31, Row 1, Col 2",
+    "sourceCard": "31_01_02_FC-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 287,
+    "id": "prod_trp_31_03_03",
+    "modelCode": "ROW-3",
+    "originalName": "ROW-3",
+    "catalogLocation": "Page 31, Row 3, Col 3",
+    "sourceCard": "31_03_03_ROW-3__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-3\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "40\"",
+        "price": 1950,
+        "sku": "TRP-ROW-3-40"
+      },
+      {
+        "size": "46\"",
+        "price": 2450,
+        "sku": "TRP-ROW-3-46"
+      },
+      {
+        "size": "52\"",
+        "price": 3370,
+        "sku": "TRP-ROW-3-52"
+      }
+    ]
+  },
+  {
+    "serialNo": 288,
+    "id": "prod_trp_31_03_02",
+    "modelCode": "Ss 66 4250.00",
+    "originalName": "Ss 66 4250.00",
+    "catalogLocation": "Page 31, Row 3, Col 2",
+    "sourceCard": "31_03_02_Ss_66_4250.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ss-66-4250-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 289,
+    "id": "prod_trp_31_04_03",
+    "modelCode": "rN 4",
+    "originalName": "rN 4",
+    "catalogLocation": "Page 31, Row 4, Col 3",
+    "sourceCard": "31_04_03_rN_4__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-rN-4-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 290,
+    "id": "prod_trp_31_05_01",
+    "modelCode": "oize 10x12 ©610.00",
+    "originalName": "oize 10x12 ©610.00",
+    "catalogLocation": "Page 31, Row 5, Col 1",
+    "sourceCard": "31_05_01_oize_10x12_©610.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-oize-10x12-610-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 291,
+    "id": "prod_trp_31_04_02",
+    "modelCode": "FC-07",
+    "originalName": "FC-07",
+    "catalogLocation": "Page 31, Row 4, Col 2",
+    "sourceCard": "31_04_02_FC-07__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-07-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 292,
+    "id": "prod_trp_31_06_03",
+    "modelCode": "Ss 38 2100.00",
+    "originalName": "Ss 38 2100.00",
+    "catalogLocation": "Page 31, Row 6, Col 3",
+    "sourceCard": "31_06_03_Ss_38_2100.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Ss-38-2100-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 293,
+    "id": "prod_trp_31_06_02",
+    "modelCode": "S28 1860.00",
+    "originalName": "S28 1860.00",
+    "catalogLocation": "Page 31, Row 6, Col 2",
+    "sourceCard": "31_06_02_S28_1860.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-S28-1860-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 294,
+    "id": "prod_trp_32_01_03",
+    "modelCode": "FC-33",
+    "originalName": "FC-33",
+    "catalogLocation": "Page 32, Row 1, Col 3",
+    "sourceCard": "32_01_03_FC-33__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-33-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 295,
+    "id": "prod_trp_32_01_02",
+    "modelCode": "FC-28",
+    "originalName": "FC-28",
+    "catalogLocation": "Page 32, Row 1, Col 2",
+    "sourceCard": "32_01_02_FC-28__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-28-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 296,
+    "id": "prod_trp_32_02_01",
+    "modelCode": "1 A A IJ V2 1ITV.VV",
+    "originalName": "1 A A IJ V2 1ITV.VV",
+    "catalogLocation": "Page 32, Row 2, Col 1",
+    "sourceCard": "32_02_01_1_A_A_IJ_V2_1ITV.VV__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-1-A-A-IJ-V2-1ITV-VV-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 297,
+    "id": "prod_trp_32_03_01",
+    "modelCode": "ROW-3",
+    "originalName": "ROW-3",
+    "catalogLocation": "Page 32, Row 3, Col 1",
+    "sourceCard": "32_03_01_ROW-3__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-3\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "36.5\"",
+        "price": 1900,
+        "sku": "TRP-ROW-3-36-5"
+      },
+      {
+        "size": "48\"",
+        "price": 2600,
+        "sku": "TRP-ROW-3-48"
+      }
+    ]
+  },
+  {
+    "serialNo": 298,
+    "id": "prod_trp_32_04_02",
+    "modelCode": "FC-30",
+    "originalName": "FC-30",
+    "catalogLocation": "Page 32, Row 4, Col 2",
+    "sourceCard": "32_04_02_FC-30__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-30-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 299,
+    "id": "prod_trp_32_04_01",
+    "modelCode": "ee",
+    "originalName": "ee",
+    "catalogLocation": "Page 32, Row 4, Col 1",
+    "sourceCard": "32_04_01_ee__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ee\"",
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-ee-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 300,
+    "id": "prod_trp_32_05_03",
+    "modelCode": "IC-03",
+    "originalName": "IC-03",
+    "catalogLocation": "Page 32, Row 5, Col 3",
+    "sourceCard": "32_05_03_IC-03__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-IC-03-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 301,
+    "id": "prod_trp_33_01_02",
+    "modelCode": "IC-18",
+    "originalName": "IC-18",
+    "catalogLocation": "Page 33, Row 1, Col 2",
+    "sourceCard": "33_01_02_IC-18__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-IC-18-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 302,
+    "id": "prod_trp_33_02_02",
+    "modelCode": "A L 46 285000",
+    "originalName": "A L 46 285000",
+    "catalogLocation": "Page 33, Row 2, Col 2",
+    "sourceCard": "33_02_02_A_L_46_285000__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-A-L-46-285000-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 303,
+    "id": "prod_trp_34_02_01",
+    "modelCode": "FC-37",
+    "originalName": "FC-37",
+    "catalogLocation": "Page 34, Row 2, Col 1",
+    "sourceCard": "34_02_01_FC-37__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-37-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 304,
+    "id": "prod_trp_34_01_01",
+    "modelCode": "FC-35",
+    "originalName": "FC-35",
+    "catalogLocation": "Page 34, Row 1, Col 1",
+    "sourceCard": "34_01_01_FC-35__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-35-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 305,
+    "id": "prod_trp_35_01_02",
+    "modelCode": "SINGLE BASE-02",
+    "originalName": "SINGLE BASE-02",
+    "catalogLocation": "Page 35, Row 1, Col 2",
+    "sourceCard": "35_01_02_SINGLE_BASE-02__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (3.3x2.2)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "3.3x2.2",
+        "price": 18,
+        "sku": "TRP-SINGLE-BASE-02-3-3x2-2"
+      },
+      {
+        "size": "3.7x25",
+        "price": 20,
+        "sku": "TRP-SINGLE-BASE-02-3-7x25"
+      }
+    ]
+  },
+  {
+    "serialNo": 306,
+    "id": "prod_trp_34_01_02",
+    "modelCode": "FC-36",
+    "originalName": "FC-36",
+    "catalogLocation": "Page 34, Row 1, Col 2",
+    "sourceCard": "34_01_02_FC-36__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FC-36-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 307,
+    "id": "prod_trp_35_02_01",
+    "modelCode": "DOUBLE BASE-01",
+    "originalName": "DOUBLE BASE-01",
+    "catalogLocation": "Page 35, Row 2, Col 1",
+    "sourceCard": "35_02_01_DOUBLE_BASE-01__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (2.2x3.1)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "2.2x3.1",
+        "price": 16,
+        "sku": "TRP-DOUBLE-BASE-01-2-2x3-1"
+      },
+      {
+        "size": "23x36",
+        "price": 22,
+        "sku": "TRP-DOUBLE-BASE-01-23x36"
+      },
+      {
+        "size": "2.5x.2",
+        "price": 26,
+        "sku": "TRP-DOUBLE-BASE-01-2-5x-2"
+      },
+      {
+        "size": "26x46",
+        "price": 38,
+        "sku": "TRP-DOUBLE-BASE-01-26x46"
+      },
+      {
+        "size": "26x55",
+        "price": 48,
+        "sku": "TRP-DOUBLE-BASE-01-26x55"
+      }
+    ]
+  },
+  {
+    "serialNo": 308,
+    "id": "prod_trp_35_03_03",
+    "modelCode": "PLASTIC-04",
+    "originalName": "PLASTIC-04",
+    "catalogLocation": "Page 35, Row 3, Col 3",
+    "sourceCard": "35_03_03_SQ._BASE_PLASTIC-04__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PLASTIC-04-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 309,
+    "id": "prod_trp_35_02_02",
+    "modelCode": "DOUBLE BASE-02",
+    "originalName": "DOUBLE BASE-02",
+    "catalogLocation": "Page 35, Row 2, Col 2",
+    "sourceCard": "35_02_02_DOUBLE_BASE-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-DOUBLE-BASE-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 310,
+    "id": "prod_trp_35_03_02",
+    "modelCode": "PLASTIC-03",
+    "originalName": "PLASTIC-03",
+    "catalogLocation": "Page 35, Row 3, Col 2",
+    "sourceCard": "35_03_02_SQ._BASE_PLASTIC-03__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PLASTIC-03-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 311,
+    "id": "prod_trp_35_03_01",
+    "modelCode": "PLASTIC-02",
+    "originalName": "PLASTIC-02",
+    "catalogLocation": "Page 35, Row 3, Col 1",
+    "sourceCard": "35_03_01_NEW_SQ._BASE_PLASTIC-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PLASTIC-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 312,
+    "id": "prod_trp_35_03_04",
+    "modelCode": "PLASTIC-05",
+    "originalName": "PLASTIC-05",
+    "catalogLocation": "Page 35, Row 3, Col 4",
+    "sourceCard": "35_03_04_SQ._BASE_PLASTIC-05__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PLASTIC-05-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 313,
+    "id": "prod_trp_37_02_02",
+    "modelCode": "MEDAL-1",
+    "originalName": "MEDAL-1",
+    "catalogLocation": "Page 37, Row 2, Col 2",
+    "sourceCard": "37_02_02_MEDAL-1st,2nd,3rd__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-MEDAL-1-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 314,
+    "id": "prod_trp_37_03_01",
+    "modelCode": "r",
+    "originalName": "r",
+    "catalogLocation": "Page 37, Row 3, Col 1",
+    "sourceCard": "37_03_01_r__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"r\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "25\"",
+        "price": 112,
+        "sku": "TRP-r-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 315,
+    "id": "prod_trp_37_04_03",
+    "modelCode": "CHEST FLOWER-07",
+    "originalName": "CHEST FLOWER-07",
+    "catalogLocation": "Page 37, Row 4, Col 3",
+    "sourceCard": "37_04_03_CHEST_FLOWER-07__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CHEST-FLOWER-07-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 316,
+    "id": "prod_trp_37_04_02",
+    "modelCode": "CHEST FLOWER-06",
+    "originalName": "CHEST FLOWER-06",
+    "catalogLocation": "Page 37, Row 4, Col 2",
+    "sourceCard": "37_04_02_CHEST_FLOWER-06__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CHEST-FLOWER-06-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 317,
+    "id": "prod_trp_37_04_01",
+    "modelCode": "CHEST FLOWER-05",
+    "originalName": "CHEST FLOWER-05",
+    "catalogLocation": "Page 37, Row 4, Col 1",
+    "sourceCard": "37_04_01_CHEST_FLOWER-05__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CHEST-FLOWER-05-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 318,
+    "id": "prod_trp_38_03_03",
+    "modelCode": "BOWLING-02",
+    "originalName": "BOWLING-02",
+    "catalogLocation": "Page 38, Row 3, Col 3",
+    "sourceCard": "38_03_03_BOWLING-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-BOWLING-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 319,
+    "id": "prod_trp_38_03_02",
+    "modelCode": "BROWI INC N1",
+    "originalName": "BROWI INC N1",
+    "catalogLocation": "Page 38, Row 3, Col 2",
+    "sourceCard": "38_03_02_BROWI_INC_N1__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-BROWI-INC-N1-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 320,
+    "id": "prod_trp_37_04_04",
+    "modelCode": "CHEST FLOWER-08",
+    "originalName": "CHEST FLOWER-08",
+    "catalogLocation": "Page 37, Row 4, Col 4",
+    "sourceCard": "37_04_04_CHEST_FLOWER-08__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CHEST-FLOWER-08-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 321,
+    "id": "prod_trp_39_01_01",
+    "modelCode": "FOOTBALL-07",
+    "originalName": "FOOTBALL-07",
+    "catalogLocation": "Page 39, Row 1, Col 1",
+    "sourceCard": "39_01_01_FOOTBALL-07__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-FOOTBALL-07-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 322,
+    "id": "prod_trp_39_02_02",
+    "modelCode": "BADMINTON-01",
+    "originalName": "BADMINTON-01",
+    "catalogLocation": "Page 39, Row 2, Col 2",
+    "sourceCard": "39_02_02_BADMINTON-01__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-BADMINTON-01-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 323,
+    "id": "prod_trp_40_01_03",
+    "modelCode": "BOOK-02",
+    "originalName": "BOOK-02",
+    "catalogLocation": "Page 40, Row 1, Col 3",
+    "sourceCard": "40_01_03_BOOK-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-BOOK-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 324,
+    "id": "prod_trp_40_03_01",
+    "modelCode": "KNOB-04",
+    "originalName": "KNOB-04",
+    "catalogLocation": "Page 40, Row 3, Col 1",
+    "sourceCard": "40_03_01_KNOB-04__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-KNOB-04-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 325,
+    "id": "prod_trp_40_02_01",
+    "modelCode": "Size 1 TO 22 2.00 (Per Inch)",
+    "originalName": "Size 1 TO 22 2.00 (Per Inch)",
+    "catalogLocation": "Page 40, Row 2, Col 1",
+    "sourceCard": "40_02_01_Size_1_TO_22_2.00_(Per_Inch)__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Size-1-TO-22-2-00-Per-Inch-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 326,
+    "id": "prod_trp_40_02_04",
+    "modelCode": "KNOB-03",
+    "originalName": "KNOB-03",
+    "catalogLocation": "Page 40, Row 2, Col 4",
+    "sourceCard": "40_02_04_KNOB-03__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-KNOB-03-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 327,
+    "id": "prod_trp_40_01_01",
+    "modelCode": "ROW-1",
+    "originalName": "ROW-1",
+    "catalogLocation": "Page 40, Row 1, Col 1",
+    "sourceCard": "40_01_01_ROW-1__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-1\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "5.5\"",
+        "price": 36,
+        "sku": "TRP-ROW-1-5-5"
+      },
+      {
+        "size": "6.5\"",
+        "price": 48,
+        "sku": "TRP-ROW-1-6-5"
+      },
+      {
+        "size": "7.5\"",
+        "price": 68,
+        "sku": "TRP-ROW-1-7-5"
+      }
+    ]
+  },
+  {
+    "serialNo": 328,
+    "id": "prod_trp_40_03_03",
+    "modelCode": "ROW-3",
+    "originalName": "ROW-3",
+    "catalogLocation": "Page 40, Row 3, Col 3",
+    "sourceCard": "40_03_03_ROW-3__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-3\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "3\"",
+        "price": 102,
+        "sku": "TRP-ROW-3-3"
+      }
+    ]
+  },
+  {
+    "serialNo": 329,
+    "id": "prod_trp_40_04_03",
+    "modelCode": "Small 1.25 4.00",
+    "originalName": "Small 1.25 4.00",
+    "catalogLocation": "Page 40, Row 4, Col 3",
+    "sourceCard": "40_04_03_Small_1.25_4.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-Small-1-25-4-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 330,
+    "id": "prod_trp_40_01_04",
+    "modelCode": "CORNER FOR BASE",
+    "originalName": "CORNER FOR BASE",
+    "catalogLocation": "Page 40, Row 1, Col 4",
+    "sourceCard": "40_01_04_CORNER_FOR_BASE__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-CORNER-FOR-BASE-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 331,
+    "id": "prod_trp_41_01_02",
+    "modelCode": "SMILEY BADGE PLAST",
+    "originalName": "SMILEY BADGE PLAST",
+    "catalogLocation": "Page 41, Row 1, Col 2",
+    "sourceCard": "41_01_02_SMILEY_BADGE_PLAST__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-SMILEY-BADGE-PLAST-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 332,
+    "id": "prod_trp_41_01_01",
+    "modelCode": "DOUBLE MAGNET-02",
+    "originalName": "DOUBLE MAGNET-02",
+    "catalogLocation": "Page 41, Row 1, Col 1",
+    "sourceCard": "41_01_01_DOUBLE_MAGNET-02__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (0.5x1.75)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "0.5x1.75",
+        "price": 72,
+        "sku": "TRP-DOUBLE-MAGNET-02-0-5x1-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 333,
+    "id": "prod_trp_41_02_01",
+    "modelCode": "PLASTIC BADGE-02",
+    "originalName": "PLASTIC BADGE-02",
+    "catalogLocation": "Page 41, Row 2, Col 1",
+    "sourceCard": "41_02_01_PLASTIC_BADGE-02__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (1.25x2.75)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "1.25x2.75",
+        "price": 72,
+        "sku": "TRP-PLASTIC-BADGE-02-1-25x2-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 334,
+    "id": "prod_trp_40_03_02",
+    "modelCode": "ROW-3",
+    "originalName": "ROW-3",
+    "catalogLocation": "Page 40, Row 3, Col 2",
+    "sourceCard": "40_03_02_ROW-3__source-card.jpg",
+    "reasons": [
+      "Ambiguous or garbled model code: \"ROW-3\""
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "2.25\"",
+        "price": 78,
+        "sku": "TRP-ROW-3-2-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 335,
+    "id": "prod_trp_41_01_04",
+    "modelCode": "IG-02",
+    "originalName": "IG-02",
+    "catalogLocation": "Page 41, Row 1, Col 4",
+    "sourceCard": "41_01_04_IG-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-IG-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 336,
+    "id": "prod_trp_41_03_03",
+    "modelCode": "STEEL BADGE - 01",
+    "originalName": "STEEL BADGE - 01",
+    "catalogLocation": "Page 41, Row 3, Col 3",
+    "sourceCard": "41_03_03_CTEEI_RADE_N1__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-STEEL-BADGE-01-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 337,
+    "id": "prod_trp_40_04_04",
+    "modelCode": "12MM RED PLAQUE",
+    "originalName": "12MM RED PLAQUE",
+    "catalogLocation": "Page 40, Row 4, Col 4",
+    "sourceCard": "40_04_04_12MM_RED_PLAQUE__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-12MM-RED-PLAQUE-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 338,
+    "id": "prod_trp_41_02_03",
+    "modelCode": "ALUMINIUM BADGE-01",
+    "originalName": "ALUMINIUM BADGE-01",
+    "catalogLocation": "Page 41, Row 2, Col 3",
+    "sourceCard": "41_02_03_ALUMINIUM_BADGE-01__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #2 (1.25x2.8)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "08x27",
+        "price": 48,
+        "sku": "TRP-ALUMINIUM-BADGE-01-08x27"
+      },
+      {
+        "size": "1.25x2.8",
+        "price": 62,
+        "sku": "TRP-ALUMINIUM-BADGE-01-1-25x2-8"
+      }
+    ]
+  },
+  {
+    "serialNo": 339,
+    "id": "prod_trp_41_01_03",
+    "modelCode": "KEYRING-01 PLASTIC KEYR",
+    "originalName": "KEYRING-01 PLASTIC KEYR",
+    "catalogLocation": "Page 41, Row 1, Col 3",
+    "sourceCard": "41_01_03_KEYRING-01_PLASTIC_KEYR__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-KEYRING-01-PLASTIC-KEYR-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 340,
+    "id": "prod_trp_41_04_02",
+    "modelCode": "STEEL BADGE-07",
+    "originalName": "STEEL BADGE-07",
+    "catalogLocation": "Page 41, Row 4, Col 2",
+    "sourceCard": "41_04_02_STEEL_BADGE-07__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (2.75x0.75)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "2.75x0.75",
+        "price": 28,
+        "sku": "TRP-STEEL-BADGE-07-2-75x0-75"
+      },
+      {
+        "size": "3x1",
+        "price": 36,
+        "sku": "TRP-STEEL-BADGE-07-3x1"
+      },
+      {
+        "size": "3.5x1.25",
+        "price": 44,
+        "sku": "TRP-STEEL-BADGE-07-3-5x1-25"
+      }
+    ]
+  },
+  {
+    "serialNo": 341,
+    "id": "prod_trp_41_02_02",
+    "modelCode": "PLASTIC BADGE-05",
+    "originalName": "PLASTIC BADGE-05",
+    "catalogLocation": "Page 41, Row 2, Col 2",
+    "sourceCard": "41_02_02_PLASTIC_BADGE-05__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #2 (1.3X2.75)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "1X2.75",
+        "price": 22,
+        "sku": "TRP-PLASTIC-BADGE-05-1X2-75"
+      },
+      {
+        "size": "1.3X2.75",
+        "price": 32,
+        "sku": "TRP-PLASTIC-BADGE-05-1-3X2-75"
+      }
+    ]
+  },
+  {
+    "serialNo": 342,
+    "id": "prod_trp_42_01_04",
+    "modelCode": "BRASS BADGE-05",
+    "originalName": "BRASS BADGE-05",
+    "catalogLocation": "Page 42, Row 1, Col 4",
+    "sourceCard": "42_01_04_BRASS_BADGE-05__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (2.6x1.2)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "2.6x1.2",
+        "price": 38,
+        "sku": "TRP-BRASS-BADGE-05-2-6x1-2"
+      }
+    ]
+  },
+  {
+    "serialNo": 343,
+    "id": "prod_trp_42_02_03",
+    "modelCode": "PIN-01",
+    "originalName": "PIN-01",
+    "catalogLocation": "Page 42, Row 2, Col 3",
+    "sourceCard": "42_02_03_PIN-01__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PIN-01-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 344,
+    "id": "prod_trp_42_02_02",
+    "modelCode": "BRASS BADGE-07",
+    "originalName": "BRASS BADGE-07",
+    "catalogLocation": "Page 42, Row 2, Col 2",
+    "sourceCard": "42_02_02_BRASS_BADGE-07__source-card.jpg",
+    "reasons": [
+      "Malformed size on variant #1 (1.5x1.5)"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "1.5x1.5",
+        "price": 26,
+        "sku": "TRP-BRASS-BADGE-07-1-5x1-5"
+      }
+    ]
+  },
+  {
+    "serialNo": 345,
+    "id": "prod_trp_41_03_04",
+    "modelCode": "STEEL BADGE-02",
+    "originalName": "STEEL BADGE-02",
+    "catalogLocation": "Page 41, Row 3, Col 4",
+    "sourceCard": "41_03_04_STEEL_BADGE-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-STEEL-BADGE-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 346,
+    "id": "prod_trp_42_04_04",
+    "modelCode": "sreen 14.00",
+    "originalName": "sreen 14.00",
+    "catalogLocation": "Page 42, Row 4, Col 4",
+    "sourceCard": "42_04_04_sreen_14.00__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-sreen-14-00-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 347,
+    "id": "prod_trp_42_01_02",
+    "modelCode": "BRASS BADGE-02",
+    "originalName": "BRASS BADGE-02",
+    "catalogLocation": "Page 42, Row 1, Col 2",
+    "sourceCard": "42_01_02_BRASS_BADGE-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-BRASS-BADGE-02-See-source-card"
+      }
+    ]
+  },
+  {
+    "serialNo": 348,
+    "id": "prod_trp_42_02_04",
+    "modelCode": "PIN-02",
+    "originalName": "PIN-02",
+    "catalogLocation": "Page 42, Row 2, Col 4",
+    "sourceCard": "42_02_04_PIN-02__source-card.jpg",
+    "reasons": [
+      "Contains \"See source card\" / unprinted / clipped details"
+    ],
+    "status": "UNPUBLISHED_MANUAL_REVIEW",
+    "variants": [
+      {
+        "size": "See source card",
+        "price": null,
+        "sku": "TRP-PIN-02-See-source-card"
+      }
+    ]
+  }
+]

@@ -4980,5 +4980,19 @@
     "isActive": true,
     "productCount": 3,
     "itemCount": 3
+  },
+  {
+    "id": "cat_trophies",
+    "name": "Trophies & Awards",
+    "slug": "trophies-awards",
+    "parentId": "cat_fashion_lifestyle",
+    "icon": "trophy",
+    "image": "https://res.cloudinary.com/hawhugfs/image/upload/v1793791645/manamm/products/trophies/prod_trp_02_01_01.jpg",
+    "imageUrl": "https://res.cloudinary.com/hawhugfs/image/upload/v1793791645/manamm/products/trophies/prod_trp_02_01_01.jpg",
+    "description": "Prestige cups, wooden mementos, metal & acrylic trophies, medals, and bespoke awards for sports and corporate ceremonies.",
+    "isActive": true,
+    "sortOrder": 5,
+    "productCount": 318,
+    "itemCount": 318
   }
 ]
