@@ -1,10 +1,109 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import { Injectable, NotFoundException, OnModuleInit } from '@nestjs/common';
+import * as fs from 'fs';
+import * as path from 'path';
 import { PrismaService } from '../prisma/prisma.service';
 import { ProductQueryDto } from './dto/product-query.dto';
 
 @Injectable()
-export class ProductsService {
+export class ProductsService implements OnModuleInit {
+  async onModuleInit() {
+    try {
+      await this.ensureTrophiesCatalog();
+    } catch (e: any) {
+      console.warn('[ProductsService] Trophy sync warning:', e.message);
+    }
+  }
   constructor(private prisma: PrismaService) {}
+
+  private async ensureTrophiesCatalog() {
+    await this.prisma.category.upsert({
+      where: { id: 'cat_trophies' },
+      update: {
+        name: 'Trophies & Awards',
+        slug: 'trophies-awards',
+        icon: 'trophy',
+        imageUrl: 'https://res.cloudinary.com/hawhugfs/image/upload/v1793793724/manamm/products/trophies/prod_trp_02_01_01_clean_v2.jpg',
+        isActive: true,
+      },
+      create: {
+        id: 'cat_trophies',
+        name: 'Trophies & Awards',
+        slug: 'trophies-awards',
+        description: 'Prestige cups, recognition awards, metal & acrylic trophies and mementos.',
+        icon: 'trophy',
+        imageUrl: 'https://res.cloudinary.com/hawhugfs/image/upload/v1793793724/manamm/products/trophies/prod_trp_02_01_01_clean_v2.jpg',
+        sortOrder: 8,
+        isActive: true,
+      },
+    });
+
+    const count = await this.prisma.product.count({
+      where: { categoryId: 'cat_trophies' },
+    });
+
+    if (count < 300) {
+      const candidates = [
+        path.resolve(__dirname, '../../data/products/trophy_active_products.json'),
+        path.resolve(process.cwd(), 'data/products/trophy_active_products.json'),
+      ];
+      const dataPath = candidates.find((p) => fs.existsSync(p));
+      if (dataPath) {
+        const trophies = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
+        console.log(`[ProductsService] Seeding ${trophies.length} trophies into MySQL...`);
+        for (const t of trophies) {
+          const variants = t.variants || [];
+          const attributes = [
+            ...(t.attributes || []),
+            { name: 'variants', value: JSON.stringify(variants) },
+          ];
+
+          await this.prisma.product.upsert({
+            where: { id: t.id },
+            update: {
+              name: t.name,
+              sku: t.sku,
+              slug: t.slug,
+              price: t.price,
+              stock: t.stock ?? 100,
+              isAvailable: true,
+              isActive: true,
+              imageUrl: t.imageUrl,
+              images: t.images || [t.imageUrl],
+              thumbnail: t.thumbnail || t.imageUrl,
+              attributes,
+              tags: t.tags || ['trophy', 'award'],
+            },
+            create: {
+              id: t.id,
+              name: t.name,
+              sku: t.sku,
+              slug: t.slug,
+              description: t.description || t.name,
+              shortDescription: t.shortDescription || t.name,
+              categoryId: 'cat_trophies',
+              brandId: t.brandId || null,
+              price: t.price,
+              compareAtPrice: t.compareAtPrice || null,
+              discountPercentage: t.discountPercentage || 0,
+              stock: t.stock ?? 100,
+              isAvailable: true,
+              isActive: true,
+              isFeatured: true,
+              imageUrl: t.imageUrl,
+              images: t.images || [t.imageUrl],
+              thumbnail: t.thumbnail || t.imageUrl,
+              unit: t.unit || '1 Piece',
+              attributes,
+              tags: t.tags || ['trophy', 'award'],
+              rating: 5.0,
+              reviewCount: 0,
+            },
+          });
+        }
+        console.log('[ProductsService] Successfully seeded trophies into MySQL.');
+      }
+    }
+  }
 
   private resolveImageUrl(url?: string | null): string {
     if (!url) return '';
